@@ -1,0 +1,89 @@
+import path from 'node:path';
+import {
+  parseJsonArray,
+  readJson,
+  sourceRecordSchema,
+  universityRecordSchema,
+} from './lib/data-schemas.mjs';
+
+const root = process.cwd();
+
+function getDataDirectory() {
+  const dataDirArg = process.argv.find((arg) => arg.startsWith('--data-dir='));
+  const dataDirIndex = process.argv.indexOf('--data-dir');
+
+  if (!dataDirArg && dataDirIndex !== -1 && process.argv[dataDirIndex + 1] === undefined) {
+    throw new Error('--data-dir requires a directory path');
+  }
+
+  const dataDirValue =
+    dataDirArg?.slice('--data-dir='.length) ??
+    (dataDirIndex === -1 ? undefined : process.argv[dataDirIndex + 1]);
+
+  if (dataDirValue === '' || dataDirValue?.startsWith('--')) {
+    throw new Error('--data-dir requires a directory path');
+  }
+
+  return path.resolve(root, dataDirValue ?? 'data');
+}
+
+function countBy(records, getKey) {
+  return Object.fromEntries(
+    [
+      ...records.reduce((counts, record) => {
+        const key = getKey(record);
+
+        counts.set(key, (counts.get(key) ?? 0) + 1);
+
+        return counts;
+      }, new Map()),
+    ].sort(([first], [second]) => first.localeCompare(second)),
+  );
+}
+
+async function loadData(dataDirectory) {
+  return {
+    sources: parseJsonArray(
+      sourceRecordSchema,
+      await readJson(path.join(dataDirectory, 'sources.json')),
+      'sources',
+    ),
+    universities: parseJsonArray(
+      universityRecordSchema,
+      await readJson(path.join(dataDirectory, 'universities.json')),
+      'universities',
+    ),
+  };
+}
+
+function summarizeUniversities(universities) {
+  return {
+    count: universities.length,
+    byInstitutionType: countBy(universities, (record) => record.institutionType),
+    byOperationalStatus: countBy(universities, (record) => record.operationalStatus),
+    bySourceStatus: countBy(universities, (record) => record.sourceStatus),
+    withArabicName: universities.filter((record) => Boolean(record.name.ar)).length,
+    withWebsite: universities.filter((record) => Boolean(record.website)).length,
+    withLocation: universities.filter((record) => Boolean(record.location)).length,
+  };
+}
+
+const dataDirectory = getDataDirectory();
+const data = await loadData(dataDirectory);
+
+console.log(
+  JSON.stringify(
+    {
+      ok: true,
+      dataDirectory: path.relative(root, dataDirectory).replaceAll('\\', '/'),
+      sources: {
+        count: data.sources.length,
+        byStatus: countBy(data.sources, (source) => source.status),
+        byLicense: countBy(data.sources, (source) => source.license),
+      },
+      universities: summarizeUniversities(data.universities),
+    },
+    null,
+    2,
+  ),
+);

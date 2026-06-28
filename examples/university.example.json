@@ -1,0 +1,34 @@
+{
+  "id": "sy-damascus-university",
+  "name": {
+    "en": "Damascus University",
+    "ar": "جامعة دمشق"
+  },
+  "aliases": [
+    {
+      "value": "University of Damascus",
+      "language": "en",
+      "type": "alias"
+    }
+  ],
+  "institutionType": "public",
+  "operationalStatus": "operating",
+  "foundedYear": 1923,
+  "website": "https://damascusuniversity.edu.sy/",
+  "location": {
+    "governorate": {
+      "en": "Damascus",
+      "ar": "دمشق"
+    },
+    "locality": {
+      "en": "Damascus",
+      "ar": "دمشق"
+    },
+    "centroid": null
+  },
+  "externalIds": {
+    "website": "https://damascusuniversity.edu.sy/"
+  },
+  "sourceIds": ["fixture-university-source"],
+  "sourceStatus": "seed"
+}

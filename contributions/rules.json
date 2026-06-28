@@ -1,0 +1,18 @@
+{
+  "repository": "data-universities",
+  "allowedDataFiles": ["data/universities.json", "data/sources.json"],
+  "allowedImportFiles": ["imports/manifests/*.json"],
+  "requiredChecks": [
+    "pnpm run validate:schemas",
+    "pnpm run validate:imports",
+    "pnpm run validate:data"
+  ],
+  "forbiddenData": [
+    "private personal data",
+    "student records",
+    "staff records",
+    "account data",
+    "private addresses",
+    "non-reusable licensed content"
+  ]
+}

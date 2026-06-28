@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fixture-university-source",
+    "title": "Fixture University Source",
+    "url": "https://example.org/opensyria-fixture-universities",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "status": "approved",
+    "fields": ["name", "institutionType", "website", "location"],
+    "notes": "Test-only source used to validate university schema and source rules."
+  }
+]

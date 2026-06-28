@@ -1,0 +1,108 @@
+# Contributing
+
+Thanks for helping improve OpenSyria university data.
+
+This repository accepts controlled data contributions. The maintainer owns the dataset scope, schemas, release pipeline, validation rules, and source acceptance policy.
+
+For contribution ideas outside the approved issue and pull request scope, contact `data@opensyria.org` before starting work.
+
+Start with the full contributor guide:
+
+```text
+contributions/README.md
+```
+
+## Table of Contents
+
+- [Accepted Contributions](#accepted-contributions)
+- [Not Accepted as Normal Pull Requests](#not-accepted-as-normal-pull-requests)
+- [Schema Proposals](#schema-proposals)
+- [Source Rules](#source-rules)
+- [Validation](#validation)
+- [Pull Request Checklist](#pull-request-checklist)
+
+## Accepted Contributions
+
+You may open pull requests for:
+
+- fixing incorrect records,
+- adding missing records within the approved universities scope,
+- adding aliases, Arabic names, English names, and transliterations,
+- improving source attribution,
+- replacing weak sources with stronger reusable sources,
+- correcting administrative relationships,
+- correcting coordinates when the schema already includes coordinate fields,
+- marking records as deprecated, renamed, merged, uncertain, or replaced when supported by sources.
+
+Record IDs must follow [docs/ID_POLICY.md](docs/ID_POLICY.md).
+
+## Not Accepted as Normal Pull Requests
+
+Do not open direct PRs for:
+
+- new dataset topics,
+- new fields,
+- schema changes,
+- ID format changes,
+- validation rule changes,
+- release pipeline changes,
+- large automated imports without prior maintainer approval,
+- proprietary or unclear-license data,
+- personal, private, sensitive, military, checkpoint, surveillance, or security-related data.
+
+These changes require a schema proposal or maintainer approval before implementation.
+
+If your idea does not fit the normal issue or pull request categories, email `data@opensyria.org` with a short summary, proposed sources, and expected dataset impact.
+
+Generated files under `dist/`, examples under `examples/`, fixtures under `fixtures/`, validation scripts, schemas, and release workflows are maintainer-owned unless the maintainer explicitly asks for changes.
+
+## Schema Proposals
+
+New fields are possible, but they must be proposed first.
+
+A proposal should explain:
+
+- what the field is,
+- who needs it,
+- whether it can be sourced legally and consistently,
+- whether it is safe to publish,
+- how it should be validated,
+- whether it is required or optional,
+- how existing records will be migrated,
+- how release artifacts and the public API should expose it.
+
+## Source Rules
+
+- Use sources that are public, reusable, and license-compatible.
+- Record source IDs in changed records.
+- Records must reference at least one approved source.
+- Do not use Google Maps, commercial map databases, proprietary directories, or scraped websites as data sources.
+- Do not treat AI output as a source.
+- Do not import OSM-derived data unless the maintainer explicitly approves the ODbL licensing approach.
+
+Source review decisions are documented in [docs/SOURCE_DECISIONS.md](docs/SOURCE_DECISIONS.md).
+
+## Validation
+
+Run:
+
+```bash
+pnpm run validate
+```
+
+To inspect current coverage counts, run:
+
+```bash
+pnpm run report:data
+```
+
+Coverage output is generated and should not be committed in normal data pull requests.
+
+## Pull Request Checklist
+
+- The change is within the approved schema.
+- Every changed record has source IDs.
+- Source licenses allow reuse.
+- IDs are stable and unique.
+- No personal or sensitive data is added.
+- Validation passes.
