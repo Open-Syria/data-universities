@@ -2,6 +2,14 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v0.1.4 - 2026-06-29
+
+### Added
+
+- Add three accepted autonomous-administration university candidate records.
+- Add a reviewed import manifest for the autonomous-administration candidate batch.
+- Fix release scripts so GitHub Actions can tolerate a forwarded `--` argument separator.
+
 ## v0.1.3 - 2026-06-29
 
 ### Added

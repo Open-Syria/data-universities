@@ -10,7 +10,7 @@ The local maintainer review artifact reported:
 - 8 held candidates present only in the Wikidata artifact,
 - 1 held candidate present in both Wikipedia and Wikidata artifacts.
 
-`v0.1.3` releases one accepted candidate record, leaving 29 held candidates for later review.
+`v0.1.3` releases one accepted candidate record. `v0.1.4` releases three autonomous-administration candidates, leaving 26 held candidates for later review.
 
 The comparison artifact is not a source. Canonical additions must cite approved public sources in `data/sources.json` and import manifests.
 
@@ -41,7 +41,7 @@ The comparison artifact is not a source. Canonical additions must cite approved 
 | `sy-higher-military-academy-of-syria` | Higher Military Academy of Syria | pending review | Arabic name, official website | Wikipedia |
 | `sy-international-suleiman-university` | International Suleiman University | pending review | official website | Wikidata |
 | `sy-kuweires-military-aviation-institute` | Kuweires Military Aviation Institute | pending review | Arabic name, official website | Wikipedia |
-| `sy-mesopotamian-social-sciences-academy` | Mesopotamian Social Sciences Academy | pending review | Arabic name, official website | Wikipedia |
+| `sy-mesopotamian-social-sciences-academy` | Mesopotamian Social Sciences Academy | released in v0.1.4 | Arabic name, official website | Wikipedia |
 | `sy-military-college-of-administrative-affairs` | Military College of Administrative Affairs | pending review | Arabic name, official website | Wikipedia |
 | `sy-military-college-of-chemical-protection` | Military College of Chemical Protection | pending review | Arabic name, official website | Wikipedia |
 | `sy-military-college-of-infantry-corps` | Military College of Infantry Corps | pending review | Arabic name, official website | Wikipedia |
@@ -53,8 +53,8 @@ The comparison artifact is not a source. Canonical additions must cite approved 
 | `sy-syrian-college-of-combat-engineering-corps` | Syrian College of Combat Engineering Corps | pending review | Arabic name, official website | Wikipedia |
 | `sy-syrian-college-of-signal-corps` | Syrian College of Signal Corps | pending review | Arabic name, official website | Wikipedia |
 | `sy-syrian-navy-college` | Syrian Navy College | pending review | Arabic name, official website | Wikipedia |
-| `sy-university-of-kobani` | University of Kobani | pending review | Arabic name, official website | Wikipedia |
-| `sy-university-of-rojava` | University of Rojava | pending review | Arabic name, official website | Wikipedia |
+| `sy-university-of-kobani` | University of Kobani | released in v0.1.4 | Arabic name, official website | Wikipedia |
+| `sy-university-of-rojava` | University of Rojava | released in v0.1.4 | Arabic name, official website | Wikipedia |
 | `sy-source-wikidata-Q114672251` |  | pending review | English name, Arabic name, official website | Wikidata |
 | `sy-source-wikidata-Q28715211` |  | pending review | English name, official website | Wikidata |
 

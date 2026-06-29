@@ -1322,6 +1322,26 @@
     "notes": "Comparison conflict reviewed for seed fields: website."
   },
   {
+    "id": "sy-mesopotamian-social-sciences-academy",
+    "name": {
+      "en": "Mesopotamian Social Sciences Academy"
+    },
+    "aliases": [],
+    "institutionType": "public",
+    "operationalStatus": "unknown",
+    "foundedYear": 2013,
+    "website": null,
+    "location": {
+      "locality": {
+        "en": "Qamishli"
+      }
+    },
+    "externalIds": {},
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Accepted from the post-seed autonomous-administration candidate batch. Official website not confirmed from approved sources."
+  },
+  {
     "id": "sy-national-institute-of-public-administration",
     "name": {
       "en": "National Institute of Public Administration",
@@ -1551,6 +1571,46 @@
     },
     "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
     "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-university-of-kobani",
+    "name": {
+      "en": "University of Kobani"
+    },
+    "aliases": [],
+    "institutionType": "public",
+    "operationalStatus": "unknown",
+    "foundedYear": 2017,
+    "website": null,
+    "location": {
+      "locality": {
+        "en": "Kobani"
+      }
+    },
+    "externalIds": {},
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Accepted from the post-seed autonomous-administration candidate batch. Official website not confirmed from approved sources."
+  },
+  {
+    "id": "sy-university-of-rojava",
+    "name": {
+      "en": "University of Rojava"
+    },
+    "aliases": [],
+    "institutionType": "public",
+    "operationalStatus": "unknown",
+    "foundedYear": 2016,
+    "website": null,
+    "location": {
+      "locality": {
+        "en": "Qamishli"
+      }
+    },
+    "externalIds": {},
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Accepted from the post-seed autonomous-administration candidate batch. Official website not confirmed from approved sources."
   },
   {
     "id": "sy-university-of-tartus",

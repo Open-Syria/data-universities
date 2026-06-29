@@ -4,10 +4,10 @@ Use `pnpm run report:data` for first-pass coverage counts.
 
 ## Current Coverage
 
-- 58 university and higher-institute records.
-- 39 private, 9 public, 9 technical/high-institute, and 1 virtual institution.
+- 61 university and higher-institute records.
+- 39 private, 12 public, 9 technical/high-institute, and 1 virtual institution.
 - 31 records include Wikidata identifiers.
-- 7 records currently have no official website.
+- 10 records currently have no official website.
 - 2 reviewed Wikimedia Commons image asset records in `data/assets.json`.
 
 Faculty/program/ranking data is not part of the first seed release. `v0.1.2` adds empty canonical files and release artifacts for these future batches.
