@@ -1,0 +1,18 @@
+{
+  "sourceId": "wikipedia-list-universities-syria",
+  "sourceTitle": "Wikipedia: List of universities and colleges in Syria",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_universities_and_colleges_in_Syria",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "accessedAt": "2026-06-29T00:00:00.000Z",
+  "status": "reviewed",
+  "rawFiles": [],
+  "importedFields": ["location"],
+  "targetFiles": ["data/universities.json"],
+  "transforms": [
+    "Normalized locality labels that duplicated the already-structured governorate field, such as 'Azaz, Aleppo Governorate' to 'Azaz'.",
+    "Corrected the locality typo 'Sarmada, Idlib Governorrate' to 'Sarmada'.",
+    "Left records with governorate/locality conflicts unchanged for a separate source review batch."
+  ],
+  "reviewNotes": "Location normalization only. No new locations were inferred; the transform removed redundant governorate wording where the structured governorate already matched the locality text."
+}

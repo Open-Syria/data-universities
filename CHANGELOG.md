@@ -2,6 +2,13 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v0.1.13 - 2026-06-29
+
+### Changed
+
+- Normalize safe locality labels by removing redundant governorate wording where the structured governorate already matches.
+- Track the remaining three locality/governorate conflicts for source review instead of applying inferred fixes.
+
 ## v0.1.12 - 2026-06-29
 
 ### Added

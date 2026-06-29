@@ -19,7 +19,7 @@ pnpm run report:production
 
 ## Current Production Snapshot
 
-As of `v0.1.12`, the canonical identity dataset contains 57 records anchored to
+As of `v0.1.13`, the canonical identity dataset contains 57 records anchored to
 the internal comparison control list and approved public source IDs.
 
 Known cleanup gaps:
@@ -30,7 +30,7 @@ Known cleanup gaps:
 - 31 records are missing source-backed centroids,
 - 55 records do not yet have approved CDN image assets,
 - 57 records do not yet have approved ranking snapshots,
-- 30 records have locality values that should be normalized or reviewed,
+- 3 records have locality/governorate conflicts that require source review,
 - 16 records retain reviewed comparison-conflict notes,
 - faculty, program, and ranking canonical files are intentionally empty pending
   approved reusable sources.

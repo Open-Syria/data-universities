@@ -16,7 +16,7 @@
         "ar": "\u062d\u0644\u0628"
       },
       "locality": {
-        "en": "Afrin, Aleppo Governorate"
+        "en": "Afrin"
       }
     },
     "externalIds": {
@@ -42,7 +42,7 @@
         "ar": "\u0637\u0631\u0637\u0648\u0633"
       },
       "locality": {
-        "en": "Tartus Governorate"
+        "en": "Tartus"
       },
       "centroid": {
         "latitude": 35.09913,
@@ -105,7 +105,7 @@
         "ar": "\u062d\u0645\u0635"
       },
       "locality": {
-        "en": "Al-Hawash, Homs Governorate"
+        "en": "Al-Hawash"
       }
     },
     "externalIds": {
@@ -132,7 +132,7 @@
         "ar": "\u0625\u062f\u0644\u0628"
       },
       "locality": {
-        "en": "Aqrabat, Idlib Governorate"
+        "en": "Aqrabat"
       }
     },
     "externalIds": {
@@ -189,7 +189,7 @@
         "ar": "\u062d\u0644\u0628"
       },
       "locality": {
-        "en": "Al-Bab, Aleppo Governorate"
+        "en": "Al-Bab"
       }
     },
     "externalIds": {
@@ -215,7 +215,7 @@
         "ar": "\u0625\u062f\u0644\u0628"
       },
       "locality": {
-        "en": "Idlib Governorate"
+        "en": "Idlib"
       }
     },
     "externalIds": {
@@ -272,7 +272,7 @@
         "ar": "\u062f\u0631\u0639\u0627"
       },
       "locality": {
-        "en": "Daraa Governorate"
+        "en": "Daraa"
       }
     },
     "externalIds": {
@@ -298,7 +298,7 @@
         "ar": "\u062d\u0644\u0628"
       },
       "locality": {
-        "en": "Jarabulus, Aleppo Governorate"
+        "en": "Jarabulus"
       }
     },
     "externalIds": {
@@ -394,7 +394,7 @@
         "ar": "\u062d\u0644\u0628"
       },
       "locality": {
-        "en": "Azaz, Aleppo Governorate"
+        "en": "Azaz"
       }
     },
     "externalIds": {
@@ -421,7 +421,7 @@
         "ar": "\u0625\u062f\u0644\u0628"
       },
       "locality": {
-        "en": "Sarmada, Idlib Governorrate"
+        "en": "Sarmada"
       },
       "centroid": {
         "latitude": 36.167954,
@@ -453,7 +453,7 @@
         "ar": "\u062d\u0645\u0627\u0629"
       },
       "locality": {
-        "en": "Ghawr al-Assi, Hama Governorate"
+        "en": "Ghawr al-Assi"
       },
       "centroid": {
         "latitude": 34.96930556,
@@ -485,7 +485,7 @@
         "ar": "\u062d\u0644\u0628"
       },
       "locality": {
-        "en": "Jarabulus, Aleppo Governorate"
+        "en": "Jarabulus"
       }
     },
     "externalIds": {
@@ -512,7 +512,7 @@
         "ar": "\u062d\u0644\u0628"
       },
       "locality": {
-        "en": "Azaz, Aleppo Governorate"
+        "en": "Azaz"
       }
     },
     "externalIds": {
@@ -538,7 +538,7 @@
         "ar": "\u0631\u064a\u0641 \u062f\u0645\u0634\u0642"
       },
       "locality": {
-        "en": "Maarat Saidnaya, Rif Dimashq Governorate"
+        "en": "Maarat Saidnaya"
       },
       "centroid": {
         "latitude": 33.658639523,
@@ -620,7 +620,7 @@
         "ar": "\u062f\u0631\u0639\u0627"
       },
       "locality": {
-        "en": "Daraa Governorate"
+        "en": "Daraa"
       },
       "centroid": {
         "latitude": 33.176,
@@ -652,7 +652,7 @@
         "ar": "\u062d\u0645\u0627\u0629"
       },
       "locality": {
-        "en": "Besirin, Hama Governorate"
+        "en": "Besirin"
       }
     },
     "externalIds": {
@@ -679,7 +679,7 @@
         "ar": "\u062d\u0644\u0628"
       },
       "locality": {
-        "en": "Azaz, Aleppo Governorate"
+        "en": "Azaz"
       }
     },
     "externalIds": {
@@ -705,7 +705,7 @@
         "ar": "\u062d\u0644\u0628"
       },
       "locality": {
-        "en": "Al-Bab, Aleppo Governorate"
+        "en": "Al-Bab"
       }
     },
     "externalIds": {
@@ -829,7 +829,7 @@
         "ar": "\u0625\u062f\u0644\u0628"
       },
       "locality": {
-        "en": "Idlib Governorate"
+        "en": "Idlib"
       }
     },
     "externalIds": {
@@ -1198,7 +1198,7 @@
         "ar": "\u062d\u0644\u0628"
       },
       "locality": {
-        "en": "Azaz, Aleppo Governorate"
+        "en": "Azaz"
       }
     },
     "externalIds": {
@@ -1224,7 +1224,7 @@
         "ar": "\u062f\u0631\u0639\u0627"
       },
       "locality": {
-        "en": "Daraa Governorate"
+        "en": "Daraa"
       },
       "centroid": {
         "latitude": 33.17513,
@@ -1312,7 +1312,7 @@
         "ar": "\u0625\u062f\u0644\u0628"
       },
       "locality": {
-        "en": "Hizano, Idlib Governorate"
+        "en": "Hizano"
       }
     },
     "externalIds": {
@@ -1366,7 +1366,7 @@
         "ar": "\u062f\u0631\u0639\u0627"
       },
       "locality": {
-        "en": "Daraa Governorate"
+        "en": "Daraa"
       },
       "centroid": {
         "latitude": 33.07430404,
@@ -1429,7 +1429,7 @@
         "ar": "\u0625\u062f\u0644\u0628"
       },
       "locality": {
-        "en": "Azaz, Aleppo Governorate"
+        "en": "Azaz"
       }
     },
     "externalIds": {
@@ -1483,7 +1483,7 @@
         "ar": "\u0625\u062f\u0644\u0628"
       },
       "locality": {
-        "en": "Idlib Governorate"
+        "en": "Idlib"
       }
     },
     "externalIds": {
@@ -1540,7 +1540,7 @@
         "ar": "\u0631\u064a\u0641 \u062f\u0645\u0634\u0642"
       },
       "locality": {
-        "en": "Deir Atiyah, Rif Dimashq Governorate"
+        "en": "Deir Atiyah"
       },
       "centroid": {
         "latitude": 34.06916,
@@ -1602,7 +1602,7 @@
         "ar": "\u062d\u0645\u0635"
       },
       "locality": {
-        "en": "Wadi al-Nasara, Homs Governorate"
+        "en": "Wadi al-Nasara"
       },
       "centroid": {
         "latitude": 34.711468451,
@@ -1633,7 +1633,7 @@
         "ar": "\u062f\u0631\u0639\u0627"
       },
       "locality": {
-        "en": "Jabab, Daraa Governorate"
+        "en": "Jabab"
       },
       "centroid": {
         "latitude": 33.08845,

@@ -11,8 +11,20 @@ Use `pnpm run report:data` and `pnpm run report:production` for current counts.
 - 6 records have no official website.
 - 24 records have no Wikidata identifier.
 - 31 records have no source-backed centroid.
-- 30 records have locality values that should be normalized or reviewed.
+- 3 records have locality/governorate conflicts that need source review.
 - 16 records have reviewed comparison-conflict notes.
+
+## Remaining Location Review
+
+The safe locality normalization pass removed redundant governorate wording from
+matching locality values. These records remain intentionally unchanged because
+the structured governorate and locality values point to different governorates:
+
+| ID | Name | Current governorate | Current locality |
+| --- | --- | --- | --- |
+| `sy-al-jazeera-private-university` | Al-Jazeera Private University | Daraa | Deir ez-Zor Governorate |
+| `sy-al-sham-private-university` | Al-Sham Private University | Damascus | Rif Dimashq Governorate |
+| `sy-arab-academy-for-e-businesses` | Arab Academy for E-Businesses | Damascus | Aleppo Governorate |
 
 ## Missing Official Websites
 
