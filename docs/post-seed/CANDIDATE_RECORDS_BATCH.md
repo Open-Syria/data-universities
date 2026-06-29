@@ -10,10 +10,9 @@ The local maintainer review artifact reported:
 - 8 held candidates present only in the Wikidata artifact,
 - 1 held candidate present in both Wikipedia and Wikidata artifacts.
 
-`v0.1.3` releases one accepted candidate record. `v0.1.4` releases three autonomous-administration candidates. `v0.1.6` releases 16 military and police candidates. `v0.1.7` releases one foreign-branch candidate. `v0.1.8` releases five Wikidata-only candidates. `v0.1.9` merges two duplicate/enrichment candidates into existing records, leaving 2 held candidates for later review.
+`v0.1.3` releases one accepted candidate record. `v0.1.4` releases three autonomous-administration candidates. `v0.1.6` releases 16 military and police candidates. `v0.1.7` releases one foreign-branch candidate. `v0.1.8` releases five Wikidata-only candidates. `v0.1.9` merges two duplicate/enrichment candidates into existing records. `v0.1.10` releases the Homs Military Academy candidate and merges the final Wikidata duplicate candidate.
 
-`sy-homs-military-academy` remains held because the local Wikipedia and Wikidata artifacts disagree on the founded year.
-`sy-source-wikidata-Q114672251` remains held because the Wikidata candidate lacks source-backed English and Arabic names.
+No held candidates remain from the original post-seed candidate batch.
 
 The comparison artifact is not a source. Canonical additions must cite approved public sources in `data/sources.json` and import manifests.
 
@@ -31,7 +30,7 @@ The comparison artifact is not a source. Canonical additions must cite approved 
 | Candidate | Name | Status | Missing | Public Signals |
 | --- | --- | --- | --- | --- |
 | `sy-al-shahbaa-aleppo-university` | Al-Shahbaa Aleppo University | released in v0.1.3 | Arabic name, official website | Wikipedia |
-| `sy-homs-military-academy` | Homs Military Academy | needs review | official website | Wikipedia, Wikidata |
+| `sy-homs-military-academy` | Homs Military Academy | released in v0.1.10 | official website | Wikipedia, Wikidata |
 | `sy-al-assad-military-academy` | Al-Assad Military Academy | released in v0.1.6 | Arabic name, official website | Wikipedia |
 | `sy-al-shahbaa-university` | Al-Shahbaa University | merged into `sy-al-shahba-university` in v0.1.9 |  | Wikidata |
 | `sy-aleppo-armament-college` | Aleppo Armament College | released in v0.1.6 | Arabic name, official website | Wikipedia |
@@ -58,7 +57,7 @@ The comparison artifact is not a source. Canonical additions must cite approved 
 | `sy-syrian-navy-college` | Syrian Navy College | released in v0.1.6 | Arabic name, official website | Wikipedia |
 | `sy-university-of-kobani` | University of Kobani | released in v0.1.4 | Arabic name, official website | Wikipedia |
 | `sy-university-of-rojava` | University of Rojava | released in v0.1.4 | Arabic name, official website | Wikipedia |
-| `sy-source-wikidata-Q114672251` |  | needs name review | English name, Arabic name, official website | Wikidata |
+| `sy-source-wikidata-Q114672251` |  | merged into `sy-university-of-kobani` in v0.1.10 | English name, Arabic name, official website | Wikidata |
 | `sy-source-wikidata-Q28715211` |  | merged into `sy-bilad-al-sham-university-for-sharia-sciences` in v0.1.9 | English name, official website | Wikidata |
 
 ## Acceptance Criteria

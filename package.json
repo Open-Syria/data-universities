@@ -1,6 +1,6 @@
 {
   "name": "@opensyria/data-universities",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "Canonical OpenSyria university datasets.",
   "author": "OpenSyria",
   "private": true,

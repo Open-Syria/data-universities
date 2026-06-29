@@ -2,6 +2,17 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v0.1.10 - 2026-06-29
+
+### Added
+
+- Add the accepted Homs Military Academy candidate record with reviewed conflict notes.
+- Add a dedicated Wikipedia source entry and import manifest for Homs Military Academy.
+
+### Changed
+
+- Merge the held Wikidata University of Kobani duplicate candidate into the existing canonical record.
+
 ## v0.1.9 - 2026-06-29
 
 ### Changed

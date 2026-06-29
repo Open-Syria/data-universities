@@ -1,0 +1,37 @@
+{
+  "sourceId": "wikipedia-homs-military-academy",
+  "sourceTitle": "Wikipedia: Homs Military Academy",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Homs_Military_Academy",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "accessedAt": "2026-06-29T00:00:00.000Z",
+  "status": "reviewed",
+  "rawFiles": [
+    {
+      "name": "https://en.wikipedia.org/wiki/Homs_Military_Academy",
+      "notes": "Dedicated Wikipedia article used to confirm the accepted candidate identity and founded year."
+    },
+    {
+      "name": "https://www.wikidata.org/wiki/Q5891872",
+      "notes": "Wikidata item used for Arabic name, external identifier, and source-backed coordinates."
+    },
+    {
+      "name": "outputs/universities/wikipedia-list-candidates.json",
+      "sha256": "27d1ced935b72b048d4d1bc54105184fedd217a23414509d7108343afc710823",
+      "notes": "Local Wikipedia list candidate artifact retained in data-automation."
+    },
+    {
+      "name": "outputs/universities/wikidata-candidates.json",
+      "sha256": "ac646013f90fe0362ce2c8aa051bd0f1465c8a6b044035126881b1dfa7f25481",
+      "notes": "Local Wikidata candidate artifact retained in data-automation."
+    }
+  ],
+  "importedFields": ["name", "aliases", "foundedYear", "location", "externalIds", "sourceIds"],
+  "targetFiles": ["data/universities.json", "data/sources.json"],
+  "transforms": [
+    "Added sy-homs-military-academy as the last accepted held military candidate.",
+    "Resolved foundedYear to 1933 from the dedicated Wikipedia/Wikidata item while retaining a note about the list-source 1919 conflict.",
+    "Kept website null because no official website was confirmed from approved sources."
+  ],
+  "reviewNotes": "Final held Wikipedia/Wikidata candidate resolution for Homs Military Academy."
+}
