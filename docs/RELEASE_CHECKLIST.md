@@ -12,10 +12,10 @@ Before publishing:
 For a formal release:
 
 ```bash
-pnpm run release:prepare -- --version v0.1.5
-pnpm run release:publish:github -- --tag v0.1.5 --dry-run
-git tag v0.1.5
-git push origin v0.1.5
+pnpm run release:prepare -- --version v0.1.6
+pnpm run release:publish:github -- --tag v0.1.6 --dry-run
+git tag v0.1.6
+git push origin v0.1.6
 ```
 
 Pushing the version tag runs `.github/workflows/release.yml`, rebuilds and verifies `dist/release`, then publishes the release manifest and artifacts to the GitHub Release.

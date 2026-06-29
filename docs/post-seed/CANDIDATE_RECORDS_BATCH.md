@@ -10,7 +10,9 @@ The local maintainer review artifact reported:
 - 8 held candidates present only in the Wikidata artifact,
 - 1 held candidate present in both Wikipedia and Wikidata artifacts.
 
-`v0.1.3` releases one accepted candidate record. `v0.1.4` releases three autonomous-administration candidates, leaving 26 held candidates for later review.
+`v0.1.3` releases one accepted candidate record. `v0.1.4` releases three autonomous-administration candidates. `v0.1.6` releases 16 military and police candidates, leaving 10 held candidates for later review.
+
+`sy-homs-military-academy` remains held because the local Wikipedia and Wikidata artifacts disagree on the founded year.
 
 The comparison artifact is not a source. Canonical additions must cite approved public sources in `data/sources.json` and import manifests.
 
@@ -29,30 +31,30 @@ The comparison artifact is not a source. Canonical additions must cite approved 
 | --- | --- | --- | --- | --- |
 | `sy-al-shahbaa-aleppo-university` | Al-Shahbaa Aleppo University | released in v0.1.3 | Arabic name, official website | Wikipedia |
 | `sy-homs-military-academy` | Homs Military Academy | needs review | official website | Wikipedia, Wikidata |
-| `sy-al-assad-military-academy` | Al-Assad Military Academy | pending review | Arabic name, official website | Wikipedia |
+| `sy-al-assad-military-academy` | Al-Assad Military Academy | released in v0.1.6 | Arabic name, official website | Wikipedia |
 | `sy-al-shahbaa-university` | Al-Shahbaa University | pending review |  | Wikidata |
-| `sy-aleppo-armament-college` | Aleppo Armament College | pending review | Arabic name, official website | Wikipedia |
-| `sy-aleppo-artillery-college` | Aleppo Artillery College | pending review | Arabic name, official website | Wikipedia |
-| `sy-bassel-al-assad-college-of-armored-corps` | Bassel al-Assad College of Armored Corps | pending review | Arabic name, official website | Wikipedia |
-| `sy-bassel-al-assad-college-of-police-sciences` | Bassel al-Assad College of Police Sciences | pending review | Arabic name, official website | Wikipedia |
-| `sy-electronic-warfare-college` | Electronic Warfare College | pending review | Arabic name, official website | Wikipedia |
+| `sy-aleppo-armament-college` | Aleppo Armament College | released in v0.1.6 | Arabic name, official website | Wikipedia |
+| `sy-aleppo-artillery-college` | Aleppo Artillery College | released in v0.1.6 | Arabic name, official website | Wikipedia |
+| `sy-bassel-al-assad-college-of-armored-corps` | Bassel al-Assad College of Armored Corps | released in v0.1.6 | Arabic name, official website | Wikipedia |
+| `sy-bassel-al-assad-college-of-police-sciences` | Bassel al-Assad College of Police Sciences | released in v0.1.6 | Arabic name, official website | Wikipedia |
+| `sy-electronic-warfare-college` | Electronic Warfare College | released in v0.1.6 | Arabic name, official website | Wikipedia |
 | `sy-free-aleppo-university` | Free Aleppo University | pending review | official website | Wikidata |
 | `sy-free-syrian-university` | Free Syrian University | pending review |  | Wikidata |
-| `sy-higher-military-academy-of-syria` | Higher Military Academy of Syria | pending review | Arabic name, official website | Wikipedia |
+| `sy-higher-military-academy-of-syria` | Higher Military Academy of Syria | released in v0.1.6 | Arabic name, official website | Wikipedia |
 | `sy-international-suleiman-university` | International Suleiman University | pending review | official website | Wikidata |
-| `sy-kuweires-military-aviation-institute` | Kuweires Military Aviation Institute | pending review | Arabic name, official website | Wikipedia |
+| `sy-kuweires-military-aviation-institute` | Kuweires Military Aviation Institute | released in v0.1.6 | Arabic name, official website | Wikipedia |
 | `sy-mesopotamian-social-sciences-academy` | Mesopotamian Social Sciences Academy | released in v0.1.4 | Arabic name, official website | Wikipedia |
-| `sy-military-college-of-administrative-affairs` | Military College of Administrative Affairs | pending review | Arabic name, official website | Wikipedia |
-| `sy-military-college-of-chemical-protection` | Military College of Chemical Protection | pending review | Arabic name, official website | Wikipedia |
-| `sy-military-college-of-infantry-corps` | Military College of Infantry Corps | pending review | Arabic name, official website | Wikipedia |
-| `sy-military-college-of-technical-affairs` | Military College of Technical Affairs | pending review | Arabic name, official website | Wikipedia |
+| `sy-military-college-of-administrative-affairs` | Military College of Administrative Affairs | released in v0.1.6 | Arabic name, official website | Wikipedia |
+| `sy-military-college-of-chemical-protection` | Military College of Chemical Protection | released in v0.1.6 | Arabic name, official website | Wikipedia |
+| `sy-military-college-of-infantry-corps` | Military College of Infantry Corps | released in v0.1.6 | Arabic name, official website | Wikipedia |
+| `sy-military-college-of-technical-affairs` | Military College of Technical Affairs | released in v0.1.6 | Arabic name, official website | Wikipedia |
 | `sy-omdurman-islamic-university-damascus-branch` | Omdurman Islamic University, Damascus Branch | pending review | Arabic name, official website | Wikipedia |
 | `sy-private-university-of-science-and-arts` | Private University of Science and Arts | pending review |  | Wikidata |
 | `sy-raqqa-university` | Raqqa University | pending review | Arabic name, official website | Wikidata |
-| `sy-syrian-air-defense-college` | Syrian Air Defense College | pending review | Arabic name, official website | Wikipedia |
-| `sy-syrian-college-of-combat-engineering-corps` | Syrian College of Combat Engineering Corps | pending review | Arabic name, official website | Wikipedia |
-| `sy-syrian-college-of-signal-corps` | Syrian College of Signal Corps | pending review | Arabic name, official website | Wikipedia |
-| `sy-syrian-navy-college` | Syrian Navy College | pending review | Arabic name, official website | Wikipedia |
+| `sy-syrian-air-defense-college` | Syrian Air Defense College | released in v0.1.6 | Arabic name, official website | Wikipedia |
+| `sy-syrian-college-of-combat-engineering-corps` | Syrian College of Combat Engineering Corps | released in v0.1.6 | Arabic name, official website | Wikipedia |
+| `sy-syrian-college-of-signal-corps` | Syrian College of Signal Corps | released in v0.1.6 | Arabic name, official website | Wikipedia |
+| `sy-syrian-navy-college` | Syrian Navy College | released in v0.1.6 | Arabic name, official website | Wikipedia |
 | `sy-university-of-kobani` | University of Kobani | released in v0.1.4 | Arabic name, official website | Wikipedia |
 | `sy-university-of-rojava` | University of Rojava | released in v0.1.4 | Arabic name, official website | Wikipedia |
 | `sy-source-wikidata-Q114672251` |  | pending review | English name, Arabic name, official website | Wikidata |

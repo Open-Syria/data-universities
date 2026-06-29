@@ -1705,5 +1705,325 @@
     "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
     "sourceStatus": "seed",
     "notes": "Comparison conflict reviewed for seed fields: foundedYear."
+  },
+  {
+    "id": "sy-al-assad-military-academy",
+    "name": {
+      "en": "Al-Assad Military Academy"
+    },
+    "aliases": [],
+    "institutionType": "other",
+    "operationalStatus": "unknown",
+    "foundedYear": 1979,
+    "website": null,
+    "location": {
+      "locality": {
+        "en": "Aleppo"
+      }
+    },
+    "externalIds": {},
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
+  },
+  {
+    "id": "sy-aleppo-armament-college",
+    "name": {
+      "en": "Aleppo Armament College"
+    },
+    "aliases": [],
+    "institutionType": "other",
+    "operationalStatus": "unknown",
+    "foundedYear": null,
+    "website": null,
+    "location": {
+      "locality": {
+        "en": "Aleppo"
+      }
+    },
+    "externalIds": {},
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
+  },
+  {
+    "id": "sy-aleppo-artillery-college",
+    "name": {
+      "en": "Aleppo Artillery College"
+    },
+    "aliases": [],
+    "institutionType": "other",
+    "operationalStatus": "unknown",
+    "foundedYear": 1954,
+    "website": null,
+    "location": {
+      "locality": {
+        "en": "Aleppo (since 1970)"
+      }
+    },
+    "externalIds": {},
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
+  },
+  {
+    "id": "sy-bassel-al-assad-college-of-armored-corps",
+    "name": {
+      "en": "Bassel al-Assad College of Armored Corps"
+    },
+    "aliases": [],
+    "institutionType": "other",
+    "operationalStatus": "unknown",
+    "foundedYear": 1952,
+    "website": null,
+    "location": {
+      "locality": {
+        "en": "Homs (since 1972)"
+      }
+    },
+    "externalIds": {},
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
+  },
+  {
+    "id": "sy-bassel-al-assad-college-of-police-sciences",
+    "name": {
+      "en": "Bassel al-Assad College of Police Sciences"
+    },
+    "aliases": [],
+    "institutionType": "other",
+    "operationalStatus": "unknown",
+    "foundedYear": 1961,
+    "website": null,
+    "location": {
+      "locality": {
+        "en": "Damascus"
+      }
+    },
+    "externalIds": {},
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
+  },
+  {
+    "id": "sy-electronic-warfare-college",
+    "name": {
+      "en": "Electronic Warfare College"
+    },
+    "aliases": [],
+    "institutionType": "other",
+    "operationalStatus": "unknown",
+    "foundedYear": 1972,
+    "website": null,
+    "location": {
+      "locality": {
+        "en": "Damascus"
+      }
+    },
+    "externalIds": {},
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
+  },
+  {
+    "id": "sy-higher-military-academy-of-syria",
+    "name": {
+      "en": "Higher Military Academy of Syria"
+    },
+    "aliases": [],
+    "institutionType": "other",
+    "operationalStatus": "unknown",
+    "foundedYear": 1957,
+    "website": null,
+    "location": {
+      "locality": {
+        "en": "Qatana, Rif Dimashq Governorate"
+      }
+    },
+    "externalIds": {},
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
+  },
+  {
+    "id": "sy-kuweires-military-aviation-institute",
+    "name": {
+      "en": "Kuweires Military Aviation Institute"
+    },
+    "aliases": [],
+    "institutionType": "other",
+    "operationalStatus": "unknown",
+    "foundedYear": 1947,
+    "website": null,
+    "location": {
+      "locality": {
+        "en": "Kuweires Sharqi, Aleppo Governorate (since 1980)"
+      }
+    },
+    "externalIds": {},
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
+  },
+  {
+    "id": "sy-military-college-of-administrative-affairs",
+    "name": {
+      "en": "Military College of Administrative Affairs"
+    },
+    "aliases": [],
+    "institutionType": "other",
+    "operationalStatus": "unknown",
+    "foundedYear": 1974,
+    "website": null,
+    "location": {
+      "locality": {
+        "en": "Masyaf, Hama Governorate (since 2012)"
+      }
+    },
+    "externalIds": {},
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
+  },
+  {
+    "id": "sy-military-college-of-chemical-protection",
+    "name": {
+      "en": "Military College of Chemical Protection"
+    },
+    "aliases": [],
+    "institutionType": "other",
+    "operationalStatus": "unknown",
+    "foundedYear": 1971,
+    "website": null,
+    "location": {
+      "locality": {
+        "en": "Al-Mushrifah, Homs Governorate (since 1978)"
+      }
+    },
+    "externalIds": {},
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
+  },
+  {
+    "id": "sy-military-college-of-infantry-corps",
+    "name": {
+      "en": "Military College of Infantry Corps"
+    },
+    "aliases": [],
+    "institutionType": "other",
+    "operationalStatus": "unknown",
+    "foundedYear": null,
+    "website": null,
+    "location": {
+      "locality": {
+        "en": "Fafin, Aleppo Governorate"
+      }
+    },
+    "externalIds": {},
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
+  },
+  {
+    "id": "sy-military-college-of-technical-affairs",
+    "name": {
+      "en": "Military College of Technical Affairs"
+    },
+    "aliases": [],
+    "institutionType": "other",
+    "operationalStatus": "unknown",
+    "foundedYear": 1952,
+    "website": null,
+    "location": {
+      "locality": {
+        "en": "Homs"
+      }
+    },
+    "externalIds": {},
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
+  },
+  {
+    "id": "sy-syrian-air-defense-college",
+    "name": {
+      "en": "Syrian Air Defense College"
+    },
+    "aliases": [],
+    "institutionType": "other",
+    "operationalStatus": "unknown",
+    "foundedYear": 1958,
+    "website": null,
+    "location": {
+      "locality": {
+        "en": "Homs (since 1974)"
+      }
+    },
+    "externalIds": {},
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
+  },
+  {
+    "id": "sy-syrian-college-of-combat-engineering-corps",
+    "name": {
+      "en": "Syrian College of Combat Engineering Corps"
+    },
+    "aliases": [],
+    "institutionType": "other",
+    "operationalStatus": "unknown",
+    "foundedYear": 1954,
+    "website": null,
+    "location": {
+      "locality": {
+        "en": "Al-Mushrifah, Homs Governorate (since 1978)"
+      }
+    },
+    "externalIds": {},
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
+  },
+  {
+    "id": "sy-syrian-college-of-signal-corps",
+    "name": {
+      "en": "Syrian College of Signal Corps"
+    },
+    "aliases": [],
+    "institutionType": "other",
+    "operationalStatus": "unknown",
+    "foundedYear": 1946,
+    "website": null,
+    "location": {
+      "locality": {
+        "en": "Homs (since 1972)"
+      }
+    },
+    "externalIds": {},
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
+  },
+  {
+    "id": "sy-syrian-navy-college",
+    "name": {
+      "en": "Syrian Navy College"
+    },
+    "aliases": [],
+    "institutionType": "other",
+    "operationalStatus": "unknown",
+    "foundedYear": 1975,
+    "website": null,
+    "location": {
+      "locality": {
+        "en": "Latakia"
+      }
+    },
+    "externalIds": {},
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
   }
 ]

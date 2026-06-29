@@ -2,6 +2,14 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v0.1.6 - 2026-06-29
+
+### Added
+
+- Add 16 accepted military and police post-seed candidate records from the approved Wikipedia list source.
+- Add a reviewed import manifest for the military and police candidate batch.
+- Keep `sy-homs-military-academy` held for later review because the local artifacts show a cross-source founded-year conflict.
+
 ## v0.1.5 - 2026-06-29
 
 ### Fixed

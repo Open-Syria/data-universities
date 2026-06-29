@@ -12,7 +12,7 @@ The next enrichment work should be handled in separate reviewed batches.
 
 ## Candidate Records Held For Review
 
-30 public-source candidates were held out of `v0.1.0` because they were not present in the comparison control list. `v0.1.3` releases the first accepted candidate and `v0.1.4` releases three autonomous-administration candidates, leaving 26 candidates for later review.
+30 public-source candidates were held out of `v0.1.0` because they were not present in the comparison control list. `v0.1.3` releases the first accepted candidate, `v0.1.4` releases three autonomous-administration candidates, and `v0.1.6` releases 16 military and police candidates, leaving 10 candidates for later review.
 
 Review these as separate batches:
 
