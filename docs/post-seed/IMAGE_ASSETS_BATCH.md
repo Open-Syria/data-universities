@@ -16,7 +16,7 @@ The current local maintainer artifacts show:
 
 The 126 comparison-snapshot image candidates are not approved for upload. They are review hints only.
 
-The two reviewed Wikimedia Commons candidates are also not approved for upload yet. They need an attribution-aware canonical image schema or attribution sidecar before public CDN publication.
+The two reviewed Wikimedia Commons candidates are approved as the first small image batch through `data/assets.json`, which keeps attribution metadata next to the CDN variants.
 
 ## Rules
 
@@ -37,14 +37,10 @@ The two reviewed Wikimedia Commons candidates are also not approved for upload y
 6. Run `upload-image-assets --dry-run`.
 7. Inspect object keys and public URLs.
 8. Upload to R2 only after review.
-9. Add CDN URLs to canonical data only after deciding the public image schema.
+9. Add CDN URLs to canonical `data/assets.json` records with attribution.
 
-## Future Schema Decision
+## Schema Decision
 
-Before committing image URLs, define whether images live:
+Image assets live in `data/assets.json`, not directly on `data/universities.json` records.
 
-- directly on `universities.json` records,
-- in a separate `data/assets.json`,
-- or in a future media dataset shared by multiple OpenSyria repositories.
-
-The first public image batch should be small and source-clear.
+The first public image batch is intentionally small and source-clear. Future batches should follow the same attribution sidecar pattern.

@@ -1,5 +1,6 @@
 import path from 'node:path';
 import {
+  assetRecordSchema,
   parseJsonArray,
   readJson,
   sourceRecordSchema,
@@ -48,6 +49,11 @@ async function loadData(dataDirectory) {
       await readJson(path.join(dataDirectory, 'sources.json')),
       'sources',
     ),
+    assets: parseJsonArray(
+      assetRecordSchema,
+      await readJson(path.join(dataDirectory, 'assets.json')),
+      'assets',
+    ),
     universities: parseJsonArray(
       universityRecordSchema,
       await readJson(path.join(dataDirectory, 'universities.json')),
@@ -68,6 +74,17 @@ function summarizeUniversities(universities) {
   };
 }
 
+function summarizeAssets(assets) {
+  return {
+    count: assets.length,
+    byAssetType: countBy(assets, (record) => record.assetType),
+    byAssetRole: countBy(assets, (record) => record.assetRole),
+    bySourceStatus: countBy(assets, (record) => record.sourceStatus),
+    variants: assets.reduce((count, asset) => count + asset.variants.length, 0),
+    attributionRequired: assets.filter((asset) => asset.attribution.attributionRequired).length,
+  };
+}
+
 const dataDirectory = getDataDirectory();
 const data = await loadData(dataDirectory);
 
@@ -81,6 +98,7 @@ console.log(
         byStatus: countBy(data.sources, (source) => source.status),
         byLicense: countBy(data.sources, (source) => source.license),
       },
+      assets: summarizeAssets(data.assets),
       universities: summarizeUniversities(data.universities),
     },
     null,

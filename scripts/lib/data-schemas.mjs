@@ -6,6 +6,7 @@ const idSchema = z.string().regex(/^sy-[a-z0-9]+(?:-[a-z0-9]+)*$/);
 export const sourceStatusSchema = z.enum(['pending_release', 'seed', 'released', 'deprecated']);
 export const datasetReleaseStatusSchema = z.enum(['planned', 'seed', 'released', 'deprecated']);
 export const datasetArtifactFormatSchema = z.enum(['json', 'ndjson', 'csv', 'sql', 'yaml', 'xml']);
+export const assetImageFormatSchema = z.enum(['webp', 'avif']);
 
 export const sourceRegistryStatusSchema = z.enum([
   'approved',
@@ -143,7 +144,9 @@ export const sourceImportManifestSchema = z
         .strict(),
     ),
     importedFields: z.array(z.string().trim().min(1)).min(1),
-    targetFiles: z.array(z.enum(['data/universities.json', 'data/sources.json'])).min(1),
+    targetFiles: z
+      .array(z.enum(['data/assets.json', 'data/universities.json', 'data/sources.json']))
+      .min(1),
     transforms: z.array(z.string().trim().min(1)).min(1),
     reviewNotes: z.string().trim().min(1),
   })
@@ -160,6 +163,47 @@ export const universityRecordSchema = z
     website: z.string().url().nullable(),
     location: universityLocationSchema.nullable(),
     externalIds: externalIdsSchema,
+    sourceIds: z.array(z.string().trim().min(1)).min(1),
+    sourceStatus: sourceStatusSchema,
+    notes: z.string().trim().min(1).optional(),
+  })
+  .strict();
+
+export const assetVariantSchema = z
+  .object({
+    url: z.string().url(),
+    key: z.string().trim().min(1),
+    format: assetImageFormatSchema,
+    contentType: z.enum(['image/webp', 'image/avif']),
+    width: z.number().int().positive(),
+    height: z.number().int().positive(),
+    sha256: z.string().regex(/^[a-f0-9]{64}$/),
+    sizeBytes: z.number().int().nonnegative(),
+  })
+  .strict();
+
+export const assetAttributionSchema = z
+  .object({
+    sourceProvider: z.string().trim().min(1),
+    sourceTitle: z.string().trim().min(1),
+    sourceUrl: z.string().url(),
+    creator: z.string().trim().min(1),
+    credit: z.string().trim().min(1).optional(),
+    license: z.string().trim().min(1),
+    licenseUrl: z.string().url(),
+    attributionRequired: z.boolean(),
+  })
+  .strict();
+
+export const assetRecordSchema = z
+  .object({
+    id: idSchema,
+    universityId: idSchema,
+    assetType: z.literal('image'),
+    assetRole: z.enum(['campus', 'logo', 'building', 'other']),
+    title: localizedTextSchema,
+    variants: z.array(assetVariantSchema).min(1),
+    attribution: assetAttributionSchema,
     sourceIds: z.array(z.string().trim().min(1)).min(1),
     sourceStatus: sourceStatusSchema,
     notes: z.string().trim().min(1).optional(),
@@ -209,6 +253,51 @@ export function ensureKnownSources(records, sources, label) {
 
       seenSourceIds.add(sourceId);
       ensureApprovedSource(sourceById, sourceId, `${label} ${record.id}`);
+    }
+  }
+}
+
+export function ensureKnownUniversities(records, universities, label) {
+  const universityIds = new Set(universities.map((university) => university.id));
+
+  for (const record of records) {
+    if (!universityIds.has(record.universityId)) {
+      throw new Error(
+        `${label} ${record.id} references unknown university: ${record.universityId}`,
+      );
+    }
+  }
+}
+
+export function ensureAssetQuality(records, label) {
+  for (const record of records) {
+    const variantKeys = new Set();
+    const variantDimensions = new Set();
+
+    for (const variant of record.variants) {
+      if (variantKeys.has(variant.key)) {
+        throw new Error(`${label} ${record.id} contains duplicate variant key: ${variant.key}`);
+      }
+
+      variantKeys.add(variant.key);
+
+      const dimensionsKey = `${variant.format}:${variant.width}`;
+
+      if (variantDimensions.has(dimensionsKey)) {
+        throw new Error(
+          `${label} ${record.id} contains duplicate ${variant.format} width: ${variant.width}`,
+        );
+      }
+
+      variantDimensions.add(dimensionsKey);
+
+      if (!variant.url.startsWith('https://cdn.opensyria.org/')) {
+        throw new Error(`${label} ${record.id} variant URL is outside OpenSyria CDN`);
+      }
+    }
+
+    if (record.attribution.attributionRequired && !record.attribution.licenseUrl) {
+      throw new Error(`${label} ${record.id} requires attribution without a license URL`);
     }
   }
 }

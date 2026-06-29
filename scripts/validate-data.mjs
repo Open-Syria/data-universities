@@ -1,7 +1,10 @@
 import path from 'node:path';
 import {
+  assetRecordSchema,
   ensureAliasQuality,
+  ensureAssetQuality,
   ensureKnownSources,
+  ensureKnownUniversities,
   ensureUnique,
   parseJsonArray,
   readJson,
@@ -41,17 +44,27 @@ async function loadData(dataDirectory) {
     await readJson(path.join(dataDirectory, 'universities.json')),
     'universities',
   );
+  const assets = parseJsonArray(
+    assetRecordSchema,
+    await readJson(path.join(dataDirectory, 'assets.json')),
+    'assets',
+  );
 
   return {
+    assets,
     sources,
     universities,
   };
 }
 
 function validateData(data) {
+  ensureUnique(data.assets, (record) => record.id, 'assets');
   ensureUnique(data.sources, (source) => source.id, 'sources');
   ensureUnique(data.universities, (record) => record.id, 'universities');
+  ensureKnownSources(data.assets, data.sources, 'asset');
   ensureKnownSources(data.universities, data.sources, 'university');
+  ensureKnownUniversities(data.assets, data.universities, 'asset');
+  ensureAssetQuality(data.assets, 'asset');
   ensureAliasQuality(data.universities, 'university');
 }
 
@@ -66,6 +79,7 @@ console.log(
       ok: true,
       dataDirectory: path.relative(root, dataDirectory).replaceAll('\\', '/'),
       counts: {
+        assets: data.assets.length,
         sources: data.sources.length,
         universities: data.universities.length,
       },

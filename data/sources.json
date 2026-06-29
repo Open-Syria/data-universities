@@ -18,5 +18,15 @@
     "status": "approved",
     "fields": ["names", "institution type", "location", "founded year", "official website"],
     "notes": "Used as an open control list for the initial university seed import."
+  },
+  {
+    "id": "wikimedia-commons",
+    "title": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "status": "approved",
+    "fields": ["images", "license metadata", "attribution", "source URLs"],
+    "notes": "Used for reviewed public image assets where file-level attribution and license metadata are retained."
   }
 ]

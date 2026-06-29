@@ -1,0 +1,170 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://opensyria.org/schemas/data-universities/assets.schema.json",
+  "title": "OpenSyria University Assets",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "id",
+      "universityId",
+      "assetType",
+      "assetRole",
+      "title",
+      "variants",
+      "attribution",
+      "sourceIds",
+      "sourceStatus"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^sy-[a-z0-9]+(?:-[a-z0-9]+)*$"
+      },
+      "universityId": {
+        "type": "string",
+        "pattern": "^sy-[a-z0-9]+(?:-[a-z0-9]+)*$"
+      },
+      "assetType": {
+        "type": "string",
+        "enum": ["image"]
+      },
+      "assetRole": {
+        "type": "string",
+        "enum": ["campus", "logo", "building", "other"]
+      },
+      "title": {
+        "$ref": "#/$defs/localizedText"
+      },
+      "variants": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "$ref": "#/$defs/imageVariant"
+        }
+      },
+      "attribution": {
+        "$ref": "#/$defs/attribution"
+      },
+      "sourceIds": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "minLength": 1
+        },
+        "minItems": 1
+      },
+      "sourceStatus": {
+        "type": "string",
+        "enum": ["pending_release", "seed", "released", "deprecated"]
+      },
+      "notes": {
+        "type": "string",
+        "minLength": 1
+      }
+    }
+  },
+  "$defs": {
+    "localizedText": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["en"],
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1
+        },
+        "ar": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "imageVariant": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["url", "key", "format", "contentType", "width", "height", "sha256", "sizeBytes"],
+      "properties": {
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "key": {
+          "type": "string",
+          "minLength": 1
+        },
+        "format": {
+          "type": "string",
+          "enum": ["webp", "avif"]
+        },
+        "contentType": {
+          "type": "string",
+          "enum": ["image/webp", "image/avif"]
+        },
+        "width": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "height": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "sizeBytes": {
+          "type": "integer",
+          "minimum": 0
+        }
+      }
+    },
+    "attribution": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "sourceProvider",
+        "sourceTitle",
+        "sourceUrl",
+        "creator",
+        "license",
+        "licenseUrl",
+        "attributionRequired"
+      ],
+      "properties": {
+        "sourceProvider": {
+          "type": "string",
+          "minLength": 1
+        },
+        "sourceTitle": {
+          "type": "string",
+          "minLength": 1
+        },
+        "sourceUrl": {
+          "type": "string",
+          "format": "uri"
+        },
+        "creator": {
+          "type": "string",
+          "minLength": 1
+        },
+        "credit": {
+          "type": "string",
+          "minLength": 1
+        },
+        "license": {
+          "type": "string",
+          "minLength": 1
+        },
+        "licenseUrl": {
+          "type": "string",
+          "format": "uri"
+        },
+        "attributionRequired": {
+          "type": "boolean"
+        }
+      }
+    }
+  }
+}

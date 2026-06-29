@@ -81,3 +81,33 @@ seed
 released
 deprecated
 ```
+
+## Asset Fields
+
+`assets.json` stores approved media assets separately from university identity records.
+
+`universityId` references a record in `data/universities.json`.
+
+`assetType` is currently `image`.
+
+`assetRole` describes the use of the asset:
+
+```text
+campus
+logo
+building
+other
+```
+
+`variants` contains generated OpenSyria CDN objects. Each variant includes:
+
+- `url`
+- `key`
+- `format`
+- `contentType`
+- `width`
+- `height`
+- `sha256`
+- `sizeBytes`
+
+`attribution` keeps the source provider, source URL, creator, license, and whether attribution is required. Keep this data with the image record, especially for Creative Commons BY or BY-SA media.

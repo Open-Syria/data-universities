@@ -7,6 +7,7 @@ Preferred source types:
 - official university websites,
 - Syrian ministry or regulator pages,
 - Wikidata for cross-reference identifiers and multilingual labels,
+- Wikimedia Commons for reviewed image assets with retained attribution,
 - openly licensed public education directories.
 
 Every source used by canonical records must appear in `data/sources.json` with `status: "approved"`.

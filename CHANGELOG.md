@@ -2,6 +2,14 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v0.1.1 - 2026-06-29
+
+### Added
+
+- Add `data/assets.json` for attribution-aware university image assets.
+- Add the first reviewed Wikimedia Commons campus image assets with OpenSyria CDN variants.
+- Add asset validation, fixtures, schema, import manifest, and release artifacts.
+
 ## v0.1.0 - 2026-06-29
 
 ### Added

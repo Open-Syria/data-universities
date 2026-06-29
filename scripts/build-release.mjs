@@ -2,6 +2,7 @@ import { createHash } from 'node:crypto';
 import { mkdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import {
+  assetRecordSchema,
   datasetReleaseStatusSchema,
   parseJsonArray,
   readJson,
@@ -25,6 +26,8 @@ const datasetConfigs = [
     tableName: 'universities',
     fileName: 'universities.json',
     schema: universityRecordSchema,
+    toPublicRecord: toUniversityPublicRecord,
+    toFlatRow: toUniversityFlatRow,
     columns: [
       'id',
       'name_en',
@@ -45,6 +48,33 @@ const datasetConfigs = [
       'wikidata_id',
       'external_website',
       'ministry_id',
+      'source_ids_json',
+      'source_status',
+    ],
+  },
+  {
+    name: 'assets',
+    tableName: 'university_assets',
+    fileName: 'assets.json',
+    schema: assetRecordSchema,
+    toPublicRecord: toAssetPublicRecord,
+    toFlatRow: toAssetFlatRow,
+    columns: [
+      'id',
+      'university_id',
+      'asset_type',
+      'asset_role',
+      'title_en',
+      'title_ar',
+      'variants_json',
+      'source_provider',
+      'source_title',
+      'source_url',
+      'creator',
+      'credit',
+      'license',
+      'license_url',
+      'attribution_required',
       'source_ids_json',
       'source_status',
     ],
@@ -136,7 +166,7 @@ function stringifyCompactJson(data) {
   return escapeNonAscii(JSON.stringify(data));
 }
 
-function toPublicRecord(record) {
+function toUniversityPublicRecord(record) {
   return removeUndefined({
     id: record.id,
     name: record.name,
@@ -159,7 +189,7 @@ function removeUndefined(value) {
   );
 }
 
-function toFlatRow(record) {
+function toUniversityFlatRow(record) {
   return {
     id: record.id,
     name_en: record.name.en,
@@ -180,6 +210,43 @@ function toFlatRow(record) {
     wikidata_id: record.externalIds.wikidata ?? null,
     external_website: record.externalIds.website ?? null,
     ministry_id: record.externalIds.ministryId ?? null,
+    source_ids_json: stringifyCompactJson(record.sourceIds),
+    source_status: record.sourceStatus,
+  };
+}
+
+function toAssetPublicRecord(record) {
+  return removeUndefined({
+    id: record.id,
+    universityId: record.universityId,
+    assetType: record.assetType,
+    assetRole: record.assetRole,
+    title: record.title,
+    variants: record.variants,
+    attribution: record.attribution,
+    sourceIds: record.sourceIds,
+    sourceStatus: record.sourceStatus,
+    notes: record.notes,
+  });
+}
+
+function toAssetFlatRow(record) {
+  return {
+    id: record.id,
+    university_id: record.universityId,
+    asset_type: record.assetType,
+    asset_role: record.assetRole,
+    title_en: record.title.en,
+    title_ar: record.title.ar ?? null,
+    variants_json: stringifyCompactJson(record.variants),
+    source_provider: record.attribution.sourceProvider,
+    source_title: record.attribution.sourceTitle,
+    source_url: record.attribution.sourceUrl,
+    creator: record.attribution.creator,
+    credit: record.attribution.credit ?? null,
+    license: record.attribution.license,
+    license_url: record.attribution.licenseUrl,
+    attribution_required: record.attribution.attributionRequired,
     source_ids_json: stringifyCompactJson(record.sourceIds),
     source_status: record.sourceStatus,
   };
@@ -414,8 +481,8 @@ async function loadDataset(config) {
 }
 
 async function buildDatasetArtifacts(config) {
-  const records = (await loadDataset(config)).map(toPublicRecord);
-  const rows = records.map(toFlatRow);
+  const records = (await loadDataset(config)).map(config.toPublicRecord);
+  const rows = records.map(config.toFlatRow);
 
   const artifacts = [];
 

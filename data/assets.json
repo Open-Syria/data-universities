@@ -1,0 +1,130 @@
+[
+  {
+    "id": "sy-al-furat-university-campus-building-image",
+    "universityId": "sy-al-furat-university",
+    "assetType": "image",
+    "assetRole": "campus",
+    "title": {
+      "en": "Al-Furat University campus building",
+      "ar": "\u0645\u0628\u0646\u0649 \u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0641\u0631\u0627\u062a"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-furat-university/campus-building-v1/w200.webp",
+        "key": "universities/sy-al-furat-university/campus-building-v1/w200.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 200,
+        "height": 200,
+        "sha256": "27dc2fca0117aff3c2050c42a5892c9f955420cafdb1a781aecf63df8e668f26",
+        "sizeBytes": 12148
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-furat-university/campus-building-v1/w200.avif",
+        "key": "universities/sy-al-furat-university/campus-building-v1/w200.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 200,
+        "height": 200,
+        "sha256": "8df62b07db6254938aab083b9375f25f4818ce561edfe49c0e87f1f19c292674",
+        "sizeBytes": 17785
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Wikimedia Commons",
+      "sourceTitle": "\u0645\u0628\u0646\u0649 \u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0641\u0631\u0627\u062a",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D9%85%D8%A8%D9%86%D9%89_%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D8%AA.jpg",
+      "creator": "Zalbaraka",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attributionRequired": true
+    },
+    "sourceIds": ["wikimedia-commons"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-al-jazeera-private-university-campus-building-image",
+    "universityId": "sy-al-jazeera-private-university",
+    "assetType": "image",
+    "assetRole": "campus",
+    "title": {
+      "en": "Al-Jazeera Private University campus building",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0645\u0628\u0646\u0649"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-jazeera-private-university/campus-building-v1/w320.webp",
+        "key": "universities/sy-al-jazeera-private-university/campus-building-v1/w320.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 320,
+        "height": 240,
+        "sha256": "23d7ffe17582bd18a541210fcb8a440129ce403303c3d676206966c1180eca1a",
+        "sizeBytes": 10172
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-jazeera-private-university/campus-building-v1/w320.avif",
+        "key": "universities/sy-al-jazeera-private-university/campus-building-v1/w320.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 320,
+        "height": 240,
+        "sha256": "c80c33ca5cd96d5a75e93eb4b4a5699cf90d2b46cf5a5d0b91d4d54e71c409fb",
+        "sizeBytes": 14645
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-jazeera-private-university/campus-building-v1/w640.webp",
+        "key": "universities/sy-al-jazeera-private-university/campus-building-v1/w640.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 640,
+        "height": 480,
+        "sha256": "94013b4784128d64150bc48486ad138a6b7e79f078179a2b07d6506cd32c1560",
+        "sizeBytes": 37680
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-jazeera-private-university/campus-building-v1/w640.avif",
+        "key": "universities/sy-al-jazeera-private-university/campus-building-v1/w640.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 640,
+        "height": 480,
+        "sha256": "46be981a57da40192c7977b52b6d4419485ac7fb8e952af18e7e1c98f6e8bbcf",
+        "sizeBytes": 54852
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-jazeera-private-university/campus-building-v1/w960.webp",
+        "key": "universities/sy-al-jazeera-private-university/campus-building-v1/w960.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 960,
+        "height": 720,
+        "sha256": "9dc5720b8b925f10c84d384e568004ecc30d7892dff8606d85f1bce754840afa",
+        "sizeBytes": 82976
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-jazeera-private-university/campus-building-v1/w960.avif",
+        "key": "universities/sy-al-jazeera-private-university/campus-building-v1/w960.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 960,
+        "height": 720,
+        "sha256": "f29875b618bf2df3a0d90a60499b67b236086d8ff642cf03cfb557dc2f0679d5",
+        "sizeBytes": 84040
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Wikimedia Commons",
+      "sourceTitle": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0645\u0628\u0646\u0649",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D9%85%D8%A8%D9%86%D9%89.jpg",
+      "creator": "Aaasss1999",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attributionRequired": true
+    },
+    "sourceIds": ["wikimedia-commons"],
+    "sourceStatus": "seed"
+  }
+]

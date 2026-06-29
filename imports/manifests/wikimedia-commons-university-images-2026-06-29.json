@@ -1,0 +1,36 @@
+{
+  "sourceId": "wikimedia-commons",
+  "sourceTitle": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "accessedAt": "2026-06-29T02:52:09.293Z",
+  "status": "reviewed",
+  "rawFiles": [
+    {
+      "name": "wikimedia-image-license-review.json",
+      "sha256": "6f7753325bb8961222cf8d831e37a3de9d9f0e0a31e10365742461939f226c10",
+      "notes": "Local license and attribution review manifest generated from Wikimedia Commons API imageinfo metadata."
+    },
+    {
+      "name": "image-assets-manifest.approved.json",
+      "sha256": "92d1b490574b1811918537a33d3ed2a6cb0b15aa65c8f9b9ff0e33e8838a16f5",
+      "notes": "Local generated WebP/AVIF variant manifest for approved image candidates."
+    },
+    {
+      "name": "image-assets-upload.approved.dry-run.json",
+      "sha256": "bfcd93a5fda5af72566e50e24d9f240f21625ed6435fc516232f8a52543b30cd",
+      "notes": "Local R2 dry-run upload manifest."
+    }
+  ],
+  "importedFields": ["image variants", "license", "attribution", "source URLs"],
+  "targetFiles": ["data/assets.json", "data/sources.json"],
+  "transforms": [
+    "Collected candidate image URLs from Wikidata image statements.",
+    "Downloaded reviewed Wikimedia Commons files locally.",
+    "Fetched Wikimedia Commons imageinfo metadata for license and attribution.",
+    "Generated WebP and AVIF responsive variants for the OpenSyria CDN key namespace.",
+    "Stored attribution metadata next to CDN variant URLs in data/assets.json."
+  ],
+  "reviewNotes": "First small image asset batch. Both files are Wikimedia Commons CC BY-SA 4.0 images with attribution retained in data/assets.json."
+}

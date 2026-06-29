@@ -1,0 +1,33 @@
+{
+  "id": "sy-damascus-university-campus-image",
+  "universityId": "sy-damascus-university",
+  "assetType": "image",
+  "assetRole": "campus",
+  "title": {
+    "en": "Damascus University campus image"
+  },
+  "variants": [
+    {
+      "url": "https://cdn.opensyria.org/universities/sy-damascus-university/campus/w320.webp",
+      "key": "universities/sy-damascus-university/campus/w320.webp",
+      "format": "webp",
+      "contentType": "image/webp",
+      "width": 320,
+      "height": 240,
+      "sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "sizeBytes": 1024
+    }
+  ],
+  "attribution": {
+    "sourceProvider": "Fixture Source",
+    "sourceTitle": "Fixture campus image",
+    "sourceUrl": "https://example.org/fixture-campus-image",
+    "creator": "Fixture Author",
+    "credit": "Fixture credit",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attributionRequired": false
+  },
+  "sourceIds": ["fixture-university-source"],
+  "sourceStatus": "seed"
+}

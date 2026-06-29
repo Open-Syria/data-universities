@@ -7,6 +7,7 @@ This directory contains machine-readable JSON Schemas for canonical data files a
 ```text
 sources.schema.json
 universities.schema.json
+assets.schema.json
 ```
 
 These schemas are useful for editors, external tooling, and contributors who want early feedback while editing JSON.

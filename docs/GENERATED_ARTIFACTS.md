@@ -10,6 +10,12 @@ The release builder writes:
 
 ```text
 dist/release/release-manifest.json
+dist/release/artifacts/assets.json
+dist/release/artifacts/assets.ndjson
+dist/release/artifacts/assets.csv
+dist/release/artifacts/assets.sql
+dist/release/artifacts/assets.yaml
+dist/release/artifacts/assets.xml
 dist/release/artifacts/universities.json
 dist/release/artifacts/universities.ndjson
 dist/release/artifacts/universities.csv

@@ -8,6 +8,7 @@ The repository follows the same structure as other OpenSyria data repositories:
 
 ```text
 data/
+  assets.json
   sources.json
   universities.json
 schemas/
@@ -64,6 +65,12 @@ pnpm run release:build:fixtures
 `pnpm run release:build` writes release files to `dist/release/`, including:
 
 - `release-manifest.json`,
+- `artifacts/assets.json`,
+- `artifacts/assets.ndjson`,
+- `artifacts/assets.csv`,
+- `artifacts/assets.sql`,
+- `artifacts/assets.yaml`,
+- `artifacts/assets.xml`,
 - `artifacts/universities.json`,
 - `artifacts/universities.ndjson`,
 - `artifacts/universities.csv`,
