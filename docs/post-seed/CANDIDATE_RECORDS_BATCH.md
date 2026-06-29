@@ -10,7 +10,7 @@ The local maintainer review artifact reported:
 - 8 held candidates present only in the Wikidata artifact,
 - 1 held candidate present in both Wikipedia and Wikidata artifacts.
 
-`v0.1.3` releases one accepted candidate record. `v0.1.4` releases three autonomous-administration candidates. `v0.1.6` releases 16 military and police candidates, leaving 10 held candidates for later review.
+`v0.1.3` releases one accepted candidate record. `v0.1.4` releases three autonomous-administration candidates. `v0.1.6` releases 16 military and police candidates. `v0.1.7` releases one foreign-branch candidate, leaving 9 held candidates for later review.
 
 `sy-homs-military-academy` remains held because the local Wikipedia and Wikidata artifacts disagree on the founded year.
 
@@ -48,7 +48,7 @@ The comparison artifact is not a source. Canonical additions must cite approved 
 | `sy-military-college-of-chemical-protection` | Military College of Chemical Protection | released in v0.1.6 | Arabic name, official website | Wikipedia |
 | `sy-military-college-of-infantry-corps` | Military College of Infantry Corps | released in v0.1.6 | Arabic name, official website | Wikipedia |
 | `sy-military-college-of-technical-affairs` | Military College of Technical Affairs | released in v0.1.6 | Arabic name, official website | Wikipedia |
-| `sy-omdurman-islamic-university-damascus-branch` | Omdurman Islamic University, Damascus Branch | pending review | Arabic name, official website | Wikipedia |
+| `sy-omdurman-islamic-university-damascus-branch` | Omdurman Islamic University, Damascus Branch | released in v0.1.7 | Arabic name | Wikipedia |
 | `sy-private-university-of-science-and-arts` | Private University of Science and Arts | pending review |  | Wikidata |
 | `sy-raqqa-university` | Raqqa University | pending review | Arabic name, official website | Wikidata |
 | `sy-syrian-air-defense-college` | Syrian Air Defense College | released in v0.1.6 | Arabic name, official website | Wikipedia |

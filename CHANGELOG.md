@@ -2,6 +2,13 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v0.1.7 - 2026-06-29
+
+### Added
+
+- Add the accepted foreign-branch candidate record, `sy-omdurman-islamic-university-damascus-branch`.
+- Add a reviewed import manifest for the foreign-branch candidate batch.
+
 ## v0.1.6 - 2026-06-29
 
 ### Added

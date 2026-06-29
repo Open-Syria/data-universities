@@ -2025,5 +2025,27 @@
     "sourceIds": ["wikipedia-list-universities-syria"],
     "sourceStatus": "seed",
     "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
+  },
+  {
+    "id": "sy-omdurman-islamic-university-damascus-branch",
+    "name": {
+      "en": "Omdurman Islamic University, Damascus Branch"
+    },
+    "aliases": [],
+    "institutionType": "other",
+    "operationalStatus": "unknown",
+    "foundedYear": null,
+    "website": "https://oiu.edu.sd/",
+    "location": {
+      "locality": {
+        "en": "Damascus"
+      }
+    },
+    "externalIds": {
+      "website": "https://oiu.edu.sd/"
+    },
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Accepted from the post-seed foreign-branch candidate batch. Website is the source-listed parent university website, not a confirmed branch-specific page."
   }
 ]
