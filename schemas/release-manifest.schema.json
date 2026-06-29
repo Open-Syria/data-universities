@@ -140,9 +140,102 @@
           }
         }
       }
+    },
+    "readiness": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["level", "publicApi", "checks", "domains", "blockers"],
+      "properties": {
+        "level": {
+          "$ref": "#/$defs/readinessLevel"
+        },
+        "publicApi": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["status", "minimumLevel", "reason"],
+          "properties": {
+            "status": {
+              "type": "string",
+              "enum": ["not_approved", "approved"]
+            },
+            "minimumLevel": {
+              "$ref": "#/$defs/readinessLevel"
+            },
+            "reason": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "checks": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["name", "status"],
+            "properties": {
+              "name": {
+                "type": "string",
+                "minLength": 1
+              },
+              "status": {
+                "type": "string",
+                "enum": ["passed", "warning", "blocked"]
+              },
+              "expected": {
+                "type": ["string", "number", "boolean"]
+              },
+              "actual": {
+                "type": ["string", "number", "boolean"]
+              },
+              "notes": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        },
+        "domains": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["name", "status", "recordCount", "notes"],
+            "properties": {
+              "name": {
+                "type": "string",
+                "enum": ["universities", "assets", "faculties", "programs", "rankings"]
+              },
+              "status": {
+                "type": "string",
+                "enum": ["ready", "partial", "empty", "blocked"]
+              },
+              "recordCount": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "notes": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        },
+        "blockers": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
     }
   },
   "$defs": {
+    "readinessLevel": {
+      "type": "string",
+      "enum": ["raw_seed", "identity_seed_ready", "public_directory_ready", "profile_ready"]
+    },
     "localizedText": {
       "type": "object",
       "additionalProperties": false,

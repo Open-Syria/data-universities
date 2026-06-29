@@ -643,8 +643,13 @@ async function loadDataset(config) {
   );
 }
 
+const datasetRecordsByName = new Map();
+
 async function buildDatasetArtifacts(config) {
-  const records = (await loadDataset(config)).map(config.toPublicRecord);
+  const sourceRecords = await loadDataset(config);
+  datasetRecordsByName.set(config.name, sourceRecords);
+
+  const records = sourceRecords.map(config.toPublicRecord);
   const rows = records.map(config.toFlatRow);
 
   const artifacts = [];
@@ -675,6 +680,119 @@ async function buildDatasetArtifacts(config) {
   }
 
   return artifacts;
+}
+
+function buildReleaseReadiness() {
+  const universities = datasetRecordsByName.get('universities') ?? [];
+  const assets = datasetRecordsByName.get('assets') ?? [];
+  const faculties = datasetRecordsByName.get('faculties') ?? [];
+  const programs = datasetRecordsByName.get('programs') ?? [];
+  const rankings = datasetRecordsByName.get('rankings') ?? [];
+  const universityCount = universities.length;
+  const englishNameCount = universities.filter((record) => record.name.en).length;
+  const arabicNameCount = universities.filter((record) => record.name.ar).length;
+  const locationCount = universities.filter(
+    (record) => record.location?.governorate?.en && record.location?.locality?.en,
+  ).length;
+  const sourcedCount = universities.filter((record) => record.sourceIds.length > 0).length;
+  const websiteCount = universities.filter((record) => record.website).length;
+  const centroidCount = universities.filter((record) => record.location?.centroid).length;
+
+  return {
+    level: 'identity_seed_ready',
+    publicApi: {
+      status: 'not_approved',
+      minimumLevel: 'public_directory_ready',
+      reason:
+        'Canonical identity data is ready, but public university endpoints are blocked until image, ranking, and profile coverage gates are approved.',
+    },
+    checks: [
+      {
+        name: 'canonical_university_count',
+        status: universityCount === 57 ? 'passed' : 'blocked',
+        expected: 57,
+        actual: universityCount,
+      },
+      {
+        name: 'english_names',
+        status: englishNameCount === universityCount ? 'passed' : 'blocked',
+        expected: universityCount,
+        actual: englishNameCount,
+      },
+      {
+        name: 'arabic_names',
+        status: arabicNameCount === universityCount ? 'passed' : 'blocked',
+        expected: universityCount,
+        actual: arabicNameCount,
+      },
+      {
+        name: 'locations',
+        status: locationCount === universityCount ? 'passed' : 'blocked',
+        expected: universityCount,
+        actual: locationCount,
+      },
+      {
+        name: 'approved_public_sources',
+        status: sourcedCount === universityCount ? 'passed' : 'blocked',
+        expected: universityCount,
+        actual: sourcedCount,
+      },
+      {
+        name: 'official_websites',
+        status: websiteCount === universityCount ? 'passed' : 'warning',
+        expected: universityCount,
+        actual: websiteCount,
+        notes:
+          'Websites are nullable because some institutions do not have an approved public website.',
+      },
+      {
+        name: 'source_backed_centroids',
+        status: centroidCount === universityCount ? 'passed' : 'warning',
+        expected: universityCount,
+        actual: centroidCount,
+        notes: 'Centroids must stay empty until an approved public source supports them.',
+      },
+    ],
+    domains: [
+      {
+        name: 'universities',
+        status: 'ready',
+        recordCount: universities.length,
+        notes: 'Canonical identity records pass the hard seed requirements.',
+      },
+      {
+        name: 'assets',
+        status: assets.length === universities.length ? 'ready' : 'partial',
+        recordCount: assets.length,
+        notes:
+          'Image coverage is partial and must not be treated as complete public profile coverage.',
+      },
+      {
+        name: 'faculties',
+        status: faculties.length > 0 ? 'partial' : 'empty',
+        recordCount: faculties.length,
+        notes: 'Faculty records are schema-ready but not populated for this release.',
+      },
+      {
+        name: 'programs',
+        status: programs.length > 0 ? 'partial' : 'empty',
+        recordCount: programs.length,
+        notes: 'Program records are schema-ready but not populated for this release.',
+      },
+      {
+        name: 'rankings',
+        status: rankings.length > 0 ? 'partial' : 'empty',
+        recordCount: rankings.length,
+        notes: 'Ranking snapshots are schema-ready but not populated for this release.',
+      },
+    ],
+    blockers: [
+      'public_api_not_approved',
+      'approved_image_asset_coverage_partial',
+      'ranking_snapshot_coverage_empty',
+      'faculties_programs_not_loaded',
+    ],
+  };
 }
 
 const sources = parseJsonArray(
@@ -716,6 +834,7 @@ const manifest = {
     license: source.license,
     fields: source.fields,
   })),
+  readiness: buildReleaseReadiness(),
 };
 
 releaseManifestSchema.parse(manifest);

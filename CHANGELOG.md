@@ -2,6 +2,13 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v0.1.12 - 2026-06-29
+
+### Added
+
+- Add release manifest readiness metadata that separates syncable identity seed data from public API approval.
+- Mark the current release as `identity_seed_ready` with public API exposure explicitly `not_approved`.
+
 ## v0.1.11 - 2026-06-29
 
 ### Changed

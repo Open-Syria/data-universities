@@ -19,7 +19,7 @@ pnpm run report:production
 
 ## Current Production Snapshot
 
-As of `v0.1.11`, the canonical identity dataset contains 57 records anchored to
+As of `v0.1.12`, the canonical identity dataset contains 57 records anchored to
 the internal comparison control list and approved public source IDs.
 
 Known cleanup gaps:

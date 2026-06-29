@@ -5,6 +5,13 @@ const idSchema = z.string().regex(/^sy-[a-z0-9]+(?:-[a-z0-9]+)*$/);
 
 export const sourceStatusSchema = z.enum(['pending_release', 'seed', 'released', 'deprecated']);
 export const datasetReleaseStatusSchema = z.enum(['planned', 'seed', 'released', 'deprecated']);
+export const datasetReadinessLevelSchema = z.enum([
+  'raw_seed',
+  'identity_seed_ready',
+  'public_directory_ready',
+  'profile_ready',
+]);
+export const datasetPublicApiStatusSchema = z.enum(['not_approved', 'approved']);
 export const datasetArtifactFormatSchema = z.enum(['json', 'ndjson', 'csv', 'sql', 'yaml', 'xml']);
 export const assetImageFormatSchema = z.enum(['webp', 'avif']);
 
@@ -96,6 +103,41 @@ export const releaseManifestArtifactSchema = z
   })
   .strict();
 
+export const releaseReadinessCheckSchema = z
+  .object({
+    name: z.string().trim().min(1),
+    status: z.enum(['passed', 'warning', 'blocked']),
+    expected: z.union([z.string(), z.number(), z.boolean()]).optional(),
+    actual: z.union([z.string(), z.number(), z.boolean()]).optional(),
+    notes: z.string().trim().min(1).optional(),
+  })
+  .strict();
+
+export const releaseReadinessDomainSchema = z
+  .object({
+    name: z.enum(['universities', 'assets', 'faculties', 'programs', 'rankings']),
+    status: z.enum(['ready', 'partial', 'empty', 'blocked']),
+    recordCount: z.number().int().nonnegative(),
+    notes: z.string().trim().min(1),
+  })
+  .strict();
+
+export const releaseReadinessSchema = z
+  .object({
+    level: datasetReadinessLevelSchema,
+    publicApi: z
+      .object({
+        status: datasetPublicApiStatusSchema,
+        minimumLevel: datasetReadinessLevelSchema,
+        reason: z.string().trim().min(1),
+      })
+      .strict(),
+    checks: z.array(releaseReadinessCheckSchema),
+    domains: z.array(releaseReadinessDomainSchema),
+    blockers: z.array(z.string().trim().min(1)),
+  })
+  .strict();
+
 export const releaseManifestSchema = z
   .object({
     schemaVersion: z.literal('1.0'),
@@ -119,6 +161,7 @@ export const releaseManifestSchema = z
       .strict(),
     artifacts: z.array(releaseManifestArtifactSchema),
     sources: z.array(releaseManifestSourceSchema),
+    readiness: releaseReadinessSchema.optional(),
   })
   .strict();
 
