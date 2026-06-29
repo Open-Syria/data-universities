@@ -1,0 +1,29 @@
+{
+  "sourceId": "wikidata",
+  "sourceTitle": "Wikidata",
+  "sourceUrl": "https://www.wikidata.org/",
+  "license": "CC0 1.0",
+  "licenseUrl": "https://www.wikidata.org/wiki/Wikidata:Licensing",
+  "accessedAt": "2026-06-29T00:00:00.000Z",
+  "status": "reviewed",
+  "rawFiles": [
+    {
+      "name": "outputs/universities/wikidata-candidates.json",
+      "sha256": "ac646013f90fe0362ce2c8aa051bd0f1465c8a6b044035126881b1dfa7f25481",
+      "notes": "Local automation candidate output retained in data-automation."
+    },
+    {
+      "name": "outputs/universities/source-comparison-report.json",
+      "sha256": "2f2a5d8dc3bc97239c36e40e2737406a49bba36a60c90118d14840a5cb27691a",
+      "notes": "Reviewed merge artifact used for seed export."
+    }
+  ],
+  "importedFields": ["name", "website", "foundedYear", "location", "externalIds"],
+  "targetFiles": ["data/sources.json", "data/universities.json"],
+  "transforms": [
+    "Collected Wikidata candidate records through local data-automation.",
+    "Compared candidates with Wikipedia, internal directory review data, and maintainer review decisions.",
+    "Exported only directory-candidate seed records with approved public source IDs."
+  ],
+  "reviewNotes": "Initial seed import. No canonical record cites the internal directory snapshot as a public source."
+}

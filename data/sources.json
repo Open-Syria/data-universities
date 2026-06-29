@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "wikidata",
+    "title": "Wikidata",
+    "url": "https://www.wikidata.org/",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://www.wikidata.org/wiki/Wikidata:Licensing",
+    "status": "approved",
+    "fields": ["names", "official website", "inception", "coordinates", "external IDs"],
+    "notes": "Used as an open reference source for public university identifiers and selected public facts."
+  },
+  {
+    "id": "wikipedia-list-universities-syria",
+    "title": "Wikipedia: List of universities and colleges in Syria",
+    "url": "https://en.wikipedia.org/wiki/List_of_universities_and_colleges_in_Syria",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "status": "approved",
+    "fields": ["names", "institution type", "location", "founded year", "official website"],
+    "notes": "Used as an open control list for the initial university seed import."
+  }
+]

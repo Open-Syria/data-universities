@@ -9,3 +9,5 @@ Review university data changes for:
 - consistent Arabic and English names,
 - source attribution,
 - validation output.
+
+For post-seed additions, also confirm that candidates are in dataset scope and not duplicates or aliases of existing records.

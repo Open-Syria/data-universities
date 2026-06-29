@@ -1,1 +1,1625 @@
-[]
+[
+  {
+    "id": "sy-al-amanos-university",
+    "name": {
+      "en": "Al-Amanos University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0623\u0645\u0627\u0646\u0648\u0633"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2023,
+    "website": "https://amanusuniversity.com",
+    "location": {
+      "governorate": {
+        "en": "Aleppo",
+        "ar": "\u062d\u0644\u0628"
+      },
+      "locality": {
+        "en": "Afrin, Aleppo Governorate"
+      }
+    },
+    "externalIds": {
+      "website": "https://amanusuniversity.com"
+    },
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-al-andalus-university-for-medical-sciences",
+    "name": {
+      "en": "Al-Andalus University for Medical Sciences",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0623\u0646\u062f\u0644\u0633 \u0627\u0644\u062e\u0627\u0635\u0629 \u0644\u0644\u0639\u0644\u0648\u0645 \u0627\u0644\u0637\u0628\u064a\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2005,
+    "website": "https://au.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Tartus",
+        "ar": "\u0637\u0631\u0637\u0648\u0633"
+      },
+      "locality": {
+        "en": "Tartus Governorate"
+      },
+      "centroid": {
+        "latitude": 35.09913,
+        "longitude": 36.18675
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q4702202",
+      "website": "https://au.edu.sy"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Comparison conflict reviewed for seed fields: foundedYear."
+  },
+  {
+    "id": "sy-al-furat-university",
+    "name": {
+      "en": "Al-Furat University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0641\u0631\u0627\u062a"
+    },
+    "aliases": [],
+    "institutionType": "public",
+    "operationalStatus": "unknown",
+    "foundedYear": 2006,
+    "website": "http://alfuratuniv.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Deir ez Zor",
+        "ar": "\u062f\u064a\u0631 \u0627\u0644\u0632\u0648\u0631"
+      },
+      "locality": {
+        "en": "Deir ez-Zor"
+      },
+      "centroid": {
+        "latitude": 35.32283,
+        "longitude": 40.11377
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q4702404",
+      "website": "http://alfuratuniv.edu.sy"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-al-hawash-private-university",
+    "name": {
+      "en": "Al-Hawash Private University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u062d\u0648\u0627\u0634 \u0627\u0644\u062e\u0627\u0635\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2007,
+    "website": "http://hpu.edu.sy/",
+    "location": {
+      "governorate": {
+        "en": "Homs",
+        "ar": "\u062d\u0645\u0635"
+      },
+      "locality": {
+        "en": "Al-Hawash, Homs Governorate"
+      }
+    },
+    "externalIds": {
+      "website": "http://hpu.edu.sy/"
+    },
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Comparison conflict reviewed for seed fields: foundedYear, website."
+  },
+  {
+    "id": "sy-al-hayat-university-for-applied-sciences",
+    "name": {
+      "en": "Al-Hayat University for Applied Sciences",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u062d\u064a\u0627\u0629 \u0644\u0644\u0639\u0644\u0648\u0645 \u0627\u0644\u0637\u0628\u064a\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2016,
+    "website": "https://www.meduc.net/mec",
+    "location": {
+      "governorate": {
+        "en": "Idlib",
+        "ar": "\u0625\u062f\u0644\u0628"
+      },
+      "locality": {
+        "en": "Aqrabat, Idlib Governorate"
+      }
+    },
+    "externalIds": {
+      "website": "https://www.meduc.net/mec"
+    },
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-al-jazeera-private-university",
+    "name": {
+      "en": "Al-Jazeera Private University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u062e\u0627\u0635\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2007,
+    "website": "http://jude.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Daraa",
+        "ar": "\u062f\u0631\u0639\u0627"
+      },
+      "locality": {
+        "en": "Deir ez-Zor Governorate"
+      },
+      "centroid": {
+        "latitude": 33.166833333,
+        "longitude": 36.297527777
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q12204413",
+      "website": "http://jude.edu.sy"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-al-maali-university",
+    "name": {
+      "en": "Al-Maali University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0645\u0639\u0627\u0644\u064a"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2021,
+    "website": "https://almaali-univ.org/",
+    "location": {
+      "governorate": {
+        "en": "Aleppo",
+        "ar": "\u062d\u0644\u0628"
+      },
+      "locality": {
+        "en": "Al-Bab, Aleppo Governorate"
+      }
+    },
+    "externalIds": {
+      "website": "https://almaali-univ.org/"
+    },
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-al-maarif-private-university",
+    "name": {
+      "en": "Al-Maarif Private University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0645\u0639\u0627\u0631\u0641 \u0644\u0644\u0639\u0644\u0648\u0645 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u064a\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2024,
+    "website": "https://mas.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Idlib",
+        "ar": "\u0625\u062f\u0644\u0628"
+      },
+      "locality": {
+        "en": "Idlib Governorate"
+      }
+    },
+    "externalIds": {
+      "website": "https://mas.edu.sy"
+    },
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-al-manara-university",
+    "name": {
+      "en": "Al-Manara University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0645\u0646\u0627\u0631\u0629 \u0627\u0644\u062e\u0627\u0635\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2016,
+    "website": "https://manara.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Latakia",
+        "ar": "\u0627\u0644\u0644\u0627\u0630\u0642\u064a\u0629"
+      },
+      "locality": {
+        "en": "Latakia"
+      },
+      "centroid": {
+        "latitude": 35.55203,
+        "longitude": 35.76618
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q100260373",
+      "website": "https://manara.edu.sy"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-al-rasheed-international-university-for-science-and-technology",
+    "name": {
+      "en": "Al-Rasheed International University for Science and Technology",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0631\u0634\u064a\u062f \u0627\u0644\u062f\u0648\u0644\u064a\u0629 \u0627\u0644\u062e\u0627\u0635\u0629 \u0644\u0644\u0639\u0644\u0648\u0645 \u0648\u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2007,
+    "website": "http://ru.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Daraa",
+        "ar": "\u062f\u0631\u0639\u0627"
+      },
+      "locality": {
+        "en": "Daraa Governorate"
+      }
+    },
+    "externalIds": {
+      "website": "http://ru.edu.sy"
+    },
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-al-ruwad-university-for-science-and-culture",
+    "name": {
+      "en": "Al-Ruwad University for Science and Culture",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0631\u0648\u0627\u062f \u0644\u0644\u0639\u0644\u0648\u0645 \u0648\u0627\u0644\u062a\u0642\u0627\u0646\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2023,
+    "website": "https://alrowaduni.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Aleppo",
+        "ar": "\u062d\u0644\u0628"
+      },
+      "locality": {
+        "en": "Jarabulus, Aleppo Governorate"
+      }
+    },
+    "externalIds": {
+      "website": "https://alrowaduni.edu.sy"
+    },
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-al-shahba-university",
+    "name": {
+      "en": "Al-Shahba University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0634\u06be\u0628\u0627\u0621 \u0627\u0644\u062e\u0627\u0635\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2005,
+    "website": "http://www.su.edu.sy/ar/home",
+    "location": {
+      "governorate": {
+        "en": "Aleppo",
+        "ar": "\u062d\u0644\u0628"
+      },
+      "locality": {
+        "en": "Aleppo"
+      }
+    },
+    "externalIds": {
+      "website": "http://www.su.edu.sy/ar/home"
+    },
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-al-sham-private-university",
+    "name": {
+      "en": "Al-Sham Private University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0634\u0627\u0645 \u0627\u0644\u062e\u0627\u0635\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2011,
+    "website": "http://aspu.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Damascus",
+        "ar": "\u062f\u0645\u0634\u0642"
+      },
+      "locality": {
+        "en": "Rif Dimashq Governorate"
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q28715284",
+      "website": "http://aspu.edu.sy"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-al-sham-university",
+    "name": {
+      "en": "Al-Sham University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0634\u0627\u0645 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0627\u0644\u062e\u0627\u0635\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2015,
+    "website": "https://isu.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Aleppo",
+        "ar": "\u062d\u0644\u0628"
+      },
+      "locality": {
+        "en": "Azaz, Aleppo Governorate"
+      }
+    },
+    "externalIds": {
+      "website": "https://isu.edu.sy"
+    },
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Comparison conflict reviewed for seed fields: website."
+  },
+  {
+    "id": "sy-al-shamal-private-university",
+    "name": {
+      "en": "Al-Shamal Private University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0634\u0645\u0627\u0644 \u0627\u0644\u062e\u0627\u0635\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2015,
+    "website": "https://al-shamal.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Idlib",
+        "ar": "\u0625\u062f\u0644\u0628"
+      },
+      "locality": {
+        "en": "Sarmada, Idlib Governorrate"
+      },
+      "centroid": {
+        "latitude": 36.167954,
+        "longitude": 36.735929
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q110554819",
+      "website": "https://al-shamal.edu.sy"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Comparison conflict reviewed for seed fields: website."
+  },
+  {
+    "id": "sy-al-wataniya-private-university",
+    "name": {
+      "en": "Al-Wataniya Private University",
+      "ar": "\u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0627\u0644\u062e\u0627\u0635\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2007,
+    "website": "http://wpu.edu.sy/",
+    "location": {
+      "governorate": {
+        "en": "Hama",
+        "ar": "\u062d\u0645\u0627\u0629"
+      },
+      "locality": {
+        "en": "Ghawr al-Assi, Hama Governorate"
+      },
+      "centroid": {
+        "latitude": 34.96930556,
+        "longitude": 36.75169444
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q4703336",
+      "website": "http://wpu.edu.sy/"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Comparison conflict reviewed for seed fields: foundedYear, website."
+  },
+  {
+    "id": "sy-al-zahraa-university",
+    "name": {
+      "en": "Al-Zahraa University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2021,
+    "website": "https://alzahraa.university",
+    "location": {
+      "governorate": {
+        "en": "Aleppo",
+        "ar": "\u062d\u0644\u0628"
+      },
+      "locality": {
+        "en": "Jarabulus, Aleppo Governorate"
+      }
+    },
+    "externalIds": {
+      "website": "https://alzahraa.university"
+    },
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Comparison conflict reviewed for seed fields: foundedYear."
+  },
+  {
+    "id": "sy-al-zaytuna-university",
+    "name": {
+      "en": "Al-Zaytuna University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0632\u064a\u062a\u0648\u0646\u0629 \u0627\u0644\u062f\u0648\u0644\u064a\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2021,
+    "website": "https://ziu.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Aleppo",
+        "ar": "\u062d\u0644\u0628"
+      },
+      "locality": {
+        "en": "Azaz, Aleppo Governorate"
+      }
+    },
+    "externalIds": {
+      "website": "https://ziu.edu.sy"
+    },
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-antioch-syrian-university",
+    "name": {
+      "en": "Antioch Syrian University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0623\u0646\u0637\u0627\u0643\u064a\u0629 \u0627\u0644\u0633\u0648\u0631\u064a\u0629 \u0627\u0644\u062e\u0627\u0635\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2017,
+    "website": "http://asu.edu.sy/",
+    "location": {
+      "governorate": {
+        "en": "Rif Dimashq",
+        "ar": "\u0631\u064a\u0641 \u062f\u0645\u0634\u0642"
+      },
+      "locality": {
+        "en": "Maarat Saidnaya, Rif Dimashq Governorate"
+      },
+      "centroid": {
+        "latitude": 33.658639523,
+        "longitude": 36.374434404
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q107600970",
+      "website": "http://asu.edu.sy/"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-arab-academy-for-e-businesses",
+    "name": {
+      "en": "Arab Academy for E-Businesses",
+      "ar": "\u0627\u0644\u0623\u0643\u0627\u062f\u064a\u0645\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0644\u0644\u0623\u0639\u0645\u0627\u0644 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2003,
+    "website": null,
+    "location": {
+      "governorate": {
+        "en": "Damascus",
+        "ar": "\u062f\u0645\u0634\u0642"
+      },
+      "locality": {
+        "en": "Aleppo Governorate"
+      }
+    },
+    "externalIds": {},
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Comparison conflict reviewed for seed fields: foundedYear."
+  },
+  {
+    "id": "sy-arab-academy-of-science-and-technology-and-maritime-transport",
+    "name": {
+      "en": "Arab Academy of Science and Technology and Maritime Transport",
+      "ar": "\u0627\u0644\u0623\u0643\u0627\u062f\u064a\u0645\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0644\u0644\u0639\u0644\u0648\u0645 \u0648\u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0648\u0627\u0644\u0646\u0642\u0644"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2001,
+    "website": "https://aast.edu/ar/campuses/latakia/ar",
+    "location": {
+      "governorate": {
+        "en": "Latakia",
+        "ar": "\u0627\u0644\u0644\u0627\u0630\u0642\u064a\u0629"
+      },
+      "locality": {
+        "en": "Latakia"
+      }
+    },
+    "externalIds": {
+      "website": "https://aast.edu/ar/campuses/latakia/ar"
+    },
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-arab-international-university",
+    "name": {
+      "en": "Arab International University",
+      "ar": "\u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u062f\u0648\u0644\u064a\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2005,
+    "website": "https://aiu.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Daraa",
+        "ar": "\u062f\u0631\u0639\u0627"
+      },
+      "locality": {
+        "en": "Daraa Governorate"
+      },
+      "centroid": {
+        "latitude": 33.176,
+        "longitude": 36.2995
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q4783194",
+      "website": "https://aiu.edu.sy"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Comparison conflict reviewed for seed fields: foundedYear."
+  },
+  {
+    "id": "sy-arab-university-for-science-and-technology",
+    "name": {
+      "en": "Arab University for Science and Technology",
+      "ar": "\u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u062e\u0627\u0635\u0629 \u0644\u0644\u0639\u0644\u0648\u0645 \u0648\u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2007,
+    "website": "https://aust.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Hama",
+        "ar": "\u062d\u0645\u0627\u0629"
+      },
+      "locality": {
+        "en": "Besirin, Hama Governorate"
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q12185345",
+      "website": "https://aust.edu.sy"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-aram-university-for-sciences",
+    "name": {
+      "en": "Aram University for Sciences",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0622\u0631\u0627\u0645 \u0644\u0644\u0639\u0644\u0648\u0645"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2018,
+    "website": "https://aram-sy.com/",
+    "location": {
+      "governorate": {
+        "en": "Aleppo",
+        "ar": "\u062d\u0644\u0628"
+      },
+      "locality": {
+        "en": "Azaz, Aleppo Governorate"
+      }
+    },
+    "externalIds": {
+      "website": "https://aram-sy.com/"
+    },
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-basaksehir-university",
+    "name": {
+      "en": "Ba\u015fak\u015fehir University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0628\u0627\u0634\u0627\u0643 \u0634\u0647\u064a\u0631"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2021,
+    "website": "https://bsu.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Aleppo",
+        "ar": "\u062d\u0644\u0628"
+      },
+      "locality": {
+        "en": "Al-Bab, Aleppo Governorate"
+      }
+    },
+    "externalIds": {
+      "website": "https://bsu.edu.sy"
+    },
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-bilad-al-sham-university-for-sharia-sciences",
+    "name": {
+      "en": "Bilad Al-Sham University for Sharia Sciences",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0628\u0644\u0627\u062f \u0627\u0644\u0634\u0627\u0645 \u0644\u0644\u0639\u0644\u0648\u0645 \u0627\u0644\u0634\u0631\u0639\u064a\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2011,
+    "website": "http://shamkuftaro.org/",
+    "location": {
+      "governorate": {
+        "en": "Damascus",
+        "ar": "\u062f\u0645\u0634\u0642"
+      },
+      "locality": {
+        "en": "Damascus"
+      }
+    },
+    "externalIds": {
+      "website": "http://shamkuftaro.org/"
+    },
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-cordoba-private-university",
+    "name": {
+      "en": "Cordoba Private University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0642\u0631\u0637\u0628\u0629 \u0627\u0644\u062e\u0627\u0635\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2003,
+    "website": "https://cpu.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Aleppo",
+        "ar": "\u062d\u0644\u0628"
+      },
+      "locality": {
+        "en": "Aleppo"
+      },
+      "centroid": {
+        "latitude": 36.58138889,
+        "longitude": 36.96638889
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q15244396",
+      "website": "https://cpu.edu.sy"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Comparison conflict reviewed for seed fields: website."
+  },
+  {
+    "id": "sy-damascus-university",
+    "name": {
+      "en": "Damascus University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u062f\u0645\u0634\u0642"
+    },
+    "aliases": [],
+    "institutionType": "public",
+    "operationalStatus": "unknown",
+    "foundedYear": 1923,
+    "website": "http://www.damascusuniversity.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Damascus",
+        "ar": "\u062f\u0645\u0634\u0642"
+      },
+      "locality": {
+        "en": "Damascus"
+      },
+      "centroid": {
+        "latitude": 33.51138889,
+        "longitude": 36.29138889
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q1351317",
+      "website": "http://www.damascusuniversity.edu.sy"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Founded year resolved as 1923 during maintainer seed review. Comparison conflict reviewed for seed fields: foundedYear."
+  },
+  {
+    "id": "sy-ebla-private-university",
+    "name": {
+      "en": "Ebla Private University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0625\u064a\u0628\u0644\u0627 \u0627\u0644\u062e\u0627\u0635\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2007,
+    "website": "http://www.ebla.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Idlib",
+        "ar": "\u0625\u062f\u0644\u0628"
+      },
+      "locality": {
+        "en": "Idlib Governorate"
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q12204389",
+      "website": "http://www.ebla.edu.sy"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Comparison conflict reviewed for seed fields: foundedYear, website."
+  },
+  {
+    "id": "sy-faculty-of-theology",
+    "name": {
+      "en": "Faculty of Theology",
+      "ar": "\u0643\u0644\u064a\u0629 \u0627\u0644\u0644\u0627\u0647\u0648\u062a \u0627\u0644\u062e\u0627\u0635\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2021,
+    "website": "https://theologyfaculty.org",
+    "location": {
+      "governorate": {
+        "en": "Damascus",
+        "ar": "\u062f\u0645\u0634\u0642"
+      },
+      "locality": {
+        "en": "Damascus"
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q131418366",
+      "website": "https://theologyfaculty.org"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Comparison conflict reviewed for seed fields: foundedYear."
+  },
+  {
+    "id": "sy-hama-university",
+    "name": {
+      "en": "Hama University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u062d\u0645\u0627\u0629"
+    },
+    "aliases": [],
+    "institutionType": "public",
+    "operationalStatus": "unknown",
+    "foundedYear": 2014,
+    "website": "https://hama-univ.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Hama",
+        "ar": "\u062d\u0645\u0627\u0629"
+      },
+      "locality": {
+        "en": "Hama"
+      },
+      "centroid": {
+        "latitude": 35.130833,
+        "longitude": 36.759444
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q16875454",
+      "website": "https://hama-univ.edu.sy"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-higher-institute-of-administration",
+    "name": {
+      "en": "Higher Institute of Administration",
+      "ar": "\u0627\u0644\u0645\u0639\u0647\u062f \u0627\u0644\u0639\u0627\u0644\u064a \u0644\u0644\u0625\u062f\u0627\u0631\u0629"
+    },
+    "aliases": [],
+    "institutionType": "technical",
+    "operationalStatus": "unknown",
+    "foundedYear": 2024,
+    "website": null,
+    "location": {
+      "governorate": {
+        "en": "Idlib",
+        "ar": "\u0625\u062f\u0644\u0628"
+      },
+      "locality": {
+        "en": "Idlib"
+      }
+    },
+    "externalIds": {},
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-higher-institute-of-applied-sciences-and-technology",
+    "name": {
+      "en": "Higher Institute of Applied Sciences and Technology",
+      "ar": "\u0627\u0644\u0645\u0639\u0647\u062f \u0627\u0644\u0639\u0627\u0644\u064a \u0644\u0644\u0639\u0644\u0648\u0645 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u064a\u0629 \u0648\u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627"
+    },
+    "aliases": [],
+    "institutionType": "technical",
+    "operationalStatus": "unknown",
+    "foundedYear": 1983,
+    "website": "https://hiast.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Damascus",
+        "ar": "\u062f\u0645\u0634\u0642"
+      },
+      "locality": {
+        "en": "Damascus"
+      },
+      "centroid": {
+        "latitude": 33.5542,
+        "longitude": 36.3123
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q5758173",
+      "website": "https://hiast.edu.sy"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-higher-institute-of-business-administration",
+    "name": {
+      "en": "Higher Institute of Business Administration",
+      "ar": "\u0627\u0644\u0645\u0639\u0647\u062f \u0627\u0644\u0639\u0627\u0644\u064a \u0644\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0623\u0639\u0645\u0627\u0644"
+    },
+    "aliases": [],
+    "institutionType": "technical",
+    "operationalStatus": "unknown",
+    "foundedYear": 2001,
+    "website": "https://www.hiba.edu.sy/",
+    "location": {
+      "governorate": {
+        "en": "Damascus",
+        "ar": "\u062f\u0645\u0634\u0642"
+      },
+      "locality": {
+        "en": "Damascus"
+      },
+      "centroid": {
+        "latitude": 33.54992,
+        "longitude": 36.30595
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q12193458",
+      "website": "https://www.hiba.edu.sy/"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-higher-institute-of-cinematic-arts",
+    "name": {
+      "en": "Higher Institute of Cinematic Arts",
+      "ar": "\u0627\u0644\u0645\u0639\u0647\u062f \u0627\u0644\u0639\u0627\u0644\u064a \u0644\u0644\u0641\u0646\u0648\u0646 \u0627\u0644\u0633\u064a\u0646\u0645\u0627\u0626\u064a\u0629"
+    },
+    "aliases": [],
+    "institutionType": "technical",
+    "operationalStatus": "unknown",
+    "foundedYear": 2021,
+    "website": null,
+    "location": {
+      "governorate": {
+        "en": "Damascus",
+        "ar": "\u062f\u0645\u0634\u0642"
+      },
+      "locality": {
+        "en": "Damascus"
+      }
+    },
+    "externalIds": {},
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Accepted."
+  },
+  {
+    "id": "sy-higher-institute-of-demographic-studies-and-research",
+    "name": {
+      "en": "Higher Institute of Demographic Studies and Research",
+      "ar": "\u0627\u0644\u0645\u0639\u0647\u062f \u0627\u0644\u0639\u0627\u0644\u064a \u0644\u0644\u062f\u0631\u0627\u0633\u0627\u062a \u0648\u0627\u0644\u0628\u062d\u0648\u062b \u0627\u0644\u0633\u0643\u0627\u0646\u064a\u0629"
+    },
+    "aliases": [],
+    "institutionType": "technical",
+    "operationalStatus": "unknown",
+    "foundedYear": 2003,
+    "website": "http://hidsr.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Damascus",
+        "ar": "\u062f\u0645\u0634\u0642"
+      },
+      "locality": {
+        "en": "Damascus"
+      }
+    },
+    "externalIds": {
+      "website": "http://hidsr.edu.sy"
+    },
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Accepted. Reviewer provided website: http://hidsr.edu.sy/."
+  },
+  {
+    "id": "sy-higher-institute-of-dramatic-arts",
+    "name": {
+      "en": "Higher Institute of Dramatic Arts",
+      "ar": "\u0627\u0644\u0645\u0639\u0647\u062f \u0627\u0644\u0639\u0627\u0644\u064a \u0644\u0644\u0641\u0646\u0648\u0646 \u0627\u0644\u0645\u0633\u0631\u062d\u064a\u0629"
+    },
+    "aliases": [],
+    "institutionType": "technical",
+    "operationalStatus": "unknown",
+    "foundedYear": 1977,
+    "website": null,
+    "location": {
+      "governorate": {
+        "en": "Damascus",
+        "ar": "\u062f\u0645\u0634\u0642"
+      },
+      "locality": {
+        "en": "Damascus"
+      },
+      "centroid": {
+        "latitude": 33.51249,
+        "longitude": 36.27948
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q12193500"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Accepted. Reviewer notes missing official website is fine for this record."
+  },
+  {
+    "id": "sy-higher-institute-of-music",
+    "name": {
+      "en": "Higher Institute of Music",
+      "ar": "\u0627\u0644\u0645\u0639\u0647\u062f \u0627\u0644\u0639\u0627\u0644\u064a \u0644\u0644\u0645\u0648\u0633\u064a\u0642\u0627"
+    },
+    "aliases": [],
+    "institutionType": "technical",
+    "operationalStatus": "unknown",
+    "foundedYear": 1990,
+    "website": null,
+    "location": {
+      "governorate": {
+        "en": "Damascus",
+        "ar": "\u062f\u0645\u0634\u0642"
+      },
+      "locality": {
+        "en": "Damascus"
+      }
+    },
+    "externalIds": {},
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Accepted. Reviewer notes missing official website is fine for this record."
+  },
+  {
+    "id": "sy-homs-university",
+    "name": {
+      "en": "Homs University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u062d\u0645\u0635"
+    },
+    "aliases": [],
+    "institutionType": "public",
+    "operationalStatus": "unknown",
+    "foundedYear": 1979,
+    "website": "https://homs-univ.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Homs",
+        "ar": "\u062d\u0645\u0635"
+      },
+      "locality": {
+        "en": "Homs"
+      },
+      "centroid": {
+        "latitude": 34.7128,
+        "longitude": 36.7086
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q797514",
+      "website": "https://homs-univ.edu.sy"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-idlib-university",
+    "name": {
+      "en": "Idlib University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0625\u062f\u0644\u0628"
+    },
+    "aliases": [],
+    "institutionType": "public",
+    "operationalStatus": "unknown",
+    "foundedYear": 2015,
+    "website": "https://idlib.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Idlib",
+        "ar": "\u0625\u062f\u0644\u0628"
+      },
+      "locality": {
+        "en": "Idlib"
+      },
+      "centroid": {
+        "latitude": 35.9406,
+        "longitude": 36.6227
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q30314718",
+      "website": "https://idlib.edu.sy"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-institute-of-economic-and-social-planning",
+    "name": {
+      "en": "Institute of Economic and Social Planning",
+      "ar": "\u0645\u0639\u0647\u062f \u0627\u0644\u062a\u062e\u0637\u064a\u0637 \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f\u064a \u0648\u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a"
+    },
+    "aliases": [],
+    "institutionType": "technical",
+    "operationalStatus": "unknown",
+    "foundedYear": 1966,
+    "website": null,
+    "location": {
+      "governorate": {
+        "en": "Damascus",
+        "ar": "\u062f\u0645\u0634\u0642"
+      },
+      "locality": {
+        "en": "Damascus"
+      }
+    },
+    "externalIds": {},
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Accepted after scope update. Reviewer clarified higher institutes (\u0645\u0639\u0627\u0647\u062f \u0639\u0644\u064a\u0627) should be included in this dataset."
+  },
+  {
+    "id": "sy-international-university-for-science-and-renaissance",
+    "name": {
+      "en": "International University for Science and Renaissance",
+      "ar": "\u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u062f\u0648\u0644\u064a\u0629 \u0644\u0644\u0639\u0644\u0648\u0645 \u0648\u0627\u0644\u0646\u0647\u0636\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2017,
+    "website": "https://iusr.university/",
+    "location": {
+      "governorate": {
+        "en": "Aleppo",
+        "ar": "\u062d\u0644\u0628"
+      },
+      "locality": {
+        "en": "Azaz, Aleppo Governorate"
+      }
+    },
+    "externalIds": {
+      "website": "https://iusr.university/"
+    },
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-international-university-for-science-and-technology",
+    "name": {
+      "en": "International University for Science and Technology",
+      "ar": "\u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u062f\u0648\u0644\u064a\u0629 \u0627\u0644\u062e\u0627\u0635\u0629 \u0644\u0644\u0639\u0644\u0648\u0645 \u0648\u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2005,
+    "website": "https://iust.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Daraa",
+        "ar": "\u062f\u0631\u0639\u0627"
+      },
+      "locality": {
+        "en": "Daraa Governorate"
+      },
+      "centroid": {
+        "latitude": 33.17513,
+        "longitude": 36.29471
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q6054144",
+      "website": "https://iust.edu.sy"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-ittihad-private-university",
+    "name": {
+      "en": "Ittihad Private University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u062e\u0627\u0635\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2003,
+    "website": "http://www.ipu.edu.sy/",
+    "location": {
+      "governorate": {
+        "en": "Aleppo",
+        "ar": "\u062d\u0644\u0628"
+      },
+      "locality": {
+        "en": "Raqqa"
+      }
+    },
+    "externalIds": {
+      "website": "http://www.ipu.edu.sy/"
+    },
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-latakia-university",
+    "name": {
+      "en": "Latakia University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0644\u0627\u0630\u0642\u064a\u0629"
+    },
+    "aliases": [],
+    "institutionType": "public",
+    "operationalStatus": "unknown",
+    "foundedYear": 1971,
+    "website": "https://latakia-univ.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Latakia",
+        "ar": "\u0627\u0644\u0644\u0627\u0630\u0642\u064a\u0629"
+      },
+      "locality": {
+        "en": "Latakia"
+      },
+      "centroid": {
+        "latitude": 35.523333,
+        "longitude": 35.807778
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q7809596",
+      "website": "https://latakia-univ.edu.sy"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-mari-private-university",
+    "name": {
+      "en": "Mari Private University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0645\u0627\u0631\u064a \u0627\u0644\u062e\u0627\u0635\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2015,
+    "website": "https://mari.edu.sy/",
+    "location": {
+      "governorate": {
+        "en": "Idlib",
+        "ar": "\u0625\u062f\u0644\u0628"
+      },
+      "locality": {
+        "en": "Hizano, Idlib Governorate"
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q108835620",
+      "website": "https://mari.edu.sy/"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Comparison conflict reviewed for seed fields: website."
+  },
+  {
+    "id": "sy-national-institute-of-public-administration",
+    "name": {
+      "en": "National Institute of Public Administration",
+      "ar": "\u0627\u0644\u0645\u0639\u0647\u062f \u0627\u0644\u0648\u0637\u0646\u064a \u0644\u0644\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0639\u0627\u0645\u0629"
+    },
+    "aliases": [],
+    "institutionType": "technical",
+    "operationalStatus": "unknown",
+    "foundedYear": 2002,
+    "website": "http://www.ina.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Damascus",
+        "ar": "\u062f\u0645\u0634\u0642"
+      },
+      "locality": {
+        "en": "Damascus"
+      }
+    },
+    "externalIds": {
+      "website": "http://www.ina.edu.sy"
+    },
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-qasyoun-private-university",
+    "name": {
+      "en": "Qasyoun Private University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0642\u0627\u0633\u064a\u0648\u0646 \u0627\u0644\u062e\u0627\u0635\u0629 \u0644\u0644\u0639\u0644\u0648\u0645 \u0648\u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2007,
+    "website": "http://qpu.edu.sy/",
+    "location": {
+      "governorate": {
+        "en": "Daraa",
+        "ar": "\u062f\u0631\u0639\u0627"
+      },
+      "locality": {
+        "en": "Daraa Governorate"
+      },
+      "centroid": {
+        "latitude": 33.07430404,
+        "longitude": 36.285997645
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q109257356",
+      "website": "http://qpu.edu.sy/"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Comparison conflict reviewed for seed fields: foundedYear."
+  },
+  {
+    "id": "sy-syrian-private-university",
+    "name": {
+      "en": "Syrian Private University",
+      "ar": "\u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0633\u0648\u0631\u064a\u0629 \u0627\u0644\u062e\u0627\u0635\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2005,
+    "website": "http://www.spu.edu.sy/",
+    "location": {
+      "governorate": {
+        "en": "Damascus",
+        "ar": "\u062f\u0645\u0634\u0642"
+      },
+      "locality": {
+        "en": "Damascus"
+      },
+      "centroid": {
+        "latitude": 33.3143,
+        "longitude": 36.2693
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q16014234",
+      "website": "http://www.spu.edu.sy/"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-syrian-university-for-science-and-technology",
+    "name": {
+      "en": "Syrian University for Science and Technology",
+      "ar": "\u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0633\u0648\u0631\u064a\u0629 \u0644\u0644\u0639\u0644\u0648\u0645 \u0648\u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2018,
+    "website": "https://syrian-university.com",
+    "location": {
+      "governorate": {
+        "en": "Idlib",
+        "ar": "\u0625\u062f\u0644\u0628"
+      },
+      "locality": {
+        "en": "Azaz, Aleppo Governorate"
+      }
+    },
+    "externalIds": {
+      "website": "https://syrian-university.com"
+    },
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-syrian-virtual-university",
+    "name": {
+      "en": "Syrian Virtual University",
+      "ar": "\u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0627\u0641\u062a\u0631\u0627\u0636\u064a\u0629 \u0627\u0644\u0633\u0648\u0631\u064a\u0629"
+    },
+    "aliases": [],
+    "institutionType": "virtual",
+    "operationalStatus": "unknown",
+    "foundedYear": 2002,
+    "website": "https://svuonline.org",
+    "location": {
+      "governorate": {
+        "en": "Damascus",
+        "ar": "\u062f\u0645\u0634\u0642"
+      },
+      "locality": {
+        "en": "Damascus"
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q7663251",
+      "website": "https://svuonline.org"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Institution type resolved as virtual during maintainer seed review. Comparison conflict reviewed for seed fields: institutionType."
+  },
+  {
+    "id": "sy-the-islamic-university",
+    "name": {
+      "en": "The Islamic University",
+      "ar": "\u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2024,
+    "website": "https://iuis.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Idlib",
+        "ar": "\u0625\u062f\u0644\u0628"
+      },
+      "locality": {
+        "en": "Idlib Governorate"
+      }
+    },
+    "externalIds": {
+      "website": "https://iuis.edu.sy"
+    },
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-university-of-aleppo",
+    "name": {
+      "en": "University of Aleppo",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u062d\u0644\u0628"
+    },
+    "aliases": [],
+    "institutionType": "public",
+    "operationalStatus": "unknown",
+    "foundedYear": 1958,
+    "website": "https://alepuniv.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Aleppo",
+        "ar": "\u062d\u0644\u0628"
+      },
+      "locality": {
+        "en": "Aleppo"
+      },
+      "centroid": {
+        "latitude": 36.20997,
+        "longitude": 37.12001
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q2302663",
+      "website": "https://alepuniv.edu.sy"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-university-of-kalamoon",
+    "name": {
+      "en": "University of Kalamoon",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0642\u0644\u0645\u0648\u0646 \u0627\u0644\u062e\u0627\u0635\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2003,
+    "website": "http://www.uok.edu.sy/",
+    "location": {
+      "governorate": {
+        "en": "Rif Dimashq",
+        "ar": "\u0631\u064a\u0641 \u062f\u0645\u0634\u0642"
+      },
+      "locality": {
+        "en": "Deir Atiyah, Rif Dimashq Governorate"
+      },
+      "centroid": {
+        "latitude": 34.06916,
+        "longitude": 36.74978
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q649589",
+      "website": "http://www.uok.edu.sy/"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-university-of-tartus",
+    "name": {
+      "en": "University of Tartus",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0637\u0631\u0637\u0648\u0633"
+    },
+    "aliases": [],
+    "institutionType": "public",
+    "operationalStatus": "unknown",
+    "foundedYear": 2015,
+    "website": "http://tartous-univ.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Tartus",
+        "ar": "\u0637\u0631\u0637\u0648\u0633"
+      },
+      "locality": {
+        "en": "Tartus"
+      },
+      "centroid": {
+        "latitude": 34.8775186,
+        "longitude": 35.9077587
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q22687010",
+      "website": "http://tartous-univ.edu.sy"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-wadi-international-university",
+    "name": {
+      "en": "Wadi International University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0648\u0627\u062f\u064a \u0627\u0644\u062f\u0648\u0644\u064a\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2005,
+    "website": "https://wiu.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Homs",
+        "ar": "\u062d\u0645\u0635"
+      },
+      "locality": {
+        "en": "Wadi al-Nasara, Homs Governorate"
+      },
+      "centroid": {
+        "latitude": 34.711468451,
+        "longitude": 36.29473303
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q1282182",
+      "website": "https://wiu.edu.sy"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed"
+  },
+  {
+    "id": "sy-yarmouk-private-university",
+    "name": {
+      "en": "Yarmouk Private University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u064a\u0631\u0645\u0648\u0643 \u0627\u0644\u062e\u0627\u0635\u0629"
+    },
+    "aliases": [],
+    "institutionType": "private",
+    "operationalStatus": "unknown",
+    "foundedYear": 2007,
+    "website": "https://ypu.edu.sy",
+    "location": {
+      "governorate": {
+        "en": "Daraa",
+        "ar": "\u062f\u0631\u0639\u0627"
+      },
+      "locality": {
+        "en": "Jabab, Daraa Governorate"
+      },
+      "centroid": {
+        "latitude": 33.08845,
+        "longitude": 36.28393
+      }
+    },
+    "externalIds": {
+      "wikidata": "Q18395937",
+      "website": "https://ypu.edu.sy"
+    },
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Comparison conflict reviewed for seed fields: foundedYear."
+  }
+]

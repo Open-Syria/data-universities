@@ -4,4 +4,5 @@ Record source approval decisions here as real university sources are reviewed.
 
 | Source ID | Status | Use | Decision |
 | --- | --- | --- | --- |
-| _pending_ | _pending_ | _pending_ | _pending_ |
+| wikidata | approved | Public names, identifiers, official website links, founding years, and coordinates where present. | Approved for seed import under CC0 1.0. |
+| wikipedia-list-universities-syria | approved | Open control list for names, institution grouping, location, founding year, and website values. | Approved for seed import under CC BY-SA 4.0 with attribution retained through the source registry. |
