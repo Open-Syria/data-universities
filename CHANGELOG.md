@@ -2,6 +2,13 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v0.1.8 - 2026-06-29
+
+### Added
+
+- Add five accepted Wikidata-only post-seed candidate records with reviewed labels and no current duplicate hit.
+- Add a reviewed import manifest for the Wikidata-only candidate batch.
+
 ## v0.1.7 - 2026-06-29
 
 ### Added

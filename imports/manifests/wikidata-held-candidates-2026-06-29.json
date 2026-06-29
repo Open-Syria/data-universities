@@ -1,0 +1,37 @@
+{
+  "sourceId": "wikidata",
+  "sourceTitle": "Wikidata",
+  "sourceUrl": "https://www.wikidata.org/",
+  "license": "CC0 1.0",
+  "licenseUrl": "https://www.wikidata.org/wiki/Wikidata:Licensing",
+  "accessedAt": "2026-06-29T00:00:00.000Z",
+  "status": "reviewed",
+  "rawFiles": [
+    {
+      "name": "outputs/universities/wikidata-candidates.json",
+      "sha256": "ac646013f90fe0362ce2c8aa051bd0f1465c8a6b044035126881b1dfa7f25481",
+      "notes": "Local automation candidate output retained in data-automation."
+    },
+    {
+      "name": "outputs/universities/seed-review-gaps.json",
+      "sha256": "fb1dc10aabf8070c79b0ff7658003ff1bbac1de43d17b403ce0e8b78146ef890",
+      "notes": "Local held-candidate review artifact retained in data-automation."
+    },
+    {
+      "name": "outputs/universities/source-comparison-report.json",
+      "sha256": "2f2a5d8dc3bc97239c36e40e2737406a49bba36a60c90118d14840a5cb27691a",
+      "notes": "Reviewed comparison artifact used to confirm these candidates were held out of the seed export."
+    }
+  ],
+  "importedFields": ["name", "website", "foundedYear", "externalIds"],
+  "targetFiles": ["data/universities.json"],
+  "transforms": [
+    "Selected Wikidata-only candidates with reviewed English labels and no current duplicate hit.",
+    "Deferred sy-al-shahbaa-university for duplicate/enrichment review against the existing Al-Shahba University record.",
+    "Deferred Wikidata Q114672251 and Q28715211 because they need source-backed English names before canonical import.",
+    "Set institutionType to other because Wikidata did not provide a canonical public/private classification matching this schema.",
+    "Kept websites null where Wikidata did not provide an official website.",
+    "Kept location null where Wikidata did not provide source-backed location fields in the local candidate output."
+  ],
+  "reviewNotes": "Fifth candidate-record batch import. The records remain sourced to approved Wikidata data with CC0 attribution retained through the source registry."
+}

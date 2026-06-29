@@ -2047,5 +2047,101 @@
     "sourceIds": ["wikipedia-list-universities-syria"],
     "sourceStatus": "seed",
     "notes": "Accepted from the post-seed foreign-branch candidate batch. Website is the source-listed parent university website, not a confirmed branch-specific page."
+  },
+  {
+    "id": "sy-free-aleppo-university",
+    "name": {
+      "en": "Free Aleppo University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u062d\u0644\u0628 \u0641\u064a \u0627\u0644\u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u062d\u0631\u0631\u0629"
+    },
+    "aliases": [],
+    "institutionType": "other",
+    "operationalStatus": "unknown",
+    "foundedYear": 2015,
+    "website": null,
+    "location": null,
+    "externalIds": {
+      "wikidata": "Q108835718"
+    },
+    "sourceIds": ["wikidata"],
+    "sourceStatus": "seed",
+    "notes": "Accepted from the post-seed Wikidata-only candidate batch. Official website not confirmed from approved sources."
+  },
+  {
+    "id": "sy-free-syrian-university",
+    "name": {
+      "en": "Free Syrian University",
+      "ar": "\u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0633\u0648\u0631\u064a\u0629 \u0627\u0644\u062d\u0631\u0629"
+    },
+    "aliases": [],
+    "institutionType": "other",
+    "operationalStatus": "unknown",
+    "foundedYear": 2013,
+    "website": "http://www.fsyriauni.com/index.php",
+    "location": null,
+    "externalIds": {
+      "wikidata": "Q18639232",
+      "website": "http://www.fsyriauni.com/index.php"
+    },
+    "sourceIds": ["wikidata"],
+    "sourceStatus": "seed",
+    "notes": "Accepted from the post-seed Wikidata-only candidate batch."
+  },
+  {
+    "id": "sy-international-suleiman-university",
+    "name": {
+      "en": "International Suleiman University",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0633\u0644\u064a\u0645\u0627\u0646 \u0627\u0644\u062f\u0648\u0644\u064a\u0629"
+    },
+    "aliases": [],
+    "institutionType": "other",
+    "operationalStatus": "unknown",
+    "foundedYear": 2007,
+    "website": null,
+    "location": null,
+    "externalIds": {
+      "wikidata": "Q124412132"
+    },
+    "sourceIds": ["wikidata"],
+    "sourceStatus": "seed",
+    "notes": "Accepted from the post-seed Wikidata-only candidate batch. Official website not confirmed from approved sources."
+  },
+  {
+    "id": "sy-private-university-of-science-and-arts",
+    "name": {
+      "en": "Private University of Science and Arts",
+      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0639\u0644\u0648\u0645 \u0648\u0627\u0644\u0641\u0646\u0648\u0646"
+    },
+    "aliases": [],
+    "institutionType": "other",
+    "operationalStatus": "unknown",
+    "foundedYear": null,
+    "website": "http://pusa-sy.org/",
+    "location": null,
+    "externalIds": {
+      "wikidata": "Q12204443",
+      "website": "http://pusa-sy.org/"
+    },
+    "sourceIds": ["wikidata"],
+    "sourceStatus": "seed",
+    "notes": "Accepted from the post-seed Wikidata-only candidate batch."
+  },
+  {
+    "id": "sy-raqqa-university",
+    "name": {
+      "en": "Raqqa University"
+    },
+    "aliases": [],
+    "institutionType": "other",
+    "operationalStatus": "unknown",
+    "foundedYear": null,
+    "website": null,
+    "location": null,
+    "externalIds": {
+      "wikidata": "Q28937031"
+    },
+    "sourceIds": ["wikidata"],
+    "sourceStatus": "seed",
+    "notes": "Accepted from the post-seed Wikidata-only candidate batch. Arabic name and official website not confirmed from approved sources."
   }
 ]
