@@ -4,6 +4,12 @@ The `v0.1.0` seed release includes records that were present in the internal com
 
 The next enrichment work should be handled in separate reviewed batches.
 
+## Batch Trackers
+
+- [Candidate Records Batch](post-seed/CANDIDATE_RECORDS_BATCH.md)
+- [Image Assets Batch](post-seed/IMAGE_ASSETS_BATCH.md)
+- [Faculties, Programs, And Rankings Batch](post-seed/FACULTIES_PROGRAMS_RANKINGS_BATCH.md)
+
 ## Candidate Records Held For Review
 
 30 public-source candidates were held out of `v0.1.0` because they were not present in the comparison control list.
