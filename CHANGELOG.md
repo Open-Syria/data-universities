@@ -2,6 +2,13 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v0.1.9 - 2026-06-29
+
+### Changed
+
+- Merge two held Wikidata duplicate/enrichment candidates into existing canonical records.
+- Add a reviewed import manifest for the duplicate/enrichment cleanup.
+
 ## v0.1.8 - 2026-06-29
 
 ### Added

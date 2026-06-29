@@ -6,7 +6,7 @@ Use `pnpm run report:data` for first-pass coverage counts.
 
 - 83 university and higher-institute records.
 - 39 private, 12 public, 9 technical/high-institute, 1 virtual institution, and 22 other institutions.
-- 36 records include Wikidata identifiers.
+- 38 records include Wikidata identifiers.
 - 29 records currently have no official website.
 - 2 reviewed Wikimedia Commons image asset records in `data/assets.json`.
 
