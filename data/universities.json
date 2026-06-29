@@ -308,6 +308,30 @@
     "sourceStatus": "seed"
   },
   {
+    "id": "sy-al-shahbaa-aleppo-university",
+    "name": {
+      "en": "Al-Shahbaa Aleppo University"
+    },
+    "aliases": [],
+    "institutionType": "public",
+    "operationalStatus": "unknown",
+    "foundedYear": 2024,
+    "website": null,
+    "location": {
+      "governorate": {
+        "en": "Idlib",
+        "ar": "\u0625\u062f\u0644\u0628"
+      },
+      "locality": {
+        "en": "Idlib"
+      }
+    },
+    "externalIds": {},
+    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceStatus": "seed",
+    "notes": "Accepted from the post-seed candidate batch. Distinct from the private Al-Shahba University record."
+  },
+  {
     "id": "sy-al-shahba-university",
     "name": {
       "en": "Al-Shahba University",

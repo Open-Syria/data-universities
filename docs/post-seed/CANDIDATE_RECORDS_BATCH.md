@@ -5,10 +5,12 @@ This batch tracks public-source candidate records that were held out of `v0.1.0`
 The local maintainer review artifact reported:
 
 - 57 seed records exported to `data/universities.json`,
-- 30 held-for-review candidate records,
+- 30 held-for-review candidate records before the first candidate batch,
 - 21 held candidates present only in the Wikipedia list artifact,
 - 8 held candidates present only in the Wikidata artifact,
 - 1 held candidate present in both Wikipedia and Wikidata artifacts.
+
+`v0.1.3` releases one accepted candidate record, leaving 29 held candidates for later review.
 
 The comparison artifact is not a source. Canonical additions must cite approved public sources in `data/sources.json` and import manifests.
 
@@ -25,7 +27,7 @@ The comparison artifact is not a source. Canonical additions must cite approved 
 
 | Candidate | Name | Status | Missing | Public Signals |
 | --- | --- | --- | --- | --- |
-| `sy-al-shahbaa-aleppo-university` | Al-Shahbaa Aleppo University | accepted | Arabic name, official website | Wikipedia |
+| `sy-al-shahbaa-aleppo-university` | Al-Shahbaa Aleppo University | released in v0.1.3 | Arabic name, official website | Wikipedia |
 | `sy-homs-military-academy` | Homs Military Academy | needs review | official website | Wikipedia, Wikidata |
 | `sy-al-assad-military-academy` | Al-Assad Military Academy | pending review | Arabic name, official website | Wikipedia |
 | `sy-al-shahbaa-university` | Al-Shahbaa University | pending review |  | Wikidata |
@@ -63,7 +65,8 @@ Before adding a held candidate:
 - confirm the institution is in scope for the dataset,
 - confirm the record is not an alias or duplicate of an existing seed record,
 - choose a stable `sy-...` ID,
-- confirm English and Arabic names from approved public sources,
+- confirm English names from approved public sources,
+- add Arabic names only when an approved public source provides them,
 - include an official website when one can be confirmed,
 - include location fields only when source-backed,
 - update `data/sources.json` and `imports/manifests/` when a new source is used,

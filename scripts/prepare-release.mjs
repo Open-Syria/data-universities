@@ -18,7 +18,7 @@ const booleanOptions = new Set([
 function usage() {
   return `
 Usage:
-  pnpm run release:prepare -- --version v0.1.2
+  pnpm run release:prepare -- --version v0.1.3
 
 Options:
   --version <tag>                 Release tag. "v" prefix is optional.

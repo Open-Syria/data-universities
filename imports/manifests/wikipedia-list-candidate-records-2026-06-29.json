@@ -1,0 +1,34 @@
+{
+  "sourceId": "wikipedia-list-universities-syria",
+  "sourceTitle": "Wikipedia: List of universities and colleges in Syria",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_universities_and_colleges_in_Syria",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "accessedAt": "2026-06-29T00:00:00.000Z",
+  "status": "reviewed",
+  "rawFiles": [
+    {
+      "name": "outputs/universities/wikipedia-list-candidates.json",
+      "sha256": "27d1ced935b72b048d4d1bc54105184fedd217a23414509d7108343afc710823",
+      "notes": "Local automation candidate output retained in data-automation."
+    },
+    {
+      "name": "outputs/universities/seed-review-gaps.json",
+      "sha256": "fb1dc10aabf8070c79b0ff7658003ff1bbac1de43d17b403ce0e8b78146ef890",
+      "notes": "Local held-candidate review artifact retained in data-automation."
+    },
+    {
+      "name": "outputs/universities/source-comparison-report.json",
+      "sha256": "2f2a5d8dc3bc97239c36e40e2737406a49bba36a60c90118d14840a5cb27691a",
+      "notes": "Reviewed comparison artifact used to confirm the candidate was held out of the seed export."
+    }
+  ],
+  "importedFields": ["name", "institutionType", "location", "foundedYear"],
+  "targetFiles": ["data/universities.json"],
+  "transforms": [
+    "Selected only the accepted held candidate from the post-seed candidate batch.",
+    "Confirmed the record is distinct from the existing private Al-Shahba University record.",
+    "Kept website null because no approved public source confirmed an official website."
+  ],
+  "reviewNotes": "First candidate-record batch import. The record remains sourced to the approved Wikipedia list source with CC BY-SA attribution retained through the source registry."
+}

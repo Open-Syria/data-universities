@@ -2,6 +2,13 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v0.1.3 - 2026-06-29
+
+### Added
+
+- Add the first accepted post-seed candidate record, `sy-al-shahbaa-aleppo-university`.
+- Add a reviewed import manifest for the candidate-record batch.
+
 ## v0.1.2 - 2026-06-29
 
 ### Added
