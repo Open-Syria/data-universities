@@ -12,11 +12,11 @@ The current local maintainer artifacts show:
 - 2 reviewed candidates licensed as `CC BY-SA 4.0`,
 - 2 reviewed candidates requiring attribution,
 - 2 downloaded images converted into 8 WebP/AVIF variants,
-- 8 R2 objects prepared in a dry-run upload manifest.
+- 8 R2 objects uploaded and verified through `https://cdn.opensyria.org`.
 
 The 126 comparison-snapshot image candidates are not approved for upload. They are review hints only.
 
-The two reviewed Wikimedia Commons candidates are approved as the first small image batch through `data/assets.json`, which keeps attribution metadata next to the CDN variants.
+The two reviewed Wikimedia Commons candidates are approved as the first small image batch through `data/assets.json`, which keeps attribution metadata next to the CDN variants. Their generated WebP/AVIF variants have been uploaded to R2 and verified through the public CDN.
 
 ## Rules
 
