@@ -5,7 +5,7 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
   "accessedAt": "2026-06-29T00:00:00.000Z",
-  "status": "reviewed",
+  "status": "superseded",
   "rawFiles": [
     {
       "name": "outputs/universities/wikipedia-list-candidates.json",
@@ -31,7 +31,8 @@
     "Set foundedYear to null because the source row did not provide an established year.",
     "Parsed the source table Website value into https://oiu.edu.sd/ and retained it as the source-listed parent university website.",
     "Kept Arabic name absent because the approved source batch did not provide a source-backed Arabic name.",
-    "Imported only source-backed locality values and did not infer governorates."
+    "Imported only source-backed locality values and did not infer governorates.",
+    "v0.1.11 restored the production boundary to records present in the internal comparison control list and moved non-control-list additions back to the held-candidate backlog."
   ],
-  "reviewNotes": "Fourth candidate-record batch import. The record remains sourced to the approved Wikipedia list source with CC BY-SA attribution retained through the source registry."
+  "reviewNotes": "Reviewed public-source foreign-branch candidate batch. Superseded by v0.1.11 because the candidate is not present in the internal comparison control list; retained in the held-candidate backlog."
 }

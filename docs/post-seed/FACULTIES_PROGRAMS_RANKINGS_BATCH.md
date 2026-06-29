@@ -9,7 +9,7 @@ The current local comparison artifact contains:
 - 89 specialty candidates,
 - 468 faculty candidates,
 - 8 ranking sections,
-- 568 ranking rows.
+- 568 ranking rows mapped to 40 of the 57 canonical university records.
 
 These counts are useful for planning but are not canonical data.
 
@@ -40,6 +40,8 @@ Faculties and programs should reference a canonical university `id`. Rankings sh
 - Prefer official university pages or open licensed datasets for faculty/program data.
 - Treat ranking rows as volatile snapshots, not stable university facts.
 - Keep ranking data out of `data/universities.json`.
+- Do not treat missing ranking rows as a university identity failure until an
+  approved ranking source and scope rule exist.
 
 ## Acceptance Criteria
 

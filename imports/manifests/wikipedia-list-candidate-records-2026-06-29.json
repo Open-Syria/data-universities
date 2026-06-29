@@ -5,7 +5,7 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
   "accessedAt": "2026-06-29T00:00:00.000Z",
-  "status": "reviewed",
+  "status": "superseded",
   "rawFiles": [
     {
       "name": "outputs/universities/wikipedia-list-candidates.json",
@@ -28,7 +28,8 @@
   "transforms": [
     "Selected only the accepted held candidate from the post-seed candidate batch.",
     "Confirmed the record is distinct from the existing private Al-Shahba University record.",
-    "Kept website null because no approved public source confirmed an official website."
+    "Kept website null because no approved public source confirmed an official website.",
+    "v0.1.11 restored the production boundary to records present in the internal comparison control list and moved non-control-list additions back to the held-candidate backlog."
   ],
-  "reviewNotes": "First candidate-record batch import. The record remains sourced to the approved Wikipedia list source with CC BY-SA attribution retained through the source registry."
+  "reviewNotes": "Reviewed public-source candidate batch. Superseded by v0.1.11 because the candidate is not present in the internal comparison control list; retained in the held-candidate backlog."
 }

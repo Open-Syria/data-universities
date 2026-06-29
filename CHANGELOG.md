@@ -2,6 +2,16 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v0.1.11 - 2026-06-29
+
+### Changed
+
+- Restore the canonical university dataset boundary to the 57 records present in the internal comparison control list and confirmed by approved public sources.
+- Reclassify the 27 public-source-only post-seed records as held candidates pending an explicit scope decision.
+- Keep candidate review notes in the post-seed backlog instead of shipping those records as canonical production data.
+- Remove the unused Homs Military Academy source entry from the canonical source registry after reclassifying that candidate as held.
+- Add a production-readiness report that separates hard identity requirements from source-backed coverage targets.
+
 ## v0.1.10 - 2026-06-29
 
 ### Added

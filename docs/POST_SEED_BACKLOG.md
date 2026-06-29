@@ -1,20 +1,28 @@
 # Post-Seed Backlog
 
-The `v0.1.0` seed release includes records that were present in the internal comparison control list and confirmed by approved public sources.
+The `v0.1.0` seed release includes records that were present in the internal
+comparison control list and confirmed by approved public sources. This remains
+the production canonical boundary.
 
 The next enrichment work should be handled in separate reviewed batches.
 
 ## Batch Trackers
 
 - [Candidate Records Batch](post-seed/CANDIDATE_RECORDS_BATCH.md)
+- [Identity Cleanup Batch](post-seed/IDENTITY_CLEANUP_BATCH.md)
 - [Image Assets Batch](post-seed/IMAGE_ASSETS_BATCH.md)
 - [Faculties, Programs, And Rankings Batch](post-seed/FACULTIES_PROGRAMS_RANKINGS_BATCH.md)
 
 ## Candidate Records Held For Review
 
-30 public-source candidates were held out of `v0.1.0` because they were not present in the comparison control list. `v0.1.3` releases the first accepted candidate, `v0.1.4` releases three autonomous-administration candidates, `v0.1.6` releases 16 military and police candidates, `v0.1.7` releases one foreign-branch candidate, `v0.1.8` releases five Wikidata-only candidates, `v0.1.9` merges two duplicate/enrichment candidates into existing records, and `v0.1.10` releases the Homs Military Academy candidate and merges the final Wikidata duplicate candidate.
+30 public-source candidates were held out of `v0.1.0` because they were not
+present in the internal comparison control list. Some were reviewed in early
+post-seed batches, but `v0.1.11` reclassifies the 27 non-control-list additions
+as held candidates instead of canonical production records.
 
-The original held-candidate backlog is now clear. Future candidate records should still be reviewed as separate batches.
+The original held-candidate backlog is not clear for production. Candidate
+records should be reviewed as separate batches and added only after they satisfy
+the current control-list rule or after OpenSyria approves a broader scope rule.
 
 Review future candidates as separate batches:
 
@@ -25,7 +33,8 @@ Review future candidates as separate batches:
 - records missing English or Arabic names,
 - records missing official websites.
 
-Do not add these records only because they appear in a single list. Confirm identity, naming, scope, and source attribution first.
+Do not add these records only because they appear in a single list. Confirm
+identity, naming, scope, source attribution, and the production boundary first.
 
 ## Images
 

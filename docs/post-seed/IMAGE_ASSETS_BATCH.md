@@ -18,6 +18,10 @@ The 126 comparison-snapshot image candidates are not approved for upload. They a
 
 The two reviewed Wikimedia Commons candidates are approved as the first small image batch through `data/assets.json`, which keeps attribution metadata next to the CDN variants. Their generated WebP/AVIF variants have been uploaded to R2 and verified through the public CDN.
 
+Current production coverage is 2 approved image assets for 57 canonical
+universities. The remaining 55 university records should stay without an image
+asset until a reusable image source, license review, and CDN upload are complete.
+
 ## Rules
 
 - Do not hotlink external source images from canonical records.

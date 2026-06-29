@@ -5,7 +5,7 @@
   "license": "CC0 1.0",
   "licenseUrl": "https://www.wikidata.org/wiki/Wikidata:Licensing",
   "accessedAt": "2026-06-29T00:00:00.000Z",
-  "status": "reviewed",
+  "status": "superseded",
   "rawFiles": [
     {
       "name": "https://www.wikidata.org/wiki/Special:EntityData/Q114672251.json",
@@ -27,7 +27,8 @@
   "transforms": [
     "Merged Wikidata Q114672251 into sy-university-of-kobani as a duplicate/enrichment identifier.",
     "Did not create a new record because the existing University of Kobani record already represents the institution.",
-    "Did not import Kurdish aliases because the canonical alias language schema currently accepts only ar, en, and und."
+    "Did not import Kurdish aliases because the canonical alias language schema currently accepts only ar, en, and und.",
+    "v0.1.11 restored the production boundary to records present in the internal comparison control list and moved non-control-list additions back to the held-candidate backlog."
   ],
-  "reviewNotes": "Final held Wikidata-only candidate cleanup."
+  "reviewNotes": "Reviewed Wikidata duplicate/enrichment candidate for University of Kobani. Superseded by v0.1.11 because the canonical University of Kobani candidate is held outside the current internal control-list boundary."
 }

@@ -34,9 +34,15 @@ scripts/
   validate-data.mjs
   build-release.mjs
   prepare-release.mjs
+  analyze-coverage.mjs
 ```
 
 ## Data Scope
+
+The production university identity dataset is anchored to the internal comparison control list. Canonical university records must be present in that control list
+and confirmed with approved public source IDs. Public-source records that are not
+present in the control list are tracked as post-seed candidates until OpenSyria
+makes an explicit scope decision.
 
 University records may include public facts such as:
 
@@ -69,6 +75,8 @@ Useful commands:
 pnpm run validate:data
 pnpm run validate:fixtures
 pnpm run report:data
+pnpm run report:production
+pnpm run coverage:data
 pnpm run release:build
 pnpm run release:build:fixtures
 ```
@@ -84,6 +92,10 @@ pnpm run release:build:fixtures
 - six artifact formats for `rankings`,
 - six artifact formats for `universities`.
 
+`pnpm run coverage:data` writes generated coverage reports to `dist/coverage/`.
+Use the committed coverage docs for stable guidance and the generated report for
+current contribution targets.
+
 ## Documentation
 
 Start with:
@@ -92,5 +104,6 @@ Start with:
 - [Field Reference](docs/FIELD_REFERENCE.md)
 - [Sources](docs/SOURCES.md)
 - [Import Workflow](docs/IMPORT_WORKFLOW.md)
+- [Production Readiness](docs/PRODUCTION_READINESS.md)
 - [Release Checklist](docs/RELEASE_CHECKLIST.md)
 - [Post-Seed Backlog](docs/POST_SEED_BACKLOG.md)

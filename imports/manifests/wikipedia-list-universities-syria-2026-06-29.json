@@ -22,8 +22,8 @@
   "targetFiles": ["data/sources.json", "data/universities.json"],
   "transforms": [
     "Collected the Wikipedia list page through the MediaWiki API using local data-automation.",
-    "Compared sectioned list rows with Wikidata, internal directory review data, and maintainer review decisions.",
-    "Exported only directory-candidate seed records with approved public source IDs."
+    "Compared sectioned list rows with Wikidata, the internal comparison control list, and maintainer review decisions.",
+    "Exported only internal control-list seed records with approved public source IDs."
   ],
   "reviewNotes": "Initial seed import. CC BY-SA attribution is retained through the source registry."
 }

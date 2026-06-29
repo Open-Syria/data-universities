@@ -5,7 +5,7 @@
   "license": "CC0 1.0",
   "licenseUrl": "https://www.wikidata.org/wiki/Wikidata:Licensing",
   "accessedAt": "2026-06-29T00:00:00.000Z",
-  "status": "reviewed",
+  "status": "superseded",
   "rawFiles": [
     {
       "name": "outputs/universities/wikidata-candidates.json",
@@ -31,7 +31,8 @@
     "Deferred Wikidata Q114672251 and Q28715211 because they need source-backed English names before canonical import.",
     "Set institutionType to other because Wikidata did not provide a canonical public/private classification matching this schema.",
     "Kept websites null where Wikidata did not provide an official website.",
-    "Kept location null where Wikidata did not provide source-backed location fields in the local candidate output."
+    "Kept location null where Wikidata did not provide source-backed location fields in the local candidate output.",
+    "v0.1.11 restored the production boundary to records present in the internal comparison control list and moved non-control-list additions back to the held-candidate backlog."
   ],
-  "reviewNotes": "Fifth candidate-record batch import. The records remain sourced to approved Wikidata data with CC0 attribution retained through the source registry."
+  "reviewNotes": "Reviewed Wikidata-only candidate batch. Superseded by v0.1.11 because these candidates are not present in the internal comparison control list; retained in the held-candidate backlog."
 }

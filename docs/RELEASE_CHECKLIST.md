@@ -6,16 +6,18 @@ Before publishing:
 - verify `package.json` version,
 - run `pnpm run validate`,
 - run `pnpm run report:data`,
+- run `pnpm run report:production`,
+- run `pnpm run coverage:data`,
 - build artifacts with `pnpm run release:build`,
 - inspect `dist/release/release-manifest.json`.
 
 For a formal release:
 
 ```bash
-pnpm run release:prepare -- --version v0.1.10
-pnpm run release:publish:github -- --tag v0.1.10 --dry-run
-git tag v0.1.10
-git push origin v0.1.10
+pnpm run release:prepare -- --version v0.1.11
+pnpm run release:publish:github -- --tag v0.1.11 --dry-run
+git tag v0.1.11
+git push origin v0.1.11
 ```
 
 Pushing the version tag runs `.github/workflows/release.yml`, rebuilds and verifies `dist/release`, then publishes the release manifest and artifacts to the GitHub Release.

@@ -308,30 +308,6 @@
     "sourceStatus": "seed"
   },
   {
-    "id": "sy-al-shahbaa-aleppo-university",
-    "name": {
-      "en": "Al-Shahbaa Aleppo University"
-    },
-    "aliases": [],
-    "institutionType": "public",
-    "operationalStatus": "unknown",
-    "foundedYear": 2024,
-    "website": null,
-    "location": {
-      "governorate": {
-        "en": "Idlib",
-        "ar": "\u0625\u062f\u0644\u0628"
-      },
-      "locality": {
-        "en": "Idlib"
-      }
-    },
-    "externalIds": {},
-    "sourceIds": ["wikipedia-list-universities-syria"],
-    "sourceStatus": "seed",
-    "notes": "Accepted from the post-seed candidate batch. Distinct from the private Al-Shahba University record."
-  },
-  {
     "id": "sy-al-shahba-university",
     "name": {
       "en": "Al-Shahba University",
@@ -599,7 +575,7 @@
     "externalIds": {},
     "sourceIds": ["wikipedia-list-universities-syria"],
     "sourceStatus": "seed",
-    "notes": "Comparison conflict reviewed for seed fields: foundedYear."
+    "notes": "Comparison conflict reviewed for seed fields: foundedYear. Official website remains unconfirmed from approved public sources."
   },
   {
     "id": "sy-arab-academy-of-science-and-technology-and-maritime-transport",
@@ -945,7 +921,8 @@
     },
     "externalIds": {},
     "sourceIds": ["wikipedia-list-universities-syria"],
-    "sourceStatus": "seed"
+    "sourceStatus": "seed",
+    "notes": "Official website remains unconfirmed from approved public sources."
   },
   {
     "id": "sy-higher-institute-of-applied-sciences-and-technology",
@@ -1032,7 +1009,7 @@
     "externalIds": {},
     "sourceIds": ["wikipedia-list-universities-syria"],
     "sourceStatus": "seed",
-    "notes": "Accepted."
+    "notes": "Seed record accepted from the internal control-list review; official website remains unconfirmed from approved public sources."
   },
   {
     "id": "sy-higher-institute-of-demographic-studies-and-research",
@@ -1059,7 +1036,7 @@
     },
     "sourceIds": ["wikipedia-list-universities-syria"],
     "sourceStatus": "seed",
-    "notes": "Accepted. Reviewer provided website: http://hidsr.edu.sy/."
+    "notes": "Seed record accepted from the internal control-list review. Reviewer provided website: http://hidsr.edu.sy/."
   },
   {
     "id": "sy-higher-institute-of-dramatic-arts",
@@ -1090,7 +1067,7 @@
     },
     "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
     "sourceStatus": "seed",
-    "notes": "Accepted. Reviewer notes missing official website is fine for this record."
+    "notes": "Seed record accepted from the internal control-list review. Reviewer notes missing official website is acceptable until an approved public source confirms one."
   },
   {
     "id": "sy-higher-institute-of-music",
@@ -1115,7 +1092,7 @@
     "externalIds": {},
     "sourceIds": ["wikipedia-list-universities-syria"],
     "sourceStatus": "seed",
-    "notes": "Accepted. Reviewer notes missing official website is fine for this record."
+    "notes": "Seed record accepted from the internal control-list review. Reviewer notes missing official website is acceptable until an approved public source confirms one."
   },
   {
     "id": "sy-homs-university",
@@ -1202,7 +1179,7 @@
     "externalIds": {},
     "sourceIds": ["wikipedia-list-universities-syria"],
     "sourceStatus": "seed",
-    "notes": "Accepted after scope update. Reviewer clarified higher institutes (\u0645\u0639\u0627\u0647\u062f \u0639\u0644\u064a\u0627) should be included in this dataset."
+    "notes": "Seed record accepted after scope review. Reviewer clarified higher institutes should be included in this dataset. Official website remains unconfirmed from approved public sources."
   },
   {
     "id": "sy-international-university-for-science-and-renaissance",
@@ -1345,26 +1322,6 @@
     "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
     "sourceStatus": "seed",
     "notes": "Comparison conflict reviewed for seed fields: website."
-  },
-  {
-    "id": "sy-mesopotamian-social-sciences-academy",
-    "name": {
-      "en": "Mesopotamian Social Sciences Academy"
-    },
-    "aliases": [],
-    "institutionType": "public",
-    "operationalStatus": "unknown",
-    "foundedYear": 2013,
-    "website": null,
-    "location": {
-      "locality": {
-        "en": "Qamishli"
-      }
-    },
-    "externalIds": {},
-    "sourceIds": ["wikipedia-list-universities-syria"],
-    "sourceStatus": "seed",
-    "notes": "Accepted from the post-seed autonomous-administration candidate batch. Official website not confirmed from approved sources."
   },
   {
     "id": "sy-national-institute-of-public-administration",
@@ -1598,48 +1555,6 @@
     "sourceStatus": "seed"
   },
   {
-    "id": "sy-university-of-kobani",
-    "name": {
-      "en": "University of Kobani"
-    },
-    "aliases": [],
-    "institutionType": "public",
-    "operationalStatus": "unknown",
-    "foundedYear": 2017,
-    "website": null,
-    "location": {
-      "locality": {
-        "en": "Kobani"
-      }
-    },
-    "externalIds": {
-      "wikidata": "Q114672251"
-    },
-    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
-    "sourceStatus": "seed",
-    "notes": "Accepted from the post-seed autonomous-administration candidate batch. Merged Wikidata duplicate candidate Q114672251 into this record. Official website not confirmed from approved sources."
-  },
-  {
-    "id": "sy-university-of-rojava",
-    "name": {
-      "en": "University of Rojava"
-    },
-    "aliases": [],
-    "institutionType": "public",
-    "operationalStatus": "unknown",
-    "foundedYear": 2016,
-    "website": null,
-    "location": {
-      "locality": {
-        "en": "Qamishli"
-      }
-    },
-    "externalIds": {},
-    "sourceIds": ["wikipedia-list-universities-syria"],
-    "sourceStatus": "seed",
-    "notes": "Accepted from the post-seed autonomous-administration candidate batch. Official website not confirmed from approved sources."
-  },
-  {
     "id": "sy-university-of-tartus",
     "name": {
       "en": "University of Tartus",
@@ -1732,484 +1647,5 @@
     "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
     "sourceStatus": "seed",
     "notes": "Comparison conflict reviewed for seed fields: foundedYear."
-  },
-  {
-    "id": "sy-al-assad-military-academy",
-    "name": {
-      "en": "Al-Assad Military Academy"
-    },
-    "aliases": [],
-    "institutionType": "other",
-    "operationalStatus": "unknown",
-    "foundedYear": 1979,
-    "website": null,
-    "location": {
-      "locality": {
-        "en": "Aleppo"
-      }
-    },
-    "externalIds": {},
-    "sourceIds": ["wikipedia-list-universities-syria"],
-    "sourceStatus": "seed",
-    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
-  },
-  {
-    "id": "sy-aleppo-armament-college",
-    "name": {
-      "en": "Aleppo Armament College"
-    },
-    "aliases": [],
-    "institutionType": "other",
-    "operationalStatus": "unknown",
-    "foundedYear": null,
-    "website": null,
-    "location": {
-      "locality": {
-        "en": "Aleppo"
-      }
-    },
-    "externalIds": {},
-    "sourceIds": ["wikipedia-list-universities-syria"],
-    "sourceStatus": "seed",
-    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
-  },
-  {
-    "id": "sy-aleppo-artillery-college",
-    "name": {
-      "en": "Aleppo Artillery College"
-    },
-    "aliases": [],
-    "institutionType": "other",
-    "operationalStatus": "unknown",
-    "foundedYear": 1954,
-    "website": null,
-    "location": {
-      "locality": {
-        "en": "Aleppo (since 1970)"
-      }
-    },
-    "externalIds": {},
-    "sourceIds": ["wikipedia-list-universities-syria"],
-    "sourceStatus": "seed",
-    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
-  },
-  {
-    "id": "sy-bassel-al-assad-college-of-armored-corps",
-    "name": {
-      "en": "Bassel al-Assad College of Armored Corps"
-    },
-    "aliases": [],
-    "institutionType": "other",
-    "operationalStatus": "unknown",
-    "foundedYear": 1952,
-    "website": null,
-    "location": {
-      "locality": {
-        "en": "Homs (since 1972)"
-      }
-    },
-    "externalIds": {},
-    "sourceIds": ["wikipedia-list-universities-syria"],
-    "sourceStatus": "seed",
-    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
-  },
-  {
-    "id": "sy-bassel-al-assad-college-of-police-sciences",
-    "name": {
-      "en": "Bassel al-Assad College of Police Sciences"
-    },
-    "aliases": [],
-    "institutionType": "other",
-    "operationalStatus": "unknown",
-    "foundedYear": 1961,
-    "website": null,
-    "location": {
-      "locality": {
-        "en": "Damascus"
-      }
-    },
-    "externalIds": {},
-    "sourceIds": ["wikipedia-list-universities-syria"],
-    "sourceStatus": "seed",
-    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
-  },
-  {
-    "id": "sy-electronic-warfare-college",
-    "name": {
-      "en": "Electronic Warfare College"
-    },
-    "aliases": [],
-    "institutionType": "other",
-    "operationalStatus": "unknown",
-    "foundedYear": 1972,
-    "website": null,
-    "location": {
-      "locality": {
-        "en": "Damascus"
-      }
-    },
-    "externalIds": {},
-    "sourceIds": ["wikipedia-list-universities-syria"],
-    "sourceStatus": "seed",
-    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
-  },
-  {
-    "id": "sy-higher-military-academy-of-syria",
-    "name": {
-      "en": "Higher Military Academy of Syria"
-    },
-    "aliases": [],
-    "institutionType": "other",
-    "operationalStatus": "unknown",
-    "foundedYear": 1957,
-    "website": null,
-    "location": {
-      "locality": {
-        "en": "Qatana, Rif Dimashq Governorate"
-      }
-    },
-    "externalIds": {},
-    "sourceIds": ["wikipedia-list-universities-syria"],
-    "sourceStatus": "seed",
-    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
-  },
-  {
-    "id": "sy-homs-military-academy",
-    "name": {
-      "en": "Homs Military Academy",
-      "ar": "\u0627\u0644\u0643\u0644\u064a\u0629 \u0627\u0644\u062d\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0648\u0631\u064a\u0629"
-    },
-    "aliases": [
-      {
-        "value": "\u0627\u0644\u0643\u0644\u064a\u0629 \u0627\u0644\u062d\u0631\u0628\u064a\u0629",
-        "language": "ar",
-        "type": "alias"
-      }
-    ],
-    "institutionType": "other",
-    "operationalStatus": "unknown",
-    "foundedYear": 1933,
-    "website": null,
-    "location": {
-      "governorate": {
-        "en": "Homs",
-        "ar": "\u062d\u0645\u0635"
-      },
-      "locality": {
-        "en": "Homs"
-      },
-      "centroid": {
-        "latitude": 34.75694444,
-        "longitude": 36.68194444
-      }
-    },
-    "externalIds": {
-      "wikidata": "Q5891872"
-    },
-    "sourceIds": [
-      "wikidata",
-      "wikipedia-homs-military-academy",
-      "wikipedia-list-universities-syria"
-    ],
-    "sourceStatus": "seed",
-    "notes": "Accepted from the post-seed military and police candidate batch. Founded year resolved to 1933 from the dedicated Wikipedia/Wikidata item; the list source reports 1919 in Damascus and the move to Homs in 1932. Official website not confirmed from approved sources."
-  },
-  {
-    "id": "sy-kuweires-military-aviation-institute",
-    "name": {
-      "en": "Kuweires Military Aviation Institute"
-    },
-    "aliases": [],
-    "institutionType": "other",
-    "operationalStatus": "unknown",
-    "foundedYear": 1947,
-    "website": null,
-    "location": {
-      "locality": {
-        "en": "Kuweires Sharqi, Aleppo Governorate (since 1980)"
-      }
-    },
-    "externalIds": {},
-    "sourceIds": ["wikipedia-list-universities-syria"],
-    "sourceStatus": "seed",
-    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
-  },
-  {
-    "id": "sy-military-college-of-administrative-affairs",
-    "name": {
-      "en": "Military College of Administrative Affairs"
-    },
-    "aliases": [],
-    "institutionType": "other",
-    "operationalStatus": "unknown",
-    "foundedYear": 1974,
-    "website": null,
-    "location": {
-      "locality": {
-        "en": "Masyaf, Hama Governorate (since 2012)"
-      }
-    },
-    "externalIds": {},
-    "sourceIds": ["wikipedia-list-universities-syria"],
-    "sourceStatus": "seed",
-    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
-  },
-  {
-    "id": "sy-military-college-of-chemical-protection",
-    "name": {
-      "en": "Military College of Chemical Protection"
-    },
-    "aliases": [],
-    "institutionType": "other",
-    "operationalStatus": "unknown",
-    "foundedYear": 1971,
-    "website": null,
-    "location": {
-      "locality": {
-        "en": "Al-Mushrifah, Homs Governorate (since 1978)"
-      }
-    },
-    "externalIds": {},
-    "sourceIds": ["wikipedia-list-universities-syria"],
-    "sourceStatus": "seed",
-    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
-  },
-  {
-    "id": "sy-military-college-of-infantry-corps",
-    "name": {
-      "en": "Military College of Infantry Corps"
-    },
-    "aliases": [],
-    "institutionType": "other",
-    "operationalStatus": "unknown",
-    "foundedYear": null,
-    "website": null,
-    "location": {
-      "locality": {
-        "en": "Fafin, Aleppo Governorate"
-      }
-    },
-    "externalIds": {},
-    "sourceIds": ["wikipedia-list-universities-syria"],
-    "sourceStatus": "seed",
-    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
-  },
-  {
-    "id": "sy-military-college-of-technical-affairs",
-    "name": {
-      "en": "Military College of Technical Affairs"
-    },
-    "aliases": [],
-    "institutionType": "other",
-    "operationalStatus": "unknown",
-    "foundedYear": 1952,
-    "website": null,
-    "location": {
-      "locality": {
-        "en": "Homs"
-      }
-    },
-    "externalIds": {},
-    "sourceIds": ["wikipedia-list-universities-syria"],
-    "sourceStatus": "seed",
-    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
-  },
-  {
-    "id": "sy-syrian-air-defense-college",
-    "name": {
-      "en": "Syrian Air Defense College"
-    },
-    "aliases": [],
-    "institutionType": "other",
-    "operationalStatus": "unknown",
-    "foundedYear": 1958,
-    "website": null,
-    "location": {
-      "locality": {
-        "en": "Homs (since 1974)"
-      }
-    },
-    "externalIds": {},
-    "sourceIds": ["wikipedia-list-universities-syria"],
-    "sourceStatus": "seed",
-    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
-  },
-  {
-    "id": "sy-syrian-college-of-combat-engineering-corps",
-    "name": {
-      "en": "Syrian College of Combat Engineering Corps"
-    },
-    "aliases": [],
-    "institutionType": "other",
-    "operationalStatus": "unknown",
-    "foundedYear": 1954,
-    "website": null,
-    "location": {
-      "locality": {
-        "en": "Al-Mushrifah, Homs Governorate (since 1978)"
-      }
-    },
-    "externalIds": {},
-    "sourceIds": ["wikipedia-list-universities-syria"],
-    "sourceStatus": "seed",
-    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
-  },
-  {
-    "id": "sy-syrian-college-of-signal-corps",
-    "name": {
-      "en": "Syrian College of Signal Corps"
-    },
-    "aliases": [],
-    "institutionType": "other",
-    "operationalStatus": "unknown",
-    "foundedYear": 1946,
-    "website": null,
-    "location": {
-      "locality": {
-        "en": "Homs (since 1972)"
-      }
-    },
-    "externalIds": {},
-    "sourceIds": ["wikipedia-list-universities-syria"],
-    "sourceStatus": "seed",
-    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
-  },
-  {
-    "id": "sy-syrian-navy-college",
-    "name": {
-      "en": "Syrian Navy College"
-    },
-    "aliases": [],
-    "institutionType": "other",
-    "operationalStatus": "unknown",
-    "foundedYear": 1975,
-    "website": null,
-    "location": {
-      "locality": {
-        "en": "Latakia"
-      }
-    },
-    "externalIds": {},
-    "sourceIds": ["wikipedia-list-universities-syria"],
-    "sourceStatus": "seed",
-    "notes": "Accepted from the post-seed military and police candidate batch. Official website not confirmed from approved sources."
-  },
-  {
-    "id": "sy-omdurman-islamic-university-damascus-branch",
-    "name": {
-      "en": "Omdurman Islamic University, Damascus Branch"
-    },
-    "aliases": [],
-    "institutionType": "other",
-    "operationalStatus": "unknown",
-    "foundedYear": null,
-    "website": "https://oiu.edu.sd/",
-    "location": {
-      "locality": {
-        "en": "Damascus"
-      }
-    },
-    "externalIds": {
-      "website": "https://oiu.edu.sd/"
-    },
-    "sourceIds": ["wikipedia-list-universities-syria"],
-    "sourceStatus": "seed",
-    "notes": "Accepted from the post-seed foreign-branch candidate batch. Website is the source-listed parent university website, not a confirmed branch-specific page."
-  },
-  {
-    "id": "sy-free-aleppo-university",
-    "name": {
-      "en": "Free Aleppo University",
-      "ar": "\u062c\u0627\u0645\u0639\u0629 \u062d\u0644\u0628 \u0641\u064a \u0627\u0644\u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u062d\u0631\u0631\u0629"
-    },
-    "aliases": [],
-    "institutionType": "other",
-    "operationalStatus": "unknown",
-    "foundedYear": 2015,
-    "website": null,
-    "location": null,
-    "externalIds": {
-      "wikidata": "Q108835718"
-    },
-    "sourceIds": ["wikidata"],
-    "sourceStatus": "seed",
-    "notes": "Accepted from the post-seed Wikidata-only candidate batch. Official website not confirmed from approved sources."
-  },
-  {
-    "id": "sy-free-syrian-university",
-    "name": {
-      "en": "Free Syrian University",
-      "ar": "\u0627\u0644\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0633\u0648\u0631\u064a\u0629 \u0627\u0644\u062d\u0631\u0629"
-    },
-    "aliases": [],
-    "institutionType": "other",
-    "operationalStatus": "unknown",
-    "foundedYear": 2013,
-    "website": "http://www.fsyriauni.com/index.php",
-    "location": null,
-    "externalIds": {
-      "wikidata": "Q18639232",
-      "website": "http://www.fsyriauni.com/index.php"
-    },
-    "sourceIds": ["wikidata"],
-    "sourceStatus": "seed",
-    "notes": "Accepted from the post-seed Wikidata-only candidate batch."
-  },
-  {
-    "id": "sy-international-suleiman-university",
-    "name": {
-      "en": "International Suleiman University",
-      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0633\u0644\u064a\u0645\u0627\u0646 \u0627\u0644\u062f\u0648\u0644\u064a\u0629"
-    },
-    "aliases": [],
-    "institutionType": "other",
-    "operationalStatus": "unknown",
-    "foundedYear": 2007,
-    "website": null,
-    "location": null,
-    "externalIds": {
-      "wikidata": "Q124412132"
-    },
-    "sourceIds": ["wikidata"],
-    "sourceStatus": "seed",
-    "notes": "Accepted from the post-seed Wikidata-only candidate batch. Official website not confirmed from approved sources."
-  },
-  {
-    "id": "sy-private-university-of-science-and-arts",
-    "name": {
-      "en": "Private University of Science and Arts",
-      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0639\u0644\u0648\u0645 \u0648\u0627\u0644\u0641\u0646\u0648\u0646"
-    },
-    "aliases": [],
-    "institutionType": "other",
-    "operationalStatus": "unknown",
-    "foundedYear": null,
-    "website": "http://pusa-sy.org/",
-    "location": null,
-    "externalIds": {
-      "wikidata": "Q12204443",
-      "website": "http://pusa-sy.org/"
-    },
-    "sourceIds": ["wikidata"],
-    "sourceStatus": "seed",
-    "notes": "Accepted from the post-seed Wikidata-only candidate batch."
-  },
-  {
-    "id": "sy-raqqa-university",
-    "name": {
-      "en": "Raqqa University"
-    },
-    "aliases": [],
-    "institutionType": "other",
-    "operationalStatus": "unknown",
-    "foundedYear": null,
-    "website": null,
-    "location": null,
-    "externalIds": {
-      "wikidata": "Q28937031"
-    },
-    "sourceIds": ["wikidata"],
-    "sourceStatus": "seed",
-    "notes": "Accepted from the post-seed Wikidata-only candidate batch. Arabic name and official website not confirmed from approved sources."
   }
 ]

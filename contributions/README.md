@@ -28,4 +28,9 @@ Run before opening a change:
 
 ```bash
 pnpm run validate
+pnpm run coverage:data
 ```
+
+The generated `dist/coverage/COVERAGE.md` report lists missing fields and
+source-backed enrichment gaps. Use it to choose a focused contribution, but do
+not commit generated coverage output.

@@ -20,16 +20,6 @@
     "notes": "Used as an open control list for the initial university seed import."
   },
   {
-    "id": "wikipedia-homs-military-academy",
-    "title": "Wikipedia: Homs Military Academy",
-    "url": "https://en.wikipedia.org/wiki/Homs_Military_Academy",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "status": "approved",
-    "fields": ["names", "institution type", "location", "founded year"],
-    "notes": "Used to resolve the post-seed Homs Military Academy candidate against the broader Wikipedia list."
-  },
-  {
     "id": "wikimedia-commons",
     "title": "Wikimedia Commons",
     "url": "https://commons.wikimedia.org/",

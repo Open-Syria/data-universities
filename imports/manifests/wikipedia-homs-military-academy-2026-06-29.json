@@ -5,7 +5,7 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
   "accessedAt": "2026-06-29T00:00:00.000Z",
-  "status": "reviewed",
+  "status": "superseded",
   "rawFiles": [
     {
       "name": "https://en.wikipedia.org/wiki/Homs_Military_Academy",
@@ -31,7 +31,8 @@
   "transforms": [
     "Added sy-homs-military-academy as the last accepted held military candidate.",
     "Resolved foundedYear to 1933 from the dedicated Wikipedia/Wikidata item while retaining a note about the list-source 1919 conflict.",
-    "Kept website null because no official website was confirmed from approved sources."
+    "Kept website null because no official website was confirmed from approved sources.",
+    "v0.1.11 restored the production boundary to records present in the internal comparison control list and moved non-control-list additions back to the held-candidate backlog."
   ],
-  "reviewNotes": "Final held Wikipedia/Wikidata candidate resolution for Homs Military Academy."
+  "reviewNotes": "Reviewed Homs Military Academy candidate resolution. Superseded by v0.1.11 because the candidate is not present in the internal comparison control list; retained in the held-candidate backlog."
 }

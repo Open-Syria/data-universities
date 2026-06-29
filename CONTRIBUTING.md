@@ -94,9 +94,11 @@ To inspect current coverage counts, run:
 
 ```bash
 pnpm run report:data
+pnpm run coverage:data
 ```
 
-Coverage output is generated and should not be committed in normal data pull requests.
+Generated coverage output is written under `dist/coverage/` and should not be
+committed in normal data pull requests.
 
 ## Pull Request Checklist
 

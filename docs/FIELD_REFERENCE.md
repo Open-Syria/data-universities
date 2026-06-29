@@ -12,6 +12,9 @@ sy-damascus-university
 
 Canonical localized name object with required `en` and optional `ar`.
 
+For the current production university boundary, maintainers require both
+English and Arabic canonical names.
+
 ## `aliases`
 
 Alternative names, historical names, spellings, or transliterations. Do not repeat canonical names.
@@ -48,6 +51,9 @@ Year the institution was founded, or `null` when not source-backed.
 
 Official public website URL, or `null`.
 
+`null` is acceptable when no official website is confirmed from approved public
+sources.
+
 ## `location`
 
 Optional public location context:
@@ -58,6 +64,8 @@ Optional public location context:
 - `centroid`
 
 Use only public institution addresses, not personal or private addresses.
+For the current production university boundary, governorate and locality are
+required. `address` and `centroid` remain source-backed enrichments.
 
 ## `externalIds`
 
@@ -164,6 +172,9 @@ unknown
 ## Ranking Fields
 
 `rankings.json` stores source-backed ranking snapshots. Do not copy rankings into `data/universities.json`.
+
+Ranking coverage is a production target, but an individual university record
+does not imply a ranking row until an approved ranking source has been imported.
 
 `rankingSystem` is the source ranking name as published by the ranking provider.
 

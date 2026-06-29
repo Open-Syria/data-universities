@@ -45,3 +45,19 @@ dist/release/artifacts/universities.xml
 Each artifact is listed in the release manifest with format, path, checksum, byte size, media type, and record count.
 
 Schema-first batch files may have `recordCount: 0` until approved reusable sources are imported.
+
+Coverage analysis is also generated locally:
+
+```bash
+pnpm run coverage:data
+```
+
+This writes:
+
+```text
+dist/coverage/COVERAGE.md
+dist/coverage/coverage-report.json
+```
+
+Coverage output is a contributor aid, not a release artifact, and should not be
+committed.
