@@ -417,7 +417,7 @@ function toRankingFlatRow(record) {
 
 function formatTextArtifact(content) {
   if (content.length === 0) {
-    return Buffer.from('');
+    return Buffer.from('\n');
   }
 
   return Buffer.from(`${content}\n`);

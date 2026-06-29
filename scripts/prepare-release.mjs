@@ -18,7 +18,7 @@ const booleanOptions = new Set([
 function usage() {
   return `
 Usage:
-  pnpm run release:prepare -- --version v0.1.4
+  pnpm run release:prepare -- --version v0.1.5
 
 Options:
   --version <tag>                 Release tag. "v" prefix is optional.
@@ -272,6 +272,12 @@ async function verifyReleaseManifest({
 
     const artifactPath = resolveInside(releaseDirectory, artifact.path);
     const artifactStats = await stat(artifactPath);
+
+    if (artifactStats.size < 1) {
+      fail(
+        `${artifact.path} must not be empty because GitHub Release assets reject zero-byte files`,
+      );
+    }
 
     if (artifactStats.size !== artifact.sizeBytes) {
       fail(`${artifact.path} size is ${artifactStats.size}, expected ${artifact.sizeBytes}`);

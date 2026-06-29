@@ -2,6 +2,13 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v0.1.5 - 2026-06-29
+
+### Fixed
+
+- Ensure empty NDJSON release artifacts are non-zero-byte files so GitHub Release uploads succeed.
+- Add release preparation validation for zero-byte artifacts.
+
 ## v0.1.4 - 2026-06-29
 
 ### Added
