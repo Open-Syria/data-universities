@@ -9,14 +9,25 @@ The repository follows the same structure as other OpenSyria data repositories:
 ```text
 data/
   assets.json
+  faculties.json
+  programs.json
+  rankings.json
   sources.json
   universities.json
 schemas/
+  assets.schema.json
+  faculties.schema.json
+  programs.schema.json
+  rankings.schema.json
   sources.schema.json
   universities.schema.json
   release-manifest.schema.json
   source-import.schema.json
 fixtures/valid-data/
+  assets.json
+  faculties.json
+  programs.json
+  rankings.json
   sources.json
   universities.json
 scripts/
@@ -38,6 +49,8 @@ University records may include public facts such as:
 - public location fields,
 - reusable external identifiers,
 - source attribution.
+
+Faculty, program, and ranking files are separated from university identity records. Current canonical faculty, program, and ranking arrays are empty until approved reusable sources are reviewed.
 
 Do not add private personal data, student records, staff records, account data, phone numbers, private addresses, or unreleasable scraped content.
 
@@ -65,18 +78,11 @@ pnpm run release:build:fixtures
 `pnpm run release:build` writes release files to `dist/release/`, including:
 
 - `release-manifest.json`,
-- `artifacts/assets.json`,
-- `artifacts/assets.ndjson`,
-- `artifacts/assets.csv`,
-- `artifacts/assets.sql`,
-- `artifacts/assets.yaml`,
-- `artifacts/assets.xml`,
-- `artifacts/universities.json`,
-- `artifacts/universities.ndjson`,
-- `artifacts/universities.csv`,
-- `artifacts/universities.sql`,
-- `artifacts/universities.yaml`,
-- `artifacts/universities.xml`.
+- six artifact formats for `assets`,
+- six artifact formats for `faculties`,
+- six artifact formats for `programs`,
+- six artifact formats for `rankings`,
+- six artifact formats for `universities`.
 
 ## Documentation
 

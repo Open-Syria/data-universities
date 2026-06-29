@@ -2,6 +2,8 @@
 
 Faculty, program, specialty, and ranking data is intentionally excluded from `v0.1.0`.
 
+`v0.1.2` adds schema-first canonical files and release artifacts for the three batch types. The canonical arrays are intentionally empty until approved reusable sources are reviewed.
+
 The current local comparison artifact contains:
 
 - 89 specialty candidates,
@@ -21,9 +23,9 @@ Handle this work as three separate batches:
 
 Do not mix these into ordinary university identity records.
 
-## Schema Direction
+## Schema Decision
 
-Potential future canonical files:
+Canonical files:
 
 - `data/faculties.json`,
 - `data/programs.json`,
@@ -46,10 +48,15 @@ Before the first faculties/programs/rankings release:
 - define and validate JSON schemas,
 - add fixture data,
 - add release artifact generation for new files,
-- register approved sources,
-- add import manifests,
 - prove parent university IDs resolve to `data/universities.json`,
 - run `pnpm run validate` and `pnpm run report:data`.
+
+Before the first non-empty faculties/programs/rankings release:
+
+- register approved sources,
+- add import manifests,
+- confirm every imported record references approved sources,
+- keep unclear-license comparison data out of canonical files.
 
 ## Review Questions
 

@@ -145,7 +145,16 @@ export const sourceImportManifestSchema = z
     ),
     importedFields: z.array(z.string().trim().min(1)).min(1),
     targetFiles: z
-      .array(z.enum(['data/assets.json', 'data/universities.json', 'data/sources.json']))
+      .array(
+        z.enum([
+          'data/assets.json',
+          'data/faculties.json',
+          'data/programs.json',
+          'data/rankings.json',
+          'data/universities.json',
+          'data/sources.json',
+        ]),
+      )
       .min(1),
     transforms: z.array(z.string().trim().min(1)).min(1),
     reviewNotes: z.string().trim().min(1),
@@ -210,6 +219,63 @@ export const assetRecordSchema = z
   })
   .strict();
 
+export const facultyRecordSchema = z
+  .object({
+    id: idSchema,
+    universityId: idSchema,
+    name: localizedTextSchema,
+    aliases: z.array(aliasSchema),
+    facultyType: z.enum([
+      'faculty',
+      'college',
+      'institute',
+      'school',
+      'center',
+      'department',
+      'other',
+    ]),
+    operationalStatus: z.enum(['operating', 'planned', 'closed', 'unknown']),
+    website: z.string().url().nullable(),
+    sourceIds: z.array(z.string().trim().min(1)).min(1),
+    sourceStatus: sourceStatusSchema,
+    notes: z.string().trim().min(1).optional(),
+  })
+  .strict();
+
+export const programRecordSchema = z
+  .object({
+    id: idSchema,
+    universityId: idSchema,
+    facultyId: idSchema.nullable(),
+    name: localizedTextSchema,
+    aliases: z.array(aliasSchema),
+    programType: z.enum(['academic', 'technical', 'specialty', 'track', 'other']),
+    degreeLevel: z.enum(['diploma', 'bachelor', 'master', 'doctorate', 'certificate', 'unknown']),
+    operationalStatus: z.enum(['operating', 'planned', 'closed', 'unknown']),
+    website: z.string().url().nullable(),
+    sourceIds: z.array(z.string().trim().min(1)).min(1),
+    sourceStatus: sourceStatusSchema,
+    notes: z.string().trim().min(1).optional(),
+  })
+  .strict();
+
+export const rankingRecordSchema = z
+  .object({
+    id: idSchema,
+    universityId: idSchema,
+    rankingSystem: z.string().trim().min(1),
+    rankScope: z.enum(['global', 'regional', 'national', 'subject', 'other']),
+    year: z.number().int().min(1900).max(9999),
+    rank: z.number().int().positive().nullable(),
+    rankDisplay: z.string().trim().min(1).nullable(),
+    sourceUrl: z.string().url(),
+    retrievedAt: z.string().datetime(),
+    sourceIds: z.array(z.string().trim().min(1)).min(1),
+    sourceStatus: sourceStatusSchema,
+    notes: z.string().trim().min(1).optional(),
+  })
+  .strict();
+
 export async function readJson(filePath) {
   return JSON.parse(await readFile(filePath, 'utf8'));
 }
@@ -265,6 +331,16 @@ export function ensureKnownUniversities(records, universities, label) {
       throw new Error(
         `${label} ${record.id} references unknown university: ${record.universityId}`,
       );
+    }
+  }
+}
+
+export function ensureKnownFaculties(records, faculties, label) {
+  const facultyIds = new Set(faculties.map((faculty) => faculty.id));
+
+  for (const record of records) {
+    if (record.facultyId && !facultyIds.has(record.facultyId)) {
+      throw new Error(`${label} ${record.id} references unknown faculty: ${record.facultyId}`);
     }
   }
 }

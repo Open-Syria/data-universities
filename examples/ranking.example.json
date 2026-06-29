@@ -1,0 +1,13 @@
+{
+  "id": "sy-damascus-university-ranking-2026",
+  "universityId": "sy-damascus-university",
+  "rankingSystem": "Example Ranking",
+  "rankScope": "national",
+  "year": 2026,
+  "rank": 1,
+  "rankDisplay": "1",
+  "sourceUrl": "https://example.org/ranking",
+  "retrievedAt": "2026-06-29T00:00:00.000Z",
+  "sourceIds": ["approved-source-id"],
+  "sourceStatus": "seed"
+}

@@ -12,5 +12,5 @@ Before publishing:
 For a formal release:
 
 ```bash
-pnpm run release:prepare -- --version v0.1.0
+pnpm run release:prepare -- --version v0.1.2
 ```

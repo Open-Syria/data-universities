@@ -1,0 +1,15 @@
+{
+  "id": "sy-damascus-university-medicine-program",
+  "universityId": "sy-damascus-university",
+  "facultyId": "sy-damascus-university-faculty-of-medicine",
+  "name": {
+    "en": "Medicine"
+  },
+  "aliases": [],
+  "programType": "academic",
+  "degreeLevel": "bachelor",
+  "operationalStatus": "operating",
+  "website": "https://damascusuniversity.edu.sy/",
+  "sourceIds": ["approved-source-id"],
+  "sourceStatus": "seed"
+}

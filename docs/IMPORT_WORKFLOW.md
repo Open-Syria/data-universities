@@ -3,7 +3,7 @@
 1. Review the source license and add or update `data/sources.json`.
 2. Save any local-only raw files under `imports/raw/`; this directory is ignored.
 3. Create an import manifest under `imports/manifests/`.
-4. Transform source records into `data/universities.json`.
+4. Transform source records into the target canonical file, such as `data/universities.json`, `data/assets.json`, `data/faculties.json`, `data/programs.json`, or `data/rankings.json`.
 5. Run validation:
 
 ```bash

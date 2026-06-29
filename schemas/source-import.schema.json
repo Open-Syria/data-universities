@@ -81,7 +81,14 @@
       "type": "array",
       "items": {
         "type": "string",
-        "enum": ["data/assets.json", "data/universities.json", "data/sources.json"]
+        "enum": [
+          "data/assets.json",
+          "data/faculties.json",
+          "data/programs.json",
+          "data/rankings.json",
+          "data/universities.json",
+          "data/sources.json"
+        ]
       },
       "minItems": 1,
       "uniqueItems": true

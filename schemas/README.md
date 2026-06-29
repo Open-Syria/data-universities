@@ -8,6 +8,9 @@ This directory contains machine-readable JSON Schemas for canonical data files a
 sources.schema.json
 universities.schema.json
 assets.schema.json
+faculties.schema.json
+programs.schema.json
+rankings.schema.json
 ```
 
 These schemas are useful for editors, external tooling, and contributors who want early feedback while editing JSON.

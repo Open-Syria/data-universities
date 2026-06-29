@@ -244,8 +244,8 @@ async function verifyReleaseManifest({
 
     seenArtifactKeys.add(artifactKey);
 
-    if (!Number.isInteger(artifact.recordCount) || artifact.recordCount <= 0) {
-      fail(`${artifact.path} must include a positive recordCount`);
+    if (!Number.isInteger(artifact.recordCount) || artifact.recordCount < 0) {
+      fail(`${artifact.path} must include a non-negative recordCount`);
     }
 
     const existingCount = recordCountsByName.get(artifact.name);

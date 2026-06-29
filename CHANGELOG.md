@@ -2,6 +2,14 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v0.1.2 - 2026-06-29
+
+### Added
+
+- Add schema-first canonical files for faculties, programs, and rankings.
+- Add validation, fixtures, examples, reports, and release artifacts for the new batch files.
+- Keep canonical faculty, program, and ranking data empty until approved reusable sources are reviewed.
+
 ## v0.1.1 - 2026-06-29
 
 ### Added

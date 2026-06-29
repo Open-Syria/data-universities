@@ -10,7 +10,7 @@ Use `pnpm run report:data` for first-pass coverage counts.
 - 6 records currently have no official website.
 - 2 reviewed Wikimedia Commons image asset records in `data/assets.json`.
 
-Faculty/program/ranking data is not part of the first seed release.
+Faculty/program/ranking data is not part of the first seed release. `v0.1.2` adds empty canonical files and release artifacts for these future batches.
 
 Future coverage reports can track:
 
@@ -20,4 +20,5 @@ Future coverage reports can track:
 - records with websites,
 - records with public location context,
 - records with public CDN image assets,
+- faculty, program, and ranking rows once approved sources are imported,
 - source coverage.

@@ -41,9 +41,10 @@ Before uploading images to R2:
 
 Faculty, program, and ranking data is not part of `v0.1.0`.
 
+`v0.1.2` adds empty canonical files, schemas, fixtures, and release artifacts for these batches so future approved imports have a stable target.
+
 Before adding these datasets:
 
-- define canonical schemas,
 - confirm reusable sources,
 - decide whether rankings are in scope,
 - avoid copying unclear-license prose or lists directly into canonical data,

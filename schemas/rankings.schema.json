@@ -1,0 +1,78 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://opensyria.org/schemas/data-universities/rankings.schema.json",
+  "title": "OpenSyria University Rankings",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "id",
+      "universityId",
+      "rankingSystem",
+      "rankScope",
+      "year",
+      "rank",
+      "rankDisplay",
+      "sourceUrl",
+      "retrievedAt",
+      "sourceIds",
+      "sourceStatus"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^sy-[a-z0-9]+(?:-[a-z0-9]+)*$"
+      },
+      "universityId": {
+        "type": "string",
+        "pattern": "^sy-[a-z0-9]+(?:-[a-z0-9]+)*$"
+      },
+      "rankingSystem": {
+        "type": "string",
+        "minLength": 1
+      },
+      "rankScope": {
+        "type": "string",
+        "enum": ["global", "regional", "national", "subject", "other"]
+      },
+      "year": {
+        "type": "integer",
+        "minimum": 1900,
+        "maximum": 9999
+      },
+      "rank": {
+        "type": ["integer", "null"],
+        "minimum": 1
+      },
+      "rankDisplay": {
+        "type": ["string", "null"],
+        "minLength": 1
+      },
+      "sourceUrl": {
+        "type": "string",
+        "format": "uri"
+      },
+      "retrievedAt": {
+        "type": "string",
+        "format": "date-time"
+      },
+      "sourceIds": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "minLength": 1
+        },
+        "minItems": 1
+      },
+      "sourceStatus": {
+        "type": "string",
+        "enum": ["pending_release", "seed", "released", "deprecated"]
+      },
+      "notes": {
+        "type": "string",
+        "minLength": 1
+      }
+    }
+  }
+}

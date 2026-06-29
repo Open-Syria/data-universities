@@ -1,0 +1,15 @@
+[
+  {
+    "id": "sy-damascus-university-faculty-of-medicine",
+    "universityId": "sy-damascus-university",
+    "name": {
+      "en": "Faculty of Medicine"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": "https://damascusuniversity.edu.sy/",
+    "sourceIds": ["fixture-university-source"],
+    "sourceStatus": "seed"
+  }
+]

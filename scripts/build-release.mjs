@@ -4,7 +4,10 @@ import path from 'node:path';
 import {
   assetRecordSchema,
   datasetReleaseStatusSchema,
+  facultyRecordSchema,
   parseJsonArray,
+  programRecordSchema,
+  rankingRecordSchema,
   readJson,
   releaseManifestSchema,
   sourceRecordSchema,
@@ -75,6 +78,69 @@ const datasetConfigs = [
       'license',
       'license_url',
       'attribution_required',
+      'source_ids_json',
+      'source_status',
+    ],
+  },
+  {
+    name: 'faculties',
+    tableName: 'university_faculties',
+    fileName: 'faculties.json',
+    schema: facultyRecordSchema,
+    toPublicRecord: toFacultyPublicRecord,
+    toFlatRow: toFacultyFlatRow,
+    columns: [
+      'id',
+      'university_id',
+      'name_en',
+      'name_ar',
+      'aliases_json',
+      'faculty_type',
+      'operational_status',
+      'website',
+      'source_ids_json',
+      'source_status',
+    ],
+  },
+  {
+    name: 'programs',
+    tableName: 'university_programs',
+    fileName: 'programs.json',
+    schema: programRecordSchema,
+    toPublicRecord: toProgramPublicRecord,
+    toFlatRow: toProgramFlatRow,
+    columns: [
+      'id',
+      'university_id',
+      'faculty_id',
+      'name_en',
+      'name_ar',
+      'aliases_json',
+      'program_type',
+      'degree_level',
+      'operational_status',
+      'website',
+      'source_ids_json',
+      'source_status',
+    ],
+  },
+  {
+    name: 'rankings',
+    tableName: 'university_rankings',
+    fileName: 'rankings.json',
+    schema: rankingRecordSchema,
+    toPublicRecord: toRankingPublicRecord,
+    toFlatRow: toRankingFlatRow,
+    columns: [
+      'id',
+      'university_id',
+      'ranking_system',
+      'rank_scope',
+      'year',
+      'rank',
+      'rank_display',
+      'source_url',
+      'retrieved_at',
       'source_ids_json',
       'source_status',
     ],
@@ -252,6 +318,103 @@ function toAssetFlatRow(record) {
   };
 }
 
+function toFacultyPublicRecord(record) {
+  return removeUndefined({
+    id: record.id,
+    universityId: record.universityId,
+    name: record.name,
+    aliases: record.aliases,
+    facultyType: record.facultyType,
+    operationalStatus: record.operationalStatus,
+    website: record.website,
+    sourceIds: record.sourceIds,
+    sourceStatus: record.sourceStatus,
+    notes: record.notes,
+  });
+}
+
+function toFacultyFlatRow(record) {
+  return {
+    id: record.id,
+    university_id: record.universityId,
+    name_en: record.name.en,
+    name_ar: record.name.ar ?? null,
+    aliases_json: stringifyCompactJson(record.aliases),
+    faculty_type: record.facultyType,
+    operational_status: record.operationalStatus,
+    website: record.website,
+    source_ids_json: stringifyCompactJson(record.sourceIds),
+    source_status: record.sourceStatus,
+  };
+}
+
+function toProgramPublicRecord(record) {
+  return removeUndefined({
+    id: record.id,
+    universityId: record.universityId,
+    facultyId: record.facultyId,
+    name: record.name,
+    aliases: record.aliases,
+    programType: record.programType,
+    degreeLevel: record.degreeLevel,
+    operationalStatus: record.operationalStatus,
+    website: record.website,
+    sourceIds: record.sourceIds,
+    sourceStatus: record.sourceStatus,
+    notes: record.notes,
+  });
+}
+
+function toProgramFlatRow(record) {
+  return {
+    id: record.id,
+    university_id: record.universityId,
+    faculty_id: record.facultyId,
+    name_en: record.name.en,
+    name_ar: record.name.ar ?? null,
+    aliases_json: stringifyCompactJson(record.aliases),
+    program_type: record.programType,
+    degree_level: record.degreeLevel,
+    operational_status: record.operationalStatus,
+    website: record.website,
+    source_ids_json: stringifyCompactJson(record.sourceIds),
+    source_status: record.sourceStatus,
+  };
+}
+
+function toRankingPublicRecord(record) {
+  return removeUndefined({
+    id: record.id,
+    universityId: record.universityId,
+    rankingSystem: record.rankingSystem,
+    rankScope: record.rankScope,
+    year: record.year,
+    rank: record.rank,
+    rankDisplay: record.rankDisplay,
+    sourceUrl: record.sourceUrl,
+    retrievedAt: record.retrievedAt,
+    sourceIds: record.sourceIds,
+    sourceStatus: record.sourceStatus,
+    notes: record.notes,
+  });
+}
+
+function toRankingFlatRow(record) {
+  return {
+    id: record.id,
+    university_id: record.universityId,
+    ranking_system: record.rankingSystem,
+    rank_scope: record.rankScope,
+    year: record.year,
+    rank: record.rank,
+    rank_display: record.rankDisplay,
+    source_url: record.sourceUrl,
+    retrieved_at: record.retrievedAt,
+    source_ids_json: stringifyCompactJson(record.sourceIds),
+    source_status: record.sourceStatus,
+  };
+}
+
 function formatTextArtifact(content) {
   if (content.length === 0) {
     return Buffer.from('');
@@ -321,7 +484,7 @@ function sqlColumnType(column) {
     return 'REAL';
   }
 
-  if (column === 'founded_year') {
+  if (column === 'founded_year' || column === 'year' || column === 'rank') {
     return 'INTEGER';
   }
 
