@@ -1,0 +1,17 @@
+{
+  "sourceId": "al-sham-private-university-official-website",
+  "sourceTitle": "Al-Sham Private University official website",
+  "sourceUrl": "https://aspu.edu.sy/site/english/index.php",
+  "license": "Official public website; factual data only",
+  "accessedAt": "2026-06-29T00:00:00.000Z",
+  "status": "reviewed",
+  "rawFiles": [],
+  "importedFields": ["location.governorate", "location.locality", "sourceIds", "notes"],
+  "targetFiles": ["data/universities.json", "data/sources.json"],
+  "transforms": [
+    "Reviewed the official website faculty grouping and contact footer for public factual campus context.",
+    "Normalized the conflicting Damascus / Rif Dimashq governorate label to Rif Dimashq / Al-Tall.",
+    "Recorded additional Damascus Al-Mazraa and Latakia locations in notes pending future multi-campus modeling."
+  ],
+  "reviewNotes": "The canonical single location now uses Rif Dimashq / Al-Tall because the official website lists Al-Tall in Damascus countryside and groups most faculties under Damascus-Tall."
+}

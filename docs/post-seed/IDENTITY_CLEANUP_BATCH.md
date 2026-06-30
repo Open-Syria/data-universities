@@ -1,7 +1,7 @@
 # Identity Cleanup Batch
 
 This batch tracks production cleanup for the 57 canonical university identity
-records. It does not add records outside the internal comparison control list.
+records. It does not add records outside the approved production scope.
 
 Use `pnpm run report:data` and `pnpm run report:production` for current counts.
 
@@ -11,20 +11,20 @@ Use `pnpm run report:data` and `pnpm run report:production` for current counts.
 - 6 records have no official website.
 - 24 records have no Wikidata identifier.
 - 31 records have no source-backed centroid.
-- 3 records have locality/governorate conflicts that need source review.
+- 0 records have locality/governorate conflicts that need source review.
 - 16 records have reviewed comparison-conflict notes.
 
-## Remaining Location Review
+## Location Review Completed
 
 The safe locality normalization pass removed redundant governorate wording from
-matching locality values. These records remain intentionally unchanged because
-the structured governorate and locality values point to different governorates:
+matching locality values. A follow-up source review resolved the three remaining
+structured governorate/locality conflicts:
 
-| ID | Name | Current governorate | Current locality |
-| --- | --- | --- | --- |
-| `sy-al-jazeera-private-university` | Al-Jazeera Private University | Daraa | Deir ez-Zor Governorate |
-| `sy-al-sham-private-university` | Al-Sham Private University | Damascus | Rif Dimashq Governorate |
-| `sy-arab-academy-for-e-businesses` | Arab Academy for E-Businesses | Damascus | Aleppo Governorate |
+| ID | Name | Reviewed governorate | Reviewed locality | Notes |
+| --- | --- | --- | --- | --- |
+| `sy-al-jazeera-private-university` | Al-Jazeera Private University | Daraa | Ghabagheb | Historical Deir ez-Zor seat and Damascus contact context are retained in notes pending future multi-campus or history modeling. |
+| `sy-al-sham-private-university` | Al-Sham Private University | Rif Dimashq | Al-Tall | Additional Damascus Al-Mazraa and Latakia locations are retained in notes pending future multi-campus modeling. |
+| `sy-arab-academy-for-e-businesses` | Arab Academy for E-Businesses | Aleppo | Aleppo | More precise campus or contact locations require future approved-source review. |
 
 ## Missing Official Websites
 
@@ -42,7 +42,7 @@ regulator pages, or another approved reusable source:
 
 ## Review Rules
 
-- Do not resolve a field from comparison-only material alone; it is comparison-only.
+- Do not resolve a field from review-only material alone; it is review-only.
 - Prefer official institution pages, ministry/regulator pages, Wikidata, or
   other approved reusable public sources.
 - Add or update an import manifest for every reviewed batch.

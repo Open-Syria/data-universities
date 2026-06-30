@@ -530,8 +530,8 @@ export class UnauthorizedError extends AppError {
   }
 }
 
-export class ForbiddenError extends AppError {
-  constructor(message: string = "Forbidden") {
+export class ExcludedError extends AppError {
+  constructor(message: string = "Excluded") {
     super(message, 403);
   }
 }

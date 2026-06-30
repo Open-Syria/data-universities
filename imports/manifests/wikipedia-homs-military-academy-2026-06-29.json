@@ -32,7 +32,7 @@
     "Added sy-homs-military-academy as the last accepted held military candidate.",
     "Resolved foundedYear to 1933 from the dedicated Wikipedia/Wikidata item while retaining a note about the list-source 1919 conflict.",
     "Kept website null because no official website was confirmed from approved sources.",
-    "v0.1.11 restored the production boundary to records present in the internal comparison control list and moved non-control-list additions back to the held-candidate backlog."
+    "v0.1.11 restored the production boundary to records approved for the seed scope and moved out-of-scope additions back to the held-candidate backlog."
   ],
-  "reviewNotes": "Reviewed Homs Military Academy candidate resolution. Superseded by v0.1.11 because the candidate is not present in the internal comparison control list; retained in the held-candidate backlog."
+  "reviewNotes": "Reviewed Homs Military Academy candidate resolution. Superseded by v0.1.11 because the candidate is outside the current approved scope; retained in the held-candidate backlog."
 }

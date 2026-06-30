@@ -30,7 +30,7 @@ For contribution ideas outside this scope, contact `data@opensyria.org` before o
 - [ ] Records reference only sources with `status: "approved"`.
 - [ ] New or changed sources include URL, license, access date, and reuse notes where applicable.
 - [ ] Source licenses allow redistribution and reuse.
-- [ ] No Google Maps, commercial maps, proprietary directories, scraped restricted sites, or unclear-license sources are used.
+- [ ] No Google Maps, commercial maps, proprietary directories, scraped non-public sites, or unclear-license sources are used.
 - [ ] No AI output is treated as a source.
 - [ ] OSM-derived data is included only if the maintainer approved the ODbL licensing approach.
 

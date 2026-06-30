@@ -32,12 +32,10 @@ status if any blocker is present.
 Release artifacts include machine-readable readiness metadata in
 `release-manifest.json`.
 
-The current release level is `identity_seed_ready`: the canonical 57-record
-identity dataset is syncable, but public API exposure is explicitly
-`not_approved`. API repositories must treat that as a gate. They may download
-the release for discovery and internal verification, but they must not add
-public university endpoints or generated docs until a later release declares
-`publicApi.status: approved`.
+The current release level is `profile_ready`: the canonical 57-record identity
+dataset has complete reviewed logo coverage and approved ranking snapshots where
+public ranking providers list Syrian institutions. Public API exposure is
+approved through `publicApi.status: approved`.
 
 ## Nullable Or Source-Backed Targets
 
@@ -47,9 +45,15 @@ source supports them:
 - official websites,
 - source-backed centroids,
 - Wikidata IDs,
-- approved CDN image assets,
-- ranking snapshots.
+- ranking snapshots for institutions not listed by approved public ranking
+  providers.
 
-Image assets must pass license review and CDN upload before they enter
-`data/assets.json`. Ranking snapshots must come from an approved ranking source
-and stay in `data/rankings.json`, not in `data/universities.json`.
+Logo assets are the production profile target. Campus, building, and other
+non-logo images are optional and do not satisfy the public profile asset gate.
+Logos must still have an approved public source, trademark/reuse review, CDN
+upload, and attribution or rights notes before they enter `data/assets.json`.
+The current reviewed logo batch covers all 57 canonical universities. Future
+logo changes should still wait for a clean official logo source, trademark or
+reuse review, and CDN upload.
+Ranking snapshots must come from an approved ranking source and stay in
+`data/rankings.json`, not in `data/universities.json`.

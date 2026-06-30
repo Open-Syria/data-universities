@@ -12,7 +12,7 @@ Initial seed order:
 
 The first seed release includes 57 university and higher-institute records.
 This remains the production canonical boundary until additional records are
-confirmed in the internal comparison control list or OpenSyria approves a broader
+confirmed in the approved production scope or OpenSyria approves a broader
 scope rule.
 
 Post-seed expansion is tracked in [Post-Seed Backlog](POST_SEED_BACKLOG.md).

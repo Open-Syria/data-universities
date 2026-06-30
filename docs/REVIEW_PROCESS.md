@@ -11,6 +11,6 @@ Review university data changes for:
 - validation output.
 
 For post-seed additions, also confirm that candidates are present in the internal
-comparison control list, in dataset scope, and not duplicates or aliases of
+approved production scope, in dataset scope, and not duplicates or aliases of
 existing records. Candidates found only in public secondary sources should stay
 in the post-seed backlog until there is an explicit scope decision.

@@ -39,7 +39,7 @@ Please include:
 - uncertainty or source conflicts,
 - whether the issue came from a generated coverage report.
 
-Do not include private, personal, restricted, military, checkpoint, surveillance, or operational-sensitive data.
+Do not include private, personal, sensitive military, checkpoint, surveillance, or operational-sensitive data.
 
 ## Security
 

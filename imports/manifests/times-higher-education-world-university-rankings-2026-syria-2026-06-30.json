@@ -1,0 +1,24 @@
+{
+  "sourceId": "times-higher-education-world-university-rankings-2026-syria",
+  "sourceTitle": "Times Higher Education World University Rankings 2026: Syria",
+  "sourceUrl": "https://www.timeshighereducation.com/student/where-to-study/study-in-syrian-arab-republic",
+  "license": "Official public ranking page; factual data only",
+  "accessedAt": "2026-06-30T00:00:00.000Z",
+  "status": "reviewed",
+  "rawFiles": [
+    {
+      "name": "Times Higher Education Syria study destination page",
+      "notes": "Reviewed the official public page listing current overall World University Rankings values for Syria."
+    }
+  ],
+  "importedFields": ["rankingSystem", "rankScope", "year", "rank", "rankDisplay", "sourceUrl"],
+  "targetFiles": ["data/rankings.json", "data/sources.json"],
+  "transforms": [
+    "Registered the official Times Higher Education Syria page as an approved source for factual ranking snapshots only.",
+    "Imported only the current overall World University Rankings values published for Syrian institutions.",
+    "Stored non-numeric ranking bands and Reporter values in rankDisplay with rank set to null.",
+    "Matched each imported row to an existing canonical university ID.",
+    "Matched the source row named Zaytoonah International University to the canonical sy-al-zaytuna-university record and retained that mapping note in the imported ranking row."
+  ],
+  "reviewNotes": "Imported four THE 2026 overall World University Rankings snapshots: Damascus University 1501+, Arab International University Reporter, University of Aleppo Reporter, and Zaytoonah International University Reporter."
+}

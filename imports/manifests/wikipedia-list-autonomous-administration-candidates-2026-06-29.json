@@ -30,7 +30,7 @@
     "Kept Arabic names absent because the approved source batch did not provide source-backed Arabic names.",
     "Kept websites null because no approved public source confirmed official websites.",
     "Imported only source-backed locality values and did not infer governorates.",
-    "v0.1.11 restored the production boundary to records present in the internal comparison control list and moved non-control-list additions back to the held-candidate backlog."
+    "v0.1.11 restored the production boundary to records approved for the seed scope and moved out-of-scope additions back to the held-candidate backlog."
   ],
-  "reviewNotes": "Reviewed public-source autonomous-administration candidate batch. Superseded by v0.1.11 because these candidates are not present in the internal comparison control list; retained in the held-candidate backlog."
+  "reviewNotes": "Reviewed public-source autonomous-administration candidate batch. Superseded by v0.1.11 because these candidates are outside the current approved scope; retained in the held-candidate backlog."
 }

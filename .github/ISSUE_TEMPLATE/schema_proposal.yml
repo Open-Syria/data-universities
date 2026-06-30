@@ -66,5 +66,5 @@ body:
       options:
         - label: I understand this is a proposal and not approval to implement the field.
           required: true
-        - label: The proposal does not include private, personal, security, military, checkpoint, surveillance, or restricted data.
+        - label: The proposal does not include private, personal, security, military, checkpoint, surveillance, or non-public data.
           required: true

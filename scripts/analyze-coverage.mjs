@@ -140,7 +140,9 @@ function coverageMetric(label, priority, universities, coveredUniversityIds, opt
 }
 
 function buildUniversityCoverage(data) {
-  const assetUniversityIds = new Set(data.assets.map((asset) => asset.universityId));
+  const logoAssetUniversityIds = new Set(
+    data.assets.filter((asset) => asset.assetRole === 'logo').map((asset) => asset.universityId),
+  );
   const facultyUniversityIds = new Set(data.faculties.map((faculty) => faculty.universityId));
   const programUniversityIds = new Set(data.programs.map((program) => program.universityId));
   const rankingUniversityIds = new Set(data.rankings.map((ranking) => ranking.universityId));
@@ -187,11 +189,11 @@ function buildUniversityCoverage(data) {
       wikidataId: fieldMetric('Wikidata ID', 'low', data.universities, (record) =>
         Boolean(record.externalIds.wikidata),
       ),
-      approvedImageAsset: coverageMetric(
-        'Approved CDN image asset',
+      approvedLogoAsset: coverageMetric(
+        'Approved CDN logo asset',
         'medium',
         data.universities,
-        assetUniversityIds,
+        logoAssetUniversityIds,
       ),
       facultyCoverage: coverageMetric(
         'Faculty or institute rows',
@@ -262,8 +264,12 @@ function buildFieldAction(label) {
     return 'Add Wikidata IDs only after checking identity and duplicate risk.';
   }
 
+  if (lowerLabel.includes('logo')) {
+    return 'Review the official logo source and trademark constraints, generate CDN variants, then add a logo asset record.';
+  }
+
   if (lowerLabel.includes('image')) {
-    return 'Review image license and attribution, generate CDN variants, then add an asset record.';
+    return 'Review image license and attribution, generate CDN variants, then add an image asset record.';
   }
 
   if (lowerLabel.includes('ranking')) {

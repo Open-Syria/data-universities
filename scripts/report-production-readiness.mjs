@@ -167,7 +167,9 @@ function findLocationWarnings(universities) {
 const dataDirectory = getDataDirectory();
 const data = await loadData(dataDirectory);
 
-const assetUniversityIds = new Set(data.assets.map((asset) => asset.universityId));
+const logoAssetUniversityIds = new Set(
+  data.assets.filter((asset) => asset.assetRole === 'logo').map((asset) => asset.universityId),
+);
 const approvedSourceIds = new Set(
   data.sources.filter((source) => source.status === 'approved').map((source) => source.id),
 );
@@ -222,10 +224,32 @@ const unknownOperationalStatusRecords = data.universities.filter(
   (university) => university.operationalStatus === 'unknown',
 );
 const locationWarnings = findLocationWarnings(data.universities);
+const logoAssetCoverage = coverageSummary(data.universities, logoAssetUniversityIds);
+const rankingCoverage = coverageSummary(data.universities, rankingUniversityIds);
+const releaseGateChecks = [
+  ...requiredChecks,
+  {
+    id: 'approvedLogoAssets',
+    label: 'Every university has an approved logo asset.',
+    ok: logoAssetCoverage.missingCount === 0,
+    ...logoAssetCoverage,
+  },
+  {
+    id: 'rankingSnapshots',
+    label: 'At least one approved ranking snapshot is loaded.',
+    ok: data.rankings.length > 0,
+    snapshotCount: data.rankings.length,
+  },
+];
+const releaseGateBlockers = releaseGateChecks.filter((check) => !check.ok);
 
 const report = {
-  ok: blockers.length === 0,
+  ok: releaseGateBlockers.length === 0,
   dataDirectory: path.relative(root, dataDirectory).replaceAll('\\', '/'),
+  releaseGate: {
+    status: releaseGateBlockers.length === 0 ? 'profile-ready' : 'blocked',
+    blockers: releaseGateBlockers,
+  },
   hardRequirements: {
     blockers,
     checks: requiredChecks,
@@ -243,13 +267,14 @@ const report = {
       status: 'optional-source-backed-enrichment',
       ...missingSummary(missingWikidataRecords),
     },
-    approvedImageAssets: {
-      status: 'coverage-target-needs-license-review-and-cdn-upload',
-      ...coverageSummary(data.universities, assetUniversityIds),
+    approvedLogoAssets: {
+      status: logoAssetCoverage.missingCount === 0 ? 'complete' : 'blocking-coverage-gap',
+      ...logoAssetCoverage,
     },
     rankingSnapshots: {
-      status: 'coverage-target-needs-approved-ranking-source',
-      ...coverageSummary(data.universities, rankingUniversityIds),
+      status: data.rankings.length > 0 ? 'source-backed-partial-allowed' : 'blocking-empty',
+      snapshotCount: data.rankings.length,
+      ...rankingCoverage,
     },
   },
   reviewWarnings: {

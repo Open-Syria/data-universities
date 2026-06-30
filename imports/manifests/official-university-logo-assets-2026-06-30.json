@@ -1,0 +1,55 @@
+{
+  "sourceId": "official-university-logo-assets-2026-06-30",
+  "sourceTitle": "Official university website logo asset batch",
+  "sourceUrl": "https://cdn.opensyria.org/universities/",
+  "license": "Official institutional logos; trademark rights may apply",
+  "accessedAt": "2026-06-30T00:00:00.000Z",
+  "status": "reviewed",
+  "rawFiles": [
+    {
+      "name": "r2-before-clean-universities.json",
+      "sha256": "61ade6ecab30d43c18cfe3c078db1d6411a5efae84c565c235d94c0282d2feb6",
+      "notes": "Local maintainer artifact retained under data-automation outputs for the official logo batch."
+    },
+    {
+      "name": "r2-clean-universities-2026-06-30.json",
+      "sha256": "ab95c9694e890335b6516d94ad57e25127c806753ec829d0a4d12f99140d022c",
+      "notes": "Local maintainer artifact retained under data-automation outputs for the official logo batch."
+    },
+    {
+      "name": "official-logo-candidates.json",
+      "sha256": "c467bfc622d289c2b345b5a79d0099ad6a7c8cfde23e986f6288eadeea19ca6a",
+      "notes": "Local maintainer artifact retained under data-automation outputs for the official logo batch."
+    },
+    {
+      "name": "official-logo-approved.json",
+      "sha256": "646ca10f54e314e142a82dd64b117800f53ab4d1d85c28f51e4aef1f269ae6bd",
+      "notes": "Local maintainer artifact retained under data-automation outputs for the official logo batch."
+    },
+    {
+      "name": "image-assets-manifest.json",
+      "sha256": "86375dadccc21be79695aa79559fcb357e929daa1fdc38c5e314e695c4acddcd",
+      "notes": "Local maintainer artifact retained under data-automation outputs for the official logo batch."
+    },
+    {
+      "name": "image-assets-upload.dry-run.json",
+      "sha256": "d8877245d0050e6331f09f1c49462f21fffa75307f33ace5155bf140b254be0d",
+      "notes": "Local maintainer artifact retained under data-automation outputs for the official logo batch."
+    },
+    {
+      "name": "image-assets-upload.json",
+      "sha256": "f93a9565a2c41a2e60d11a5d3d47888c2a1eb27a2b232da8f201ce00c6f9203d",
+      "notes": "Local maintainer artifact retained under data-automation outputs for the official logo batch."
+    }
+  ],
+  "importedFields": ["logo variants", "source URLs", "attribution", "license notes"],
+  "targetFiles": ["data/assets.json", "data/sources.json"],
+  "transforms": [
+    "Cleaned the R2 bucket before the fresh logo batch.",
+    "Collected logo candidates from canonical official university website URLs.",
+    "Rejected weak, invisible, partner-logo, non-standalone, and non-raster candidates during review.",
+    "Generated WebP and AVIF variants under the universities CDN key namespace.",
+    "Uploaded verified variants to R2 and retained exact source URLs in data/assets.json."
+  ],
+  "reviewNotes": "First fresh logo batch after R2 cleanup. Approved 37 official website logo assets; remaining universities need manual follow-up or have no usable official raster logo source in this pass."
+}

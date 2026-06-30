@@ -685,6 +685,7 @@ async function buildDatasetArtifacts(config) {
 function buildReleaseReadiness() {
   const universities = datasetRecordsByName.get('universities') ?? [];
   const assets = datasetRecordsByName.get('assets') ?? [];
+  const logoAssets = assets.filter((asset) => asset.assetRole === 'logo');
   const faculties = datasetRecordsByName.get('faculties') ?? [];
   const programs = datasetRecordsByName.get('programs') ?? [];
   const rankings = datasetRecordsByName.get('rankings') ?? [];
@@ -697,14 +698,28 @@ function buildReleaseReadiness() {
   const sourcedCount = universities.filter((record) => record.sourceIds.length > 0).length;
   const websiteCount = universities.filter((record) => record.website).length;
   const centroidCount = universities.filter((record) => record.location?.centroid).length;
+  const hardRequirementsPassed =
+    universityCount === 57 &&
+    englishNameCount === universityCount &&
+    arabicNameCount === universityCount &&
+    locationCount === universityCount &&
+    sourcedCount === universityCount;
+  const logoCoveragePassed = logoAssets.length === universityCount;
+  const rankingSnapshotsAvailable = rankings.length > 0;
+  const profileReady = hardRequirementsPassed && logoCoveragePassed && rankingSnapshotsAvailable;
 
   return {
-    level: 'identity_seed_ready',
+    level: profileReady
+      ? 'profile_ready'
+      : hardRequirementsPassed
+        ? 'public_directory_ready'
+        : 'raw_seed',
     publicApi: {
-      status: 'not_approved',
-      minimumLevel: 'public_directory_ready',
-      reason:
-        'Canonical identity data is ready, but public university endpoints are blocked until image, ranking, and profile coverage gates are approved.',
+      status: profileReady ? 'approved' : 'not_approved',
+      minimumLevel: 'profile_ready',
+      reason: profileReady
+        ? 'Approved for public university profile endpoints. Nullable website, centroid, faculty, and program gaps remain source-backed enrichment work.'
+        : 'Public university profile endpoints require canonical identity data, complete logo coverage, and approved ranking snapshots.',
     },
     checks: [
       {
@@ -738,6 +753,20 @@ function buildReleaseReadiness() {
         actual: sourcedCount,
       },
       {
+        name: 'approved_logo_assets',
+        status: logoCoveragePassed ? 'passed' : 'blocked',
+        expected: universityCount,
+        actual: logoAssets.length,
+      },
+      {
+        name: 'approved_ranking_snapshots',
+        status: rankingSnapshotsAvailable ? 'passed' : 'blocked',
+        expected: 'source-backed ranking snapshots',
+        actual: rankings.length,
+        notes:
+          'Ranking snapshots are not expected to cover every institution; smaller institutions may not appear in public ranking providers.',
+      },
+      {
         name: 'official_websites',
         status: websiteCount === universityCount ? 'passed' : 'warning',
         expected: universityCount,
@@ -762,10 +791,15 @@ function buildReleaseReadiness() {
       },
       {
         name: 'assets',
-        status: assets.length === universities.length ? 'ready' : 'partial',
-        recordCount: assets.length,
+        status:
+          logoAssets.length === universities.length
+            ? 'ready'
+            : logoAssets.length > 0
+              ? 'partial'
+              : 'empty',
+        recordCount: logoAssets.length,
         notes:
-          'Image coverage is partial and must not be treated as complete public profile coverage.',
+          'Logo coverage is the public profile asset target. Non-logo image assets are optional and do not satisfy this gate.',
       },
       {
         name: 'faculties',
@@ -783,14 +817,16 @@ function buildReleaseReadiness() {
         name: 'rankings',
         status: rankings.length > 0 ? 'partial' : 'empty',
         recordCount: rankings.length,
-        notes: 'Ranking snapshots are schema-ready but not populated for this release.',
+        notes:
+          rankings.length > 0
+            ? 'Ranking snapshots are available for institutions listed by approved ranking providers; missing rows are allowed when no approved ranking source lists the institution.'
+            : 'Ranking snapshots are schema-ready but not populated for this release.',
       },
     ],
     blockers: [
-      'public_api_not_approved',
-      'approved_image_asset_coverage_partial',
-      'ranking_snapshot_coverage_empty',
-      'faculties_programs_not_loaded',
+      ...(hardRequirementsPassed ? [] : ['canonical_identity_requirements_not_met']),
+      ...(logoCoveragePassed ? [] : ['approved_logo_asset_coverage_incomplete']),
+      ...(rankingSnapshotsAvailable ? [] : ['ranking_snapshots_empty']),
     ],
   };
 }

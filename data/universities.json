@@ -158,7 +158,8 @@
         "ar": "\u062f\u0631\u0639\u0627"
       },
       "locality": {
-        "en": "Deir ez-Zor Governorate"
+        "en": "Ghabagheb",
+        "ar": "\u063a\u0628\u0627\u063a\u0628"
       },
       "centroid": {
         "latitude": 33.166833333,
@@ -169,8 +170,13 @@
       "wikidata": "Q12204413",
       "website": "http://jude.edu.sy"
     },
-    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
-    "sourceStatus": "seed"
+    "sourceIds": [
+      "wikidata",
+      "wikipedia-list-universities-syria",
+      "al-jazeera-private-university-official-website"
+    ],
+    "sourceStatus": "seed",
+    "notes": "Location conflict reviewed: current public-facing campus locality normalized to Ghabagheb, Daraa; Deir ez-Zor historical-seat context and Damascus contact context require future multi-campus or history modeling."
   },
   {
     "id": "sy-al-maali-university",
@@ -363,19 +369,25 @@
     "website": "http://aspu.edu.sy",
     "location": {
       "governorate": {
-        "en": "Damascus",
-        "ar": "\u062f\u0645\u0634\u0642"
+        "en": "Rif Dimashq",
+        "ar": "\u0631\u064a\u0641 \u062f\u0645\u0634\u0642"
       },
       "locality": {
-        "en": "Rif Dimashq Governorate"
+        "en": "Al-Tall",
+        "ar": "\u0627\u0644\u062a\u0644"
       }
     },
     "externalIds": {
       "wikidata": "Q28715284",
       "website": "http://aspu.edu.sy"
     },
-    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
-    "sourceStatus": "seed"
+    "sourceIds": [
+      "wikidata",
+      "wikipedia-list-universities-syria",
+      "al-sham-private-university-official-website"
+    ],
+    "sourceStatus": "seed",
+    "notes": "Location conflict reviewed: official site lists Al-Tall in Damascus countryside alongside additional Damascus Al-Mazraa and Latakia locations; canonical single location normalized to Rif Dimashq / Al-Tall pending multi-campus modeling."
   },
   {
     "id": "sy-al-sham-university",
@@ -565,17 +577,18 @@
     "website": null,
     "location": {
       "governorate": {
-        "en": "Damascus",
-        "ar": "\u062f\u0645\u0634\u0642"
+        "en": "Aleppo",
+        "ar": "\u062d\u0644\u0628"
       },
       "locality": {
-        "en": "Aleppo Governorate"
+        "en": "Aleppo",
+        "ar": "\u062d\u0644\u0628"
       }
     },
     "externalIds": {},
     "sourceIds": ["wikipedia-list-universities-syria"],
     "sourceStatus": "seed",
-    "notes": "Comparison conflict reviewed for seed fields: foundedYear. Official website remains unconfirmed from approved public sources."
+    "notes": "Comparison conflict reviewed for seed fields: foundedYear. Location conflict reviewed: Wikipedia-listed Aleppo governorate normalized to Aleppo / Aleppo. Official website remains unconfirmed from approved public sources."
   },
   {
     "id": "sy-arab-academy-of-science-and-technology-and-maritime-transport",
@@ -1009,7 +1022,7 @@
     "externalIds": {},
     "sourceIds": ["wikipedia-list-universities-syria"],
     "sourceStatus": "seed",
-    "notes": "Seed record accepted from the internal control-list review; official website remains unconfirmed from approved public sources."
+    "notes": "Seed record accepted from the approved seed review; official website remains unconfirmed from approved public sources."
   },
   {
     "id": "sy-higher-institute-of-demographic-studies-and-research",
@@ -1036,7 +1049,7 @@
     },
     "sourceIds": ["wikipedia-list-universities-syria"],
     "sourceStatus": "seed",
-    "notes": "Seed record accepted from the internal control-list review. Reviewer provided website: http://hidsr.edu.sy/."
+    "notes": "Seed record accepted from the approved seed review. Reviewer provided website: http://hidsr.edu.sy/."
   },
   {
     "id": "sy-higher-institute-of-dramatic-arts",
@@ -1067,7 +1080,7 @@
     },
     "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
     "sourceStatus": "seed",
-    "notes": "Seed record accepted from the internal control-list review. Reviewer notes missing official website is acceptable until an approved public source confirms one."
+    "notes": "Seed record accepted from the approved seed review. Reviewer notes missing official website is acceptable until an approved public source confirms one."
   },
   {
     "id": "sy-higher-institute-of-music",
@@ -1092,7 +1105,7 @@
     "externalIds": {},
     "sourceIds": ["wikipedia-list-universities-syria"],
     "sourceStatus": "seed",
-    "notes": "Seed record accepted from the internal control-list review. Reviewer notes missing official website is acceptable until an approved public source confirms one."
+    "notes": "Seed record accepted from the approved seed review. Reviewer notes missing official website is acceptable until an approved public source confirms one."
   },
   {
     "id": "sy-homs-university",

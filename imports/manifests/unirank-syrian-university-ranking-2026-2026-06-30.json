@@ -1,0 +1,24 @@
+{
+  "sourceId": "unirank-syrian-university-ranking-2026",
+  "sourceTitle": "uniRank 2026 Syrian University Ranking",
+  "sourceUrl": "https://www.unirank.org/sy/ranking/",
+  "license": "Public ranking provider page; factual data only",
+  "accessedAt": "2026-06-30T00:00:00.000Z",
+  "status": "reviewed",
+  "rawFiles": [
+    {
+      "name": "uniRank 2026 Syrian University Ranking page",
+      "notes": "Reviewed the public country ranking table and imported only explicit rank/status values."
+    }
+  ],
+  "importedFields": ["rankingSystem", "rankScope", "year", "rank", "rankDisplay", "sourceUrl"],
+  "targetFiles": ["data/rankings.json", "data/sources.json"],
+  "transforms": [
+    "Registered the uniRank country ranking page as an approved source for factual ranking snapshots only.",
+    "Filtered the public table to rows that could be matched to existing canonical university IDs.",
+    "Created one 2026 national ranking snapshot per matched row.",
+    "Stored the explicit Aram University unranked status as rank null with rankDisplay Unranked.",
+    "Skipped the Arab Open Academy row because it does not clearly match a canonical production-boundary university record."
+  ],
+  "reviewNotes": "Imported 40 matched uniRank 2026 Syrian University Ranking rows. The skipped row should remain a candidate-only review item unless OpenSyria later approves a broader scope or identity match."
+}

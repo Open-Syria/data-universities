@@ -1,0 +1,18 @@
+{
+  "sourceId": "wikipedia-list-universities-syria",
+  "sourceTitle": "Wikipedia: List of universities and colleges in Syria",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_universities_and_colleges_in_Syria",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "accessedAt": "2026-06-29T00:00:00.000Z",
+  "status": "reviewed",
+  "rawFiles": [],
+  "importedFields": ["location.governorate", "location.locality", "notes"],
+  "targetFiles": ["data/universities.json"],
+  "transforms": [
+    "Reviewed the remaining governorate/locality conflict for Arab Academy for E-Businesses.",
+    "Used the Wikipedia-listed Aleppo governorate as the canonical governorate.",
+    "Normalized the locality to Aleppo because the current schema requires a locality and no more precise approved locality is available."
+  ],
+  "reviewNotes": "This review only resolves the malformed Damascus / Aleppo Governorate combination. More precise campus or contact locations should be added later only after source approval."
+}

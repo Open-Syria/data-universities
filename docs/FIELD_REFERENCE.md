@@ -107,6 +107,9 @@ building
 other
 ```
 
+`logo` is the production profile asset target. `campus`, `building`, and
+`other` image roles are optional media and do not satisfy logo coverage gates.
+
 `variants` contains generated OpenSyria CDN objects. Each variant includes:
 
 - `url`
@@ -118,7 +121,7 @@ other
 - `sha256`
 - `sizeBytes`
 
-`attribution` keeps the source provider, source URL, creator, license, and whether attribution is required. Keep this data with the image record, especially for Creative Commons BY or BY-SA media.
+`attribution` keeps the source provider, source URL, creator, license, and whether attribution is required. Keep this data with the image record, especially for Creative Commons BY or BY-SA media. For logos, retain the official or approved source URL and any trademark or reuse notes.
 
 ## Faculty Fields
 

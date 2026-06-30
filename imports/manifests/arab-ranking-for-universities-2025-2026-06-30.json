@@ -1,0 +1,24 @@
+{
+  "sourceId": "arab-ranking-for-universities-2025",
+  "sourceTitle": "Arab Ranking for Universities 2025 results",
+  "sourceUrl": "https://www.auranking.aaru.edu.jo/rank%20results/",
+  "license": "Official public ranking page; factual data only",
+  "accessedAt": "2026-06-30T00:00:00.000Z",
+  "status": "reviewed",
+  "rawFiles": [
+    {
+      "name": "Arab Ranking for Universities 2025 official results page",
+      "notes": "Reviewed the public results table on the official Arab Ranking for Universities website."
+    }
+  ],
+  "importedFields": ["rankingSystem", "rankScope", "year", "rank", "rankDisplay", "sourceUrl"],
+  "targetFiles": ["data/rankings.json", "data/sources.json"],
+  "transforms": [
+    "Registered the official AARU 2025 results page as an approved source for factual ranking snapshots only.",
+    "Filtered the public results table to rows where Country is Syria.",
+    "Matched each imported row to an existing canonical university ID.",
+    "Created one regional overall Arab rank snapshot and one national Syria country-rank snapshot for each matched university.",
+    "Matched the source row named Tishreen University to the canonical sy-latakia-university record and retained that mapping note in the imported ranking rows."
+  ],
+  "reviewNotes": "Imported only explicit ranks from the official AARU 2025 results table. The source publishes six Syria rows: Damascus University, International University for Science and Technology, Al-Andalus University for Medical Sciences, Tishreen University, Yarmouk Private University, and Al-Sham Private University."
+}

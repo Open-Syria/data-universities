@@ -1,0 +1,25 @@
+{
+  "sourceId": "webometrics-org-global-web-rankings-january-2026-syria",
+  "sourceTitle": "Webometrics.org Global Web Rankings for Universities: Syria, January 2026",
+  "sourceUrl": "https://www.webometrics.org/syria",
+  "license": "Public ranking provider page; factual data only",
+  "accessedAt": "2026-06-30T00:00:00.000Z",
+  "status": "reviewed",
+  "rawFiles": [
+    {
+      "name": "Webometrics.org Syria ranking page",
+      "notes": "Reviewed the public January 2026 Syria ranking table and imported only explicit rank values for clear canonical matches not already covered by an approved source."
+    }
+  ],
+  "importedFields": ["rankingSystem", "rankScope", "year", "rank", "rankDisplay", "sourceUrl"],
+  "targetFiles": ["data/rankings.json", "data/sources.json"],
+  "transforms": [
+    "Registered the independent Webometrics.org Syria page as an approved source for factual ranking snapshots only.",
+    "Kept this source separate from the Webometrics.info/Figshare source already registered as webometrics-ranking-web-january-2026.",
+    "Imported one global world-rank snapshot and one national Syria-rank snapshot for each clear missing canonical match.",
+    "Matched Institut Superieur des Sciences Appliquees et de Technologie Damascus to sy-higher-institute-of-applied-sciences-and-technology.",
+    "Matched Sham University to sy-al-sham-university and not sy-al-sham-private-university.",
+    "Matched Arab Academy for E-Business to sy-arab-academy-for-e-businesses."
+  ],
+  "reviewNotes": "Imported six ranking snapshots covering three additional canonical universities. Other rows were left alone when already covered, outside the production boundary, or not clearly matched."
+}

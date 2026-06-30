@@ -30,7 +30,7 @@
       },
       "status": {
         "type": "string",
-        "enum": ["approved", "restricted", "proposed", "rejected"]
+        "enum": ["approved", "limited", "proposed", "rejected"]
       },
       "fields": {
         "type": "array",

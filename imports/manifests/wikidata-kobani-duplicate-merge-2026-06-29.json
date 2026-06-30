@@ -28,7 +28,7 @@
     "Merged Wikidata Q114672251 into sy-university-of-kobani as a duplicate/enrichment identifier.",
     "Did not create a new record because the existing University of Kobani record already represents the institution.",
     "Did not import Kurdish aliases because the canonical alias language schema currently accepts only ar, en, and und.",
-    "v0.1.11 restored the production boundary to records present in the internal comparison control list and moved non-control-list additions back to the held-candidate backlog."
+    "v0.1.11 restored the production boundary to records approved for the seed scope and moved out-of-scope additions back to the held-candidate backlog."
   ],
-  "reviewNotes": "Reviewed Wikidata duplicate/enrichment candidate for University of Kobani. Superseded by v0.1.11 because the canonical University of Kobani candidate is held outside the current internal control-list boundary."
+  "reviewNotes": "Reviewed Wikidata duplicate/enrichment candidate for University of Kobani. Superseded by v0.1.11 because the canonical University of Kobani candidate is held outside the current approved scope."
 }

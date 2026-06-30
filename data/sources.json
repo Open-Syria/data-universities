@@ -1,5 +1,591 @@
 [
   {
+    "id": "al-jazeera-private-university-official-website",
+    "title": "Al-Jazeera Private University official website",
+    "url": "https://jude.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["location", "official website"],
+    "notes": "Used only for public factual location/contact review for Al-Jazeera Private University."
+  },
+  {
+    "id": "al-sham-private-university-official-website",
+    "title": "Al-Sham Private University official website",
+    "url": "https://aspu.edu.sy/site/english/index.php",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["location", "official website"],
+    "notes": "Used only for public factual location/contact review for Al-Sham Private University."
+  },
+  {
+    "id": "arab-ranking-for-universities-2025",
+    "title": "Arab Ranking for Universities 2025 results",
+    "url": "https://www.auranking.aaru.edu.jo/rank%20results/",
+    "license": "Official public ranking page; factual data only",
+    "status": "approved",
+    "fields": ["ranking snapshots"],
+    "notes": "Used only for explicit 2025 rank rows published by the official Arab Ranking for Universities results table; no narrative page content is imported."
+  },
+  {
+    "id": "sy-al-amanos-university-official-logo",
+    "title": "Al-Amanos University official logo source",
+    "url": "https://amanusuniversity.com/wp-content/uploads/2025/10/cropped-New-Logo-Dark-PNG-270x270.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-andalus-university-for-medical-sciences-official-logo",
+    "title": "Al-Andalus University for Medical Sciences official logo source",
+    "url": "https://au.edu.sy/images/horizontal-logo-light.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-furat-university-official-logo",
+    "title": "Al-Furat University official logo source",
+    "url": "https://alfuratuniv.edu.sy/images/ministry-logo.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-hawash-private-university-official-logo",
+    "title": "Al-Hawash Private University official logo source",
+    "url": "https://hpu.edu.sy/wp-content/uploads/2024/01/logo1-e1759994423185.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-hayat-university-for-applied-sciences-official-logo",
+    "title": "Al-Hayat University for Applied Sciences official logo source",
+    "url": "https://www.meduc.net/mec/sites/all/themes/meduc/logo.png?rand=4180",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-jazeera-private-university-official-logo",
+    "title": "Al-Jazeera Private University official logo source",
+    "url": "https://www.facebook.com/jude.edu.sy",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official social profile logo source used only for public CDN logo variants; Arabic and English page identity were reviewed, and trademark or institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-maali-university-official-logo",
+    "title": "Al-Maali University official logo source",
+    "url": "https://www.facebook.com/almaaliuniv",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official social profile logo source used only for public CDN logo variants; Arabic and English page identity were reviewed, and trademark or institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-maarif-private-university-official-logo",
+    "title": "Al-Maarif Private University official logo source",
+    "url": "https://mas.edu.sy/wp-content/uploads/2020/11/logo.webp",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-manara-university-official-logo",
+    "title": "Al-Manara University official logo source",
+    "url": "http://www.manara.edu.sy/images/fblogo.jpg",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-rasheed-international-university-for-science-and-technology-official-logo",
+    "title": "Al-Rasheed International University for Science and Technology official logo source",
+    "url": "https://www.facebook.com/RasheedUniv",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official social profile logo source used only for public CDN logo variants; Arabic and English page identity were reviewed, and trademark or institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-ruwad-university-for-science-and-culture-official-logo",
+    "title": "Al-Ruwad University for Science and Culture official logo source",
+    "url": "https://alrowaduni.edu.sy/wp-content/uploads/2024/11/%D9%84%D9%88%D8%BA%D9%88-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-shahba-university-official-logo",
+    "title": "Al-Shahba University official logo source",
+    "url": "https://www.su.edu.sy/images/logo.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-sham-private-university-official-logo",
+    "title": "Al-Sham Private University official logo source",
+    "url": "https://aspu.edu.sy/site/images/web/logo-wide.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-sham-university-official-logo",
+    "title": "Al-Sham University official logo source",
+    "url": "https://isu.edu.sy/images/logo.jpg",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-shamal-private-university-official-logo",
+    "title": "Al-Shamal Private University official logo source",
+    "url": "https://al-shamal.edu.sy/wp-content/uploads/2021/11/logo-100.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-wataniya-private-university-official-logo",
+    "title": "Al-Wataniya Private University official logo source",
+    "url": "https://wpu.edu.sy/wp-content/uploads/2022/01/cropped-logo-270x270.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-zahraa-university-official-logo",
+    "title": "Al-Zahraa University official logo source",
+    "url": "https://alzahraa.university/wp-content/uploads/2017/02/Islamic_Online_University_Logo-2.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-zaytuna-university-official-logo",
+    "title": "Al-Zaytuna University official logo source",
+    "url": "https://ziu.edu.sy/assets/images/logo.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-antioch-syrian-university-official-logo",
+    "title": "Antioch Syrian University official logo source",
+    "url": "https://asu.edu.sy/sites/default/files/logo.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-arab-academy-for-e-businesses-official-logo",
+    "title": "Arab Academy for E-Businesses official logo source",
+    "url": "https://www.facebook.com/araeb.syria",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official social profile logo source used only for public CDN logo variants; Arabic and English page identity were reviewed, and trademark or institutional identity rights may apply."
+  },
+  {
+    "id": "sy-arab-academy-of-science-and-technology-and-maritime-transport-official-logo",
+    "title": "Arab Academy of Science and Technology and Maritime Transport official logo source",
+    "url": "https://aast.edu/template/logo-blue03.webp",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-arab-international-university-official-logo",
+    "title": "Arab International University official logo source",
+    "url": "https://www.aiu.edu.sy/site/assets/images/aiu-source/logo/logo.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-arab-university-for-science-and-technology-official-logo",
+    "title": "Arab University for Science and Technology official logo source",
+    "url": "https://aust.edu.sy/front-end/assets/image/logo/new-logo-loader.webp",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-aram-university-for-sciences-official-logo",
+    "title": "Aram University for Sciences official logo source",
+    "url": "https://www.facebook.com/Aramuniversity",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official social profile logo source used only for public CDN logo variants; Arabic and English page identity were reviewed, and trademark or institutional identity rights may apply."
+  },
+  {
+    "id": "sy-basaksehir-university-official-logo",
+    "title": "Başakşehir University official logo source",
+    "url": "https://bsu.edu.sy/wp-content/uploads/2021/07/web-logo.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-bilad-al-sham-university-for-sharia-sciences-official-logo",
+    "title": "Bilad Al-Sham University for Sharia Sciences official logo source",
+    "url": "https://www.facebook.com/BALADSHAM",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official social profile logo source used only for public CDN logo variants; Arabic and English page identity were reviewed, and trademark or institutional identity rights may apply."
+  },
+  {
+    "id": "sy-cordoba-private-university-official-logo",
+    "title": "Cordoba Private University official logo source",
+    "url": "https://www.cpu.edu.sy/images/logos/logo.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-damascus-university-official-logo",
+    "title": "Damascus University official logo source",
+    "url": "https://www.facebook.com/Damas.University",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official social profile logo source used only for public CDN logo variants; Arabic and English page identity were reviewed, and trademark or institutional identity rights may apply."
+  },
+  {
+    "id": "sy-ebla-private-university-official-logo",
+    "title": "Ebla Private University official logo source",
+    "url": "https://www.ebla.edu.sy/images/horizontal-logo.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-faculty-of-theology-official-logo",
+    "title": "Faculty of Theology official logo source",
+    "url": "https://theologyfaculty.org/images/web/logo_ar3.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-hama-university-official-logo",
+    "title": "Hama University official logo source",
+    "url": "https://hama-univ.edu.sy/wp-content/uploads/2025/07/LOGO-HAMA-UNIVERSITY-3D-1024x1024.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-higher-institute-of-administration-official-logo",
+    "title": "Higher Institute of Administration official logo source",
+    "url": "https://www.facebook.com/idara.syria",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official Facebook page logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-higher-institute-of-applied-sciences-and-technology-official-logo",
+    "title": "Higher Institute of Applied Sciences and Technology official logo source",
+    "url": "https://x.com/HiastEduSy",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official social profile logo source used only for public CDN logo variants; Arabic and English page identity were reviewed, and trademark or institutional identity rights may apply."
+  },
+  {
+    "id": "sy-higher-institute-of-business-administration-official-logo",
+    "title": "Higher Institute of Business Administration official logo source",
+    "url": "http://www.hiba.edu.sy/images/logo.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-higher-institute-of-cinematic-arts-official-logo",
+    "title": "Higher Institute of Cinematic Arts official logo source",
+    "url": "https://www.facebook.com/p/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D9%81%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-61579062404945/",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official Facebook logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-higher-institute-of-demographic-studies-and-research-official-logo",
+    "title": "Higher Institute of Demographic Studies and Research official logo source",
+    "url": "https://www.facebook.com/hidsr.edu.sy",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official social profile logo source used only for public CDN logo variants; Arabic and English page identity were reviewed, and trademark or institutional identity rights may apply."
+  },
+  {
+    "id": "sy-higher-institute-of-dramatic-arts-official-logo",
+    "title": "Higher Institute of Dramatic Arts official logo source",
+    "url": "https://www.facebook.com/photo/?fbid=1142154131345632&id=100066531674342",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official Facebook logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-higher-institute-of-music-official-logo",
+    "title": "Higher Institute of Music official logo source",
+    "url": "https://www.facebook.com/him.damas",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official social profile logo source used only for public CDN logo variants; Arabic and English page identity were reviewed, and trademark or institutional identity rights may apply."
+  },
+  {
+    "id": "sy-homs-university-official-logo",
+    "title": "Homs University official logo source",
+    "url": "https://homs-univ.edu.sy/wp-content/uploads/2025/08/homs-university-logo-150px-.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-idlib-university-official-logo",
+    "title": "Idlib University official logo source",
+    "url": "https://idlib.edu.sy/images/icon.ico",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-institute-of-economic-and-social-planning-official-logo",
+    "title": "Institute of Economic and Social Planning official logo source",
+    "url": "https://www.facebook.com/ESPI.syria",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official social profile logo source used only for public CDN logo variants; Arabic and English page identity were reviewed, and trademark or institutional identity rights may apply."
+  },
+  {
+    "id": "sy-international-university-for-science-and-renaissance-official-logo",
+    "title": "International University for Science and Renaissance official logo source",
+    "url": "https://iusr.university/wp-content/uploads/2023/07/cropped-logo_iusr-270x270.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-international-university-for-science-and-technology-official-logo",
+    "title": "International University for Science and Technology official logo source",
+    "url": "https://iust.edu.sy/wp-content/uploads/2023/05/IUST-logo-3.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-ittihad-private-university-official-logo",
+    "title": "Ittihad Private University official logo source",
+    "url": "https://www.facebook.com/www.ipu.edu.sy",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official social profile logo source used only for public CDN logo variants; Arabic and English page identity were reviewed, and trademark or institutional identity rights may apply."
+  },
+  {
+    "id": "sy-latakia-university-official-logo",
+    "title": "Latakia University official logo source",
+    "url": "https://latakia-univ.edu.sy/img/Latakia-university-logo.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-mari-private-university-official-logo",
+    "title": "Mari Private University official logo source",
+    "url": "https://mari.edu.sy/images/logo.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-national-institute-of-public-administration-official-logo",
+    "title": "National Institute of Public Administration official logo source",
+    "url": "https://www.facebook.com/inasyrie",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official social profile logo source used only for public CDN logo variants; Arabic and English page identity were reviewed, and trademark or institutional identity rights may apply."
+  },
+  {
+    "id": "sy-qasyoun-private-university-official-logo",
+    "title": "Qasyoun Private University official logo source",
+    "url": "https://qpu.edu.sy/images/logo-wide.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-syrian-private-university-official-logo",
+    "title": "Syrian Private University official logo source",
+    "url": "http://www.spu.edu.sy/images/logo.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-syrian-university-for-science-and-technology-official-logo",
+    "title": "Syrian University for Science and Technology official logo source",
+    "url": "https://www.sust.edu.sy/assets/images/logo.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-syrian-virtual-university-official-logo",
+    "title": "Syrian Virtual University official logo source",
+    "url": "https://www.facebook.com/svuonline.org",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official social profile logo source used only for public CDN logo variants; Arabic and English page identity were reviewed, and trademark or institutional identity rights may apply."
+  },
+  {
+    "id": "sy-the-islamic-university-official-logo",
+    "title": "The Islamic University official logo source",
+    "url": "https://iuis.edu.sy/assets/images/logo.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-university-of-aleppo-official-logo",
+    "title": "University of Aleppo official logo source",
+    "url": "https://alepuniv.edu.sy/images/logo.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-university-of-kalamoon-official-logo",
+    "title": "University of Kalamoon official logo source",
+    "url": "http://www.uok.edu.sy/wp-content/uploads/2018/11/Logo.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-university-of-tartus-official-logo",
+    "title": "University of Tartus official logo source",
+    "url": "https://tartous-univ.edu.sy/images/logo.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-wadi-international-university-official-logo",
+    "title": "Wadi International University official logo source",
+    "url": "https://wiu.edu.sy/wp-content/uploads/2021/12/wiu.png",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-yarmouk-private-university-official-logo",
+    "title": "Yarmouk Private University official logo source",
+    "url": "https://ypu.edu.sy/web/image/website/1/logo/Yarmouk%20Private%20University?unique=e881326",
+    "license": "Official institutional logo; trademark rights may apply",
+    "status": "approved",
+    "fields": ["logo"],
+    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "times-higher-education-world-university-rankings-2026-syria",
+    "title": "Times Higher Education World University Rankings 2026: Syria",
+    "url": "https://www.timeshighereducation.com/student/where-to-study/study-in-syrian-arab-republic",
+    "license": "Official public ranking page; factual data only",
+    "status": "approved",
+    "fields": ["ranking snapshots"],
+    "notes": "Used only for current overall World University Rankings values published in the official Times Higher Education Syria page."
+  },
+  {
+    "id": "unirank-syrian-university-ranking-2026",
+    "title": "uniRank 2026 Syrian University Ranking",
+    "url": "https://www.unirank.org/sy/ranking/",
+    "license": "Public ranking provider page; factual data only",
+    "status": "approved",
+    "fields": ["ranking snapshots"],
+    "notes": "Used only for explicit 2026 Syria national rank values published in the uniRank country ranking table; methodology and ranking ownership remain with uniRank."
+  },
+  {
+    "id": "uniranks-syria-2026",
+    "title": "UNIRANKS 2026 Syria rankings",
+    "url": "https://www.uniranks.com/ranking/syria",
+    "license": "Public ranking provider page; factual data only",
+    "status": "approved",
+    "fields": ["ranking snapshots"],
+    "notes": "Used only for explicit listed rank values on the UNIRANKS Syria ranking page; unclear or unmatched rows are not imported."
+  },
+  {
+    "id": "webometrics-org-global-web-rankings-january-2026-syria",
+    "title": "Webometrics.org Global Web Rankings for Universities: Syria, January 2026",
+    "url": "https://www.webometrics.org/syria",
+    "license": "Public ranking provider page; factual data only",
+    "status": "approved",
+    "fields": ["ranking snapshots"],
+    "notes": "Used only for explicit Syria table rows on the independent Webometrics.org platform; this is separate from the approved Webometrics.info/Figshare source."
+  },
+  {
+    "id": "webometrics-ranking-web-january-2026",
+    "title": "Ranking Web of Universities (webometrics.info), January 2026 edition",
+    "url": "https://doi.org/10.6084/m9.figshare.31132501.v1",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "status": "approved",
+    "fields": ["ranking snapshots"],
+    "notes": "Used for source-backed ranking snapshots where the Figshare PDF publishes an explicit rank for a canonical Syrian institution."
+  },
+  {
     "id": "wikidata",
     "title": "Wikidata",
     "url": "https://www.wikidata.org/",
@@ -17,16 +603,6 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "status": "approved",
     "fields": ["names", "institution type", "location", "founded year", "official website"],
-    "notes": "Used as an open control list for the initial university seed import."
-  },
-  {
-    "id": "wikimedia-commons",
-    "title": "Wikimedia Commons",
-    "url": "https://commons.wikimedia.org/",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "status": "approved",
-    "fields": ["images", "license metadata", "attribution", "source URLs"],
-    "notes": "Used for reviewed public image assets where file-level attribution and license metadata are retained."
+    "notes": "Used as an open reference list for the initial university seed import."
   }
 ]

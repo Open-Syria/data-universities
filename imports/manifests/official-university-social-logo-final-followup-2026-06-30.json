@@ -1,0 +1,40 @@
+{
+  "sourceId": "official-university-social-logo-final-followup-2026-06-30",
+  "sourceTitle": "Official university social logo final follow-up",
+  "sourceUrl": "https://cdn.opensyria.org/universities/",
+  "license": "Official institutional logos; trademark rights may apply",
+  "accessedAt": "2026-06-30T00:00:00.000Z",
+  "status": "reviewed",
+  "rawFiles": [
+    {
+      "name": "official-social-logo-final-followup-approved.json",
+      "sha256": "e1c50c3d33edde2def654722e1c9f3fd51835341a8554bc449e8fcbe060c423a",
+      "notes": "Local maintainer artifact retained under data-automation outputs for the final official social-page logo follow-up."
+    },
+    {
+      "name": "image-assets-manifest.json",
+      "sha256": "2443c5043f77ea0c1d8504f8313f61548b10d4f459dae2a8fa39ba7c62abf84f",
+      "notes": "Local maintainer artifact retained under data-automation outputs for the final official social-page logo follow-up."
+    },
+    {
+      "name": "image-assets-upload.dry-run.json",
+      "sha256": "ac65bade1edef5e93f34b5a1ca9a98f22dd82ba03a89426a8d5fc47c61650e7b",
+      "notes": "Local maintainer artifact retained under data-automation outputs for the final official social-page logo follow-up."
+    },
+    {
+      "name": "image-assets-upload.json",
+      "sha256": "88d3407bfc637cb9a627e9937a90d62ac32dc6192be42ecc9028824582f335a2",
+      "notes": "Local maintainer artifact retained under data-automation outputs for the final official social-page logo follow-up."
+    }
+  ],
+  "importedFields": ["logo variants", "source URLs", "attribution", "license notes"],
+  "targetFiles": ["data/assets.json", "data/sources.json"],
+  "transforms": [
+    "Reviewed maintainer-provided logo candidates for the final two missing records.",
+    "Matched the cinematic arts logo to the official Facebook page OpenGraph image.",
+    "Matched the dramatic arts logo to an official Facebook page photo URL.",
+    "Generated WebP and AVIF variants under the universities CDN key namespace.",
+    "Uploaded verified variants to R2 and retained reviewed source URLs in data/assets.json."
+  ],
+  "reviewNotes": "Final logo follow-up. Approved 2 additional logo assets, bringing canonical logo coverage to all 57 university and higher-institute records."
+}

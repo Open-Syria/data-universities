@@ -1,0 +1,40 @@
+{
+  "sourceId": "official-university-social-logo-followup-2026-06-30",
+  "sourceTitle": "Official university social logo follow-up",
+  "sourceUrl": "https://www.facebook.com/idara.syria",
+  "license": "Official institutional logo; trademark rights may apply",
+  "accessedAt": "2026-06-30T00:00:00.000Z",
+  "status": "reviewed",
+  "rawFiles": [
+    {
+      "name": "official-social-logo-followup-approved.json",
+      "sha256": "cddda98107f3749f95891e97e110028471f31a64a4aac51e2f2afe5574c70b33",
+      "notes": "Local maintainer artifact retained under data-automation outputs for the Arabic official social-page logo follow-up."
+    },
+    {
+      "name": "image-assets-manifest.json",
+      "sha256": "6368e2ebfb8a7bb013af5e481f61d1f3f353649f6c11edf2d6ec7312ecc0a840",
+      "notes": "Local maintainer artifact retained under data-automation outputs for the Arabic official social-page logo follow-up."
+    },
+    {
+      "name": "image-assets-upload.dry-run.json",
+      "sha256": "86f644c9f6ef13e223a48df3bce6e0afd4a87300886e3f8d54cb68edaa137455",
+      "notes": "Local maintainer artifact retained under data-automation outputs for the Arabic official social-page logo follow-up."
+    },
+    {
+      "name": "image-assets-upload.json",
+      "sha256": "c4e15a6fb5a8968a721f134741ec67a7ad605cc12ee2a8175ab0ea361b164e58",
+      "notes": "Local maintainer artifact retained under data-automation outputs for the Arabic official social-page logo follow-up."
+    }
+  ],
+  "importedFields": ["logo variants", "source URLs", "attribution", "license notes"],
+  "targetFiles": ["data/assets.json", "data/sources.json"],
+  "transforms": [
+    "Searched the remaining logo gaps using English and Arabic institution names.",
+    "Matched the Arabic official Facebook page to the Higher Institute of Administration.",
+    "Rejected default social profile placeholders for the cinematic and dramatic arts institutes.",
+    "Generated WebP and AVIF variants under the universities CDN key namespace.",
+    "Uploaded verified variants to R2 and retained the reviewed source URL in data/assets.json."
+  ],
+  "reviewNotes": "Arabic-name follow-up after the 17-logo official social batch. Approved 1 additional logo asset; the remaining gaps are the cinematic and dramatic arts institutes."
+}

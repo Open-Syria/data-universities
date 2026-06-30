@@ -15,12 +15,7 @@ export const datasetPublicApiStatusSchema = z.enum(['not_approved', 'approved'])
 export const datasetArtifactFormatSchema = z.enum(['json', 'ndjson', 'csv', 'sql', 'yaml', 'xml']);
 export const assetImageFormatSchema = z.enum(['webp', 'avif']);
 
-export const sourceRegistryStatusSchema = z.enum([
-  'approved',
-  'restricted',
-  'proposed',
-  'rejected',
-]);
+export const sourceRegistryStatusSchema = z.enum(['approved', 'limited', 'proposed', 'rejected']);
 
 export const localizedTextSchema = z
   .object({
@@ -321,6 +316,75 @@ export const rankingRecordSchema = z
 
 export async function readJson(filePath) {
   return JSON.parse(await readFile(filePath, 'utf8'));
+}
+
+const publicationTextPatternEnv = 'OPENSYRIA_PUBLICATION_TEXT_PATTERNS';
+
+function publicationTextPatterns() {
+  const rawPatterns = process.env[publicationTextPatternEnv];
+
+  if (!rawPatterns?.trim()) {
+    return [];
+  }
+
+  return rawPatterns
+    .split(/\r?\n|,/)
+    .map((pattern) => pattern.trim())
+    .filter(Boolean)
+    .map((pattern, index) => {
+      try {
+        return new RegExp(pattern, 'i');
+      } catch {
+        throw new Error(`Invalid publication text check pattern at index ${index + 1}`);
+      }
+    });
+}
+
+function collectPublicationTextMatches(value, pathLabel, patterns, matches) {
+  if (typeof value === 'string') {
+    for (const pattern of patterns) {
+      if (pattern.test(value)) {
+        matches.push(pathLabel);
+        break;
+      }
+    }
+
+    return;
+  }
+
+  if (Array.isArray(value)) {
+    for (const [index, item] of value.entries()) {
+      collectPublicationTextMatches(item, `${pathLabel}[${index}]`, patterns, matches);
+    }
+
+    return;
+  }
+
+  if (value && typeof value === 'object') {
+    for (const [key, item] of Object.entries(value)) {
+      collectPublicationTextMatches(item, `${pathLabel}.${key}`, patterns, matches);
+    }
+  }
+}
+
+export function ensurePublicationTextChecksPass(value, label) {
+  const patterns = publicationTextPatterns();
+
+  if (patterns.length === 0) {
+    return;
+  }
+
+  const matches = [];
+
+  collectPublicationTextMatches(value, label, patterns, matches);
+
+  if (matches.length > 0) {
+    throw new Error(
+      `Data failed publication text checks:\n${matches
+        .map((pathLabel) => `- ${pathLabel}`)
+        .join('\n')}`,
+    );
+  }
 }
 
 export function parseJsonArray(schema, value, label) {

@@ -1,0 +1,23 @@
+{
+  "sourceId": "uniranks-syria-2026",
+  "sourceTitle": "UNIRANKS 2026 Syria rankings",
+  "sourceUrl": "https://www.uniranks.com/ranking/syria",
+  "license": "Public ranking provider page; factual data only",
+  "accessedAt": "2026-06-30T00:00:00.000Z",
+  "status": "reviewed",
+  "rawFiles": [
+    {
+      "name": "UNIRANKS Syria ranking page",
+      "notes": "Reviewed the public Syria ranking table and imported only the listed-rank value for a clear missing canonical match."
+    }
+  ],
+  "importedFields": ["rankingSystem", "rankScope", "year", "rank", "rankDisplay", "sourceUrl"],
+  "targetFiles": ["data/rankings.json", "data/sources.json"],
+  "transforms": [
+    "Registered the UNIRANKS Syria page as an approved source for factual ranking snapshots only.",
+    "Matched Mari Private University to sy-mari-private-university.",
+    "Stored the source listed-rank value as rankScope other because the source row publishes country, region, and world ranks as N/A.",
+    "Did not import unclear rows such as Syrian International Academy because they do not clearly match a canonical production-boundary record."
+  ],
+  "reviewNotes": "Imported one UNIRANKS 2026 listed-rank snapshot for Mari Private University."
+}

@@ -1,7 +1,7 @@
 # Post-Seed Backlog
 
 The `v0.1.0` seed release includes records that were present in the internal
-comparison control list and confirmed by approved public sources. This remains
+approved production scope and confirmed by approved public sources. This remains
 the production canonical boundary.
 
 The next enrichment work should be handled in separate reviewed batches.
@@ -16,13 +16,13 @@ The next enrichment work should be handled in separate reviewed batches.
 ## Candidate Records Held For Review
 
 30 public-source candidates were held out of `v0.1.0` because they were not
-present in the internal comparison control list. Some were reviewed in early
-post-seed batches, but `v0.1.11` reclassifies the 27 non-control-list additions
+within the approved production scope. Some were reviewed in early
+post-seed batches, but `v0.1.11` reclassifies the 27 out-of-scope additions
 as held candidates instead of canonical production records.
 
 The original held-candidate backlog is not clear for production. Candidate
 records should be reviewed as separate batches and added only after they satisfy
-the current control-list rule or after OpenSyria approves a broader scope rule.
+the current scope rule or after OpenSyria approves a broader scope rule.
 
 Review future candidates as separate batches:
 
@@ -36,13 +36,20 @@ Review future candidates as separate batches:
 Do not add these records only because they appear in a single list. Confirm
 identity, naming, scope, source attribution, and the production boundary first.
 
-## Images
+## Logos And Images
 
-Public image assets are not part of `v0.1.0`.
+Public profile logo assets are not part of `v0.1.0`. Campus, building, and
+other non-logo images are optional and do not satisfy the profile logo coverage
+gate.
 
-Before uploading images to R2:
+The current reviewed logo batch covers all 57 canonical universities. Future
+logo replacements should wait until a clean official logo source is reviewed
+and uploaded.
 
-- confirm image license and attribution requirements,
+Before uploading logos or optional images to R2:
+
+- confirm source URL, institution match, reuse constraints, and attribution
+  requirements,
 - keep source download manifests as review artifacts,
 - generate WebP/AVIF variants locally,
 - run an R2 dry-run before uploading,

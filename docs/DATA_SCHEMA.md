@@ -39,7 +39,10 @@ data/rankings.json
 - `sourceIds`
 - `sourceStatus`
 
-Image assets must keep license and attribution metadata with the CDN variants. Do not place external hotlinks in canonical records.
+Logo assets are the production profile asset target. Campus, building, and
+other non-logo images are optional and do not satisfy logo coverage gates.
+Image assets must keep license, attribution, trademark, or reuse notes with the
+CDN variants. Do not place external hotlinks in canonical records.
 
 `faculties.json` records faculties, colleges, institutes, schools, centers, departments, and similar university units. Each faculty record must have:
 
@@ -81,7 +84,9 @@ Image assets must keep license and attribution metadata with the CDN variants. D
 - `sourceIds`
 - `sourceStatus`
 
-The current canonical faculty, program, and ranking arrays are intentionally empty until approved reusable sources are reviewed.
+The current canonical faculty and program arrays are intentionally empty until
+approved reusable sources are reviewed. Ranking rows are populated only when an
+approved ranking source publishes a source-backed snapshot.
 
 Machine-readable JSON Schemas live under `schemas/`. The authoritative validation path is:
 

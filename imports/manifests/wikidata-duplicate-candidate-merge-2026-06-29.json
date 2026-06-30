@@ -30,5 +30,5 @@
     "Merged Wikidata Q28715211 into sy-bilad-al-sham-university-for-sharia-sciences as an Arabic alias and Wikidata identifier.",
     "Did not create new records for these candidates because existing canonical records already represent the institutions."
   ],
-  "reviewNotes": "Duplicate/enrichment cleanup for held Wikidata-only candidates. The retained changes enrich existing internal control-list seed records and do not create new canonical institutions."
+  "reviewNotes": "Duplicate/enrichment cleanup for held Wikidata-only candidates. The retained changes enrich existing approved seed records and do not create new canonical institutions."
 }

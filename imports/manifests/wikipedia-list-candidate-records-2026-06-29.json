@@ -29,7 +29,7 @@
     "Selected only the accepted held candidate from the post-seed candidate batch.",
     "Confirmed the record is distinct from the existing private Al-Shahba University record.",
     "Kept website null because no approved public source confirmed an official website.",
-    "v0.1.11 restored the production boundary to records present in the internal comparison control list and moved non-control-list additions back to the held-candidate backlog."
+    "v0.1.11 restored the production boundary to records approved for the seed scope and moved out-of-scope additions back to the held-candidate backlog."
   ],
-  "reviewNotes": "Reviewed public-source candidate batch. Superseded by v0.1.11 because the candidate is not present in the internal comparison control list; retained in the held-candidate backlog."
+  "reviewNotes": "Reviewed public-source candidate batch. Superseded by v0.1.11 because the candidate is outside the current approved scope; retained in the held-candidate backlog."
 }

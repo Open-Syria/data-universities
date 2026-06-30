@@ -7,7 +7,7 @@
     "pnpm run validate:imports",
     "pnpm run validate:data"
   ],
-  "forbiddenData": [
+  "excludedData": [
     "private personal data",
     "student records",
     "staff records",

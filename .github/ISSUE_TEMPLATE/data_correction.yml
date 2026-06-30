@@ -9,7 +9,7 @@ body:
       value: |
         Use this form for incorrect existing records in `data-universities`.
 
-        Do not include private, personal, security, military, checkpoint, surveillance, or restricted data.
+        Do not include private, personal, security, military, checkpoint, surveillance, or non-public data.
   - type: dropdown
     id: record-type
     attributes:
@@ -63,5 +63,5 @@ body:
           required: true
         - label: I did not use AI output as a source.
           required: true
-        - label: I did not include private, personal, security, military, checkpoint, surveillance, or restricted data.
+        - label: I did not include private, personal, security, military, checkpoint, surveillance, or non-public data.
           required: true

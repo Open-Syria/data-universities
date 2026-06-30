@@ -1,0 +1,17 @@
+{
+  "sourceId": "al-jazeera-private-university-official-website",
+  "sourceTitle": "Al-Jazeera Private University official website",
+  "sourceUrl": "https://jude.edu.sy/News/ad-for-students-to-pay-off-financial-liabilities-installments-transfer?local=ar",
+  "license": "Official public website; factual data only",
+  "accessedAt": "2026-06-29T00:00:00.000Z",
+  "status": "reviewed",
+  "rawFiles": [],
+  "importedFields": ["location.locality", "sourceIds", "notes"],
+  "targetFiles": ["data/universities.json", "data/sources.json"],
+  "transforms": [
+    "Reviewed the official website page and footer for public factual location/contact context.",
+    "Normalized the current public-facing locality from the conflicting Deir ez-Zor governorate label to Ghabagheb while retaining the existing source-backed coordinate.",
+    "Added the official website source ID to the university record and recorded historical/contact ambiguity in notes."
+  ],
+  "reviewNotes": "The canonical single location now uses the current public-facing Ghabagheb, Daraa campus context. Deir ez-Zor historical-seat context and Damascus contact context are left for future multi-campus or history modeling."
+}

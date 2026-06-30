@@ -1,6 +1,10 @@
 import { readdir } from 'node:fs/promises';
 import path from 'node:path';
-import { readJson, sourceImportManifestSchema } from './lib/data-schemas.mjs';
+import {
+  ensurePublicationTextChecksPass,
+  readJson,
+  sourceImportManifestSchema,
+} from './lib/data-schemas.mjs';
 
 const root = process.cwd();
 const manifestsDirectory = path.join(root, 'imports/manifests');
@@ -32,6 +36,7 @@ for (const manifestFile of manifestFiles) {
   const relativePath = path.relative(root, manifestFile).replaceAll('\\', '/');
   const manifest = sourceImportManifestSchema.parse(await readJson(manifestFile));
 
+  ensurePublicationTextChecksPass(manifest, relativePath);
   ensureUniqueValues(manifest.importedFields, 'imported field', relativePath);
   ensureUniqueValues(manifest.targetFiles, 'target file', relativePath);
 }

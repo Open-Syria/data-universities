@@ -22,8 +22,8 @@
   "targetFiles": ["data/sources.json", "data/universities.json"],
   "transforms": [
     "Collected Wikidata candidate records through local data-automation.",
-    "Compared candidates with Wikipedia, the internal comparison control list, and maintainer review decisions.",
-    "Exported only internal control-list seed records with approved public source IDs."
+    "Compared candidates with Wikipedia, the approved production scope, and maintainer review decisions.",
+    "Exported only approved seed records with approved public source IDs."
   ],
   "reviewNotes": "Initial seed import. No canonical record cites the internal directory snapshot as a public source."
 }

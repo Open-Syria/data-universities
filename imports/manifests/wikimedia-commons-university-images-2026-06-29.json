@@ -5,7 +5,7 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
   "accessedAt": "2026-06-29T02:52:09.293Z",
-  "status": "reviewed",
+  "status": "superseded",
   "rawFiles": [
     {
       "name": "wikimedia-image-license-review.json",
@@ -32,5 +32,5 @@
     "Generated WebP and AVIF responsive variants for the OpenSyria CDN key namespace.",
     "Stored attribution metadata next to CDN variant URLs in data/assets.json."
   ],
-  "reviewNotes": "First small image asset batch. Both files are Wikimedia Commons CC BY-SA 4.0 images with attribution retained in data/assets.json."
+  "reviewNotes": "Historical optional campus image batch. Superseded by the fresh official-logo batch after the R2 cleanup; these campus image records are no longer retained in data/assets.json."
 }

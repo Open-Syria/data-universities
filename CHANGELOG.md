@@ -2,6 +2,19 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v0.2.0 - 2026-06-30
+
+### Added
+
+- Add approved ranking snapshots from reviewed public ranking providers.
+- Add approved logo assets for all 57 canonical university and higher-institute records.
+- Mark the release manifest as `profile_ready` with public API exposure approved.
+
+### Changed
+
+- Keep faculty and program files schema-ready but empty until approved source-backed rows are reviewed.
+- Move publication text checks to private environment configuration so the public repository does not expose private review markers.
+
 ## v0.1.13 - 2026-06-29
 
 ### Changed
@@ -20,7 +33,7 @@ All notable changes to this repository will be documented in this file.
 
 ### Changed
 
-- Restore the canonical university dataset boundary to the 57 records present in the internal comparison control list and confirmed by approved public sources.
+- Restore the canonical university dataset boundary to the 57 records approved for the seed scope and confirmed by approved public sources.
 - Reclassify the 27 public-source-only post-seed records as held candidates pending an explicit scope decision.
 - Keep candidate review notes in the post-seed backlog instead of shipping those records as canonical production data.
 - Remove the unused Homs Military Academy source entry from the canonical source registry after reclassifying that candidate as held.

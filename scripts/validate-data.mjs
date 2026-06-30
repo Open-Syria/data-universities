@@ -6,6 +6,7 @@ import {
   ensureKnownFaculties,
   ensureKnownSources,
   ensureKnownUniversities,
+  ensurePublicationTextChecksPass,
   ensureUnique,
   facultyRecordSchema,
   parseJsonArray,
@@ -80,6 +81,7 @@ async function loadData(dataDirectory) {
 }
 
 function validateData(data) {
+  ensurePublicationTextChecksPass(data, 'data');
   ensureUnique(data.assets, (record) => record.id, 'assets');
   ensureUnique(data.faculties, (record) => record.id, 'faculties');
   ensureUnique(data.programs, (record) => record.id, 'programs');

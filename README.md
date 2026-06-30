@@ -39,9 +39,9 @@ scripts/
 
 ## Data Scope
 
-The production university identity dataset is anchored to the internal comparison control list. Canonical university records must be present in that control list
+The production university identity dataset is anchored to the approved production scope. Canonical university records must be within the current approved scope
 and confirmed with approved public source IDs. Public-source records that are not
-present in the control list are tracked as post-seed candidates until OpenSyria
+within the current approved scope are tracked as post-seed candidates until OpenSyria
 makes an explicit scope decision.
 
 University records may include public facts such as:
@@ -56,7 +56,10 @@ University records may include public facts such as:
 - reusable external identifiers,
 - source attribution.
 
-Faculty, program, and ranking files are separated from university identity records. Current canonical faculty, program, and ranking arrays are empty until approved reusable sources are reviewed.
+Faculty, program, and ranking files are separated from university identity records.
+Current canonical faculty and program arrays are empty until approved reusable
+sources are reviewed. Ranking snapshots are populated only when approved public
+ranking providers publish source-backed rows for a canonical institution.
 
 Do not add private personal data, student records, staff records, account data, phone numbers, private addresses, or unreleasable scraped content.
 

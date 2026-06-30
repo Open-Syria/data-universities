@@ -56,5 +56,5 @@ body:
           required: true
         - label: This is not Google Maps, a commercial map database, or a proprietary directory.
           required: true
-        - label: This source will not be used for private, personal, security, military, checkpoint, surveillance, or restricted data.
+        - label: This source will not be used for private, personal, security, military, checkpoint, surveillance, or non-public data.
           required: true

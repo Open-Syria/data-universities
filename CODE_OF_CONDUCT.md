@@ -16,7 +16,7 @@ OpenSyria Data Universities is built for public benefit. We want contribution sp
 - Discuss data, sources, licensing, and review decisions without personal attacks.
 - Keep feedback specific and actionable.
 - Respect project scope, source licensing, and safety boundaries.
-- Accept that maintainers may reject data that is unsafe, unsourced, restricted, or outside the approved schema.
+- Accept that maintainers may reject data that is unsafe, unsourced, non-public, or outside the approved schema.
 
 ## Unacceptable Behavior
 
@@ -33,7 +33,7 @@ Do not contribute, request, or discuss publication of:
 - personal data,
 - private addresses, phone numbers, IDs, account data, or student records,
 - security, military, checkpoint, surveillance, or operational-sensitive data,
-- restricted or proprietary data,
+- non-public or proprietary data,
 - unsourced political claims.
 
 ## Enforcement

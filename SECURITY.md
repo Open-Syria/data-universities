@@ -31,7 +31,7 @@ Include enough detail for maintainers to reproduce and assess the issue:
 - affected version, branch, or commit,
 - whether the issue is already public.
 
-Do not include secrets, private tokens, private infrastructure URLs, personal data, restricted data, or sensitive operational details in the report.
+Do not include secrets, private tokens, private infrastructure URLs, personal data, non-public data, or sensitive operational details in the report.
 
 ## Scope
 
@@ -43,7 +43,7 @@ Security reports can include:
 - CI or supply-chain weaknesses,
 - accidental exposure of secrets or private data,
 - sensitive data appearing in dataset records,
-- unsafe publication of restricted, military, checkpoint, surveillance, or operational-sensitive information.
+- unsafe publication of sensitive military, checkpoint, surveillance, or operational-sensitive information.
 
 ## Dataset Safety Reports
 
@@ -54,7 +54,7 @@ Examples:
 - private addresses or personal contact details,
 - data that identifies private individuals,
 - security, military, checkpoint, surveillance, or operational-sensitive locations,
-- restricted source material accidentally imported into the repository.
+- non-public source material accidentally imported into the repository.
 
 Normal data corrections, missing records, source disagreements, and naming disputes should use public issue forms.
 

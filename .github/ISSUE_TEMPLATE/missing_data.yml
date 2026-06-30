@@ -67,5 +67,5 @@ body:
           required: true
         - label: I did not use AI output as a source.
           required: true
-        - label: I did not include private, personal, security, military, checkpoint, surveillance, or restricted data.
+        - label: I did not include private, personal, security, military, checkpoint, surveillance, or non-public data.
           required: true

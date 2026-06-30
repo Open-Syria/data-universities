@@ -1,130 +1,4272 @@
 [
   {
-    "id": "sy-al-furat-university-campus-building-image",
-    "universityId": "sy-al-furat-university",
+    "id": "sy-al-amanos-university-logo",
+    "universityId": "sy-al-amanos-university",
     "assetType": "image",
-    "assetRole": "campus",
+    "assetRole": "logo",
     "title": {
-      "en": "Al-Furat University campus building",
-      "ar": "\u0645\u0628\u0646\u0649 \u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0641\u0631\u0627\u062a"
+      "en": "Al-Amanos University logo",
+      "ar": "شعار جامعة الأمانوس"
     },
     "variants": [
       {
-        "url": "https://cdn.opensyria.org/universities/sy-al-furat-university/campus-building-v1/w200.webp",
-        "key": "universities/sy-al-furat-university/campus-building-v1/w200.webp",
+        "url": "https://cdn.opensyria.org/universities/sy-al-amanos-university/logo-v1/w128.webp",
+        "key": "universities/sy-al-amanos-university/logo-v1/w128.webp",
         "format": "webp",
         "contentType": "image/webp",
-        "width": 200,
-        "height": 200,
-        "sha256": "27dc2fca0117aff3c2050c42a5892c9f955420cafdb1a781aecf63df8e668f26",
-        "sizeBytes": 12148
+        "width": 128,
+        "height": 128,
+        "sha256": "87517b40b079db61865aebcffda1bdbe3356683427a64f17e3acfdefb1054dfa",
+        "sizeBytes": 5246
       },
       {
-        "url": "https://cdn.opensyria.org/universities/sy-al-furat-university/campus-building-v1/w200.avif",
-        "key": "universities/sy-al-furat-university/campus-building-v1/w200.avif",
+        "url": "https://cdn.opensyria.org/universities/sy-al-amanos-university/logo-v1/w128.avif",
+        "key": "universities/sy-al-amanos-university/logo-v1/w128.avif",
         "format": "avif",
         "contentType": "image/avif",
-        "width": 200,
-        "height": 200,
-        "sha256": "8df62b07db6254938aab083b9375f25f4818ce561edfe49c0e87f1f19c292674",
-        "sizeBytes": 17785
+        "width": 128,
+        "height": 128,
+        "sha256": "03175e41d9523cafb9fbd641ebbe4b9d9a6025af8772de7a7f6e2faf4ff5e878",
+        "sizeBytes": 6017
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-amanos-university/logo-v1/w256.webp",
+        "key": "universities/sy-al-amanos-university/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 256,
+        "sha256": "cb57234f9f6544ac3feaf5514e5890b06da969f7b5e2d841f56e3f62448b8aca",
+        "sizeBytes": 13006
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-amanos-university/logo-v1/w256.avif",
+        "key": "universities/sy-al-amanos-university/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 256,
+        "sha256": "f968d64dbf076cbb126a1fcfee3819b818b2c3adf6069d8b79e1ae07d4eb3422",
+        "sizeBytes": 13003
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-amanos-university/logo-v1/w270.webp",
+        "key": "universities/sy-al-amanos-university/logo-v1/w270.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 270,
+        "height": 270,
+        "sha256": "385e10761542c7446db358b343d75d62399d169c8c8293cdc5e2b4520ac0aec8",
+        "sizeBytes": 13466
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-amanos-university/logo-v1/w270.avif",
+        "key": "universities/sy-al-amanos-university/logo-v1/w270.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 270,
+        "height": 270,
+        "sha256": "c6dc469bfe529e94688fb3303ab04ba764e5ed9e60584379919cce42af3f53d1",
+        "sizeBytes": 13370
       }
     ],
     "attribution": {
-      "sourceProvider": "Wikimedia Commons",
-      "sourceTitle": "\u0645\u0628\u0646\u0649 \u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0641\u0631\u0627\u062a",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D9%85%D8%A8%D9%86%D9%89_%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D8%AA.jpg",
-      "creator": "Zalbaraka",
-      "credit": "Own work",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "attributionRequired": true
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Al-Amanos University official logo",
+      "sourceUrl": "https://amanusuniversity.com/wp-content/uploads/2025/10/cropped-New-Logo-Dark-PNG-270x270.png",
+      "creator": "Al-Amanos University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://amanusuniversity.com/wp-content/uploads/2025/10/cropped-New-Logo-Dark-PNG-270x270.png",
+      "attributionRequired": false
     },
-    "sourceIds": ["wikimedia-commons"],
-    "sourceStatus": "seed"
+    "sourceIds": ["sy-al-amanos-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
-    "id": "sy-al-jazeera-private-university-campus-building-image",
-    "universityId": "sy-al-jazeera-private-university",
+    "id": "sy-al-andalus-university-for-medical-sciences-logo",
+    "universityId": "sy-al-andalus-university-for-medical-sciences",
     "assetType": "image",
-    "assetRole": "campus",
+    "assetRole": "logo",
     "title": {
-      "en": "Al-Jazeera Private University campus building",
-      "ar": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0645\u0628\u0646\u0649"
+      "en": "Al-Andalus University for Medical Sciences logo",
+      "ar": "شعار جامعة الأندلس الخاصة للعلوم الطبية"
     },
     "variants": [
       {
-        "url": "https://cdn.opensyria.org/universities/sy-al-jazeera-private-university/campus-building-v1/w320.webp",
-        "key": "universities/sy-al-jazeera-private-university/campus-building-v1/w320.webp",
+        "url": "https://cdn.opensyria.org/universities/sy-al-andalus-university-for-medical-sciences/logo-v1/w128.webp",
+        "key": "universities/sy-al-andalus-university-for-medical-sciences/logo-v1/w128.webp",
         "format": "webp",
         "contentType": "image/webp",
-        "width": 320,
-        "height": 240,
-        "sha256": "23d7ffe17582bd18a541210fcb8a440129ce403303c3d676206966c1180eca1a",
-        "sizeBytes": 10172
+        "width": 128,
+        "height": 40,
+        "sha256": "cf920cdf92c09a10afa3074b9397deadf1c222ff5da6754517866b0177deeb4a",
+        "sizeBytes": 3238
       },
       {
-        "url": "https://cdn.opensyria.org/universities/sy-al-jazeera-private-university/campus-building-v1/w320.avif",
-        "key": "universities/sy-al-jazeera-private-university/campus-building-v1/w320.avif",
+        "url": "https://cdn.opensyria.org/universities/sy-al-andalus-university-for-medical-sciences/logo-v1/w128.avif",
+        "key": "universities/sy-al-andalus-university-for-medical-sciences/logo-v1/w128.avif",
         "format": "avif",
         "contentType": "image/avif",
-        "width": 320,
-        "height": 240,
-        "sha256": "c80c33ca5cd96d5a75e93eb4b4a5699cf90d2b46cf5a5d0b91d4d54e71c409fb",
-        "sizeBytes": 14645
+        "width": 128,
+        "height": 40,
+        "sha256": "24b3b5e91bea27499262a2962d29c8ef313d9fec39d37a97c7491753c77dbb85",
+        "sizeBytes": 3900
       },
       {
-        "url": "https://cdn.opensyria.org/universities/sy-al-jazeera-private-university/campus-building-v1/w640.webp",
-        "key": "universities/sy-al-jazeera-private-university/campus-building-v1/w640.webp",
+        "url": "https://cdn.opensyria.org/universities/sy-al-andalus-university-for-medical-sciences/logo-v1/w256.webp",
+        "key": "universities/sy-al-andalus-university-for-medical-sciences/logo-v1/w256.webp",
         "format": "webp",
         "contentType": "image/webp",
-        "width": 640,
-        "height": 480,
-        "sha256": "94013b4784128d64150bc48486ad138a6b7e79f078179a2b07d6506cd32c1560",
-        "sizeBytes": 37680
+        "width": 256,
+        "height": 80,
+        "sha256": "ec3eae73a2609787331295cde6bb9eff5f196e55a9ee01284d3680a19393fb2b",
+        "sizeBytes": 8730
       },
       {
-        "url": "https://cdn.opensyria.org/universities/sy-al-jazeera-private-university/campus-building-v1/w640.avif",
-        "key": "universities/sy-al-jazeera-private-university/campus-building-v1/w640.avif",
+        "url": "https://cdn.opensyria.org/universities/sy-al-andalus-university-for-medical-sciences/logo-v1/w256.avif",
+        "key": "universities/sy-al-andalus-university-for-medical-sciences/logo-v1/w256.avif",
         "format": "avif",
         "contentType": "image/avif",
-        "width": 640,
-        "height": 480,
-        "sha256": "46be981a57da40192c7977b52b6d4419485ac7fb8e952af18e7e1c98f6e8bbcf",
-        "sizeBytes": 54852
+        "width": 256,
+        "height": 80,
+        "sha256": "f3d6c852e5fe34aa07b081e3ccbf05dc30bf7f37795859bf378ec46196f24d12",
+        "sizeBytes": 8212
       },
       {
-        "url": "https://cdn.opensyria.org/universities/sy-al-jazeera-private-university/campus-building-v1/w960.webp",
-        "key": "universities/sy-al-jazeera-private-university/campus-building-v1/w960.webp",
+        "url": "https://cdn.opensyria.org/universities/sy-al-andalus-university-for-medical-sciences/logo-v1/w315.webp",
+        "key": "universities/sy-al-andalus-university-for-medical-sciences/logo-v1/w315.webp",
         "format": "webp",
         "contentType": "image/webp",
-        "width": 960,
-        "height": 720,
-        "sha256": "9dc5720b8b925f10c84d384e568004ecc30d7892dff8606d85f1bce754840afa",
-        "sizeBytes": 82976
+        "width": 315,
+        "height": 98,
+        "sha256": "81713a0fe03b8903412f8adbd37ca70cd432a1ac97acfd7f6bbfc492e0333b14",
+        "sizeBytes": 9790
       },
       {
-        "url": "https://cdn.opensyria.org/universities/sy-al-jazeera-private-university/campus-building-v1/w960.avif",
-        "key": "universities/sy-al-jazeera-private-university/campus-building-v1/w960.avif",
+        "url": "https://cdn.opensyria.org/universities/sy-al-andalus-university-for-medical-sciences/logo-v1/w315.avif",
+        "key": "universities/sy-al-andalus-university-for-medical-sciences/logo-v1/w315.avif",
         "format": "avif",
         "contentType": "image/avif",
-        "width": 960,
-        "height": 720,
-        "sha256": "f29875b618bf2df3a0d90a60499b67b236086d8ff642cf03cfb557dc2f0679d5",
-        "sizeBytes": 84040
+        "width": 315,
+        "height": 98,
+        "sha256": "617964d8acdd8e04287b7e7d210dfa74b0e43001a475df1cb22f3488cd2fed8a",
+        "sizeBytes": 8910
       }
     ],
     "attribution": {
-      "sourceProvider": "Wikimedia Commons",
-      "sourceTitle": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0645\u0628\u0646\u0649",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D9%85%D8%A8%D9%86%D9%89.jpg",
-      "creator": "Aaasss1999",
-      "credit": "Own work",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "attributionRequired": true
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Al-Andalus University for Medical Sciences official logo",
+      "sourceUrl": "https://au.edu.sy/images/horizontal-logo-light.png",
+      "creator": "Al-Andalus University for Medical Sciences",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://au.edu.sy/images/horizontal-logo-light.png",
+      "attributionRequired": false
     },
-    "sourceIds": ["wikimedia-commons"],
-    "sourceStatus": "seed"
+    "sourceIds": ["sy-al-andalus-university-for-medical-sciences-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-furat-university-logo",
+    "universityId": "sy-al-furat-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Al-Furat University logo",
+      "ar": "شعار جامعة الفرات"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-furat-university/logo-v1/w128.webp",
+        "key": "universities/sy-al-furat-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 128,
+        "sha256": "d2734d8f62a427c316a58f7d2009353309d05b7803581c8d9fe6ea55fc4f5c38",
+        "sizeBytes": 6264
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-furat-university/logo-v1/w128.avif",
+        "key": "universities/sy-al-furat-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 128,
+        "sha256": "df5e13086dc9b4426cb81ad55a75de65bd7c17ef1b25bf6c07f8230a8eeabe59",
+        "sizeBytes": 5839
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-furat-university/logo-v1/w256.webp",
+        "key": "universities/sy-al-furat-university/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 256,
+        "sha256": "e34df2daca08fcdccb85b4204f224cb0f3f939889f9f949f6bbb3f44808b852a",
+        "sizeBytes": 14644
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-furat-university/logo-v1/w256.avif",
+        "key": "universities/sy-al-furat-university/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 256,
+        "sha256": "16b5ec8e115dfc37e81a59d27dbf74d088899a476aff4197adea9cca28cf17a1",
+        "sizeBytes": 14195
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-furat-university/logo-v1/w512.webp",
+        "key": "universities/sy-al-furat-university/logo-v1/w512.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 512,
+        "height": 512,
+        "sha256": "adc827d57563e119ca7b4bc9d70a3b784b001f388a026005a2898d9bf6885f14",
+        "sizeBytes": 32968
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-furat-university/logo-v1/w512.avif",
+        "key": "universities/sy-al-furat-university/logo-v1/w512.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 512,
+        "height": 512,
+        "sha256": "c3d7714a79f7ec1341364c1749e519ce9da28c245b5134d16b468251776f5dc2",
+        "sizeBytes": 30479
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Al-Furat University official logo",
+      "sourceUrl": "https://alfuratuniv.edu.sy/images/ministry-logo.png",
+      "creator": "Al-Furat University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://alfuratuniv.edu.sy/images/ministry-logo.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-al-furat-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-hawash-private-university-logo",
+    "universityId": "sy-al-hawash-private-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Al-Hawash Private University logo",
+      "ar": "شعار جامعة الحواش الخاصة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-hawash-private-university/logo-v1/w128.webp",
+        "key": "universities/sy-al-hawash-private-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 128,
+        "sha256": "dc3bad31eb0cb77ced45a0845f96621e7719dbc92fc799ff527cdd48ffd05798",
+        "sizeBytes": 5948
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-hawash-private-university/logo-v1/w128.avif",
+        "key": "universities/sy-al-hawash-private-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 128,
+        "sha256": "cf2b1c6f751215d65e92f63a8244044b8faa2cbaf2178fd0c706c3f8c254d39a",
+        "sizeBytes": 6344
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-hawash-private-university/logo-v1/w256.webp",
+        "key": "universities/sy-al-hawash-private-university/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 256,
+        "sha256": "85984be43620cb97accfa1470a06214241c7617bf48281c02add72328097eba3",
+        "sizeBytes": 14818
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-hawash-private-university/logo-v1/w256.avif",
+        "key": "universities/sy-al-hawash-private-university/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 256,
+        "sha256": "a072608fa8aeb2db2f65b4f7d2209e9117044e7b02b057847429bac7f90d0479",
+        "sizeBytes": 15920
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-hawash-private-university/logo-v1/w400.webp",
+        "key": "universities/sy-al-hawash-private-university/logo-v1/w400.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 400,
+        "height": 400,
+        "sha256": "5bb0856411e313e36c05e55aba585c686193076fbcd5d799c4c39f33333f7fc5",
+        "sizeBytes": 25542
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-hawash-private-university/logo-v1/w400.avif",
+        "key": "universities/sy-al-hawash-private-university/logo-v1/w400.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 400,
+        "height": 400,
+        "sha256": "864ae1707d52972626da191171dbd18ceea54b0e4e110d3111ffeeec82ad59fd",
+        "sizeBytes": 25686
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Al-Hawash Private University official logo",
+      "sourceUrl": "https://hpu.edu.sy/wp-content/uploads/2024/01/logo1-e1759994423185.png",
+      "creator": "Al-Hawash Private University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://hpu.edu.sy/wp-content/uploads/2024/01/logo1-e1759994423185.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-al-hawash-private-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-hayat-university-for-applied-sciences-logo",
+    "universityId": "sy-al-hayat-university-for-applied-sciences",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Al-Hayat University for Applied Sciences logo",
+      "ar": "شعار جامعة الحياة للعلوم الطبية"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-hayat-university-for-applied-sciences/logo-v1/w128.webp",
+        "key": "universities/sy-al-hayat-university-for-applied-sciences/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 119,
+        "sha256": "6ea330174f21a653c90a94863f1a92113c436d6979eda0864139abe6ae4b475b",
+        "sizeBytes": 8554
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-hayat-university-for-applied-sciences/logo-v1/w128.avif",
+        "key": "universities/sy-al-hayat-university-for-applied-sciences/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 119,
+        "sha256": "4b4719477dbed26530c672ed825d820946459c5ede4df11c48d60f458f6182f9",
+        "sizeBytes": 8924
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-hayat-university-for-applied-sciences/logo-v1/w256.webp",
+        "key": "universities/sy-al-hayat-university-for-applied-sciences/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 238,
+        "sha256": "add00d77d8e18aafc793872714190a5916981eea7a4687a566be2df67cca9560",
+        "sizeBytes": 19648
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-hayat-university-for-applied-sciences/logo-v1/w256.avif",
+        "key": "universities/sy-al-hayat-university-for-applied-sciences/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 238,
+        "sha256": "177288ed28d9542f9c5817ac5a4f3a70214fbdcfcf54aab7f8e4d3c574969165",
+        "sizeBytes": 18013
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-hayat-university-for-applied-sciences/logo-v1/w300.webp",
+        "key": "universities/sy-al-hayat-university-for-applied-sciences/logo-v1/w300.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 300,
+        "height": 279,
+        "sha256": "4cb8d9bcea1d2f264b3b2dade6ff2e1e2f9aefd4b8aaec5c05be816db5ddba25",
+        "sizeBytes": 16326
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-hayat-university-for-applied-sciences/logo-v1/w300.avif",
+        "key": "universities/sy-al-hayat-university-for-applied-sciences/logo-v1/w300.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 300,
+        "height": 279,
+        "sha256": "a73df25218488647677544ed46408b35b1a6f9b324c7e81d319176af53b13f72",
+        "sizeBytes": 22158
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Al-Hayat University for Applied Sciences official logo",
+      "sourceUrl": "https://www.meduc.net/mec/sites/all/themes/meduc/logo.png?rand=4180",
+      "creator": "Al-Hayat University for Applied Sciences",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://www.meduc.net/mec/sites/all/themes/meduc/logo.png?rand=4180",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-al-hayat-university-for-applied-sciences-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-jazeera-private-university-logo",
+    "universityId": "sy-al-jazeera-private-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Al-Jazeera Private University logo",
+      "ar": "شعار جامعة الجزيرة الخاصة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-jazeera-private-university/logo-v1/w128.webp",
+        "key": "universities/sy-al-jazeera-private-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 128,
+        "sha256": "b89ae790c484c297427be6c28ea030d8aa8cd376b76eb83e0856411d953eabdc",
+        "sizeBytes": 2182
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-jazeera-private-university/logo-v1/w128.avif",
+        "key": "universities/sy-al-jazeera-private-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 128,
+        "sha256": "88d20d43c58428bc23274409f9a8ac895940dc49bea0307bf8c76cf7cc29aeb5",
+        "sizeBytes": 2626
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-jazeera-private-university/logo-v1/w200.webp",
+        "key": "universities/sy-al-jazeera-private-university/logo-v1/w200.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 200,
+        "height": 200,
+        "sha256": "bb887281878f3e6b4e0a9502a5016e951eb452b0d1d9a3b7031f28974caa41bd",
+        "sizeBytes": 3690
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-jazeera-private-university/logo-v1/w200.avif",
+        "key": "universities/sy-al-jazeera-private-university/logo-v1/w200.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 200,
+        "height": 200,
+        "sha256": "a406e21ee11990c97a0b4e8ca615ea9aaca2602853edd21edb0e15e735702219",
+        "sizeBytes": 4676
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official Facebook page",
+      "sourceTitle": "Al-Jazeera Private University official logo",
+      "sourceUrl": "https://www.facebook.com/jude.edu.sy",
+      "creator": "Al-Jazeera Private University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://www.facebook.com/jude.edu.sy",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-al-jazeera-private-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-maali-university-logo",
+    "universityId": "sy-al-maali-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Al-Maali University logo",
+      "ar": "شعار جامعة المعالي"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-maali-university/logo-v1/w128.webp",
+        "key": "universities/sy-al-maali-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 128,
+        "sha256": "30b41d2de032c88fb6cc831fd0c143d758328e15a90eeee506d9c8b20ab234c3",
+        "sizeBytes": 3084
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-maali-university/logo-v1/w128.avif",
+        "key": "universities/sy-al-maali-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 128,
+        "sha256": "1f295c4046cde9e0c20711c8e8eec0259f76b434d4080491c10cd6f002ab6e3a",
+        "sizeBytes": 3534
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-maali-university/logo-v1/w200.webp",
+        "key": "universities/sy-al-maali-university/logo-v1/w200.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 200,
+        "height": 200,
+        "sha256": "e467496827585dab65edef9bdf21c4932834d0be61410f4f34b25ded31a23c04",
+        "sizeBytes": 5606
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-maali-university/logo-v1/w200.avif",
+        "key": "universities/sy-al-maali-university/logo-v1/w200.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 200,
+        "height": 200,
+        "sha256": "69c6a07336b16ed1ad960b37b80063f5f1f358830481b753c5928dfa86f5063b",
+        "sizeBytes": 6878
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official Facebook page",
+      "sourceTitle": "Al-Maali University official logo",
+      "sourceUrl": "https://www.facebook.com/almaaliuniv",
+      "creator": "Al-Maali University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://www.facebook.com/almaaliuniv",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-al-maali-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-maarif-private-university-logo",
+    "universityId": "sy-al-maarif-private-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Al-Maarif Private University logo",
+      "ar": "شعار جامعة المعارف للعلوم التطبيقية"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-maarif-private-university/logo-v1/w128.webp",
+        "key": "universities/sy-al-maarif-private-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 55,
+        "sha256": "10802197ba1dd15e8a2b970e07eecfd2dd7f30e7f16fa414371b165952c8a71c",
+        "sizeBytes": 4872
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-maarif-private-university/logo-v1/w128.avif",
+        "key": "universities/sy-al-maarif-private-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 55,
+        "sha256": "f40941bef338796fe6fbe3e3fa9945385e305f31b551c7d2068da4dc694fe823",
+        "sizeBytes": 13937
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-maarif-private-university/logo-v1/w256.webp",
+        "key": "universities/sy-al-maarif-private-university/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 110,
+        "sha256": "44d888111bff0f04a1d6ec00e8f4f5ed903c6fc570e0e76977e64be16743ad02",
+        "sizeBytes": 10510
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-maarif-private-university/logo-v1/w256.avif",
+        "key": "universities/sy-al-maarif-private-university/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 110,
+        "sha256": "967f9f1106f589e8860b9892f8899b04af1973b077e7cbce384e0b8e888f4153",
+        "sizeBytes": 19777
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-maarif-private-university/logo-v1/w512.webp",
+        "key": "universities/sy-al-maarif-private-university/logo-v1/w512.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 512,
+        "height": 219,
+        "sha256": "98a157d8c6819cef1921edb874c248aa43fda22cc8e94e7550e7becb09922dd4",
+        "sizeBytes": 22566
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-maarif-private-university/logo-v1/w512.avif",
+        "key": "universities/sy-al-maarif-private-university/logo-v1/w512.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 512,
+        "height": 219,
+        "sha256": "665a8dc4bb8daf77fa06dec7576a4a07f1ae0e27511663ba777edeea99b0aae6",
+        "sizeBytes": 27935
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Al-Maarif Private University official logo",
+      "sourceUrl": "https://mas.edu.sy/wp-content/uploads/2020/11/logo.webp",
+      "creator": "Al-Maarif Private University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://mas.edu.sy/wp-content/uploads/2020/11/logo.webp",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-al-maarif-private-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-manara-university-logo",
+    "universityId": "sy-al-manara-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Al-Manara University logo",
+      "ar": "شعار جامعة المنارة الخاصة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-manara-university/logo-v1/w128.webp",
+        "key": "universities/sy-al-manara-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 88,
+        "sha256": "e4e266699698e91375aeea3bb128d155389d04f470488faaba365cc9a670d110",
+        "sizeBytes": 492
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-manara-university/logo-v1/w128.avif",
+        "key": "universities/sy-al-manara-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 88,
+        "sha256": "24f5ec0acdc380dd9e6eb315a0b49387f9e5827eca4881ec499ea2584485851d",
+        "sizeBytes": 1701
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-manara-university/logo-v1/w256.webp",
+        "key": "universities/sy-al-manara-university/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 176,
+        "sha256": "45bb0ae6d47ba2f2f55fe250ba885bbefe52871f3688e639bc4130ea34f982b8",
+        "sizeBytes": 1340
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-manara-university/logo-v1/w256.avif",
+        "key": "universities/sy-al-manara-university/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 176,
+        "sha256": "a110295d2edfd8782679ee7aeff78b83bd307184c02a5d1e84cdb455c95ebc4c",
+        "sizeBytes": 2255
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-manara-university/logo-v1/w512.webp",
+        "key": "universities/sy-al-manara-university/logo-v1/w512.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 512,
+        "height": 352,
+        "sha256": "b1f6d9f86d96a4490891afcc2453fdd05794cf88eb69eca69887ecf92f3c747b",
+        "sizeBytes": 3160
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-manara-university/logo-v1/w512.avif",
+        "key": "universities/sy-al-manara-university/logo-v1/w512.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 512,
+        "height": 352,
+        "sha256": "ef573dd955a2433c744d6da9611d3446900029248359019308c340b8cb4935c5",
+        "sizeBytes": 3223
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Al-Manara University official logo",
+      "sourceUrl": "http://www.manara.edu.sy/images/fblogo.jpg",
+      "creator": "Al-Manara University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "http://www.manara.edu.sy/images/fblogo.jpg",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-al-manara-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-rasheed-international-university-for-science-and-technology-logo",
+    "universityId": "sy-al-rasheed-international-university-for-science-and-technology",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Al-Rasheed International University for Science and Technology logo",
+      "ar": "شعار جامعة الرشيد الدولية الخاصة للعلوم والتكنولوجيا"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-rasheed-international-university-for-science-and-technology/logo-v1/w128.webp",
+        "key": "universities/sy-al-rasheed-international-university-for-science-and-technology/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 128,
+        "sha256": "d80b062792abbc2b690a3d330af45bdd024a0b98994b4165e9590e14b9b3c597",
+        "sizeBytes": 5334
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-rasheed-international-university-for-science-and-technology/logo-v1/w128.avif",
+        "key": "universities/sy-al-rasheed-international-university-for-science-and-technology/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 128,
+        "sha256": "305908fcba50b028b8506ea6f2fc9922085573826f732779151dc3216663b618",
+        "sizeBytes": 6224
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-rasheed-international-university-for-science-and-technology/logo-v1/w200.webp",
+        "key": "universities/sy-al-rasheed-international-university-for-science-and-technology/logo-v1/w200.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 200,
+        "height": 200,
+        "sha256": "53362ad05f80a07ffa8f56beec875b04b5325b4b6b957a622ec7ec93ff4391e5",
+        "sizeBytes": 10120
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-rasheed-international-university-for-science-and-technology/logo-v1/w200.avif",
+        "key": "universities/sy-al-rasheed-international-university-for-science-and-technology/logo-v1/w200.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 200,
+        "height": 200,
+        "sha256": "1ff8b9e11c1c1359b516d2e13955625e8db887bb37a815797cbc92b401e2f208",
+        "sizeBytes": 12124
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official Facebook page",
+      "sourceTitle": "Al-Rasheed International University for Science and Technology official logo",
+      "sourceUrl": "https://www.facebook.com/RasheedUniv",
+      "creator": "Al-Rasheed International University for Science and Technology",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://www.facebook.com/RasheedUniv",
+      "attributionRequired": false
+    },
+    "sourceIds": [
+      "sy-al-rasheed-international-university-for-science-and-technology-official-logo"
+    ],
+    "sourceStatus": "seed",
+    "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-ruwad-university-for-science-and-culture-logo",
+    "universityId": "sy-al-ruwad-university-for-science-and-culture",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Al-Ruwad University for Science and Culture logo",
+      "ar": "شعار جامعة الرواد للعلوم والتقانة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-ruwad-university-for-science-and-culture/logo-v1/w128.webp",
+        "key": "universities/sy-al-ruwad-university-for-science-and-culture/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 181,
+        "sha256": "09ca175108b857e3845145d761c3262d1f5ad09d294bc5571bd486897a0a1933",
+        "sizeBytes": 2416
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-ruwad-university-for-science-and-culture/logo-v1/w128.avif",
+        "key": "universities/sy-al-ruwad-university-for-science-and-culture/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 181,
+        "sha256": "e4c6d88554958e4e333a63ad9a358449ab5c86a2d038cce6fe70d9f64511480c",
+        "sizeBytes": 4257
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-ruwad-university-for-science-and-culture/logo-v1/w256.webp",
+        "key": "universities/sy-al-ruwad-university-for-science-and-culture/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 362,
+        "sha256": "5b1f36365375fa7a224240500062cb2c05472d5d7975c2e4f5a125b25447e9b7",
+        "sizeBytes": 6222
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-ruwad-university-for-science-and-culture/logo-v1/w256.avif",
+        "key": "universities/sy-al-ruwad-university-for-science-and-culture/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 362,
+        "sha256": "fea7be19e1a03ed3fc387c1944237bac9854244993c2f00ada31ba6aad08d604",
+        "sizeBytes": 9302
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-ruwad-university-for-science-and-culture/logo-v1/w512.webp",
+        "key": "universities/sy-al-ruwad-university-for-science-and-culture/logo-v1/w512.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 512,
+        "height": 723,
+        "sha256": "94e690523a871e5389003a883d356ec7e7b8cb3f85b1236086dea591a0aeac31",
+        "sizeBytes": 16138
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-ruwad-university-for-science-and-culture/logo-v1/w512.avif",
+        "key": "universities/sy-al-ruwad-university-for-science-and-culture/logo-v1/w512.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 512,
+        "height": 723,
+        "sha256": "7f9c9507da248894894ccee5ee18e4414331095720c4ca583dd0f12c30dcfca6",
+        "sizeBytes": 21122
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Al-Ruwad University for Science and Culture official logo",
+      "sourceUrl": "https://alrowaduni.edu.sy/wp-content/uploads/2024/11/%D9%84%D9%88%D8%BA%D9%88-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9.png",
+      "creator": "Al-Ruwad University for Science and Culture",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://alrowaduni.edu.sy/wp-content/uploads/2024/11/%D9%84%D9%88%D8%BA%D9%88-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-al-ruwad-university-for-science-and-culture-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-shahba-university-logo",
+    "universityId": "sy-al-shahba-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Al-Shahba University logo",
+      "ar": "شعار جامعة الشهباء الخاصة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-shahba-university/logo-v1/w128.webp",
+        "key": "universities/sy-al-shahba-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 127,
+        "sha256": "e54be1caf31059e335c0f519ff73754c65291ea9a6a80d59d5a4d7770106627a",
+        "sizeBytes": 7846
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-shahba-university/logo-v1/w128.avif",
+        "key": "universities/sy-al-shahba-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 127,
+        "sha256": "fbde8ecc1ac224aad3c9f5844c054c2a16a615079a51c4eb38422e3b86db2122",
+        "sizeBytes": 8280
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-shahba-university/logo-v1/w256.webp",
+        "key": "universities/sy-al-shahba-university/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 254,
+        "sha256": "d97bea4eeeda675dd4c30fa55a212e35c6e66d97b2fa8fa0c02ae62bc51971dc",
+        "sizeBytes": 17944
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-shahba-university/logo-v1/w256.avif",
+        "key": "universities/sy-al-shahba-university/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 254,
+        "sha256": "c94a6a665a7925c5a36b2cf6818d4a42177149c934e3e94b166963c6cca4ff5c",
+        "sizeBytes": 18287
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-shahba-university/logo-v1/w300.webp",
+        "key": "universities/sy-al-shahba-university/logo-v1/w300.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 300,
+        "height": 298,
+        "sha256": "f471e5623499fb453da448fa877b49ab352bf4175381ae1753819ee55855a26a",
+        "sizeBytes": 20290
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-shahba-university/logo-v1/w300.avif",
+        "key": "universities/sy-al-shahba-university/logo-v1/w300.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 300,
+        "height": 298,
+        "sha256": "788e53f350446268f7b9c72c6a741160841570911bb1379235903b8461a1bc5d",
+        "sizeBytes": 20323
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Al-Shahba University official logo",
+      "sourceUrl": "https://www.su.edu.sy/images/logo.png",
+      "creator": "Al-Shahba University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://www.su.edu.sy/images/logo.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-al-shahba-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-sham-private-university-logo",
+    "universityId": "sy-al-sham-private-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Al-Sham Private University logo",
+      "ar": "شعار جامعة الشام الخاصة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-sham-private-university/logo-v1/w128.webp",
+        "key": "universities/sy-al-sham-private-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 27,
+        "sha256": "a5612d2909449b130cfd98acf550effafd8fdb6bfc9db652fb01deb946114a60",
+        "sizeBytes": 3558
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-sham-private-university/logo-v1/w128.avif",
+        "key": "universities/sy-al-sham-private-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 27,
+        "sha256": "03e9044e27aa5b306688793be0991be183852c286ae1e11cce32367ba50176f7",
+        "sizeBytes": 10253
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-sham-private-university/logo-v1/w256.webp",
+        "key": "universities/sy-al-sham-private-university/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 53,
+        "sha256": "73a1cce224563b7883d0f793196152bcf1a702fec760ee942961fd788aa45263",
+        "sizeBytes": 8664
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-sham-private-university/logo-v1/w256.avif",
+        "key": "universities/sy-al-sham-private-university/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 53,
+        "sha256": "30e4a2679ec2264819596b204db1797f938c771ac93c2b7defa72666a26eb286",
+        "sizeBytes": 15926
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-sham-private-university/logo-v1/w512.webp",
+        "key": "universities/sy-al-sham-private-university/logo-v1/w512.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 512,
+        "height": 107,
+        "sha256": "5aca05f161daf09c4d9286f73f8e0e89d0477bce9d75bb2bf9997b3a082b58d7",
+        "sizeBytes": 21088
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-sham-private-university/logo-v1/w512.avif",
+        "key": "universities/sy-al-sham-private-university/logo-v1/w512.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 512,
+        "height": 107,
+        "sha256": "a76308476ef62e4336d3299cc6e5a3018bd572a106a39ed2b907b48e088bab20",
+        "sizeBytes": 27427
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Al-Sham Private University official logo",
+      "sourceUrl": "https://aspu.edu.sy/site/images/web/logo-wide.png",
+      "creator": "Al-Sham Private University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://aspu.edu.sy/site/images/web/logo-wide.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-al-sham-private-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-sham-university-logo",
+    "universityId": "sy-al-sham-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Al-Sham University logo",
+      "ar": "شعار جامعة الشام العالمية الخاصة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-sham-university/logo-v1/w128.webp",
+        "key": "universities/sy-al-sham-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 128,
+        "sha256": "4f22d287199660a4ebdae7e834696bde6e46e77a10ef48dffa4e709da7e4ca68",
+        "sizeBytes": 2244
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-sham-university/logo-v1/w128.avif",
+        "key": "universities/sy-al-sham-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 128,
+        "sha256": "a25872c074cfa40afa5c5249fc4ff262a9e6913aa6c55cce08ef0db1fc1c2412",
+        "sizeBytes": 2441
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-sham-university/logo-v1/w170.webp",
+        "key": "universities/sy-al-sham-university/logo-v1/w170.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 170,
+        "height": 170,
+        "sha256": "9ed1985610ab03982ae53d49737fade239ae69a68bcf093dec219950792c5938",
+        "sizeBytes": 3214
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-sham-university/logo-v1/w170.avif",
+        "key": "universities/sy-al-sham-university/logo-v1/w170.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 170,
+        "height": 170,
+        "sha256": "7138b94fb8ba2db50a2a371de73a3297cf67436206fe12a432560c25f9822a2a",
+        "sizeBytes": 3591
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Al-Sham University official logo",
+      "sourceUrl": "https://isu.edu.sy/images/logo.jpg",
+      "creator": "Al-Sham University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://isu.edu.sy/images/logo.jpg",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-al-sham-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-shamal-private-university-logo",
+    "universityId": "sy-al-shamal-private-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Al-Shamal Private University logo",
+      "ar": "شعار جامعة الشمال الخاصة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-shamal-private-university/logo-v1/w100.webp",
+        "key": "universities/sy-al-shamal-private-university/logo-v1/w100.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 100,
+        "height": 100,
+        "sha256": "0b49ee6117c19bd6a679bbcbb8e1828975a68e560c15e7c5e8051a46bc969f2c",
+        "sizeBytes": 3964
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-shamal-private-university/logo-v1/w100.avif",
+        "key": "universities/sy-al-shamal-private-university/logo-v1/w100.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 100,
+        "height": 100,
+        "sha256": "3786f2b24caa163e947ec3e89f11f2db52d21bace60e821bcd4cab39620ec46a",
+        "sizeBytes": 4502
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Al-Shamal Private University official logo",
+      "sourceUrl": "https://al-shamal.edu.sy/wp-content/uploads/2021/11/logo-100.png",
+      "creator": "Al-Shamal Private University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://al-shamal.edu.sy/wp-content/uploads/2021/11/logo-100.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-al-shamal-private-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-wataniya-private-university-logo",
+    "universityId": "sy-al-wataniya-private-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Al-Wataniya Private University logo",
+      "ar": "شعار الجامعة الوطنية الخاصة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-wataniya-private-university/logo-v1/w128.webp",
+        "key": "universities/sy-al-wataniya-private-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 128,
+        "sha256": "ff6ee357d7645c92804c4724a1a6599eced3c18818d87fdd95276a72c177c28d",
+        "sizeBytes": 3924
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-wataniya-private-university/logo-v1/w128.avif",
+        "key": "universities/sy-al-wataniya-private-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 128,
+        "sha256": "531ce86571772d9d2c4a0c2731b56d827015ff12657969b4a76a6150bd94e333",
+        "sizeBytes": 3431
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-wataniya-private-university/logo-v1/w256.webp",
+        "key": "universities/sy-al-wataniya-private-university/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 256,
+        "sha256": "0d65180652ad4a9b346ef151775f002f55df38c25989feef1d1fa2ff0ae4a920",
+        "sizeBytes": 8994
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-wataniya-private-university/logo-v1/w256.avif",
+        "key": "universities/sy-al-wataniya-private-university/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 256,
+        "sha256": "c0a8685d8fcf2da2b494920784dd5c04a29bf47fb934bb12e0a38934aa8147f4",
+        "sizeBytes": 7234
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-wataniya-private-university/logo-v1/w270.webp",
+        "key": "universities/sy-al-wataniya-private-university/logo-v1/w270.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 270,
+        "height": 270,
+        "sha256": "2e46a04421e26e5cb6d6e30cd5359ad69fa7d7bb5af6b9779e16c1977aee160d",
+        "sizeBytes": 9648
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-wataniya-private-university/logo-v1/w270.avif",
+        "key": "universities/sy-al-wataniya-private-university/logo-v1/w270.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 270,
+        "height": 270,
+        "sha256": "a66945bd96c39c229160a324f339a2a870b1ffa6f00bb2530cd60b7b93ce1cda",
+        "sizeBytes": 7657
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Al-Wataniya Private University official logo",
+      "sourceUrl": "https://wpu.edu.sy/wp-content/uploads/2022/01/cropped-logo-270x270.png",
+      "creator": "Al-Wataniya Private University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://wpu.edu.sy/wp-content/uploads/2022/01/cropped-logo-270x270.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-al-wataniya-private-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-zahraa-university-logo",
+    "universityId": "sy-al-zahraa-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Al-Zahraa University logo",
+      "ar": "شعار جامعة الزهراء"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-zahraa-university/logo-v1/w128.webp",
+        "key": "universities/sy-al-zahraa-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 130,
+        "sha256": "4650f97d46f9e52b709282e48a7cf8a14a2de03feffcb68a7033cefffd8b2fed",
+        "sizeBytes": 6186
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-zahraa-university/logo-v1/w128.avif",
+        "key": "universities/sy-al-zahraa-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 130,
+        "sha256": "fc184e99e29e97f9c3b046d5e362a6140c0b3eee09254faff2430b448ba784f9",
+        "sizeBytes": 21752
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-zahraa-university/logo-v1/w157.webp",
+        "key": "universities/sy-al-zahraa-university/logo-v1/w157.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 157,
+        "height": 159,
+        "sha256": "1b1e55d662269532dd2cfc302c33accd3010cf66b4d1c9bb1d900c0d46926530",
+        "sizeBytes": 7064
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-zahraa-university/logo-v1/w157.avif",
+        "key": "universities/sy-al-zahraa-university/logo-v1/w157.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 157,
+        "height": 159,
+        "sha256": "ea99e58c782bdaa0c66c7523a836aec44adcc57a7f8ae44653c8467a460e5c8f",
+        "sizeBytes": 23580
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Al-Zahraa University official logo",
+      "sourceUrl": "https://alzahraa.university/wp-content/uploads/2017/02/Islamic_Online_University_Logo-2.png",
+      "creator": "Al-Zahraa University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://alzahraa.university/wp-content/uploads/2017/02/Islamic_Online_University_Logo-2.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-al-zahraa-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-zaytuna-university-logo",
+    "universityId": "sy-al-zaytuna-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Al-Zaytuna University logo",
+      "ar": "شعار جامعة الزيتونة الدولية"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-zaytuna-university/logo-v1/w128.webp",
+        "key": "universities/sy-al-zaytuna-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 123,
+        "sha256": "0238c86782d1a754b5b159a5ca0cd71366979383b0c545f0c72da98f94c6df13",
+        "sizeBytes": 13606
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-zaytuna-university/logo-v1/w128.avif",
+        "key": "universities/sy-al-zaytuna-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 123,
+        "sha256": "be0caf5e33c1c6d2d3702a2a7c3038470302d9ca6a4f6f06d7a5cda2929b48b9",
+        "sizeBytes": 15321
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-zaytuna-university/logo-v1/w256.webp",
+        "key": "universities/sy-al-zaytuna-university/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 246,
+        "sha256": "7798b5d498291562dc318807d0aa2db4b1f1659b74286e72bb5e6b7f2c91be5b",
+        "sizeBytes": 38662
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-zaytuna-university/logo-v1/w256.avif",
+        "key": "universities/sy-al-zaytuna-university/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 246,
+        "sha256": "056509084503c956630d84683f424c8ed0c9f6c75f7f3f8e3ddb7d0300d59008",
+        "sizeBytes": 38755
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-zaytuna-university/logo-v1/w400.webp",
+        "key": "universities/sy-al-zaytuna-university/logo-v1/w400.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 400,
+        "height": 384,
+        "sha256": "13639a064fe5ad695c613eb87fcc1196060d8612c3289739e9a5943a39dc8712",
+        "sizeBytes": 33936
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-zaytuna-university/logo-v1/w400.avif",
+        "key": "universities/sy-al-zaytuna-university/logo-v1/w400.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 400,
+        "height": 384,
+        "sha256": "a69aba9f6631f35e2547066427ca6c4446b4ed27c1150f6421b3522ca0755b21",
+        "sizeBytes": 41301
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Al-Zaytuna University official logo",
+      "sourceUrl": "https://ziu.edu.sy/assets/images/logo.png",
+      "creator": "Al-Zaytuna University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://ziu.edu.sy/assets/images/logo.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-al-zaytuna-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-antioch-syrian-university-logo",
+    "universityId": "sy-antioch-syrian-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Antioch Syrian University logo",
+      "ar": "شعار جامعة أنطاكية السورية الخاصة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-antioch-syrian-university/logo-v1/w128.webp",
+        "key": "universities/sy-antioch-syrian-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 52,
+        "sha256": "c10adcec5df9c12911c146a6b5cd35958ddd2bfed0b06725d7fb2c9d81e9a61e",
+        "sizeBytes": 4590
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-antioch-syrian-university/logo-v1/w128.avif",
+        "key": "universities/sy-antioch-syrian-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 52,
+        "sha256": "4901f64cf6893c1e7e5c597c090a0f7fe88a0e490190e157137c8ccbd25735ce",
+        "sizeBytes": 17021
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-antioch-syrian-university/logo-v1/w256.webp",
+        "key": "universities/sy-antioch-syrian-university/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 104,
+        "sha256": "5d940d7f7b33f33d8db928e629e6b64f64b63dc0c1bef6eefbe51efd95fd5138",
+        "sizeBytes": 11820
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-antioch-syrian-university/logo-v1/w256.avif",
+        "key": "universities/sy-antioch-syrian-university/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 104,
+        "sha256": "30d41924fc46806da4b6525c33e9056ff0289a953a65cea20a5dad4874f86c88",
+        "sizeBytes": 23687
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-antioch-syrian-university/logo-v1/w512.webp",
+        "key": "universities/sy-antioch-syrian-university/logo-v1/w512.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 512,
+        "height": 208,
+        "sha256": "cd617106f37ddc33669b3144495577d0d86631e3259c21864dc3118e436948a6",
+        "sizeBytes": 27912
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-antioch-syrian-university/logo-v1/w512.avif",
+        "key": "universities/sy-antioch-syrian-university/logo-v1/w512.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 512,
+        "height": 208,
+        "sha256": "1e826259b4936e7c1542efe308b40c0de19f1cd48ae4f5c29e253b5b75577e3a",
+        "sizeBytes": 36296
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Antioch Syrian University official logo",
+      "sourceUrl": "https://asu.edu.sy/sites/default/files/logo.png",
+      "creator": "Antioch Syrian University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://asu.edu.sy/sites/default/files/logo.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-antioch-syrian-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-arab-academy-for-e-businesses-logo",
+    "universityId": "sy-arab-academy-for-e-businesses",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Arab Academy for E-Businesses logo",
+      "ar": "شعار الأكاديمية العربية للأعمال الإلكترونية"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-arab-academy-for-e-businesses/logo-v1/w128.webp",
+        "key": "universities/sy-arab-academy-for-e-businesses/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 128,
+        "sha256": "6b71bd88482b0fc83c5cb15e56911ccabe861b0952d4541841fd97aa153f17bb",
+        "sizeBytes": 4592
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-arab-academy-for-e-businesses/logo-v1/w128.avif",
+        "key": "universities/sy-arab-academy-for-e-businesses/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 128,
+        "sha256": "45f15863769dd53d0a86b517c02f0a18e5cae8e0164fd452c2915b31d4c6f637",
+        "sizeBytes": 5425
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-arab-academy-for-e-businesses/logo-v1/w200.webp",
+        "key": "universities/sy-arab-academy-for-e-businesses/logo-v1/w200.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 200,
+        "height": 200,
+        "sha256": "c5ada7edfd7e227d14db38b432d6e3f412f08dcf2f695753b367fa69124fdc9c",
+        "sizeBytes": 8428
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-arab-academy-for-e-businesses/logo-v1/w200.avif",
+        "key": "universities/sy-arab-academy-for-e-businesses/logo-v1/w200.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 200,
+        "height": 200,
+        "sha256": "e602d696be49bcada530e532b32df4ab2b9f4c502a5f4908001b9f11a9765619",
+        "sizeBytes": 10365
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official Facebook page",
+      "sourceTitle": "Arab Academy for E-Businesses official logo",
+      "sourceUrl": "https://www.facebook.com/araeb.syria",
+      "creator": "Arab Academy for E-Businesses",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://www.facebook.com/araeb.syria",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-arab-academy-for-e-businesses-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-arab-academy-of-science-and-technology-and-maritime-transport-logo",
+    "universityId": "sy-arab-academy-of-science-and-technology-and-maritime-transport",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Arab Academy of Science and Technology and Maritime Transport logo",
+      "ar": "شعار الأكاديمية العربية للعلوم والتكنولوجيا والنقل"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-arab-academy-of-science-and-technology-and-maritime-transport/logo-v1/w128.webp",
+        "key": "universities/sy-arab-academy-of-science-and-technology-and-maritime-transport/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 133,
+        "sha256": "93b7121754967c54fcd2f379398013c6912bbc2e1965f942385b4fbdfc74059b",
+        "sizeBytes": 10838
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-arab-academy-of-science-and-technology-and-maritime-transport/logo-v1/w128.avif",
+        "key": "universities/sy-arab-academy-of-science-and-technology-and-maritime-transport/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 133,
+        "sha256": "896a18eafee56241760e64e3d8fd31294ce04e74a481f7c55cabb7901d6d2254",
+        "sizeBytes": 13443
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-arab-academy-of-science-and-technology-and-maritime-transport/logo-v1/w256.webp",
+        "key": "universities/sy-arab-academy-of-science-and-technology-and-maritime-transport/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 265,
+        "sha256": "0b981048d47e4d3497d79f26e207eb32a271e9566d37de2df355b317f6067c70",
+        "sizeBytes": 32046
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-arab-academy-of-science-and-technology-and-maritime-transport/logo-v1/w256.avif",
+        "key": "universities/sy-arab-academy-of-science-and-technology-and-maritime-transport/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 265,
+        "sha256": "693bc699c745cf470489106780e002c231dff99bfd795fdda5a787eea00b0905",
+        "sizeBytes": 34401
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-arab-academy-of-science-and-technology-and-maritime-transport/logo-v1/w512.webp",
+        "key": "universities/sy-arab-academy-of-science-and-technology-and-maritime-transport/logo-v1/w512.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 512,
+        "height": 530,
+        "sha256": "2619837d6de3a95772290757751bff0679819e0f8ea465a628172535cbdba830",
+        "sizeBytes": 88924
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-arab-academy-of-science-and-technology-and-maritime-transport/logo-v1/w512.avif",
+        "key": "universities/sy-arab-academy-of-science-and-technology-and-maritime-transport/logo-v1/w512.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 512,
+        "height": 530,
+        "sha256": "cde9163c1c7e5717f285c5061dd7797f435fbaf576e28855e13dc6b398f62b59",
+        "sizeBytes": 80496
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Arab Academy of Science and Technology and Maritime Transport official logo",
+      "sourceUrl": "https://aast.edu/template/logo-blue03.webp",
+      "creator": "Arab Academy of Science and Technology and Maritime Transport",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://aast.edu/template/logo-blue03.webp",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-arab-academy-of-science-and-technology-and-maritime-transport-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-arab-international-university-logo",
+    "universityId": "sy-arab-international-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Arab International University logo",
+      "ar": "شعار الجامعة العربية الدولية"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-arab-international-university/logo-v1/w128.webp",
+        "key": "universities/sy-arab-international-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 128,
+        "sha256": "e326a234bb93f57347493887eea3ff0a93028b0152d21d346d967ba52ea61798",
+        "sizeBytes": 8048
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-arab-international-university/logo-v1/w128.avif",
+        "key": "universities/sy-arab-international-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 128,
+        "sha256": "f4142c356cce40b3069e02c789b64be050e62338afd95b1af6282cdc7508cc55",
+        "sizeBytes": 20804
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-arab-international-university/logo-v1/w140.webp",
+        "key": "universities/sy-arab-international-university/logo-v1/w140.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 140,
+        "height": 140,
+        "sha256": "cde9f6b009be9d54a5c25f5ebfb8c0055d0b46546f589839da9030967c1b8a82",
+        "sizeBytes": 8510
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-arab-international-university/logo-v1/w140.avif",
+        "key": "universities/sy-arab-international-university/logo-v1/w140.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 140,
+        "height": 140,
+        "sha256": "e3a36dbdbae5d913742adb7cc9bc078dbe66c179c2977dc7ee9e83b78e9480a1",
+        "sizeBytes": 21064
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Arab International University official logo",
+      "sourceUrl": "https://www.aiu.edu.sy/site/assets/images/aiu-source/logo/logo.png",
+      "creator": "Arab International University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://www.aiu.edu.sy/site/assets/images/aiu-source/logo/logo.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-arab-international-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-arab-university-for-science-and-technology-logo",
+    "universityId": "sy-arab-university-for-science-and-technology",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Arab University for Science and Technology logo",
+      "ar": "شعار الجامعة العربية الخاصة للعلوم والتكنولوجيا"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-arab-university-for-science-and-technology/logo-v1/w128.webp",
+        "key": "universities/sy-arab-university-for-science-and-technology/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 64,
+        "sha256": "13b690d52bdd20cc7ffd54fb9f244f29f6c5102c5a000d68122a10457bd01604",
+        "sizeBytes": 6562
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-arab-university-for-science-and-technology/logo-v1/w128.avif",
+        "key": "universities/sy-arab-university-for-science-and-technology/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 64,
+        "sha256": "eee055bd9c558c6419285b4bec0a88bcb458b42456543fd67eb83a3051652867",
+        "sizeBytes": 7667
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-arab-university-for-science-and-technology/logo-v1/w256.webp",
+        "key": "universities/sy-arab-university-for-science-and-technology/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 128,
+        "sha256": "c6a415607e8d7726fb7d5ce07d8c876f1e74098e34f3bf5759acada90ca318f2",
+        "sizeBytes": 19018
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-arab-university-for-science-and-technology/logo-v1/w256.avif",
+        "key": "universities/sy-arab-university-for-science-and-technology/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 128,
+        "sha256": "61845ed2051dbe84d1a0943b965a23a38e9274dd634f897951c8c7baa30e3485",
+        "sizeBytes": 20359
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-arab-university-for-science-and-technology/logo-v1/w400.webp",
+        "key": "universities/sy-arab-university-for-science-and-technology/logo-v1/w400.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 400,
+        "height": 200,
+        "sha256": "64f8fac1abf9ef8ad4dff998fe0c24a2599ce2c61761bdaa04d7102e67e7f4a4",
+        "sizeBytes": 24512
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-arab-university-for-science-and-technology/logo-v1/w400.avif",
+        "key": "universities/sy-arab-university-for-science-and-technology/logo-v1/w400.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 400,
+        "height": 200,
+        "sha256": "a25e8e93af2bf03c23d510cdb9f5ec659fde9806929e927eaf3e104ac58f5d4d",
+        "sizeBytes": 25689
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Arab University for Science and Technology official logo",
+      "sourceUrl": "https://aust.edu.sy/front-end/assets/image/logo/new-logo-loader.webp",
+      "creator": "Arab University for Science and Technology",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://aust.edu.sy/front-end/assets/image/logo/new-logo-loader.webp",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-arab-university-for-science-and-technology-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-aram-university-for-sciences-logo",
+    "universityId": "sy-aram-university-for-sciences",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Aram University for Sciences logo",
+      "ar": "شعار جامعة آرام للعلوم"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-aram-university-for-sciences/logo-v1/w128.webp",
+        "key": "universities/sy-aram-university-for-sciences/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 128,
+        "sha256": "612baad13c9a8c47b7015c0b71182cd14fc814c7aa5a55f20a2315cc9b232bb8",
+        "sizeBytes": 3232
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-aram-university-for-sciences/logo-v1/w128.avif",
+        "key": "universities/sy-aram-university-for-sciences/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 128,
+        "sha256": "29a8bbe48d83d3691d750ae0576ce0e2a24956cba7a97b116710072e1bed965e",
+        "sizeBytes": 3601
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-aram-university-for-sciences/logo-v1/w200.webp",
+        "key": "universities/sy-aram-university-for-sciences/logo-v1/w200.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 200,
+        "height": 200,
+        "sha256": "1a33bae89857d914efb89554c54585d8ede81fe849e5c7d1d7d7931bc8b657d9",
+        "sizeBytes": 5536
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-aram-university-for-sciences/logo-v1/w200.avif",
+        "key": "universities/sy-aram-university-for-sciences/logo-v1/w200.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 200,
+        "height": 200,
+        "sha256": "04d35d208007320117d19c0848ca46dbf0f0b57f772fe2f90ac4925370e31eb5",
+        "sizeBytes": 6411
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official Facebook page",
+      "sourceTitle": "Aram University for Sciences official logo",
+      "sourceUrl": "https://www.facebook.com/Aramuniversity",
+      "creator": "Aram University for Sciences",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://www.facebook.com/Aramuniversity",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-aram-university-for-sciences-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-basaksehir-university-logo",
+    "universityId": "sy-basaksehir-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Başakşehir University logo",
+      "ar": "شعار جامعة باشاك شهير"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-basaksehir-university/logo-v1/w128.webp",
+        "key": "universities/sy-basaksehir-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 46,
+        "sha256": "bcf5fa874111310ab3c0cbf17dc381f3bba150f508e8a1b17714e2fad755ce7f",
+        "sizeBytes": 4520
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-basaksehir-university/logo-v1/w128.avif",
+        "key": "universities/sy-basaksehir-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 46,
+        "sha256": "c8062b92729e85337da2d0806b96d5f2c5192d2a4e791d7d9cf9c3f6722d3e3c",
+        "sizeBytes": 4583
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-basaksehir-university/logo-v1/w256.webp",
+        "key": "universities/sy-basaksehir-university/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 92,
+        "sha256": "0d56c9eefa30682dabfd875a41de6fcca81890645536f89f109add33357794b2",
+        "sizeBytes": 11486
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-basaksehir-university/logo-v1/w256.avif",
+        "key": "universities/sy-basaksehir-university/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 92,
+        "sha256": "6941ec72f91fd1e88591600ba25aa752a598a481e4158271d30239d9c8bf8fd4",
+        "sizeBytes": 11583
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-basaksehir-university/logo-v1/w400.webp",
+        "key": "universities/sy-basaksehir-university/logo-v1/w400.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 400,
+        "height": 144,
+        "sha256": "1f5f0c9256aef5519e2de8319901e15f32c3410c4b5bd9337687ad16381b4c2e",
+        "sizeBytes": 7966
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-basaksehir-university/logo-v1/w400.avif",
+        "key": "universities/sy-basaksehir-university/logo-v1/w400.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 400,
+        "height": 144,
+        "sha256": "bbf9e23ca331059f33d358999c30e8abaa44aa7f59dfb145293f7d894eac6a83",
+        "sizeBytes": 9831
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Başakşehir University official logo",
+      "sourceUrl": "https://bsu.edu.sy/wp-content/uploads/2021/07/web-logo.png",
+      "creator": "Başakşehir University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://bsu.edu.sy/wp-content/uploads/2021/07/web-logo.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-basaksehir-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-bilad-al-sham-university-for-sharia-sciences-logo",
+    "universityId": "sy-bilad-al-sham-university-for-sharia-sciences",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Bilad Al-Sham University for Sharia Sciences logo",
+      "ar": "شعار جامعة بلاد الشام للعلوم الشرعية"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-bilad-al-sham-university-for-sharia-sciences/logo-v1/w128.webp",
+        "key": "universities/sy-bilad-al-sham-university-for-sharia-sciences/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 128,
+        "sha256": "90d34a9527f50a97258611e4c725d5e09006f248b2cfeceb45d878b3f25e0ea7",
+        "sizeBytes": 3274
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-bilad-al-sham-university-for-sharia-sciences/logo-v1/w128.avif",
+        "key": "universities/sy-bilad-al-sham-university-for-sharia-sciences/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 128,
+        "sha256": "810e0d839f307b016faaed9ce4b14192beba9933496fc7d39304bf69f2c73bec",
+        "sizeBytes": 3976
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-bilad-al-sham-university-for-sharia-sciences/logo-v1/w200.webp",
+        "key": "universities/sy-bilad-al-sham-university-for-sharia-sciences/logo-v1/w200.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 200,
+        "height": 200,
+        "sha256": "d7516a1325f435ac816fc4ecf9f470ba3f3814581c5a342ea3c362eb7a3e8102",
+        "sizeBytes": 6192
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-bilad-al-sham-university-for-sharia-sciences/logo-v1/w200.avif",
+        "key": "universities/sy-bilad-al-sham-university-for-sharia-sciences/logo-v1/w200.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 200,
+        "height": 200,
+        "sha256": "590f80d7df9b4af191358e8557d4896d3f7298a3fed852cf1a05192969e810d2",
+        "sizeBytes": 7552
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official Facebook page",
+      "sourceTitle": "Bilad Al-Sham University for Sharia Sciences official logo",
+      "sourceUrl": "https://www.facebook.com/BALADSHAM",
+      "creator": "Bilad Al-Sham University for Sharia Sciences",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://www.facebook.com/BALADSHAM",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-bilad-al-sham-university-for-sharia-sciences-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-cordoba-private-university-logo",
+    "universityId": "sy-cordoba-private-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Cordoba Private University logo",
+      "ar": "شعار جامعة قرطبة الخاصة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-cordoba-private-university/logo-v1/w128.webp",
+        "key": "universities/sy-cordoba-private-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 74,
+        "sha256": "e2ceeecd0e3e07f1572b7664f98df595e7bed572569fd5f4a2d6f3e000f96eb3",
+        "sizeBytes": 3764
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-cordoba-private-university/logo-v1/w128.avif",
+        "key": "universities/sy-cordoba-private-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 74,
+        "sha256": "d5621e7d7d729d62de58db3a1bdb00a2fb98ba6e08c16d43e13f153cdd9f4ddf",
+        "sizeBytes": 25167
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-cordoba-private-university/logo-v1/w256.webp",
+        "key": "universities/sy-cordoba-private-university/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 148,
+        "sha256": "eda7246f34ca04c8faf19800025977f6645e3e225e517f9d4b6e733ba6b14d24",
+        "sizeBytes": 9386
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-cordoba-private-university/logo-v1/w256.avif",
+        "key": "universities/sy-cordoba-private-university/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 148,
+        "sha256": "92c2fceb317563cbe36f8cb9786f34f3032bf3b4fe2c1d07b6877fa1f97d04f5",
+        "sizeBytes": 30169
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-cordoba-private-university/logo-v1/w512.webp",
+        "key": "universities/sy-cordoba-private-university/logo-v1/w512.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 512,
+        "height": 296,
+        "sha256": "edd919ab45d9865a66a2fa9236bec44c5de2c9447011067b2d704be19b75d602",
+        "sizeBytes": 24456
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-cordoba-private-university/logo-v1/w512.avif",
+        "key": "universities/sy-cordoba-private-university/logo-v1/w512.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 512,
+        "height": 296,
+        "sha256": "a178c04999b8d0b3949726dc96d9febc3fefa42d1e881d7582938c9cd468b38a",
+        "sizeBytes": 42052
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Cordoba Private University official logo",
+      "sourceUrl": "https://www.cpu.edu.sy/images/logos/logo.png",
+      "creator": "Cordoba Private University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://www.cpu.edu.sy/images/logos/logo.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-cordoba-private-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-damascus-university-logo",
+    "universityId": "sy-damascus-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Damascus University logo",
+      "ar": "شعار جامعة دمشق"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-damascus-university/logo-v1/w128.webp",
+        "key": "universities/sy-damascus-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 128,
+        "sha256": "de6fe40a4a72f0ebd83928c23a5614dac222a4889ea84988107a92b175a5202e",
+        "sizeBytes": 3586
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-damascus-university/logo-v1/w128.avif",
+        "key": "universities/sy-damascus-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 128,
+        "sha256": "114035f688636779ed3ff46eda47e5fdae7d354e509acd1564aa5fa5a7dc0bfd",
+        "sizeBytes": 4716
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-damascus-university/logo-v1/w200.webp",
+        "key": "universities/sy-damascus-university/logo-v1/w200.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 200,
+        "height": 200,
+        "sha256": "1cfa698dee3e380a9139c3efc6fe5077e6c84e6c5eb2ad1200dc4ea7141cd272",
+        "sizeBytes": 6840
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-damascus-university/logo-v1/w200.avif",
+        "key": "universities/sy-damascus-university/logo-v1/w200.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 200,
+        "height": 200,
+        "sha256": "ef2a8461b7e5508e26f9777e2b55ca242768ec91dea14679bac18d5724f13a86",
+        "sizeBytes": 8362
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official Facebook page",
+      "sourceTitle": "Damascus University official logo",
+      "sourceUrl": "https://www.facebook.com/Damas.University",
+      "creator": "Damascus University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://www.facebook.com/Damas.University",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-damascus-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-ebla-private-university-logo",
+    "universityId": "sy-ebla-private-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Ebla Private University logo",
+      "ar": "شعار جامعة إيبلا الخاصة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-ebla-private-university/logo-v1/w128.webp",
+        "key": "universities/sy-ebla-private-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 31,
+        "sha256": "b59b715e3b4972d5c241b7dd4921a05f48a51b727f454dffdaed301382bea9fc",
+        "sizeBytes": 3436
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-ebla-private-university/logo-v1/w128.avif",
+        "key": "universities/sy-ebla-private-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 31,
+        "sha256": "689933b24a81f88d5a4afd73c795ceb528c7a1ba9d6c1333d073cff47415be90",
+        "sizeBytes": 4654
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-ebla-private-university/logo-v1/w256.webp",
+        "key": "universities/sy-ebla-private-university/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 61,
+        "sha256": "311350baab6a746b1f2d66c207916c1fd85cc966ab6e1e6f6168bb4325351451",
+        "sizeBytes": 7938
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-ebla-private-university/logo-v1/w256.avif",
+        "key": "universities/sy-ebla-private-university/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 61,
+        "sha256": "289db0f10465017f08b8d5fe0121453ac2bef655efa106125091e5f898c2f45f",
+        "sizeBytes": 9337
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-ebla-private-university/logo-v1/w418.webp",
+        "key": "universities/sy-ebla-private-university/logo-v1/w418.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 418,
+        "height": 100,
+        "sha256": "4b402040f82f8c260950f8033b8d704aa76ad7aafc27e677267f843344dda4bc",
+        "sizeBytes": 6366
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-ebla-private-university/logo-v1/w418.avif",
+        "key": "universities/sy-ebla-private-university/logo-v1/w418.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 418,
+        "height": 100,
+        "sha256": "59fd4c0bcd27ffb455193ba76787a46339797455bd2ca6ce7a8bea7e2ab9bd3b",
+        "sizeBytes": 9203
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Ebla Private University official logo",
+      "sourceUrl": "https://www.ebla.edu.sy/images/horizontal-logo.png",
+      "creator": "Ebla Private University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://www.ebla.edu.sy/images/horizontal-logo.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-ebla-private-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-faculty-of-theology-logo",
+    "universityId": "sy-faculty-of-theology",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Faculty of Theology logo",
+      "ar": "شعار كلية اللاهوت الخاصة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-faculty-of-theology/logo-v1/w128.webp",
+        "key": "universities/sy-faculty-of-theology/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 45,
+        "sha256": "4b54892940c40000dd8391784c93fb196d8bcdf638490d3a8c03e5d696499121",
+        "sizeBytes": 4698
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-faculty-of-theology/logo-v1/w128.avif",
+        "key": "universities/sy-faculty-of-theology/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 45,
+        "sha256": "f8360502c5e3d3caac2bee118092eb75ce7e67fea2fe331ccec2faba929cb1bd",
+        "sizeBytes": 23130
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-faculty-of-theology/logo-v1/w256.webp",
+        "key": "universities/sy-faculty-of-theology/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 90,
+        "sha256": "f05ab05bb8ead8d47406de0eb2bd1fe0c65fcd1209a7b0c94cda3398abcb92e7",
+        "sizeBytes": 12010
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-faculty-of-theology/logo-v1/w256.avif",
+        "key": "universities/sy-faculty-of-theology/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 90,
+        "sha256": "d903148e84d0181696b30a6fad0c363995cff258b4aea590a64878ec839b5153",
+        "sizeBytes": 29300
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-faculty-of-theology/logo-v1/w512.webp",
+        "key": "universities/sy-faculty-of-theology/logo-v1/w512.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 512,
+        "height": 180,
+        "sha256": "3b5a76271eb548d73514164b7c09768a9255f6890cea4e9635485c7793ad757a",
+        "sizeBytes": 29472
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-faculty-of-theology/logo-v1/w512.avif",
+        "key": "universities/sy-faculty-of-theology/logo-v1/w512.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 512,
+        "height": 180,
+        "sha256": "8b81bc9df99eb4a652fb4a358eaf06281c879b0f93cc42ef1104433b49b47043",
+        "sizeBytes": 41865
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Faculty of Theology official logo",
+      "sourceUrl": "https://theologyfaculty.org/images/web/logo_ar3.png",
+      "creator": "Faculty of Theology",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://theologyfaculty.org/images/web/logo_ar3.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-faculty-of-theology-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-hama-university-logo",
+    "universityId": "sy-hama-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Hama University logo",
+      "ar": "شعار جامعة حماة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-hama-university/logo-v1/w128.webp",
+        "key": "universities/sy-hama-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 128,
+        "sha256": "a3d21e9a3113e259086562661c7173296ac290c60ae5c77b216cd5e454a28fdf",
+        "sizeBytes": 2678
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-hama-university/logo-v1/w128.avif",
+        "key": "universities/sy-hama-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 128,
+        "sha256": "d6244440aaba5167a762980563becc1ded98cc4435e7a89fd0b147cf02b80988",
+        "sizeBytes": 3149
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-hama-university/logo-v1/w256.webp",
+        "key": "universities/sy-hama-university/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 256,
+        "sha256": "2ca7877c0ebd7c19552ff9289711b64df453804aaed2a49c0bca546acdd722f0",
+        "sizeBytes": 8028
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-hama-university/logo-v1/w256.avif",
+        "key": "universities/sy-hama-university/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 256,
+        "sha256": "263d28087110e0297c7b7a54b247fcc84d749f874e67559e25e03fe7ff5e4864",
+        "sizeBytes": 8723
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-hama-university/logo-v1/w512.webp",
+        "key": "universities/sy-hama-university/logo-v1/w512.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 512,
+        "height": 512,
+        "sha256": "503f5c092f2ab68704379acbe3af741546cef01bddc4bcba0c4a9d4bc0066cc1",
+        "sizeBytes": 20690
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-hama-university/logo-v1/w512.avif",
+        "key": "universities/sy-hama-university/logo-v1/w512.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 512,
+        "height": 512,
+        "sha256": "8ba22294fb29ff2849859e814538d897c976a673dccac65681e88c1999a15739",
+        "sizeBytes": 21833
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Hama University official logo",
+      "sourceUrl": "https://hama-univ.edu.sy/wp-content/uploads/2025/07/LOGO-HAMA-UNIVERSITY-3D-1024x1024.png",
+      "creator": "Hama University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://hama-univ.edu.sy/wp-content/uploads/2025/07/LOGO-HAMA-UNIVERSITY-3D-1024x1024.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-hama-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-higher-institute-of-administration-logo",
+    "universityId": "sy-higher-institute-of-administration",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Higher Institute of Administration logo",
+      "ar": "شعار المعهد العالي للإدارة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-administration/logo-v1/w200.webp",
+        "key": "universities/sy-higher-institute-of-administration/logo-v1/w200.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 200,
+        "height": 200,
+        "sha256": "b2fd345710ec8c745747015f2aee0678a760bc712c3a9f2f4387f64d2ea036d9",
+        "sizeBytes": 1912
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-administration/logo-v1/w200.avif",
+        "key": "universities/sy-higher-institute-of-administration/logo-v1/w200.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 200,
+        "height": 200,
+        "sha256": "e3343704c5809d5671ebd69693b5beb13935baeb09b0d6169f1e5a5823ec8972",
+        "sizeBytes": 2391
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official Facebook page",
+      "sourceTitle": "Higher Institute of Administration official logo",
+      "sourceUrl": "https://www.facebook.com/idara.syria",
+      "creator": "Higher Institute of Administration",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://www.facebook.com/idara.syria",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-higher-institute-of-administration-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-higher-institute-of-applied-sciences-and-technology-logo",
+    "universityId": "sy-higher-institute-of-applied-sciences-and-technology",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Higher Institute of Applied Sciences and Technology logo",
+      "ar": "شعار المعهد العالي للعلوم التطبيقية والتكنولوجيا"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-applied-sciences-and-technology/logo-v1/w128.webp",
+        "key": "universities/sy-higher-institute-of-applied-sciences-and-technology/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 128,
+        "sha256": "9265f046c2306ba0e0dba2d43e2f33a35abe61b7e09ec68d27188413a9230a11",
+        "sizeBytes": 3088
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-applied-sciences-and-technology/logo-v1/w128.avif",
+        "key": "universities/sy-higher-institute-of-applied-sciences-and-technology/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 128,
+        "sha256": "305486ec4d0611fd5a60e07c0f23540270eb6b221dd7cce835b4700713cf5df3",
+        "sizeBytes": 3797
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-applied-sciences-and-technology/logo-v1/w256.webp",
+        "key": "universities/sy-higher-institute-of-applied-sciences-and-technology/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 256,
+        "sha256": "6ce4c3ac6929f91a3136d62dc054d8f3583611df77ce1410da73462a4094d796",
+        "sizeBytes": 6970
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-applied-sciences-and-technology/logo-v1/w256.avif",
+        "key": "universities/sy-higher-institute-of-applied-sciences-and-technology/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 256,
+        "sha256": "ef3280d4ca002c51d83e435e1b6cfebb54d014e7629cc088f7f33b03096fb017",
+        "sizeBytes": 8564
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-applied-sciences-and-technology/logo-v1/w400.webp",
+        "key": "universities/sy-higher-institute-of-applied-sciences-and-technology/logo-v1/w400.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 400,
+        "height": 400,
+        "sha256": "f1a941350969fb93255f2ff64951f5bb8a3503fe51478ae22ccaea1e9ba7ac25",
+        "sizeBytes": 12018
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-applied-sciences-and-technology/logo-v1/w400.avif",
+        "key": "universities/sy-higher-institute-of-applied-sciences-and-technology/logo-v1/w400.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 400,
+        "height": 400,
+        "sha256": "a1f4849fada033e572e219fc84ede406c164f91e9535a9e7b2eb7841cda7085d",
+        "sizeBytes": 16965
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official X profile",
+      "sourceTitle": "Higher Institute of Applied Sciences and Technology official logo",
+      "sourceUrl": "https://x.com/HiastEduSy",
+      "creator": "Higher Institute of Applied Sciences and Technology",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://x.com/HiastEduSy",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-higher-institute-of-applied-sciences-and-technology-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official X profile logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-higher-institute-of-business-administration-logo",
+    "universityId": "sy-higher-institute-of-business-administration",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Higher Institute of Business Administration logo",
+      "ar": "شعار المعهد العالي لإدارة الأعمال"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-business-administration/logo-v1/w128.webp",
+        "key": "universities/sy-higher-institute-of-business-administration/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 48,
+        "sha256": "72e7bc9f3e83226b8ed2c5ad8e192611972380dc433f5a0049d97a8d3888d3eb",
+        "sizeBytes": 5178
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-business-administration/logo-v1/w128.avif",
+        "key": "universities/sy-higher-institute-of-business-administration/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 48,
+        "sha256": "ace07466988bfd8ca332711e830f27ec86855afa8731c486ed552aa31b1b5665",
+        "sizeBytes": 6137
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-business-administration/logo-v1/w160.webp",
+        "key": "universities/sy-higher-institute-of-business-administration/logo-v1/w160.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 160,
+        "height": 60,
+        "sha256": "a21e56a3d8911f4258be11c4f996d80a94c16657477238c22032f2d89584ea21",
+        "sizeBytes": 4802
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-business-administration/logo-v1/w160.avif",
+        "key": "universities/sy-higher-institute-of-business-administration/logo-v1/w160.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 160,
+        "height": 60,
+        "sha256": "b1e04cf6c5159691c832f9a67d4af024463b3b60e4e98aa8cb1c1eff54dbbf70",
+        "sizeBytes": 6202
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Higher Institute of Business Administration official logo",
+      "sourceUrl": "http://www.hiba.edu.sy/images/logo.png",
+      "creator": "Higher Institute of Business Administration",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "http://www.hiba.edu.sy/images/logo.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-higher-institute-of-business-administration-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-higher-institute-of-cinematic-arts-logo",
+    "universityId": "sy-higher-institute-of-cinematic-arts",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Higher Institute of Cinematic Arts logo",
+      "ar": "شعار المعهد العالي للفنون السينمائية"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-cinematic-arts/logo-v1/w320.webp",
+        "key": "universities/sy-higher-institute-of-cinematic-arts/logo-v1/w320.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 320,
+        "height": 324,
+        "sha256": "42ae9ce5b6648f9db5a4f33d8fffaad3ae696ea4d9f11b4e059eeb21124daef4",
+        "sizeBytes": 5842
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-cinematic-arts/logo-v1/w320.avif",
+        "key": "universities/sy-higher-institute-of-cinematic-arts/logo-v1/w320.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 320,
+        "height": 324,
+        "sha256": "6620c593135c1ad153835bb1d50ac8812265a2a48b2b723da268db12422391bf",
+        "sizeBytes": 7297
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-cinematic-arts/logo-v1/w507.webp",
+        "key": "universities/sy-higher-institute-of-cinematic-arts/logo-v1/w507.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 507,
+        "height": 514,
+        "sha256": "d70c8f393d582a76a228f57205acc7cc8ace43b040644fca49c0156330842636",
+        "sizeBytes": 10916
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-cinematic-arts/logo-v1/w507.avif",
+        "key": "universities/sy-higher-institute-of-cinematic-arts/logo-v1/w507.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 507,
+        "height": 514,
+        "sha256": "adcdf474ebfc3e30a57977b2b06baf31d3b43ab7c24018e7df3bbba8b8500dfd",
+        "sizeBytes": 12575
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official Facebook page",
+      "sourceTitle": "Higher Institute of Cinematic Arts official logo",
+      "sourceUrl": "https://www.facebook.com/p/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D9%81%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-61579062404945/",
+      "creator": "Higher Institute of Cinematic Arts",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://www.facebook.com/p/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D9%81%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-61579062404945/",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-higher-institute-of-cinematic-arts-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official Facebook page OpenGraph logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-higher-institute-of-demographic-studies-and-research-logo",
+    "universityId": "sy-higher-institute-of-demographic-studies-and-research",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Higher Institute of Demographic Studies and Research logo",
+      "ar": "شعار المعهد العالي للدراسات والبحوث السكانية"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-demographic-studies-and-research/logo-v1/w128.webp",
+        "key": "universities/sy-higher-institute-of-demographic-studies-and-research/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 128,
+        "sha256": "fd5a9522c04a39637a98fc62b97c7805c1e29d6416208d133df7ca2b2da4c1ee",
+        "sizeBytes": 3038
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-demographic-studies-and-research/logo-v1/w128.avif",
+        "key": "universities/sy-higher-institute-of-demographic-studies-and-research/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 128,
+        "sha256": "fe972f53fa15a025be06829d184727a7e74d9c257d7e1161de8d97f496947f1a",
+        "sizeBytes": 3684
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-demographic-studies-and-research/logo-v1/w183.webp",
+        "key": "universities/sy-higher-institute-of-demographic-studies-and-research/logo-v1/w183.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 183,
+        "height": 183,
+        "sha256": "9f4dc9a4d0b6c0cca9d62a6d3a0251f9b4082f0e4eae260faba443c859f20dc3",
+        "sizeBytes": 5124
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-demographic-studies-and-research/logo-v1/w183.avif",
+        "key": "universities/sy-higher-institute-of-demographic-studies-and-research/logo-v1/w183.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 183,
+        "height": 183,
+        "sha256": "a46febba0e7b812cfb0cdada5d7776bd8a6bdce61a5bc26b81b629738b298ee7",
+        "sizeBytes": 6164
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official Facebook page",
+      "sourceTitle": "Higher Institute of Demographic Studies and Research official logo",
+      "sourceUrl": "https://www.facebook.com/hidsr.edu.sy",
+      "creator": "Higher Institute of Demographic Studies and Research",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://www.facebook.com/hidsr.edu.sy",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-higher-institute-of-demographic-studies-and-research-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-higher-institute-of-dramatic-arts-logo",
+    "universityId": "sy-higher-institute-of-dramatic-arts",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Higher Institute of Dramatic Arts logo",
+      "ar": "شعار المعهد العالي للفنون المسرحية"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-dramatic-arts/logo-v1/w320.webp",
+        "key": "universities/sy-higher-institute-of-dramatic-arts/logo-v1/w320.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 320,
+        "height": 320,
+        "sha256": "18e812126002c0ac0c43497ff8c3adfa2c62ed57b5e0d54122bc1d6ca517fb30",
+        "sizeBytes": 2884
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-dramatic-arts/logo-v1/w320.avif",
+        "key": "universities/sy-higher-institute-of-dramatic-arts/logo-v1/w320.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 320,
+        "height": 320,
+        "sha256": "b65040cceb69abde448f2795a36e6d42af8b965a9951fdd40f8a113707fbd83c",
+        "sizeBytes": 2626
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-dramatic-arts/logo-v1/w640.webp",
+        "key": "universities/sy-higher-institute-of-dramatic-arts/logo-v1/w640.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 640,
+        "height": 640,
+        "sha256": "f122abe7c521efcb2b99305f162b8842f1f7d774cf9e3ee3942f6b3d23e1b26e",
+        "sizeBytes": 6404
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-dramatic-arts/logo-v1/w640.avif",
+        "key": "universities/sy-higher-institute-of-dramatic-arts/logo-v1/w640.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 640,
+        "height": 640,
+        "sha256": "d57a80c7941886248d7a22e82bbabc64e0f48f5e27826e3e9eaafb63cbd07673",
+        "sizeBytes": 5786
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-dramatic-arts/logo-v1/w960.webp",
+        "key": "universities/sy-higher-institute-of-dramatic-arts/logo-v1/w960.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 960,
+        "height": 960,
+        "sha256": "7b27fa1da9241f5cf867edd4edd5ace4171725e335133def91a472a1ea528ff8",
+        "sizeBytes": 10874
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-dramatic-arts/logo-v1/w960.avif",
+        "key": "universities/sy-higher-institute-of-dramatic-arts/logo-v1/w960.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 960,
+        "height": 960,
+        "sha256": "ad7f8272b094832c13fb5b7a53d9bddc713a94976c8c64a8d41f82dc39c0be88",
+        "sizeBytes": 10456
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-dramatic-arts/logo-v1/w1181.webp",
+        "key": "universities/sy-higher-institute-of-dramatic-arts/logo-v1/w1181.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 1181,
+        "height": 1181,
+        "sha256": "4e148e5fe0319efe17319e51de17e6b6881a2ce5e3ed0c015e2449cceeeb5039",
+        "sizeBytes": 14152
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-dramatic-arts/logo-v1/w1181.avif",
+        "key": "universities/sy-higher-institute-of-dramatic-arts/logo-v1/w1181.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 1181,
+        "height": 1181,
+        "sha256": "e53479a194f43b3f77bd548e53c123f834f7dc08e5a899cb2948d3b4eaa0dedf",
+        "sizeBytes": 14558
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official Facebook page",
+      "sourceTitle": "Higher Institute of Dramatic Arts official logo",
+      "sourceUrl": "https://www.facebook.com/photo/?fbid=1142154131345632&id=100066531674342",
+      "creator": "Higher Institute of Dramatic Arts",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://www.facebook.com/photo/?fbid=1142154131345632&id=100066531674342",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-higher-institute-of-dramatic-arts-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official Facebook page photo logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-higher-institute-of-music-logo",
+    "universityId": "sy-higher-institute-of-music",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Higher Institute of Music logo",
+      "ar": "شعار المعهد العالي للموسيقا"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-music/logo-v1/w128.webp",
+        "key": "universities/sy-higher-institute-of-music/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 128,
+        "sha256": "8473ab230de56061f7a7c74f2e987f65b88489de2692bf945ca26907bda749e3",
+        "sizeBytes": 2368
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-music/logo-v1/w128.avif",
+        "key": "universities/sy-higher-institute-of-music/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 128,
+        "sha256": "bf5e4604ad5e8b55befac0c4bd918db1f31d5ebb192e5e1dc3a720c1a7b1d442",
+        "sizeBytes": 2818
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-music/logo-v1/w200.webp",
+        "key": "universities/sy-higher-institute-of-music/logo-v1/w200.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 200,
+        "height": 200,
+        "sha256": "4058012966935bbabea6498ded1b597659f7bd9e40b31e8ab50f41173da4af20",
+        "sizeBytes": 3970
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-higher-institute-of-music/logo-v1/w200.avif",
+        "key": "universities/sy-higher-institute-of-music/logo-v1/w200.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 200,
+        "height": 200,
+        "sha256": "c6eec2dc005e1c9c765157b0c46f6f13ba21a96040bcb940749941ba9ea7affd",
+        "sizeBytes": 4790
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official Facebook page",
+      "sourceTitle": "Higher Institute of Music official logo",
+      "sourceUrl": "https://www.facebook.com/him.damas",
+      "creator": "Higher Institute of Music",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://www.facebook.com/him.damas",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-higher-institute-of-music-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-homs-university-logo",
+    "universityId": "sy-homs-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Homs University logo",
+      "ar": "شعار جامعة حمص"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-homs-university/logo-v1/w128.webp",
+        "key": "universities/sy-homs-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 128,
+        "sha256": "9b1e8c61e3952bfadce8d2cab46d5c047d6528c7ba80d4927ce44c6b7eb24c12",
+        "sizeBytes": 5278
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-homs-university/logo-v1/w128.avif",
+        "key": "universities/sy-homs-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 128,
+        "sha256": "2e386c20e71b801794e87b3bd0e8cc667f4c9cda7a522b799cb37422da8a5f8d",
+        "sizeBytes": 6727
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-homs-university/logo-v1/w150.webp",
+        "key": "universities/sy-homs-university/logo-v1/w150.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 150,
+        "height": 150,
+        "sha256": "2e032234dc9d132e4d8667c89f9eced86c61b8dd24c75361c13bd761bbf876df",
+        "sizeBytes": 5288
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-homs-university/logo-v1/w150.avif",
+        "key": "universities/sy-homs-university/logo-v1/w150.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 150,
+        "height": 150,
+        "sha256": "e933673f82a6b18fd9c473829897a0c33e3dc19c083bb0e9814250507e54294c",
+        "sizeBytes": 6234
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Homs University official logo",
+      "sourceUrl": "https://homs-univ.edu.sy/wp-content/uploads/2025/08/homs-university-logo-150px-.png",
+      "creator": "Homs University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://homs-univ.edu.sy/wp-content/uploads/2025/08/homs-university-logo-150px-.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-homs-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-idlib-university-logo",
+    "universityId": "sy-idlib-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Idlib University logo",
+      "ar": "شعار جامعة إدلب"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-idlib-university/logo-v1/w128.webp",
+        "key": "universities/sy-idlib-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 128,
+        "sha256": "ebfae6562d024bee20d86c07ed2d2ce5472eaa56e94b6dc3211319fbd66df25e",
+        "sizeBytes": 9178
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-idlib-university/logo-v1/w128.avif",
+        "key": "universities/sy-idlib-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 128,
+        "sha256": "bb7475790098b4387040362f3997e44d6c80ac2adb11e4620725191342ffb8b2",
+        "sizeBytes": 8370
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-idlib-university/logo-v1/w256.webp",
+        "key": "universities/sy-idlib-university/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 256,
+        "sha256": "71d50af0394033edef7897d4896d770adc52236c39e9810a044f89f0fafd9f93",
+        "sizeBytes": 16652
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-idlib-university/logo-v1/w256.avif",
+        "key": "universities/sy-idlib-university/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 256,
+        "sha256": "71f3f03b6fe97e6d70402a9a159254a0a65d922046611cd7729f03d7a200f671",
+        "sizeBytes": 16504
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Idlib University official logo",
+      "sourceUrl": "https://idlib.edu.sy/images/icon.ico",
+      "creator": "Idlib University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://idlib.edu.sy/images/icon.ico",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-idlib-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-institute-of-economic-and-social-planning-logo",
+    "universityId": "sy-institute-of-economic-and-social-planning",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Institute of Economic and Social Planning logo",
+      "ar": "شعار معهد التخطيط الاقتصادي والاجتماعي"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-institute-of-economic-and-social-planning/logo-v1/w128.webp",
+        "key": "universities/sy-institute-of-economic-and-social-planning/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 128,
+        "sha256": "7b639681e98df348fc8e3d5c00317acd440cfb32210bc498d9a35c3fa01a9c5f",
+        "sizeBytes": 4986
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-institute-of-economic-and-social-planning/logo-v1/w128.avif",
+        "key": "universities/sy-institute-of-economic-and-social-planning/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 128,
+        "sha256": "4c3b7614cb04c671e6c5c40b8af8175ce82131d0b6c723677b448292f459dbf8",
+        "sizeBytes": 5297
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-institute-of-economic-and-social-planning/logo-v1/w200.webp",
+        "key": "universities/sy-institute-of-economic-and-social-planning/logo-v1/w200.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 200,
+        "height": 200,
+        "sha256": "79604eeaf830ea619178dacfe0f3e8d7201cbe41e44b6ef3e644d591e7a816d6",
+        "sizeBytes": 8570
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-institute-of-economic-and-social-planning/logo-v1/w200.avif",
+        "key": "universities/sy-institute-of-economic-and-social-planning/logo-v1/w200.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 200,
+        "height": 200,
+        "sha256": "31ff0b14c50c4270b68907bb3ea36dc8c954950b1c5c52cd544b6e7014eab5b4",
+        "sizeBytes": 10140
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official Facebook page",
+      "sourceTitle": "Institute of Economic and Social Planning official logo",
+      "sourceUrl": "https://www.facebook.com/ESPI.syria",
+      "creator": "Institute of Economic and Social Planning",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://www.facebook.com/ESPI.syria",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-institute-of-economic-and-social-planning-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-international-university-for-science-and-renaissance-logo",
+    "universityId": "sy-international-university-for-science-and-renaissance",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "International University for Science and Renaissance logo",
+      "ar": "شعار الجامعة الدولية للعلوم والنهضة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-international-university-for-science-and-renaissance/logo-v1/w128.webp",
+        "key": "universities/sy-international-university-for-science-and-renaissance/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 128,
+        "sha256": "ab4fcc66e6efdf0fdd6890213487f878325e5d740d46732cefb36cc82e778b6b",
+        "sizeBytes": 6858
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-international-university-for-science-and-renaissance/logo-v1/w128.avif",
+        "key": "universities/sy-international-university-for-science-and-renaissance/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 128,
+        "sha256": "715393663072930ee372ecab22b5aa56717b3b7cf53ea76ce00e1b5aa81bfa44",
+        "sizeBytes": 6934
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-international-university-for-science-and-renaissance/logo-v1/w256.webp",
+        "key": "universities/sy-international-university-for-science-and-renaissance/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 256,
+        "sha256": "bb6fd87a47e9f4f8278810d1d98ea2e1c459a19380b52e0d4030a2a10f703e90",
+        "sizeBytes": 17154
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-international-university-for-science-and-renaissance/logo-v1/w256.avif",
+        "key": "universities/sy-international-university-for-science-and-renaissance/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 256,
+        "sha256": "81bf6945c348ce93a128a96cbfab721f839d6c9807080a94a7d7903c26ed7d26",
+        "sizeBytes": 15356
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-international-university-for-science-and-renaissance/logo-v1/w270.webp",
+        "key": "universities/sy-international-university-for-science-and-renaissance/logo-v1/w270.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 270,
+        "height": 270,
+        "sha256": "06e6f1bb94633ab127bb1842d75aad507aee3e48a87fa4a517c6332a7e0da8f5",
+        "sizeBytes": 18078
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-international-university-for-science-and-renaissance/logo-v1/w270.avif",
+        "key": "universities/sy-international-university-for-science-and-renaissance/logo-v1/w270.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 270,
+        "height": 270,
+        "sha256": "6da6613b534e95369bddbbe94e0baa55a70e747114805456cb2f323ea7b7285d",
+        "sizeBytes": 16088
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "International University for Science and Renaissance official logo",
+      "sourceUrl": "https://iusr.university/wp-content/uploads/2023/07/cropped-logo_iusr-270x270.png",
+      "creator": "International University for Science and Renaissance",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://iusr.university/wp-content/uploads/2023/07/cropped-logo_iusr-270x270.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-international-university-for-science-and-renaissance-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-international-university-for-science-and-technology-logo",
+    "universityId": "sy-international-university-for-science-and-technology",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "International University for Science and Technology logo",
+      "ar": "شعار الجامعة الدولية الخاصة للعلوم والتكنولوجيا"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-international-university-for-science-and-technology/logo-v1/w128.webp",
+        "key": "universities/sy-international-university-for-science-and-technology/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 37,
+        "sha256": "d992d7badfe2b8b105071a96e8e9820b0a4a947fcece9445cc8634f09b7c8938",
+        "sizeBytes": 1974
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-international-university-for-science-and-technology/logo-v1/w128.avif",
+        "key": "universities/sy-international-university-for-science-and-technology/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 37,
+        "sha256": "b825ef85f81a08610809a6f93a310877faccb17dd050b2eff0c8d165c0832ffe",
+        "sizeBytes": 2341
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-international-university-for-science-and-technology/logo-v1/w256.webp",
+        "key": "universities/sy-international-university-for-science-and-technology/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 74,
+        "sha256": "21f1ecea9a49bb53a9a28f5472f09cf7ed59919e21bfe6b70fac67956ea8e887",
+        "sizeBytes": 6228
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-international-university-for-science-and-technology/logo-v1/w256.avif",
+        "key": "universities/sy-international-university-for-science-and-technology/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 74,
+        "sha256": "75f8f66332fffaef5d33b7f9f305e556d1b2470990f98f67f33c679e18073841",
+        "sizeBytes": 6520
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-international-university-for-science-and-technology/logo-v1/w512.webp",
+        "key": "universities/sy-international-university-for-science-and-technology/logo-v1/w512.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 512,
+        "height": 149,
+        "sha256": "f0654eb849b5ee2bbf6d48d5069f7ba393e36bdc2e9ce7b624fd5a7d7037dc4b",
+        "sizeBytes": 16502
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-international-university-for-science-and-technology/logo-v1/w512.avif",
+        "key": "universities/sy-international-university-for-science-and-technology/logo-v1/w512.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 512,
+        "height": 149,
+        "sha256": "07f0149818817f69cf7d67827100f97c84e808d583b84cdbbc24baba4f37b52f",
+        "sizeBytes": 15897
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "International University for Science and Technology official logo",
+      "sourceUrl": "https://iust.edu.sy/wp-content/uploads/2023/05/IUST-logo-3.png",
+      "creator": "International University for Science and Technology",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://iust.edu.sy/wp-content/uploads/2023/05/IUST-logo-3.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-international-university-for-science-and-technology-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-ittihad-private-university-logo",
+    "universityId": "sy-ittihad-private-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Ittihad Private University logo",
+      "ar": "شعار جامعة الاتحاد الخاصة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-ittihad-private-university/logo-v1/w128.webp",
+        "key": "universities/sy-ittihad-private-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 128,
+        "sha256": "b752c1f8997f3a83bb1945330bf9243af05dddbdc14c20e566e9fcb0d5840b21",
+        "sizeBytes": 2668
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-ittihad-private-university/logo-v1/w128.avif",
+        "key": "universities/sy-ittihad-private-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 128,
+        "sha256": "0acee244b7cc31bdc8e50127856217936b2c3dc8096a4833d2fb109d1dec9b32",
+        "sizeBytes": 3598
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-ittihad-private-university/logo-v1/w200.webp",
+        "key": "universities/sy-ittihad-private-university/logo-v1/w200.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 200,
+        "height": 200,
+        "sha256": "4e1a7000a89aef395484c1e0008c7fa855b298d719939bd83eccb56fe11853f7",
+        "sizeBytes": 4952
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-ittihad-private-university/logo-v1/w200.avif",
+        "key": "universities/sy-ittihad-private-university/logo-v1/w200.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 200,
+        "height": 200,
+        "sha256": "95bb25c20a0c270786887cdd1898dc5d70f8050046fe711c76749f733b7ddfde",
+        "sizeBytes": 6294
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official Facebook page",
+      "sourceTitle": "Ittihad Private University official logo",
+      "sourceUrl": "https://www.facebook.com/www.ipu.edu.sy",
+      "creator": "Ittihad Private University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://www.facebook.com/www.ipu.edu.sy",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-ittihad-private-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-latakia-university-logo",
+    "universityId": "sy-latakia-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Latakia University logo",
+      "ar": "شعار جامعة اللاذقية"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-latakia-university/logo-v1/w128.webp",
+        "key": "universities/sy-latakia-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 44,
+        "sha256": "7ab718c7459ca18896bbe636e88757d7a095727c6ad56771587cca60743498dc",
+        "sizeBytes": 2280
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-latakia-university/logo-v1/w128.avif",
+        "key": "universities/sy-latakia-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 44,
+        "sha256": "23f1f600e6f7799cfc4f3eb90337c158a63e04136244431f09ca4c1ae1d575ca",
+        "sizeBytes": 2590
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-latakia-university/logo-v1/w256.webp",
+        "key": "universities/sy-latakia-university/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 88,
+        "sha256": "0e893ab2f69b261c0950d44b708c4e47326abecb3e8af35a73f81a48dd2c41dd",
+        "sizeBytes": 5900
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-latakia-university/logo-v1/w256.avif",
+        "key": "universities/sy-latakia-university/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 88,
+        "sha256": "9f93082fd4234f9841ce7ccfc0d0b3e967d130352336486a97e4e507b83900ae",
+        "sizeBytes": 6380
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-latakia-university/logo-v1/w450.webp",
+        "key": "universities/sy-latakia-university/logo-v1/w450.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 450,
+        "height": 154,
+        "sha256": "c50c5ddaaf128e2501ab9e6a7286102f79cfdc664a0a672471880992ad4b6ef0",
+        "sizeBytes": 12374
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-latakia-university/logo-v1/w450.avif",
+        "key": "universities/sy-latakia-university/logo-v1/w450.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 450,
+        "height": 154,
+        "sha256": "965ea4bfcba71561059bf8a5ee297ccfe17e6a9f53bd8c3bafefe449e49ca6ff",
+        "sizeBytes": 12907
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Latakia University official logo",
+      "sourceUrl": "https://latakia-univ.edu.sy/img/Latakia-university-logo.png",
+      "creator": "Latakia University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://latakia-univ.edu.sy/img/Latakia-university-logo.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-latakia-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-mari-private-university-logo",
+    "universityId": "sy-mari-private-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Mari Private University logo",
+      "ar": "شعار جامعة ماري الخاصة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-mari-private-university/logo-v1/w128.webp",
+        "key": "universities/sy-mari-private-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 128,
+        "sha256": "f036c985701d9e51afeabe25d142440a1ac7da1a02ad79403fa4edd15c327dfe",
+        "sizeBytes": 7264
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-mari-private-university/logo-v1/w128.avif",
+        "key": "universities/sy-mari-private-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 128,
+        "sha256": "f07077205a8196b70538552c141f8e82fcb1ea631c6fb125b5f35aca888bf3fd",
+        "sizeBytes": 7370
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-mari-private-university/logo-v1/w250.webp",
+        "key": "universities/sy-mari-private-university/logo-v1/w250.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 250,
+        "height": 250,
+        "sha256": "0e3cd1d8d23dbbcd622edf05d5502129869d04ba9a623b513af2a983507779d8",
+        "sizeBytes": 15382
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-mari-private-university/logo-v1/w250.avif",
+        "key": "universities/sy-mari-private-university/logo-v1/w250.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 250,
+        "height": 250,
+        "sha256": "88279d02c358192318c6068b10b2f28036fe060eb6e9c850ebdaf1dd96989688",
+        "sizeBytes": 15260
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Mari Private University official logo",
+      "sourceUrl": "https://mari.edu.sy/images/logo.png",
+      "creator": "Mari Private University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://mari.edu.sy/images/logo.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-mari-private-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-national-institute-of-public-administration-logo",
+    "universityId": "sy-national-institute-of-public-administration",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "National Institute of Public Administration logo",
+      "ar": "شعار المعهد الوطني للإدارة العامة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-national-institute-of-public-administration/logo-v1/w128.webp",
+        "key": "universities/sy-national-institute-of-public-administration/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 130,
+        "sha256": "30a4712eb9d0bb336dce5f38b838af94e98bbc04b9ea5474634f6108d23bf99d",
+        "sizeBytes": 2392
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-national-institute-of-public-administration/logo-v1/w128.avif",
+        "key": "universities/sy-national-institute-of-public-administration/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 130,
+        "sha256": "05161a53959df2d8c3ed3ef523b53b7a157c6204736d86b62b98cca892446daa",
+        "sizeBytes": 2779
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-national-institute-of-public-administration/logo-v1/w200.webp",
+        "key": "universities/sy-national-institute-of-public-administration/logo-v1/w200.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 200,
+        "height": 203,
+        "sha256": "e35a7a367eb85dd423a5e7121737c24446a6e61fbf396bdd1ac67e2f9ea07832",
+        "sizeBytes": 3724
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-national-institute-of-public-administration/logo-v1/w200.avif",
+        "key": "universities/sy-national-institute-of-public-administration/logo-v1/w200.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 200,
+        "height": 203,
+        "sha256": "3c359f5ad9112f3404959bc096fc01e6f9aae5472aa55b1ed32fdc790e211230",
+        "sizeBytes": 4744
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official Facebook page",
+      "sourceTitle": "National Institute of Public Administration official logo",
+      "sourceUrl": "https://www.facebook.com/inasyrie",
+      "creator": "National Institute of Public Administration",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://www.facebook.com/inasyrie",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-national-institute-of-public-administration-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-qasyoun-private-university-logo",
+    "universityId": "sy-qasyoun-private-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Qasyoun Private University logo",
+      "ar": "شعار جامعة قاسيون الخاصة للعلوم والتكنولوجيا"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-qasyoun-private-university/logo-v1/w128.webp",
+        "key": "universities/sy-qasyoun-private-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 25,
+        "sha256": "977e4aeedd8f63902381ca30f16a2feb6639311fb413e59cd618abf517cbaeb3",
+        "sizeBytes": 3302
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-qasyoun-private-university/logo-v1/w128.avif",
+        "key": "universities/sy-qasyoun-private-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 25,
+        "sha256": "5dc7b59a5e46c4b05606dd21aabf4b2e93e9745a2d166b695141f7f600778b03",
+        "sizeBytes": 4328
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-qasyoun-private-university/logo-v1/w256.webp",
+        "key": "universities/sy-qasyoun-private-university/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 51,
+        "sha256": "05471ca6e09a9e3a47b5147e0ff9a52e9d11393ea318d651fa65da4be0df59ef",
+        "sizeBytes": 8584
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-qasyoun-private-university/logo-v1/w256.avif",
+        "key": "universities/sy-qasyoun-private-university/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 51,
+        "sha256": "6699d37a0d7b1003981224a5ed512b4599ad8c59a43a3c7d0d4d720a467ef82b",
+        "sizeBytes": 9002
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-qasyoun-private-university/logo-v1/w455.webp",
+        "key": "universities/sy-qasyoun-private-university/logo-v1/w455.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 455,
+        "height": 90,
+        "sha256": "1613e8c30065e402923c5396bfa42728174d2db957093c7aaba2db9eafcf698e",
+        "sizeBytes": 8746
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-qasyoun-private-university/logo-v1/w455.avif",
+        "key": "universities/sy-qasyoun-private-university/logo-v1/w455.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 455,
+        "height": 90,
+        "sha256": "e6c859360c47f256ff7f9ed58c51a93af8bb361764eb524e4f69010926af9564",
+        "sizeBytes": 10053
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Qasyoun Private University official logo",
+      "sourceUrl": "https://qpu.edu.sy/images/logo-wide.png",
+      "creator": "Qasyoun Private University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://qpu.edu.sy/images/logo-wide.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-qasyoun-private-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-syrian-private-university-logo",
+    "universityId": "sy-syrian-private-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Syrian Private University logo",
+      "ar": "شعار الجامعة السورية الخاصة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-syrian-private-university/logo-v1/w128.webp",
+        "key": "universities/sy-syrian-private-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 24,
+        "sha256": "61cb76c2d428146d720f05129eb69061efc52b18599e11f6310e4a16ae7f8c8a",
+        "sizeBytes": 2408
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-syrian-private-university/logo-v1/w128.avif",
+        "key": "universities/sy-syrian-private-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 24,
+        "sha256": "1240f8368c223dd9055daefa80a05a44bf154e938ebcb011d976dd3d2a3916e6",
+        "sizeBytes": 3385
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-syrian-private-university/logo-v1/w256.webp",
+        "key": "universities/sy-syrian-private-university/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 48,
+        "sha256": "0558b242c456f43a3d2f0806e15e1d854f0d9ba0da5d2ce016e76c45ab425629",
+        "sizeBytes": 5384
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-syrian-private-university/logo-v1/w256.avif",
+        "key": "universities/sy-syrian-private-university/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 48,
+        "sha256": "07a9324bfd8f8f9292c4a78dd9193d7df8495adacbb5fd45450dc2f26dc68fb2",
+        "sizeBytes": 5966
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-syrian-private-university/logo-v1/w476.webp",
+        "key": "universities/sy-syrian-private-university/logo-v1/w476.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 476,
+        "height": 90,
+        "sha256": "9a2c14adebe7a4edfe699db1229728d18259814093de9487c77664442a302050",
+        "sizeBytes": 9844
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-syrian-private-university/logo-v1/w476.avif",
+        "key": "universities/sy-syrian-private-university/logo-v1/w476.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 476,
+        "height": 90,
+        "sha256": "6b1eea1b88a5f8927300708cf59d4acda649b073a70dc6dc7e338eabf118828f",
+        "sizeBytes": 9234
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Syrian Private University official logo",
+      "sourceUrl": "http://www.spu.edu.sy/images/logo.png",
+      "creator": "Syrian Private University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "http://www.spu.edu.sy/images/logo.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-syrian-private-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-syrian-university-for-science-and-technology-logo",
+    "universityId": "sy-syrian-university-for-science-and-technology",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Syrian University for Science and Technology logo",
+      "ar": "شعار الجامعة السورية للعلوم والتكنولوجيا"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-syrian-university-for-science-and-technology/logo-v1/w128.webp",
+        "key": "universities/sy-syrian-university-for-science-and-technology/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 128,
+        "sha256": "37b6a41b027b2f2ed28716de35860ad9b9d4f037ed285843eabb96a057743ee1",
+        "sizeBytes": 10236
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-syrian-university-for-science-and-technology/logo-v1/w128.avif",
+        "key": "universities/sy-syrian-university-for-science-and-technology/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 128,
+        "sha256": "4071aaf9093273cfa9ac6551f24678b1ff6dd7bcb64fb55c3bee48b674f06a18",
+        "sizeBytes": 11981
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-syrian-university-for-science-and-technology/logo-v1/w250.webp",
+        "key": "universities/sy-syrian-university-for-science-and-technology/logo-v1/w250.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 250,
+        "height": 250,
+        "sha256": "20a2dffc09d6ae627f594da3bc73cb2fa995fe116abd52380bd3810123a59274",
+        "sizeBytes": 29664
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-syrian-university-for-science-and-technology/logo-v1/w250.avif",
+        "key": "universities/sy-syrian-university-for-science-and-technology/logo-v1/w250.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 250,
+        "height": 250,
+        "sha256": "6864e279851ede6f22b6dc9aeafa8c265f9eb26bd73e3438b3bb2b0c925ca247",
+        "sizeBytes": 29540
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Syrian University for Science and Technology official logo",
+      "sourceUrl": "https://www.sust.edu.sy/assets/images/logo.png",
+      "creator": "Syrian University for Science and Technology",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://www.sust.edu.sy/assets/images/logo.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-syrian-university-for-science-and-technology-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official university website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-syrian-virtual-university-logo",
+    "universityId": "sy-syrian-virtual-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Syrian Virtual University logo",
+      "ar": "شعار الجامعة الافتراضية السورية"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-syrian-virtual-university/logo-v1/w128.webp",
+        "key": "universities/sy-syrian-virtual-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 128,
+        "sha256": "aa492e9a66a5cb1e133a9746d6ae20097cdc49082030e6cb9b7f71de4e528616",
+        "sizeBytes": 2180
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-syrian-virtual-university/logo-v1/w128.avif",
+        "key": "universities/sy-syrian-virtual-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 128,
+        "sha256": "dad4b2f998ac2650dfed8bce95e7e0dfa8cf0f1e90e824c5f43776821b385b86",
+        "sizeBytes": 2654
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-syrian-virtual-university/logo-v1/w200.webp",
+        "key": "universities/sy-syrian-virtual-university/logo-v1/w200.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 200,
+        "height": 200,
+        "sha256": "16f5f6a305136e3123eb79235af4b025cd1773e3c304485d6318c9bd95fe9319",
+        "sizeBytes": 3690
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-syrian-virtual-university/logo-v1/w200.avif",
+        "key": "universities/sy-syrian-virtual-university/logo-v1/w200.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 200,
+        "height": 200,
+        "sha256": "743b29584db31f3f05b20148bedc2e3154b9131c0f929548ace7bbc3f9eeea06",
+        "sizeBytes": 4755
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official Facebook page",
+      "sourceTitle": "Syrian Virtual University official logo",
+      "sourceUrl": "https://www.facebook.com/svuonline.org",
+      "creator": "Syrian Virtual University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://www.facebook.com/svuonline.org",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-syrian-virtual-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-the-islamic-university-logo",
+    "universityId": "sy-the-islamic-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "The Islamic University logo",
+      "ar": "شعار الجامعة الإسلامية"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-the-islamic-university/logo-v1/w128.webp",
+        "key": "universities/sy-the-islamic-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 128,
+        "sha256": "ecb3135f2dfa2e88ddd57c22711c26ca749ef6c4dc84a20485ee38284e5b5cb2",
+        "sizeBytes": 6828
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-the-islamic-university/logo-v1/w128.avif",
+        "key": "universities/sy-the-islamic-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 128,
+        "sha256": "04c323d4eaba624cf7fba7fa03ed52c7d816225209fea8e40433ae6f2b0f44b6",
+        "sizeBytes": 5416
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-the-islamic-university/logo-v1/w256.webp",
+        "key": "universities/sy-the-islamic-university/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 256,
+        "sha256": "bc6854adfc2224c50daa7d7444c04bd5a103f6931e2bc746a87bf11c23bbbaf5",
+        "sizeBytes": 15306
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-the-islamic-university/logo-v1/w256.avif",
+        "key": "universities/sy-the-islamic-university/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 256,
+        "sha256": "9df830c7c98b01a652ec5bd43a4cb8375b9718da38ee196544ee3e78ab319870",
+        "sizeBytes": 12692
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-the-islamic-university/logo-v1/w512.webp",
+        "key": "universities/sy-the-islamic-university/logo-v1/w512.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 512,
+        "height": 512,
+        "sha256": "cbd12b1b96ca06c4251074bc1850197679d5f3f9b9c0b3d9f069efe6c50c0e55",
+        "sizeBytes": 32002
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-the-islamic-university/logo-v1/w512.avif",
+        "key": "universities/sy-the-islamic-university/logo-v1/w512.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 512,
+        "height": 512,
+        "sha256": "a6ae09a28ace74ffc84306594e069fa405e7423593a1fae6fefb6aaae52fd2f4",
+        "sizeBytes": 23799
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "The Islamic University official logo",
+      "sourceUrl": "https://iuis.edu.sy/assets/images/logo.png",
+      "creator": "The Islamic University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://iuis.edu.sy/assets/images/logo.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-the-islamic-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official university website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-university-of-aleppo-logo",
+    "universityId": "sy-university-of-aleppo",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "University of Aleppo logo",
+      "ar": "شعار جامعة حلب"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-aleppo/logo-v1/w128.webp",
+        "key": "universities/sy-university-of-aleppo/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 129,
+        "sha256": "edab18be13ae7d09ec949ba53e5998bd4f5657480a3a372a60d55a1c9d4c4f2a",
+        "sizeBytes": 7664
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-aleppo/logo-v1/w128.avif",
+        "key": "universities/sy-university-of-aleppo/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 129,
+        "sha256": "a02e8df73702a003cc0f19ef79a3f262635de463d26476bf4fd7456a751f5dd9",
+        "sizeBytes": 10706
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-aleppo/logo-v1/w256.webp",
+        "key": "universities/sy-university-of-aleppo/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 258,
+        "sha256": "77caf4f1f6716c03155472e4dc608c8963d292e24801656ab1d8a6e33e489a31",
+        "sizeBytes": 19418
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-aleppo/logo-v1/w256.avif",
+        "key": "universities/sy-university-of-aleppo/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 258,
+        "sha256": "eafe25ef4b43473efc27096858eb84c47984af1214208c2e967e07ac28d03fac",
+        "sizeBytes": 21289
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-aleppo/logo-v1/w512.webp",
+        "key": "universities/sy-university-of-aleppo/logo-v1/w512.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 512,
+        "height": 517,
+        "sha256": "4b7d26c34597542a6cc7142b5339b5d9c1f40d53b4f010befbaa3e9019e675b7",
+        "sizeBytes": 46886
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-aleppo/logo-v1/w512.avif",
+        "key": "universities/sy-university-of-aleppo/logo-v1/w512.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 512,
+        "height": 517,
+        "sha256": "637a166554bc4d586013edea4d159b4063b4c718806562aea665752cb0533d68",
+        "sizeBytes": 45803
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "University of Aleppo official logo",
+      "sourceUrl": "https://alepuniv.edu.sy/images/logo.png",
+      "creator": "University of Aleppo",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://alepuniv.edu.sy/images/logo.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-university-of-aleppo-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-university-of-kalamoon-logo",
+    "universityId": "sy-university-of-kalamoon",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "University of Kalamoon logo",
+      "ar": "شعار جامعة القلمون الخاصة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-kalamoon/logo-v1/w128.webp",
+        "key": "universities/sy-university-of-kalamoon/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 148,
+        "sha256": "bd12a1ff11728ea37c8db494086c9889827c803e6763caf35af00e5cd4dffc69",
+        "sizeBytes": 10766
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-kalamoon/logo-v1/w128.avif",
+        "key": "universities/sy-university-of-kalamoon/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 148,
+        "sha256": "57b5f3d7754674bfbd7bf3fea6e9651498b2015287b37dafee5d08665d59dd36",
+        "sizeBytes": 28918
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-kalamoon/logo-v1/w256.webp",
+        "key": "universities/sy-university-of-kalamoon/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 296,
+        "sha256": "2d0119f9bc2af17d05cdfd3f0ad76d7d1f413ef121454670f28e4b8fdcedda0e",
+        "sizeBytes": 28034
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-kalamoon/logo-v1/w256.avif",
+        "key": "universities/sy-university-of-kalamoon/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 296,
+        "sha256": "d8cecf2327f89ba3aa7947341304d82f281f23502bfa693718d84a91190d29e3",
+        "sizeBytes": 42763
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-kalamoon/logo-v1/w360.webp",
+        "key": "universities/sy-university-of-kalamoon/logo-v1/w360.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 360,
+        "height": 416,
+        "sha256": "e610ce55f4ffd5becc6adc4e7a53cc005a2705897ee0d05c79352a5a43239cd4",
+        "sizeBytes": 27118
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-kalamoon/logo-v1/w360.avif",
+        "key": "universities/sy-university-of-kalamoon/logo-v1/w360.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 360,
+        "height": 416,
+        "sha256": "8b4e6d05a2d0fd392f31a8deb1c2a281e094f5a2d77e48215ce080752b38a956",
+        "sizeBytes": 38344
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "University of Kalamoon official logo",
+      "sourceUrl": "http://www.uok.edu.sy/wp-content/uploads/2018/11/Logo.png",
+      "creator": "University of Kalamoon",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "http://www.uok.edu.sy/wp-content/uploads/2018/11/Logo.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-university-of-kalamoon-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-university-of-tartus-logo",
+    "universityId": "sy-university-of-tartus",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "University of Tartus logo",
+      "ar": "شعار جامعة طرطوس"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-tartus/logo-v1/w128.webp",
+        "key": "universities/sy-university-of-tartus/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 128,
+        "sha256": "63c33c9f861951889cf9872a97733e7345decac366327fd12b20a68d7912538b",
+        "sizeBytes": 6368
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-tartus/logo-v1/w128.avif",
+        "key": "universities/sy-university-of-tartus/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 128,
+        "sha256": "d248593dd65f8d6a79d0cbb220f1df4e5c57ba2078459993dc05ac8f658873c1",
+        "sizeBytes": 8141
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-tartus/logo-v1/w256.webp",
+        "key": "universities/sy-university-of-tartus/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 256,
+        "sha256": "4f65146fae668c496ce07e9fa454d081588a979449986963d0d43f8e65afa62e",
+        "sizeBytes": 14730
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-tartus/logo-v1/w256.avif",
+        "key": "universities/sy-university-of-tartus/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 256,
+        "sha256": "e01961f2cdaa5db3a0cf92e6f5fcd10373192f09e1c04418f8bd126d04d6ae36",
+        "sizeBytes": 16422
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-tartus/logo-v1/w311.webp",
+        "key": "universities/sy-university-of-tartus/logo-v1/w311.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 311,
+        "height": 311,
+        "sha256": "f47b9683836b28966f6ac0c4120ac89e665785bdceaaddc68d721f5f0bc60aed",
+        "sizeBytes": 14394
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-tartus/logo-v1/w311.avif",
+        "key": "universities/sy-university-of-tartus/logo-v1/w311.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 311,
+        "height": 311,
+        "sha256": "5d1689d7c4a1a4af98b40b1a4bdd15493885226153eaa4e1107b44ca24dfd219",
+        "sizeBytes": 19342
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "University of Tartus official logo",
+      "sourceUrl": "https://tartous-univ.edu.sy/images/logo.png",
+      "creator": "University of Tartus",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://tartous-univ.edu.sy/images/logo.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-university-of-tartus-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official university website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-wadi-international-university-logo",
+    "universityId": "sy-wadi-international-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Wadi International University logo",
+      "ar": "شعار جامعة الوادي الدولية"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-wadi-international-university/logo-v1/w128.webp",
+        "key": "universities/sy-wadi-international-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 128,
+        "sha256": "b271f7cc08a17e94d7221c6b9e83956c4dc75ab9d5cf1c227b155e638338757e",
+        "sizeBytes": 3454
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-wadi-international-university/logo-v1/w128.avif",
+        "key": "universities/sy-wadi-international-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 128,
+        "sha256": "e406004a5fd02e15a5dc10e4b48cbf56d47ca14e77fcfef13ddfc0f769e97e99",
+        "sizeBytes": 4419
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-wadi-international-university/logo-v1/w200.webp",
+        "key": "universities/sy-wadi-international-university/logo-v1/w200.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 200,
+        "height": 200,
+        "sha256": "296620a67ada3aea81a5b7f48837fe4315e0131b2b04c7cc618b4d88c4649b2b",
+        "sizeBytes": 5424
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-wadi-international-university/logo-v1/w200.avif",
+        "key": "universities/sy-wadi-international-university/logo-v1/w200.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 200,
+        "height": 200,
+        "sha256": "8789171a4eebb0a64e7fc535c3ad70160747ff6bd268cc3423ba8ba7acf11269",
+        "sizeBytes": 6957
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Wadi International University official logo",
+      "sourceUrl": "https://wiu.edu.sy/wp-content/uploads/2021/12/wiu.png",
+      "creator": "Wadi International University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://wiu.edu.sy/wp-content/uploads/2021/12/wiu.png",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-wadi-international-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-yarmouk-private-university-logo",
+    "universityId": "sy-yarmouk-private-university",
+    "assetType": "image",
+    "assetRole": "logo",
+    "title": {
+      "en": "Yarmouk Private University logo",
+      "ar": "شعار جامعة اليرموك الخاصة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-yarmouk-private-university/logo-v1/w128.webp",
+        "key": "universities/sy-yarmouk-private-university/logo-v1/w128.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 128,
+        "height": 23,
+        "sha256": "19667e11a2822bebfe6620ed4d6687c72eacf07a97e1c6c2a015675e4b88f37e",
+        "sizeBytes": 2938
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-yarmouk-private-university/logo-v1/w128.avif",
+        "key": "universities/sy-yarmouk-private-university/logo-v1/w128.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 128,
+        "height": 23,
+        "sha256": "1e1cf4313191c818937d08c30196edfae8db5092b0acd068dca7f951bf5b97d7",
+        "sizeBytes": 3211
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-yarmouk-private-university/logo-v1/w256.webp",
+        "key": "universities/sy-yarmouk-private-university/logo-v1/w256.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 256,
+        "height": 46,
+        "sha256": "672d0eafaedf7344cd1a70c0f4e37b9ec0f7c11e892b5a2987e53467744ccf41",
+        "sizeBytes": 6778
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-yarmouk-private-university/logo-v1/w256.avif",
+        "key": "universities/sy-yarmouk-private-university/logo-v1/w256.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 256,
+        "height": 46,
+        "sha256": "4a11128c1f862c273566bcc4d3a0069958afafb85036e78a64151fb17a58a945",
+        "sizeBytes": 7124
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-yarmouk-private-university/logo-v1/w512.webp",
+        "key": "universities/sy-yarmouk-private-university/logo-v1/w512.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 512,
+        "height": 91,
+        "sha256": "bea3e90072eb49451108846d33297ee9e96b345cd56432363646c086fbc68dd4",
+        "sizeBytes": 18336
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-yarmouk-private-university/logo-v1/w512.avif",
+        "key": "universities/sy-yarmouk-private-university/logo-v1/w512.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 512,
+        "height": 91,
+        "sha256": "29fc6ccab7c7f84226905d22c38a808d7b65c6ff30784ce5fa9da9b16d137968",
+        "sizeBytes": 17407
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Official university website",
+      "sourceTitle": "Yarmouk Private University official logo",
+      "sourceUrl": "https://ypu.edu.sy/web/image/website/1/logo/Yarmouk%20Private%20University?unique=e881326",
+      "creator": "Yarmouk Private University",
+      "license": "Official institutional logo; trademark rights may apply",
+      "licenseUrl": "https://ypu.edu.sy/web/image/website/1/logo/Yarmouk%20Private%20University?unique=e881326",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-yarmouk-private-university-official-logo"],
+    "sourceStatus": "seed",
+    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   }
 ]
