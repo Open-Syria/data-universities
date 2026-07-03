@@ -108,5 +108,6 @@ Start with:
 - [Sources](docs/SOURCES.md)
 - [Import Workflow](docs/IMPORT_WORKFLOW.md)
 - [Production Readiness](docs/PRODUCTION_READINESS.md)
+- [Release Process](docs/releases.md)
 - [Release Checklist](docs/RELEASE_CHECKLIST.md)
 - [Post-Seed Backlog](docs/POST_SEED_BACKLOG.md)
