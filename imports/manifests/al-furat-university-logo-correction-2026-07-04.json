@@ -1,0 +1,46 @@
+{
+  "sourceId": "al-furat-university-logo-correction-2026-07-04",
+  "sourceTitle": "Al-Furat University logo correction",
+  "sourceUrl": "https://www.linkedin.com/company/al-furat-university",
+  "license": "Official institutional logo; trademark rights may apply",
+  "accessedAt": "2026-07-04T08:28:48.465Z",
+  "status": "reviewed",
+  "rawFiles": [
+    {
+      "name": "source",
+      "sha256": "bf87c0c7dc5d59704e08eea7b53e8ac8abaeaaa62b518731d885673b41fc2829",
+      "notes": "Maintainer-provided LinkedIn media image downloaded from the Al-Furat University LinkedIn logo candidate."
+    },
+    {
+      "name": "approved.json",
+      "sha256": "562e2828f0a8fcea45e454104283af48beaf4631e6d469a8a07073a78b3f69e9",
+      "notes": "Local approved manifest for the Al-Furat University logo replacement."
+    },
+    {
+      "name": "image-assets-manifest.json",
+      "sha256": "d8182b4b3b42ab47151b92621a0220a5b0ade0b7c9c0955b1ffe0275133ad993",
+      "notes": "Generated WebP and AVIF variant manifest for the replacement logo."
+    },
+    {
+      "name": "image-assets-upload.dry-run.json",
+      "sha256": "f1f2230991360b9357717b825900229aaf0fc6a4ed323fb97128c5812309a779",
+      "notes": "Dry-run upload manifest for the replacement logo variants."
+    },
+    {
+      "name": "image-assets-upload.json",
+      "sha256": "8846d41317002d79063a6d4a492bbb0f8243613e9e827c334326488417435ebf",
+      "notes": "R2 upload manifest for the replacement logo variants."
+    }
+  ],
+  "importedFields": ["logo variants", "source URL", "attribution", "license notes"],
+  "targetFiles": ["data/assets.json", "data/sources.json"],
+  "transforms": [
+    "Rejected the previous Al-Furat logo source because it referenced a ministry logo image on the university website.",
+    "Reviewed the replacement LinkedIn company-page logo for an Al-Furat University institution match.",
+    "Generated replacement WebP and AVIF variants under the existing universities CDN logo key namespace.",
+    "Uploaded the replacement variants to R2 for serving from cdn.opensyria.org.",
+    "Deleted stale Al-Furat logo objects that were no longer referenced by the canonical asset record.",
+    "Updated the canonical asset and source records to reference the replacement logo source and CDN variants."
+  ],
+  "reviewNotes": "Corrects the Al-Furat University logo asset by replacing the previous ministry-logo-derived CDN variants in the existing logo namespace with the reviewed LinkedIn company-page logo."
+}

@@ -46,12 +46,12 @@
   },
   {
     "id": "sy-al-furat-university-official-logo",
-    "title": "Al-Furat University official logo source",
-    "url": "https://alfuratuniv.edu.sy/images/ministry-logo.png",
+    "title": "Al-Furat University official LinkedIn logo source",
+    "url": "https://www.linkedin.com/company/al-furat-university",
     "license": "Official institutional logo; trademark rights may apply",
     "status": "approved",
     "fields": ["logo"],
-    "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+    "notes": "Official LinkedIn company-page logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
   },
   {
     "id": "sy-al-hawash-private-university-official-logo",

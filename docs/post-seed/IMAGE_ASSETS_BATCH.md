@@ -19,6 +19,10 @@ The current logo maintainer artifacts show:
   variants uploaded,
 - 57 approved logo sources were converted into 290 CDN objects and verified
   through `https://cdn.opensyria.org`.
+- Al-Furat University correction: the previous logo source was rejected because
+  it used a ministry logo image. A reviewed LinkedIn company-page logo replaced
+  the existing CDN logo objects with two WebP/AVIF `w200` variants on
+  2026-07-04.
 
 Current production logo coverage is 57 approved logo assets for 57 canonical
 universities. The public profile asset target is logo coverage, not campus photo

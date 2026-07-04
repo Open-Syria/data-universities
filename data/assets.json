@@ -178,78 +178,38 @@
     },
     "variants": [
       {
-        "url": "https://cdn.opensyria.org/universities/sy-al-furat-university/logo-v1/w128.webp",
-        "key": "universities/sy-al-furat-university/logo-v1/w128.webp",
+        "url": "https://cdn.opensyria.org/universities/sy-al-furat-university/logo-v1/w200.webp",
+        "key": "universities/sy-al-furat-university/logo-v1/w200.webp",
         "format": "webp",
         "contentType": "image/webp",
-        "width": 128,
-        "height": 128,
-        "sha256": "d2734d8f62a427c316a58f7d2009353309d05b7803581c8d9fe6ea55fc4f5c38",
-        "sizeBytes": 6264
+        "width": 200,
+        "height": 200,
+        "sha256": "afb98b355f5909842f948f631ee73d0e258fcf400730d5afb26bc70e1789892d",
+        "sizeBytes": 9710
       },
       {
-        "url": "https://cdn.opensyria.org/universities/sy-al-furat-university/logo-v1/w128.avif",
-        "key": "universities/sy-al-furat-university/logo-v1/w128.avif",
+        "url": "https://cdn.opensyria.org/universities/sy-al-furat-university/logo-v1/w200.avif",
+        "key": "universities/sy-al-furat-university/logo-v1/w200.avif",
         "format": "avif",
         "contentType": "image/avif",
-        "width": 128,
-        "height": 128,
-        "sha256": "df5e13086dc9b4426cb81ad55a75de65bd7c17ef1b25bf6c07f8230a8eeabe59",
-        "sizeBytes": 5839
-      },
-      {
-        "url": "https://cdn.opensyria.org/universities/sy-al-furat-university/logo-v1/w256.webp",
-        "key": "universities/sy-al-furat-university/logo-v1/w256.webp",
-        "format": "webp",
-        "contentType": "image/webp",
-        "width": 256,
-        "height": 256,
-        "sha256": "e34df2daca08fcdccb85b4204f224cb0f3f939889f9f949f6bbb3f44808b852a",
-        "sizeBytes": 14644
-      },
-      {
-        "url": "https://cdn.opensyria.org/universities/sy-al-furat-university/logo-v1/w256.avif",
-        "key": "universities/sy-al-furat-university/logo-v1/w256.avif",
-        "format": "avif",
-        "contentType": "image/avif",
-        "width": 256,
-        "height": 256,
-        "sha256": "16b5ec8e115dfc37e81a59d27dbf74d088899a476aff4197adea9cca28cf17a1",
-        "sizeBytes": 14195
-      },
-      {
-        "url": "https://cdn.opensyria.org/universities/sy-al-furat-university/logo-v1/w512.webp",
-        "key": "universities/sy-al-furat-university/logo-v1/w512.webp",
-        "format": "webp",
-        "contentType": "image/webp",
-        "width": 512,
-        "height": 512,
-        "sha256": "adc827d57563e119ca7b4bc9d70a3b784b001f388a026005a2898d9bf6885f14",
-        "sizeBytes": 32968
-      },
-      {
-        "url": "https://cdn.opensyria.org/universities/sy-al-furat-university/logo-v1/w512.avif",
-        "key": "universities/sy-al-furat-university/logo-v1/w512.avif",
-        "format": "avif",
-        "contentType": "image/avif",
-        "width": 512,
-        "height": 512,
-        "sha256": "c3d7714a79f7ec1341364c1749e519ce9da28c245b5134d16b468251776f5dc2",
-        "sizeBytes": 30479
+        "width": 200,
+        "height": 200,
+        "sha256": "5e5dbbcaec1b2306562e8daa95dfb42b46961bc1a3a3f3d70d33d491508a32e5",
+        "sizeBytes": 12707
       }
     ],
     "attribution": {
-      "sourceProvider": "Official university website",
+      "sourceProvider": "Official LinkedIn page",
       "sourceTitle": "Al-Furat University official logo",
-      "sourceUrl": "https://alfuratuniv.edu.sy/images/ministry-logo.png",
+      "sourceUrl": "https://www.linkedin.com/company/al-furat-university",
       "creator": "Al-Furat University",
       "license": "Official institutional logo; trademark rights may apply",
-      "licenseUrl": "https://alfuratuniv.edu.sy/images/ministry-logo.png",
+      "licenseUrl": "https://www.linkedin.com/company/al-furat-university",
       "attributionRequired": false
     },
     "sourceIds": ["sy-al-furat-university-official-logo"],
     "sourceStatus": "seed",
-    "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+    "notes": "Official LinkedIn company-page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
     "id": "sy-al-hawash-private-university-logo",

@@ -2,6 +2,13 @@
 
 All notable changes to this repository will be documented in this file.
 
+## v0.2.1 - 2026-07-04
+
+### Fixed
+
+- Replace the incorrect Al-Furat University ministry-logo asset with reviewed
+  CDN variants from the university LinkedIn company-page logo.
+
 ## v0.2.0 - 2026-06-30
 
 ### Added
