@@ -2,6 +2,12 @@
 
 All notable changes to this repository will be documented in this file.
 
+## Unreleased
+
+### Changed
+
+- Expand contributor workflow docs with quick-start steps, editable files, validation commands, review expectations, and reference links for normal data pull requests.
+
 ## v0.2.1 - 2026-07-04
 
 ### Fixed

@@ -14,12 +14,25 @@ contributions/README.md
 
 ## Table of Contents
 
+- [Contributor Quick Start](#contributor-quick-start)
 - [Accepted Contributions](#accepted-contributions)
 - [Not Accepted as Normal Pull Requests](#not-accepted-as-normal-pull-requests)
+- [Files and Reference Docs](#files-and-reference-docs)
 - [Schema Proposals](#schema-proposals)
 - [Source Rules](#source-rules)
 - [Validation](#validation)
 - [Pull Request Checklist](#pull-request-checklist)
+
+## Contributor Quick Start
+
+For a normal university data correction or source update:
+
+1. Read the detailed workflow in [contributions/README.md](contributions/README.md).
+2. Pick one focused change, such as one record correction, one source update, or one small group of related university records.
+3. Keep normal edits to `data/universities.json`, `data/sources.json`, and documentation unless a maintainer approved broader work.
+4. Confirm every changed value is backed by an approved reusable public source in `data/sources.json`.
+5. Run `corepack enable pnpm`, `pnpm install`, and `pnpm run validate`.
+6. Open a pull request that lists the changed files, source IDs, source URLs, and any scope, licensing, or identity uncertainty.
 
 ## Accepted Contributions
 
@@ -30,8 +43,7 @@ You may open pull requests for:
 - adding aliases, Arabic names, English names, and transliterations,
 - improving source attribution,
 - replacing weak sources with stronger reusable sources,
-- correcting administrative relationships,
-- correcting coordinates when the schema already includes coordinate fields,
+- correcting public location fields, official websites, or coordinates when the schema already includes those fields,
 - marking records as deprecated, renamed, merged, uncertain, or replaced when supported by sources.
 
 Record IDs must follow [docs/ID_POLICY.md](docs/ID_POLICY.md).
@@ -55,6 +67,28 @@ These changes require a schema proposal or maintainer approval before implementa
 If your idea does not fit the normal issue or pull request categories, email `data@opensyria.org` with a short summary, proposed sources, and expected dataset impact.
 
 Generated files under `dist/`, examples under `examples/`, fixtures under `fixtures/`, validation scripts, schemas, and release workflows are maintainer-owned unless the maintainer explicitly asks for changes.
+
+## Files and Reference Docs
+
+Normal data pull requests usually edit:
+
+| Need | File or doc |
+| --- | --- |
+| University identity records | [data/universities.json](data/universities.json) |
+| Source registry | [data/sources.json](data/sources.json) |
+| Import manifests, when requested | [imports/manifests/](imports/manifests/) |
+| Field rules | [docs/FIELD_REFERENCE.md](docs/FIELD_REFERENCE.md) |
+| Stable ID rules | [docs/ID_POLICY.md](docs/ID_POLICY.md) |
+| Source policy | [docs/SOURCES.md](docs/SOURCES.md) |
+| Source decisions | [docs/SOURCE_DECISIONS.md](docs/SOURCE_DECISIONS.md) |
+| Review process | [docs/REVIEW_PROCESS.md](docs/REVIEW_PROCESS.md) |
+| Production readiness | [docs/PRODUCTION_READINESS.md](docs/PRODUCTION_READINESS.md) |
+| Post-seed backlog | [docs/POST_SEED_BACKLOG.md](docs/POST_SEED_BACKLOG.md) |
+| Coverage targets | [docs/COVERAGE_ANALYSIS.md](docs/COVERAGE_ANALYSIS.md) |
+
+`data/assets.json`, `data/faculties.json`, `data/programs.json`, and `data/rankings.json` are schema-ready canonical files, but normal contributors should edit them only for maintainer-approved issues or review batches.
+
+Do not edit generated release or coverage output under `dist/` for a normal data contribution.
 
 ## Schema Proposals
 
@@ -84,6 +118,13 @@ Source review decisions are documented in [docs/SOURCE_DECISIONS.md](docs/SOURCE
 
 ## Validation
 
+Install dependencies:
+
+```bash
+corepack enable pnpm
+pnpm install
+```
+
 Run:
 
 ```bash
@@ -108,3 +149,4 @@ committed in normal data pull requests.
 - IDs are stable and unique.
 - No personal or sensitive data is added.
 - Validation passes.
+- The pull request describes the changed files, source IDs, source URLs, and any scope, licensing, or identity uncertainty.

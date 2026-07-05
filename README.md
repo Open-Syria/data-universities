@@ -68,6 +68,7 @@ Normal GitHub contributions are limited to approved data fixes, missing records,
 ## Setup
 
 ```bash
+corepack enable pnpm
 pnpm install
 pnpm run validate
 ```
@@ -99,15 +100,35 @@ pnpm run release:build:fixtures
 Use the committed coverage docs for stable guidance and the generated report for
 current contribution targets.
 
+## Contribution Model
+
+Public contributions are controlled and should focus on approved data fixes,
+missing records within the current production scope, source attribution,
+documentation corrections, and maintainer-approved review batches.
+
+For a normal data pull request:
+
+1. Read [CONTRIBUTING.md](CONTRIBUTING.md) and [contributions/README.md](contributions/README.md).
+2. Edit only `data/universities.json`, `data/sources.json`, or requested import manifests unless a maintainer approved broader work.
+3. Check [docs/FIELD_REFERENCE.md](docs/FIELD_REFERENCE.md), [docs/ID_POLICY.md](docs/ID_POLICY.md), [docs/SOURCES.md](docs/SOURCES.md), and [docs/PRODUCTION_READINESS.md](docs/PRODUCTION_READINESS.md).
+4. Run `pnpm run validate`.
+5. Explain the changed files, source IDs, source URLs, and any scope, licensing, or identity uncertainty in the pull request.
+
 ## Documentation
 
 Start with:
 
+- [Contributing](CONTRIBUTING.md)
+- [Detailed Contribution Workflow](contributions/README.md)
 - [Data Schema](docs/DATA_SCHEMA.md)
 - [Field Reference](docs/FIELD_REFERENCE.md)
+- [ID Policy](docs/ID_POLICY.md)
 - [Sources](docs/SOURCES.md)
+- [Source Decisions](docs/SOURCE_DECISIONS.md)
+- [Review Process](docs/REVIEW_PROCESS.md)
 - [Import Workflow](docs/IMPORT_WORKFLOW.md)
 - [Production Readiness](docs/PRODUCTION_READINESS.md)
+- [Coverage Analysis](docs/COVERAGE_ANALYSIS.md)
 - [Release Process](docs/releases.md)
 - [Release Checklist](docs/RELEASE_CHECKLIST.md)
 - [Post-Seed Backlog](docs/POST_SEED_BACKLOG.md)
