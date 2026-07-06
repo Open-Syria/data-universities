@@ -7,6 +7,7 @@ All notable changes to this repository will be documented in this file.
 ### Changed
 
 - Expand contributor workflow docs with quick-start steps, editable files, validation commands, review expectations, and reference links for normal data pull requests.
+- Group automated npm dependency updates into one weekly Dependabot pull request to keep lockfile validation stable.
 
 ## v0.2.1 - 2026-07-04
 
