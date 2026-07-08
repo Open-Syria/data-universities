@@ -1,0 +1,23 @@
+{
+  "sourceId": "wikidata",
+  "sourceTitle": "Wikidata",
+  "sourceUrl": "https://www.wikidata.org/",
+  "license": "CC0 1.0",
+  "licenseUrl": "https://www.wikidata.org/wiki/Wikidata:Licensing",
+  "accessedAt": "2026-07-09T00:00:00.000Z",
+  "status": "reviewed",
+  "rawFiles": [
+    {
+      "name": "https://www.wikidata.org/wiki/Q12204421",
+      "notes": "Reviewed Wikidata item for Al-Hawash Private University."
+    }
+  ],
+  "importedFields": ["externalIds", "location"],
+  "targetFiles": ["data/universities.json"],
+  "transforms": [
+    "Matched Q12204421 to sy-al-hawash-private-university by exact English label, Arabic label, and country.",
+    "Added the Wikidata QID as an external identifier.",
+    "Added the WGS84 coordinate location as the source-backed centroid."
+  ],
+  "reviewNotes": "Single-record identity cleanup for Al-Hawash Private University. Wikidata Q12204421 is already covered by the approved wikidata source and identifies the same institution."
+}

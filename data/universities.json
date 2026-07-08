@@ -134,13 +134,23 @@
       },
       "locality": {
         "en": "Al-Hawash"
+      },
+      "centroid": {
+        "latitude": 34.78034,
+        "longitude": 36.33102
       }
     },
     "externalIds": {
+      "wikidata": "Q12204421",
       "website": "http://hpu.edu.sy/"
     },
-    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
     "sourceReferences": [
+      {
+        "sourceId": "wikidata",
+        "accessedAt": "2026-07-09T00:00:00.000Z",
+        "sourceRecordId": "Q12204421"
+      },
       {
         "sourceId": "wikipedia-list-universities-syria",
         "accessedAt": "2026-06-29T00:00:00.000Z"

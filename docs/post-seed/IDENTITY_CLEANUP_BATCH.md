@@ -9,8 +9,8 @@ Use `pnpm run report:data` and `pnpm run report:production` for current counts.
 
 - 57 records have `operationalStatus: "unknown"`.
 - 6 records have no official website.
-- 24 records have no Wikidata identifier.
-- 31 records have no source-backed centroid.
+- 23 records have no Wikidata identifier.
+- 30 records have no source-backed centroid.
 - 0 records have locality/governorate conflicts that need source review.
 - 16 records have reviewed comparison-conflict notes.
 
