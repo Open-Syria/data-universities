@@ -31,6 +31,12 @@
       "website": "https://damascusuniversity.edu.sy/"
     },
     "sourceIds": ["fixture-university-source"],
-    "sourceStatus": "seed"
+    "sourceReferences": [
+      {
+        "sourceId": "fixture-university-source",
+        "accessedAt": "2026-01-01T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
   }
 ]

@@ -10,6 +10,14 @@
     "sourceUrl": "https://example.org/opensyria-fixture-ranking",
     "retrievedAt": "2026-06-29T00:00:00.000Z",
     "sourceIds": ["fixture-university-source"],
-    "sourceStatus": "seed"
+    "sourceReferences": [
+      {
+        "sourceId": "fixture-university-source",
+        "accessedAt": "2026-01-01T00:00:00.000Z",
+        "sourceRecordId": "https://example.org/opensyria-fixture-ranking",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released"
   }
 ]

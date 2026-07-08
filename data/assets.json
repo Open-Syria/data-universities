@@ -80,7 +80,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-al-amanos-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-al-amanos-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://amanusuniversity.com/wp-content/uploads/2025/10/cropped-New-Logo-Dark-PNG-270x270.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -164,7 +171,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-al-andalus-university-for-medical-sciences-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-al-andalus-university-for-medical-sciences-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://au.edu.sy/images/horizontal-logo-light.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -208,7 +222,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-al-furat-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-al-furat-university-official-logo",
+        "accessedAt": "2026-07-04T08:28:48.465Z",
+        "sourceRecordId": "https://www.linkedin.com/company/al-furat-university"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official LinkedIn company-page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -292,7 +313,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-al-hawash-private-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-al-hawash-private-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://hpu.edu.sy/wp-content/uploads/2024/01/logo1-e1759994423185.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -376,7 +404,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-al-hayat-university-for-applied-sciences-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-al-hayat-university-for-applied-sciences-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.meduc.net/mec/sites/all/themes/meduc/logo.png?rand=4180"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -440,7 +475,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-al-jazeera-private-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-al-jazeera-private-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.facebook.com/jude.edu.sy"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -504,7 +546,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-al-maali-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-al-maali-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.facebook.com/almaaliuniv"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -588,7 +637,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-al-maarif-private-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-al-maarif-private-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://mas.edu.sy/wp-content/uploads/2020/11/logo.webp"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -672,7 +728,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-al-manara-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-al-manara-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "http://www.manara.edu.sy/images/fblogo.jpg"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -738,7 +801,14 @@
     "sourceIds": [
       "sy-al-rasheed-international-university-for-science-and-technology-official-logo"
     ],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-al-rasheed-international-university-for-science-and-technology-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.facebook.com/RasheedUniv"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -822,7 +892,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-al-ruwad-university-for-science-and-culture-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-al-ruwad-university-for-science-and-culture-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://alrowaduni.edu.sy/wp-content/uploads/2024/11/%D9%84%D9%88%D8%BA%D9%88-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -906,7 +983,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-al-shahba-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-al-shahba-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.su.edu.sy/images/logo.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -990,7 +1074,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-al-sham-private-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-al-sham-private-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://aspu.edu.sy/site/images/web/logo-wide.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -1054,7 +1145,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-al-sham-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-al-sham-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://isu.edu.sy/images/logo.jpg"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -1098,7 +1196,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-al-shamal-private-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-al-shamal-private-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://al-shamal.edu.sy/wp-content/uploads/2021/11/logo-100.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -1182,7 +1287,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-al-wataniya-private-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-al-wataniya-private-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://wpu.edu.sy/wp-content/uploads/2022/01/cropped-logo-270x270.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -1246,7 +1358,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-al-zahraa-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-al-zahraa-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://alzahraa.university/wp-content/uploads/2017/02/Islamic_Online_University_Logo-2.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -1330,7 +1449,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-al-zaytuna-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-al-zaytuna-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://ziu.edu.sy/assets/images/logo.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -1414,7 +1540,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-antioch-syrian-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-antioch-syrian-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://asu.edu.sy/sites/default/files/logo.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -1478,7 +1611,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-arab-academy-for-e-businesses-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-arab-academy-for-e-businesses-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.facebook.com/araeb.syria"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -1562,7 +1702,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-arab-academy-of-science-and-technology-and-maritime-transport-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-arab-academy-of-science-and-technology-and-maritime-transport-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://aast.edu/template/logo-blue03.webp"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -1626,7 +1773,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-arab-international-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-arab-international-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.aiu.edu.sy/site/assets/images/aiu-source/logo/logo.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -1710,7 +1864,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-arab-university-for-science-and-technology-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-arab-university-for-science-and-technology-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://aust.edu.sy/front-end/assets/image/logo/new-logo-loader.webp"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -1774,7 +1935,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-aram-university-for-sciences-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-aram-university-for-sciences-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.facebook.com/Aramuniversity"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -1858,7 +2026,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-basaksehir-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-basaksehir-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://bsu.edu.sy/wp-content/uploads/2021/07/web-logo.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -1922,7 +2097,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-bilad-al-sham-university-for-sharia-sciences-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-bilad-al-sham-university-for-sharia-sciences-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.facebook.com/BALADSHAM"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -2006,7 +2188,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-cordoba-private-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-cordoba-private-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.cpu.edu.sy/images/logos/logo.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -2070,7 +2259,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-damascus-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-damascus-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.facebook.com/Damas.University"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -2154,7 +2350,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-ebla-private-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-ebla-private-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.ebla.edu.sy/images/horizontal-logo.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -2238,7 +2441,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-faculty-of-theology-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-faculty-of-theology-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://theologyfaculty.org/images/web/logo_ar3.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -2322,7 +2532,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-hama-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-hama-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://hama-univ.edu.sy/wp-content/uploads/2025/07/LOGO-HAMA-UNIVERSITY-3D-1024x1024.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -2366,7 +2583,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-higher-institute-of-administration-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-higher-institute-of-administration-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.facebook.com/idara.syria"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -2450,7 +2674,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-higher-institute-of-applied-sciences-and-technology-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-higher-institute-of-applied-sciences-and-technology-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://x.com/HiastEduSy"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official X profile logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -2514,7 +2745,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-higher-institute-of-business-administration-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-higher-institute-of-business-administration-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "http://www.hiba.edu.sy/images/logo.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -2578,7 +2816,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-higher-institute-of-cinematic-arts-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-higher-institute-of-cinematic-arts-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.facebook.com/p/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D9%81%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-61579062404945/"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official Facebook page OpenGraph logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -2642,7 +2887,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-higher-institute-of-demographic-studies-and-research-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-higher-institute-of-demographic-studies-and-research-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.facebook.com/hidsr.edu.sy"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -2746,7 +2998,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-higher-institute-of-dramatic-arts-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-higher-institute-of-dramatic-arts-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.facebook.com/photo/?fbid=1142154131345632&id=100066531674342"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official Facebook page photo logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -2810,7 +3069,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-higher-institute-of-music-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-higher-institute-of-music-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.facebook.com/him.damas"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -2874,7 +3140,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-homs-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-homs-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://homs-univ.edu.sy/wp-content/uploads/2025/08/homs-university-logo-150px-.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -2938,7 +3211,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-idlib-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-idlib-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://idlib.edu.sy/images/icon.ico"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -3002,7 +3282,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-institute-of-economic-and-social-planning-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-institute-of-economic-and-social-planning-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.facebook.com/ESPI.syria"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -3086,7 +3373,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-international-university-for-science-and-renaissance-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-international-university-for-science-and-renaissance-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://iusr.university/wp-content/uploads/2023/07/cropped-logo_iusr-270x270.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -3170,7 +3464,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-international-university-for-science-and-technology-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-international-university-for-science-and-technology-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://iust.edu.sy/wp-content/uploads/2023/05/IUST-logo-3.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -3234,7 +3535,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-ittihad-private-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-ittihad-private-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.facebook.com/www.ipu.edu.sy"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -3318,7 +3626,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-latakia-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-latakia-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://latakia-univ.edu.sy/img/Latakia-university-logo.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -3382,7 +3697,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-mari-private-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-mari-private-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://mari.edu.sy/images/logo.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -3446,7 +3768,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-national-institute-of-public-administration-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-national-institute-of-public-administration-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.facebook.com/inasyrie"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -3530,7 +3859,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-qasyoun-private-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-qasyoun-private-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://qpu.edu.sy/images/logo-wide.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -3614,7 +3950,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-syrian-private-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-syrian-private-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "http://www.spu.edu.sy/images/logo.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -3678,7 +4021,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-syrian-university-for-science-and-technology-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-syrian-university-for-science-and-technology-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.sust.edu.sy/assets/images/logo.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official university website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -3742,7 +4092,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-syrian-virtual-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-syrian-virtual-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.facebook.com/svuonline.org"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -3826,7 +4183,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-the-islamic-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-the-islamic-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://iuis.edu.sy/assets/images/logo.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official university website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -3910,7 +4274,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-university-of-aleppo-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-university-of-aleppo-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://alepuniv.edu.sy/images/logo.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -3994,7 +4365,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-university-of-kalamoon-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-university-of-kalamoon-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "http://www.uok.edu.sy/wp-content/uploads/2018/11/Logo.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -4078,7 +4456,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-university-of-tartus-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-university-of-tartus-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://tartous-univ.edu.sy/images/logo.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official university website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -4142,7 +4527,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-wadi-international-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-wadi-international-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://wiu.edu.sy/wp-content/uploads/2021/12/wiu.png"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
@@ -4226,7 +4618,14 @@
       "attributionRequired": false
     },
     "sourceIds": ["sy-yarmouk-private-university-official-logo"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "sy-yarmouk-private-university-official-logo",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://ypu.edu.sy/web/image/website/1/logo/Yarmouk%20Private%20University?unique=e881326"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   }
 ]

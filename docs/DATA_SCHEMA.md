@@ -25,6 +25,7 @@ data/rankings.json
 - `location`
 - `externalIds`
 - `sourceIds`
+- `sourceReferences`
 - `sourceStatus`
 
 `assets.json` records public media assets that are approved for OpenSyria CDN use. Each asset must have:
@@ -37,6 +38,7 @@ data/rankings.json
 - `variants`
 - `attribution`
 - `sourceIds`
+- `sourceReferences`
 - `sourceStatus`
 
 Logo assets are the production profile asset target. Campus, building, and
@@ -54,6 +56,7 @@ CDN variants. Do not place external hotlinks in canonical records.
 - `operationalStatus`
 - `website`
 - `sourceIds`
+- `sourceReferences`
 - `sourceStatus`
 
 `programs.json` records academic programs, technical programs, specialties, and tracks. Each program record must have:
@@ -68,6 +71,7 @@ CDN variants. Do not place external hotlinks in canonical records.
 - `operationalStatus`
 - `website`
 - `sourceIds`
+- `sourceReferences`
 - `sourceStatus`
 
 `rankings.json` records ranking snapshots. Each ranking record must have:
@@ -82,11 +86,13 @@ CDN variants. Do not place external hotlinks in canonical records.
 - `sourceUrl`
 - `retrievedAt`
 - `sourceIds`
+- `sourceReferences`
 - `sourceStatus`
 
 The current canonical faculty and program arrays are intentionally empty until
 approved reusable sources are reviewed. Ranking rows are populated only when an
-approved ranking source publishes a source-backed snapshot.
+approved ranking source publishes a source-backed snapshot. Every public record
+must include `sourceReferences` with dated evidence for each `sourceIds` entry.
 
 Machine-readable JSON Schemas live under `schemas/`. The authoritative validation path is:
 

@@ -10,6 +10,8 @@ Preferred source types:
 - openly licensed public education directories.
 
 Every source used by canonical records must appear in `data/sources.json` with `status: "approved"`.
+Every public record must also carry a matching dated `sourceReferences` entry
+for each source ID it lists.
 
 The approved production scope is not a reusable canonical source.
 Review-only material can

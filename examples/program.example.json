@@ -11,5 +11,11 @@
   "operationalStatus": "operating",
   "website": "https://damascusuniversity.edu.sy/",
   "sourceIds": ["approved-source-id"],
-  "sourceStatus": "seed"
+  "sourceReferences": [
+    {
+      "sourceId": "approved-source-id",
+      "accessedAt": "2026-06-27T00:00:00.000Z"
+    }
+  ],
+  "sourceStatus": "released"
 }

@@ -10,7 +10,15 @@
     "sourceUrl": "https://doi.org/10.6084/m9.figshare.31132501.v1",
     "retrievedAt": "2026-06-29T00:00:00.000Z",
     "sourceIds": ["webometrics-ranking-web-january-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "webometrics-ranking-web-january-2026",
+        "accessedAt": "2026-06-29T00:00:00.000Z",
+        "sourceRecordId": "https://doi.org/10.6084/m9.figshare.31132501.v1",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "January 2026 edition. The source labels this column as WR."
   },
   {
@@ -24,7 +32,15 @@
     "sourceUrl": "https://doi.org/10.6084/m9.figshare.31132501.v1",
     "retrievedAt": "2026-06-29T00:00:00.000Z",
     "sourceIds": ["webometrics-ranking-web-january-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "webometrics-ranking-web-january-2026",
+        "accessedAt": "2026-06-29T00:00:00.000Z",
+        "sourceRecordId": "https://doi.org/10.6084/m9.figshare.31132501.v1",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "January 2026 edition. The source labels this column as REGIONR for Arab World region records."
   },
   {
@@ -38,7 +54,15 @@
     "sourceUrl": "https://www.auranking.aaru.edu.jo/rank%20results/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["arab-ranking-for-universities-2025"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "arab-ranking-for-universities-2025",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.auranking.aaru.edu.jo/rank%20results/",
+        "sourceRecordDate": "2025"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "AARU 2025 overall Arab rank. Source row also publishes Syria country rank 1 and total score 121.145."
   },
   {
@@ -52,7 +76,15 @@
     "sourceUrl": "https://www.auranking.aaru.edu.jo/rank%20results/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["arab-ranking-for-universities-2025"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "arab-ranking-for-universities-2025",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.auranking.aaru.edu.jo/rank%20results/",
+        "sourceRecordDate": "2025"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "AARU 2025 Syria country rank. Source row also publishes overall Arab rank 54 and total score 121.145."
   },
   {
@@ -66,7 +98,15 @@
     "sourceUrl": "https://www.auranking.aaru.edu.jo/rank%20results/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["arab-ranking-for-universities-2025"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "arab-ranking-for-universities-2025",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.auranking.aaru.edu.jo/rank%20results/",
+        "sourceRecordDate": "2025"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "AARU 2025 overall Arab rank. Source row also publishes Syria country rank 2 and total score 75.609."
   },
   {
@@ -80,7 +120,15 @@
     "sourceUrl": "https://www.auranking.aaru.edu.jo/rank%20results/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["arab-ranking-for-universities-2025"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "arab-ranking-for-universities-2025",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.auranking.aaru.edu.jo/rank%20results/",
+        "sourceRecordDate": "2025"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "AARU 2025 Syria country rank. Source row also publishes overall Arab rank 102 and total score 75.609."
   },
   {
@@ -94,7 +142,15 @@
     "sourceUrl": "https://www.auranking.aaru.edu.jo/rank%20results/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["arab-ranking-for-universities-2025"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "arab-ranking-for-universities-2025",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.auranking.aaru.edu.jo/rank%20results/",
+        "sourceRecordDate": "2025"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "AARU 2025 overall Arab rank. Source row also publishes Syria country rank 3 and total score 30.214."
   },
   {
@@ -108,7 +164,15 @@
     "sourceUrl": "https://www.auranking.aaru.edu.jo/rank%20results/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["arab-ranking-for-universities-2025"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "arab-ranking-for-universities-2025",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.auranking.aaru.edu.jo/rank%20results/",
+        "sourceRecordDate": "2025"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "AARU 2025 Syria country rank. Source row also publishes overall Arab rank 195 and total score 30.214."
   },
   {
@@ -122,7 +186,15 @@
     "sourceUrl": "https://www.auranking.aaru.edu.jo/rank%20results/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["arab-ranking-for-universities-2025"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "arab-ranking-for-universities-2025",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.auranking.aaru.edu.jo/rank%20results/",
+        "sourceRecordDate": "2025"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "AARU 2025 overall Arab rank. Source publishes the row as Tishreen University; matched to the canonical Latakia University record. Source row also publishes Syria country rank 4 and total score 24.594."
   },
   {
@@ -136,7 +208,15 @@
     "sourceUrl": "https://www.auranking.aaru.edu.jo/rank%20results/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["arab-ranking-for-universities-2025"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "arab-ranking-for-universities-2025",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.auranking.aaru.edu.jo/rank%20results/",
+        "sourceRecordDate": "2025"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "AARU 2025 Syria country rank. Source publishes the row as Tishreen University; matched to the canonical Latakia University record. Source row also publishes overall Arab rank 209 and total score 24.594."
   },
   {
@@ -150,7 +230,15 @@
     "sourceUrl": "https://www.auranking.aaru.edu.jo/rank%20results/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["arab-ranking-for-universities-2025"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "arab-ranking-for-universities-2025",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.auranking.aaru.edu.jo/rank%20results/",
+        "sourceRecordDate": "2025"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "AARU 2025 overall Arab rank. Source row also publishes Syria country rank 5 and total score 15.385."
   },
   {
@@ -164,7 +252,15 @@
     "sourceUrl": "https://www.auranking.aaru.edu.jo/rank%20results/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["arab-ranking-for-universities-2025"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "arab-ranking-for-universities-2025",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.auranking.aaru.edu.jo/rank%20results/",
+        "sourceRecordDate": "2025"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "AARU 2025 Syria country rank. Source row also publishes overall Arab rank 235 and total score 15.385."
   },
   {
@@ -178,7 +274,15 @@
     "sourceUrl": "https://www.auranking.aaru.edu.jo/rank%20results/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["arab-ranking-for-universities-2025"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "arab-ranking-for-universities-2025",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.auranking.aaru.edu.jo/rank%20results/",
+        "sourceRecordDate": "2025"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "AARU 2025 overall Arab rank. Source row also publishes Syria country rank 6 and total score 15.005."
   },
   {
@@ -192,7 +296,15 @@
     "sourceUrl": "https://www.auranking.aaru.edu.jo/rank%20results/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["arab-ranking-for-universities-2025"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "arab-ranking-for-universities-2025",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.auranking.aaru.edu.jo/rank%20results/",
+        "sourceRecordDate": "2025"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "AARU 2025 Syria country rank. Source row also publishes overall Arab rank 236 and total score 15.005."
   },
   {
@@ -206,7 +318,15 @@
     "sourceUrl": "https://www.timeshighereducation.com/student/where-to-study/study-in-syrian-arab-republic",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["times-higher-education-world-university-rankings-2026-syria"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "times-higher-education-world-university-rankings-2026-syria",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.timeshighereducation.com/student/where-to-study/study-in-syrian-arab-republic",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "THE 2026 overall World University Rankings band for Syria. Source publishes this as a non-numeric band."
   },
   {
@@ -220,7 +340,15 @@
     "sourceUrl": "https://www.timeshighereducation.com/student/where-to-study/study-in-syrian-arab-republic",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["times-higher-education-world-university-rankings-2026-syria"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "times-higher-education-world-university-rankings-2026-syria",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.timeshighereducation.com/student/where-to-study/study-in-syrian-arab-republic",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "THE 2026 overall World University Rankings status for Syria. Source publishes this row as Reporter rather than a numeric rank."
   },
   {
@@ -234,7 +362,15 @@
     "sourceUrl": "https://www.timeshighereducation.com/student/where-to-study/study-in-syrian-arab-republic",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["times-higher-education-world-university-rankings-2026-syria"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "times-higher-education-world-university-rankings-2026-syria",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.timeshighereducation.com/student/where-to-study/study-in-syrian-arab-republic",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "THE 2026 overall World University Rankings status for Syria. Source publishes this row as Reporter rather than a numeric rank."
   },
   {
@@ -248,7 +384,15 @@
     "sourceUrl": "https://www.timeshighereducation.com/student/where-to-study/study-in-syrian-arab-republic",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["times-higher-education-world-university-rankings-2026-syria"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "times-higher-education-world-university-rankings-2026-syria",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.timeshighereducation.com/student/where-to-study/study-in-syrian-arab-republic",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "THE 2026 overall World University Rankings status for Syria. Source publishes the row as Zaytoonah International University; matched to the canonical Al-Zaytuna University record."
   },
   {
@@ -262,7 +406,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Damascus University."
   },
   {
@@ -276,7 +428,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Latakia University."
   },
   {
@@ -290,7 +450,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Homs University."
   },
   {
@@ -304,7 +472,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Arab International University."
   },
   {
@@ -318,7 +494,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: University of Aleppo."
   },
   {
@@ -332,7 +516,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Al-Wataniya Private University."
   },
   {
@@ -346,7 +538,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Syrian Private University."
   },
   {
@@ -360,7 +560,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Al-Manara University."
   },
   {
@@ -374,7 +582,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: University of Hama."
   },
   {
@@ -388,7 +604,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Wadi International University."
   },
   {
@@ -402,7 +626,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: University of Kalamoon."
   },
   {
@@ -416,7 +648,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Al-Sham Private University."
   },
   {
@@ -430,7 +670,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Al-Hawash Private University."
   },
   {
@@ -444,7 +692,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: International University for Science and Technology."
   },
   {
@@ -458,7 +714,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Al-Andalus University for Medical Sciences."
   },
   {
@@ -472,7 +736,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Ittihad Private University."
   },
   {
@@ -486,7 +758,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Al-Jazeera Private University."
   },
   {
@@ -500,7 +780,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: International University for Science and Renaissance."
   },
   {
@@ -514,7 +802,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Yarmouk Private University."
   },
   {
@@ -528,7 +824,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Higher Institute of Business Administration."
   },
   {
@@ -542,7 +846,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Idlib University."
   },
   {
@@ -556,7 +868,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Cordoba Private University."
   },
   {
@@ -570,7 +890,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: National Institute of Public Administration."
   },
   {
@@ -584,7 +912,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Ebla Private University."
   },
   {
@@ -598,7 +934,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Al-Zaytuna University."
   },
   {
@@ -612,7 +956,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Qasyoun Private University."
   },
   {
@@ -626,7 +978,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Al-Furat University."
   },
   {
@@ -640,7 +1000,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: University of Tartus."
   },
   {
@@ -654,7 +1022,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Antioch Syrian University."
   },
   {
@@ -668,7 +1044,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Arab University for Science and Technology."
   },
   {
@@ -682,7 +1066,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Al-Maali University."
   },
   {
@@ -696,7 +1088,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Al-Ruwad University for Science and Culture."
   },
   {
@@ -710,7 +1110,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Al-Shahba University."
   },
   {
@@ -724,7 +1132,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Al-Rasheed International University for Science and Technology."
   },
   {
@@ -738,7 +1154,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Bilad Al-Sham University for Sharia Sciences."
   },
   {
@@ -752,7 +1176,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Syrian Virtual University."
   },
   {
@@ -766,7 +1198,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: The Islamic University."
   },
   {
@@ -780,7 +1220,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Al-Maarif Private University."
   },
   {
@@ -794,7 +1242,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking national rank. Source row name: Al-Shamal Private University."
   },
   {
@@ -808,7 +1264,15 @@
     "sourceUrl": "https://www.unirank.org/sy/ranking/",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["unirank-syrian-university-ranking-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "unirank-syrian-university-ranking-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.unirank.org/sy/ranking/",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "uniRank 2026 Syrian University Ranking row publishes Aram University for Sciences as unranked."
   },
   {
@@ -822,7 +1286,15 @@
     "sourceUrl": "https://www.webometrics.org/syria",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["webometrics-org-global-web-rankings-january-2026-syria"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "webometrics-org-global-web-rankings-january-2026-syria",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.webometrics.org/syria",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "January 2026 Webometrics.org independent table. Source row name: Institut Superieur des Sciences Appliquees et de Technologie Damascus. Source also publishes Syria rank 4."
   },
   {
@@ -836,7 +1308,15 @@
     "sourceUrl": "https://www.webometrics.org/syria",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["webometrics-org-global-web-rankings-january-2026-syria"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "webometrics-org-global-web-rankings-january-2026-syria",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.webometrics.org/syria",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "January 2026 Webometrics.org independent table. Source row name: Institut Superieur des Sciences Appliquees et de Technologie Damascus. Source also publishes world rank 8756."
   },
   {
@@ -850,7 +1330,15 @@
     "sourceUrl": "https://www.webometrics.org/syria",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["webometrics-org-global-web-rankings-january-2026-syria"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "webometrics-org-global-web-rankings-january-2026-syria",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.webometrics.org/syria",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "January 2026 Webometrics.org independent table. Source row name: Sham University. Matched to canonical Al-Sham University, not Al-Sham Private University. Source also publishes Syria rank 39."
   },
   {
@@ -864,7 +1352,15 @@
     "sourceUrl": "https://www.webometrics.org/syria",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["webometrics-org-global-web-rankings-january-2026-syria"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "webometrics-org-global-web-rankings-january-2026-syria",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.webometrics.org/syria",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "January 2026 Webometrics.org independent table. Source row name: Sham University. Matched to canonical Al-Sham University, not Al-Sham Private University. Source also publishes world rank 25778."
   },
   {
@@ -878,7 +1374,15 @@
     "sourceUrl": "https://www.webometrics.org/syria",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["webometrics-org-global-web-rankings-january-2026-syria"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "webometrics-org-global-web-rankings-january-2026-syria",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.webometrics.org/syria",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "January 2026 Webometrics.org independent table. Source row name: Arab Academy for E-Business. Source also publishes Syria rank 41."
   },
   {
@@ -892,7 +1396,15 @@
     "sourceUrl": "https://www.webometrics.org/syria",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["webometrics-org-global-web-rankings-january-2026-syria"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "webometrics-org-global-web-rankings-january-2026-syria",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.webometrics.org/syria",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "January 2026 Webometrics.org independent table. Source row name: Arab Academy for E-Business. Source also publishes world rank 26295."
   },
   {
@@ -906,7 +1418,15 @@
     "sourceUrl": "https://www.uniranks.com/ranking/syria",
     "retrievedAt": "2026-06-30T00:00:00.000Z",
     "sourceIds": ["uniranks-syria-2026"],
-    "sourceStatus": "seed",
+    "sourceReferences": [
+      {
+        "sourceId": "uniranks-syria-2026",
+        "accessedAt": "2026-06-30T00:00:00.000Z",
+        "sourceRecordId": "https://www.uniranks.com/ranking/syria",
+        "sourceRecordDate": "2026"
+      }
+    ],
+    "sourceStatus": "released",
     "notes": "UNIRANKS 2026 Syria page lists Mari Private University with listed rank 33777 and country, region, and world ranks as N/A."
   }
 ]

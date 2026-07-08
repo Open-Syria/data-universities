@@ -54,7 +54,8 @@ University records may include public facts such as:
 - public website,
 - public location fields,
 - reusable external identifiers,
-- source attribution.
+- source attribution,
+- dated `sourceReferences` aligned with each record's `sourceIds`.
 
 Faculty, program, and ranking files are separated from university identity records.
 Current canonical faculty and program arrays are empty until approved reusable

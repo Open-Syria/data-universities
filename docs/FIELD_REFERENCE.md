@@ -79,6 +79,19 @@ Supported keys:
 
 Approved source IDs from `data/sources.json`.
 
+## `sourceReferences`
+
+Dated source evidence for each source listed in `sourceIds`.
+
+Rules:
+
+- required on public records,
+- must contain one entry for each `sourceIds` value,
+- `sourceReferences[].sourceId` must match an approved source ID on the record,
+- `sourceReferences[].accessedAt` stores when the source data was accessed or reviewed,
+- `sourceReferences[].sourceRecordId` stores source-row identifiers such as Wikidata QIDs, official logo URLs, official website URLs, or ranking source URLs when available,
+- `sourceReferences[].sourceRecordDate` stores source-provided dates when available, using `YYYY`, `YYYY-MM`, or `YYYY-MM-DD`.
+
 ## `sourceStatus`
 
 One of:

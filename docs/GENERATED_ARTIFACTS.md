@@ -46,6 +46,10 @@ Each artifact is listed in the release manifest with format, path, checksum, byt
 
 Schema-first batch files may have `recordCount: 0` until approved reusable sources are imported.
 
+CSV and SQL artifacts include `source_references_json`,
+`latest_source_accessed_at`, and `latest_source_record_date` columns derived
+from each record's `sourceReferences`.
+
 Coverage analysis is also generated locally:
 
 ```bash

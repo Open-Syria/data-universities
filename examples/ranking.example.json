@@ -9,5 +9,13 @@
   "sourceUrl": "https://example.org/ranking",
   "retrievedAt": "2026-06-29T00:00:00.000Z",
   "sourceIds": ["approved-source-id"],
-  "sourceStatus": "seed"
+  "sourceReferences": [
+    {
+      "sourceId": "approved-source-id",
+      "accessedAt": "2026-06-27T00:00:00.000Z",
+      "sourceRecordId": "https://example.org/ranking",
+      "sourceRecordDate": "2026"
+    }
+  ],
+  "sourceStatus": "released"
 }

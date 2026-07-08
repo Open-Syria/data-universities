@@ -6,6 +6,7 @@ Track quality through:
 - duplicate ID checks,
 - duplicate alias checks,
 - approved-source references,
+- dated record-level source references,
 - missing Arabic names,
 - missing official websites,
 - missing public location context.
@@ -19,9 +20,9 @@ pnpm run report:production
 
 ## Current Production Snapshot
 
-As of the current working dataset after `v0.2.0`, the canonical identity dataset
-contains 57 records anchored to the approved production scope and
-approved public source IDs.
+As of the current working dataset after `v0.2.2`, the canonical identity dataset
+contains 57 records anchored to the approved production scope, approved public
+source IDs, and dated `sourceReferences`.
 
 Known cleanup gaps:
 

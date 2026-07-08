@@ -19,7 +19,7 @@ const dataDirectory = path.resolve(root, getCliOption('--data-dir') ?? 'data');
 const releaseDirectory = path.resolve(root, getCliOption('--release-dir') ?? 'dist/release');
 const packageJson = await readJson(path.join(root, 'package.json'));
 const releaseVersion = process.env.RELEASE_VERSION ?? `v${packageJson.version}`;
-const releaseStatus = datasetReleaseStatusSchema.parse(process.env.RELEASE_STATUS ?? 'seed');
+const releaseStatus = datasetReleaseStatusSchema.parse(process.env.RELEASE_STATUS ?? 'released');
 const releasePublishedAt = process.env.RELEASE_PUBLISHED_AT ?? null;
 const assetBaseUrl = process.env.RELEASE_ASSET_BASE_URL;
 
@@ -52,6 +52,9 @@ const datasetConfigs = [
       'external_website',
       'ministry_id',
       'source_ids_json',
+      'source_references_json',
+      'latest_source_accessed_at',
+      'latest_source_record_date',
       'source_status',
     ],
   },
@@ -79,6 +82,9 @@ const datasetConfigs = [
       'license_url',
       'attribution_required',
       'source_ids_json',
+      'source_references_json',
+      'latest_source_accessed_at',
+      'latest_source_record_date',
       'source_status',
     ],
   },
@@ -99,6 +105,9 @@ const datasetConfigs = [
       'operational_status',
       'website',
       'source_ids_json',
+      'source_references_json',
+      'latest_source_accessed_at',
+      'latest_source_record_date',
       'source_status',
     ],
   },
@@ -121,6 +130,9 @@ const datasetConfigs = [
       'operational_status',
       'website',
       'source_ids_json',
+      'source_references_json',
+      'latest_source_accessed_at',
+      'latest_source_record_date',
       'source_status',
     ],
   },
@@ -142,6 +154,9 @@ const datasetConfigs = [
       'source_url',
       'retrieved_at',
       'source_ids_json',
+      'source_references_json',
+      'latest_source_accessed_at',
+      'latest_source_record_date',
       'source_status',
     ],
   },
@@ -244,6 +259,7 @@ function toUniversityPublicRecord(record) {
     location: record.location,
     externalIds: record.externalIds,
     sourceIds: record.sourceIds,
+    sourceReferences: record.sourceReferences,
     sourceStatus: record.sourceStatus,
     notes: record.notes,
   });
@@ -277,6 +293,9 @@ function toUniversityFlatRow(record) {
     external_website: record.externalIds.website ?? null,
     ministry_id: record.externalIds.ministryId ?? null,
     source_ids_json: stringifyCompactJson(record.sourceIds),
+    source_references_json: stringifyCompactJson(record.sourceReferences),
+    latest_source_accessed_at: latestSourceAccessedAt(record),
+    latest_source_record_date: latestSourceRecordDate(record),
     source_status: record.sourceStatus,
   };
 }
@@ -291,6 +310,7 @@ function toAssetPublicRecord(record) {
     variants: record.variants,
     attribution: record.attribution,
     sourceIds: record.sourceIds,
+    sourceReferences: record.sourceReferences,
     sourceStatus: record.sourceStatus,
     notes: record.notes,
   });
@@ -314,6 +334,9 @@ function toAssetFlatRow(record) {
     license_url: record.attribution.licenseUrl,
     attribution_required: record.attribution.attributionRequired,
     source_ids_json: stringifyCompactJson(record.sourceIds),
+    source_references_json: stringifyCompactJson(record.sourceReferences),
+    latest_source_accessed_at: latestSourceAccessedAt(record),
+    latest_source_record_date: latestSourceRecordDate(record),
     source_status: record.sourceStatus,
   };
 }
@@ -328,6 +351,7 @@ function toFacultyPublicRecord(record) {
     operationalStatus: record.operationalStatus,
     website: record.website,
     sourceIds: record.sourceIds,
+    sourceReferences: record.sourceReferences,
     sourceStatus: record.sourceStatus,
     notes: record.notes,
   });
@@ -344,6 +368,9 @@ function toFacultyFlatRow(record) {
     operational_status: record.operationalStatus,
     website: record.website,
     source_ids_json: stringifyCompactJson(record.sourceIds),
+    source_references_json: stringifyCompactJson(record.sourceReferences),
+    latest_source_accessed_at: latestSourceAccessedAt(record),
+    latest_source_record_date: latestSourceRecordDate(record),
     source_status: record.sourceStatus,
   };
 }
@@ -360,6 +387,7 @@ function toProgramPublicRecord(record) {
     operationalStatus: record.operationalStatus,
     website: record.website,
     sourceIds: record.sourceIds,
+    sourceReferences: record.sourceReferences,
     sourceStatus: record.sourceStatus,
     notes: record.notes,
   });
@@ -378,6 +406,9 @@ function toProgramFlatRow(record) {
     operational_status: record.operationalStatus,
     website: record.website,
     source_ids_json: stringifyCompactJson(record.sourceIds),
+    source_references_json: stringifyCompactJson(record.sourceReferences),
+    latest_source_accessed_at: latestSourceAccessedAt(record),
+    latest_source_record_date: latestSourceRecordDate(record),
     source_status: record.sourceStatus,
   };
 }
@@ -394,6 +425,7 @@ function toRankingPublicRecord(record) {
     sourceUrl: record.sourceUrl,
     retrievedAt: record.retrievedAt,
     sourceIds: record.sourceIds,
+    sourceReferences: record.sourceReferences,
     sourceStatus: record.sourceStatus,
     notes: record.notes,
   });
@@ -411,8 +443,31 @@ function toRankingFlatRow(record) {
     source_url: record.sourceUrl,
     retrieved_at: record.retrievedAt,
     source_ids_json: stringifyCompactJson(record.sourceIds),
+    source_references_json: stringifyCompactJson(record.sourceReferences),
+    latest_source_accessed_at: latestSourceAccessedAt(record),
+    latest_source_record_date: latestSourceRecordDate(record),
     source_status: record.sourceStatus,
   };
+}
+
+function latestSourceAccessedAt(record) {
+  return latestStringValue(record.sourceReferences.map((reference) => reference.accessedAt));
+}
+
+function latestSourceRecordDate(record) {
+  return latestStringValue(
+    record.sourceReferences
+      .map((reference) => reference.sourceRecordDate)
+      .filter((value) => value !== undefined),
+  );
+}
+
+function latestStringValue(values) {
+  if (values.length === 0) {
+    return null;
+  }
+
+  return values.toSorted().at(-1);
 }
 
 function formatTextArtifact(content) {
