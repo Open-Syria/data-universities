@@ -18,7 +18,7 @@ pnpm run coverage:data
 - 57 records include English and Arabic canonical names.
 - 57 records include governorate and locality values.
 - 0 records currently have locality/governorate normalization warnings.
-- 33 records include Wikidata identifiers.
+- 34 records include Wikidata identifiers.
 - 6 records currently have no official website.
 - 57 approved CDN logo asset records in `data/assets.json`, covering 57 of 57
   canonical universities.

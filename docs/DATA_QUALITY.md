@@ -28,8 +28,8 @@ Known cleanup gaps:
 
 - all 57 records currently keep `operationalStatus: "unknown"`,
 - 6 records are missing official websites,
-- 24 records are missing Wikidata identifiers,
-- 31 records are missing source-backed centroids,
+- 23 records are missing Wikidata identifiers,
+- 30 records are missing source-backed centroids,
 - 0 records do not yet have approved CDN logo assets,
 - 13 records are not listed by the approved ranking providers imported so far,
 - 0 records have locality/governorate conflicts that require source review,
