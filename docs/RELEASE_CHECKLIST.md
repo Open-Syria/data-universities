@@ -21,3 +21,6 @@ git push origin v0.2.0
 ```
 
 Pushing the version tag runs `.github/workflows/release.yml`, rebuilds and verifies `dist/release`, then publishes the release manifest and artifacts to the GitHub Release.
+
+Reruns retain byte-identical assets. Never replace changed assets under an
+existing tag; publish a corrected version instead.

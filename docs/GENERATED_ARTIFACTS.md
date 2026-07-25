@@ -44,6 +44,10 @@ dist/release/artifacts/universities.xml
 
 Each artifact is listed in the release manifest with format, path, checksum, byte size, media type, and record count.
 
+Tag-driven builds derive `generatedAt` and `publishedAt` from the tagged commit.
+Published assets are immutable: identical assets are retained on reruns, while
+changed bytes require a new version tag.
+
 Schema-first batch files may have `recordCount: 0` until approved reusable sources are imported.
 
 CSV and SQL artifacts include `source_references_json`,

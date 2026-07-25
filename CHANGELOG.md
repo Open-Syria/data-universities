@@ -4,6 +4,11 @@ All notable changes to this repository will be documented in this file.
 
 ## Unreleased
 
+- Make tag-driven release manifests reproducible from the tagged commit timestamp.
+- Prevent release workflow reruns from replacing published assets; matching assets are retained and changed bytes require a new version.
+- Honor `[skip ci]` consistently in validation and CodeQL push workflows.
+- Audit the complete dependency graph during validation and pin the patched `fast-uri` release.
+
 ## v0.2.2 - 2026-07-08
 
 ### Changed

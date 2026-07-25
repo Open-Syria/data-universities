@@ -97,6 +97,8 @@ pnpm run release:build:fixtures
 - six artifact formats for `rankings`,
 - six artifact formats for `universities`.
 
+Published version assets are immutable; corrections require a new version tag.
+
 `pnpm run coverage:data` writes generated coverage reports to `dist/coverage/`.
 Use the committed coverage docs for stable guidance and the generated report for
 current contribution targets.

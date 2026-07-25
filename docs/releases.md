@@ -14,10 +14,15 @@ Pushing a version tag such as `v0.2.0` runs `.github/workflows/release.yml`.
 The release workflow:
 
 1. Installs dependencies.
-2. Runs `pnpm run release:prepare -- --version "$GITHUB_REF_NAME"`.
+2. Resolves the tagged commit timestamp and passes it as both the generated and
+   published timestamp to `release:prepare`.
 3. Rebuilds `dist/release`.
 4. Verifies `release-manifest.json`.
-5. Publishes `release-manifest.json` and generated artifacts to the GitHub Release.
+5. Publishes `release-manifest.json` and generated artifacts to the GitHub
+   Release without replacing any previously published asset.
+
+Rerunning the workflow retains byte-identical assets. If an asset differs, the
+publisher fails and the correction must use a new version tag.
 
 Generated artifacts include JSON, NDJSON, CSV, SQL, YAML, and XML files for:
 
