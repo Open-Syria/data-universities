@@ -4,6 +4,8 @@
 
 OpenSyria Data Universities is the canonical repository for public, non-personal Syrian university data.
 
+**Canonical public dataset page:** [Syrian Universities Data, Rankings and Downloads](https://opensyria.org/datasets/universities)
+
 The repository follows the same structure as other OpenSyria data repositories:
 
 ```text
