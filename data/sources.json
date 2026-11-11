@@ -72,6 +72,16 @@
     "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
   },
   {
+    "id": "sy-al-jazeera-private-university-commons-cover",
+    "title": "Al-Jazeera Private University building photo on Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D9%85%D8%A8%D9%86%D9%89.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "status": "approved",
+    "fields": ["cover image"],
+    "notes": "Wikimedia Commons file File:جامعة الجزيرة مبنى.jpg by Aaasss1999; used only for public CDN cover image variants with attribution kept in data/assets.json."
+  },
+  {
     "id": "sy-al-jazeera-private-university-official-logo",
     "title": "Al-Jazeera Private University official logo source",
     "url": "https://www.facebook.com/jude.edu.sy",
@@ -151,6 +161,16 @@
     "status": "approved",
     "fields": ["logo"],
     "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-shamal-private-university-commons-cover",
+    "title": "Al-Shamal Private University main facade photo on Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:%D9%88%D8%A7%D8%AC%D9%87%D8%A9_%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84_%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9_%D8%B3%D9%88%D8%B1%D9%8A%D8%A7.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "status": "approved",
+    "fields": ["cover image"],
+    "notes": "Wikimedia Commons file File:واجهة جامعة الشمال الخاصة سوريا.jpg by Abdulhalim Bakkour; used only for public CDN cover image variants with attribution kept in data/assets.json."
   },
   {
     "id": "sy-al-shamal-private-university-official-logo",
@@ -270,6 +290,16 @@
     "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
   },
   {
+    "id": "sy-damascus-university-commons-cover",
+    "title": "Damascus University Faculty of Medicine building photo on Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Faculty_of_Medicine_Damascus2.jpg",
+    "license": "Public domain (PD-self)",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-self",
+    "status": "approved",
+    "fields": ["cover image"],
+    "notes": "Wikimedia Commons file File:Faculty of Medicine Damascus2.jpg by Osm agha; used only for public CDN cover image variants with attribution kept in data/assets.json."
+  },
+  {
     "id": "sy-damascus-university-official-logo",
     "title": "Damascus University official logo source",
     "url": "https://www.facebook.com/Damas.University",
@@ -295,6 +325,16 @@
     "status": "approved",
     "fields": ["logo"],
     "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-hama-university-commons-cover",
+    "title": "Hama University headquarters photo on Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Hama_University_Headquarters.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "status": "approved",
+    "fields": ["cover image"],
+    "notes": "Wikimedia Commons file File:Hama University Headquarters.jpg by Yaseendh; used only for public CDN cover image variants with attribution kept in data/assets.json."
   },
   {
     "id": "sy-hama-university-official-logo",
@@ -369,6 +409,16 @@
     "notes": "Official social profile logo source used only for public CDN logo variants; Arabic and English page identity were reviewed, and trademark or institutional identity rights may apply."
   },
   {
+    "id": "sy-homs-university-commons-cover",
+    "title": "Homs University Faculty of Medicine building photo on Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Faculty_of_Medicine,_Homs_University.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "status": "approved",
+    "fields": ["cover image"],
+    "notes": "Wikimedia Commons file File:Faculty of Medicine, Homs University.jpg by Bassel (Bassel.khabbaz); used only for public CDN cover image variants with attribution kept in data/assets.json."
+  },
+  {
     "id": "sy-homs-university-official-logo",
     "title": "Homs University official logo source",
     "url": "https://homs-univ.edu.sy/wp-content/uploads/2025/08/homs-university-logo-150px-.png",
@@ -423,6 +473,16 @@
     "notes": "Official social profile logo source used only for public CDN logo variants; Arabic and English page identity were reviewed, and trademark or institutional identity rights may apply."
   },
   {
+    "id": "sy-latakia-university-commons-cover",
+    "title": "Latakia University campus photo on Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:University_of_Latakia_building_and_perimeter_2002.jpg",
+    "license": "Public domain (PD-user-w: released by the author on Arabic Wikipedia)",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-user-w",
+    "status": "approved",
+    "fields": ["cover image"],
+    "notes": "Wikimedia Commons file File:University of Latakia building and perimeter 2002.jpg by فادي شاهين (Fadi Shahin); used only for public CDN cover image variants with attribution kept in data/assets.json."
+  },
+  {
     "id": "sy-latakia-university-official-logo",
     "title": "Latakia University official logo source",
     "url": "https://latakia-univ.edu.sy/img/Latakia-university-logo.png",
@@ -430,6 +490,16 @@
     "status": "approved",
     "fields": ["logo"],
     "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-mari-private-university-commons-cover",
+    "title": "Mari Private University building photo on Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D9%85%D8%A7%D8%B1%D9%8A_%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9_M.P.U.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "status": "approved",
+    "fields": ["cover image"],
+    "notes": "Wikimedia Commons file File:جامعة ماري الخاصة M.P.U.jpg by THMH2011; used only for public CDN cover image variants with attribution kept in data/assets.json."
   },
   {
     "id": "sy-mari-private-university-official-logo",
@@ -457,6 +527,16 @@
     "status": "approved",
     "fields": ["logo"],
     "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-syrian-private-university-commons-cover",
+    "title": "Syrian Private University hospital building photo on Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Spumc.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "status": "approved",
+    "fields": ["cover image"],
+    "notes": "Wikimedia Commons file File:Spumc.jpg by Zaifoi; used only for public CDN cover image variants with attribution kept in data/assets.json."
   },
   {
     "id": "sy-syrian-private-university-official-logo",
@@ -495,6 +575,16 @@
     "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
   },
   {
+    "id": "sy-university-of-aleppo-commons-cover",
+    "title": "University of Aleppo Faculty of Arts and Humanities photo on Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Aleppo_University,_Faculty_of_Arts_and_Humanities.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "status": "approved",
+    "fields": ["cover image"],
+    "notes": "Wikimedia Commons file File:Aleppo University, Faculty of Arts and Humanities.jpg by Majd Mohabek; used only for public CDN cover image variants with attribution kept in data/assets.json."
+  },
+  {
     "id": "sy-university-of-aleppo-official-logo",
     "title": "University of Aleppo official logo source",
     "url": "https://alepuniv.edu.sy/images/logo.png",
@@ -502,6 +592,16 @@
     "status": "approved",
     "fields": ["logo"],
     "notes": "Official website logo source used only for public CDN logo variants; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-university-of-kalamoon-commons-cover",
+    "title": "University of Kalamoon campus photo on Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/File:%D8%A7%D9%84%D9%82%D9%84%D9%85%D9%88%D9%86.JPG",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "status": "approved",
+    "fields": ["cover image"],
+    "notes": "Wikimedia Commons file File:القلمون.JPG by Wisal Ahdab; used only for public CDN cover image variants with attribution kept in data/assets.json."
   },
   {
     "id": "sy-university-of-kalamoon-official-logo",

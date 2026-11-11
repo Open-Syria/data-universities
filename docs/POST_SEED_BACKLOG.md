@@ -46,6 +46,10 @@ The current reviewed logo batch covers all 57 canonical universities. Future
 logo replacements should wait until a clean official logo source is reviewed
 and uploaded.
 
+Optional Wikimedia Commons cover photos cover 10 of 57 canonical universities
+after the 2026-11-11 batch. The other 47 need a free-licence Commons photo that
+passes review before a cover is added.
+
 Before uploading logos or optional images to R2:
 
 - confirm source URL, institution match, reuse constraints, and attribution
