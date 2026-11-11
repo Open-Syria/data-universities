@@ -55,5 +55,7 @@ upload, and attribution or rights notes before they enter `data/assets.json`.
 The current reviewed logo batch covers all 57 canonical universities. Future
 logo changes should still wait for a clean official logo source, trademark or
 reuse review, and CDN upload.
+Optional Wikimedia Commons cover photos currently cover 10 of 57 universities;
+they are not a readiness gate.
 Ranking snapshots must come from an approved ranking source and stay in
 `data/rankings.json`, not in `data/universities.json`.

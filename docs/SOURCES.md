@@ -31,6 +31,13 @@ or official social-page logo sources when no website logo is available and the
 page identity is clear. Retain the exact source URL and trademark or reuse notes
 in `data/assets.json`.
 
+Optional cover photo rows (`campus` or `building` roles) use Wikimedia Commons
+files only, under free licences: CC0, public domain, CC BY, or CC BY-SA. Do not
+use university website or social media photos as covers. Register one approved
+source per Commons file page and keep the creator, licence, licence URL, and
+attribution requirement in `data/assets.json` so credit can be shown wherever the
+image appears.
+
 Do not import private directories, leaked data, student records, staff records, account data, or content whose license does not permit reuse.
 
 For source partnerships or unusual source proposals, contact `data@opensyria.org` before importing or transforming data.

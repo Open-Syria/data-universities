@@ -32,12 +32,40 @@ complete.
 
 There are no remaining logo gaps in the current canonical university dataset.
 
+## Cover Photos
+
+The 2026-11-11 cover batch searched Wikimedia Commons for all 57 canonical
+universities, sent 31 candidate files for 16 universities through the licence
+review, and approved 10 photos:
+
+- `campus`: Latakia University, University of Aleppo, University of Kalamoon,
+- `building`: Al-Jazeera Private University, Al-Shamal Private University,
+  Damascus University (Faculty of Medicine), Hama University, Homs University,
+  Mari Private University, Syrian Private University (hospital building).
+
+The approved photos were resized to 54 WebP/AVIF variants under
+`universities/<university-id>/cover-v1/`, uploaded to R2, and verified through
+`https://cdn.opensyria.org` (HTTP 200 and matching SHA-256 for every variant).
+The provenance is recorded in
+`imports/manifests/wikimedia-commons-university-covers-2026-11-11.json`.
+
+Current cover coverage is 10 of 57 canonical universities. The other 47 have no
+Commons photo that passed review yet. Covers are optional and do not affect the
+logo coverage gate.
+
 ## Rules
 
 - Do not hotlink external source images from canonical records.
 - Do not upload logos without confirming the institution match, source URL, and
   trademark or reuse constraints.
 - Do not upload non-logo images without confirming reuse rights and attribution requirements.
+- Take cover photos from Wikimedia Commons only, under CC0, public domain, CC BY,
+  or CC BY-SA. Skip photos that are too small, show interiors or people, depict a
+  different institution, or have a licence that cannot be verified.
+- Keep the Commons file page, creator, licence, licence URL, and attribution
+  requirement on every cover asset so credit can be shown.
+- Only resize cover photos (640, 1280, and 1920 px wide, never upscaled); do not
+  crop or otherwise edit them.
 - Keep source download manifests as review artifacts.
 - Generate WebP and AVIF variants before upload.
 - Run an R2 dry run before uploading.
@@ -58,7 +86,8 @@ There are no remaining logo gaps in the current canonical university dataset.
 7. Inspect object keys and public URLs.
 8. Upload to R2 only after review.
 9. Add CDN URLs to canonical `data/assets.json` records with `assetRole:
-   "logo"` and attribution or rights notes.
+   "logo"` (or `"campus"` / `"building"` for cover photos) and attribution or
+   rights notes.
 
 ## Schema Decision
 

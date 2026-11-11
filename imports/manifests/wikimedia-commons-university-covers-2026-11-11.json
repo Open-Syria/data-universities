@@ -1,0 +1,51 @@
+{
+  "sourceId": "wikimedia-commons-university-covers-2026-11-11",
+  "sourceTitle": "Wikimedia Commons university cover photo batch",
+  "sourceUrl": "https://commons.wikimedia.org/",
+  "license": "Per-file free licences: CC BY 2.0, CC BY-SA 3.0, CC BY-SA 4.0, or public domain",
+  "accessedAt": "2026-11-11T13:22:10.485Z",
+  "status": "reviewed",
+  "rawFiles": [
+    {
+      "name": "cover-candidates.json",
+      "sha256": "45429fb0ace097e919f589da796e4c44d993a3dc12b4d461942a81d96d29843d",
+      "notes": "Local maintainer artifact listing 31 Wikimedia Commons cover candidates for 16 canonical universities."
+    },
+    {
+      "name": "wikimedia-image-license-review.json",
+      "sha256": "62f53cce71ec710c429227405d983b9426f9d811b3165bfd97d2a41737a132c3",
+      "notes": "Local licence and attribution review manifest generated from Wikimedia Commons API imageinfo metadata for the 31 candidates."
+    },
+    {
+      "name": "cover-image-manifest.approved.json",
+      "sha256": "d022fcbcf59a7155efa067557975417020ff929becbaaadd3daaf0f427e81196",
+      "notes": "Local approved manifest for the 10 cover photos selected after licence and image review."
+    },
+    {
+      "name": "image-assets-manifest.json",
+      "sha256": "d6589a10ad3e819a3fe447aab57f5e41b14ab7ceb8a4aebdc48ff8ab243c4e39",
+      "notes": "Generated WebP and AVIF variant manifest for the 10 approved cover photos (54 variants)."
+    },
+    {
+      "name": "image-assets-upload.dry-run.json",
+      "sha256": "3d912e496eae9c31362b900c78ffeb54458f74151e06150cfe7839fe901279b1",
+      "notes": "R2 dry-run upload manifest for the cover variants."
+    },
+    {
+      "name": "image-assets-upload.json",
+      "sha256": "391c31ad9f1def459786c5151eb018239969e3be85cb68f6b16241a51ef1c84c",
+      "notes": "R2 upload manifest for the 54 cover variant objects."
+    }
+  ],
+  "importedFields": ["cover image variants", "source URLs", "attribution", "license notes"],
+  "targetFiles": ["data/assets.json", "data/sources.json"],
+  "transforms": [
+    "Searched Wikimedia Commons only (Wikidata P18, Commons categories, English and Arabic Commons search, and depicts statements) for the 57 canonical universities.",
+    "Kept free-licence candidates only (CC0, public domain, CC BY, CC BY-SA) and reviewed licence, creator, and file page metadata through the Commons API.",
+    "Rejected candidates that were too small, showed interiors or people, depicted a different institution, or had a licence that could not be verified.",
+    "Resized each approved photo to WebP and AVIF variants at 640, 1280, and 1920 px wide without upscaling; smaller originals keep their own width as the largest variant. No crops or other edits.",
+    "Uploaded the 54 variants to R2 under the universities/<university-id>/cover-v1 key namespace and verified every CDN URL returns HTTP 200 with a matching SHA-256.",
+    "Added cover asset records with Commons file page, creator, licence, and attribution requirements to data/assets.json, and one approved source per file to data/sources.json."
+  ],
+  "reviewNotes": "Optional cover photo batch: 10 approved Wikimedia Commons photos for 10 of 57 canonical universities. Damascus University uses a Faculty of Medicine building photo; the Syrian Private University photo shows its hospital building. Cover photos do not change the logo coverage gate."
+}

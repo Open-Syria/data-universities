@@ -24,6 +24,9 @@ pnpm run coverage:data
   canonical universities.
 - 0 canonical universities still need an approved official logo source and CDN
   upload.
+- 10 optional Wikimedia Commons cover photo asset records in `data/assets.json`
+  (3 `campus`, 7 `building`), covering 10 of 57 canonical universities. Covers
+  do not count toward logo coverage.
 - 65 approved ranking snapshot records in `data/rankings.json`, covering 44
   canonical universities. These include Webometrics January 2026, Arab Ranking
   for Universities 2025, Times Higher Education World University Rankings 2026,

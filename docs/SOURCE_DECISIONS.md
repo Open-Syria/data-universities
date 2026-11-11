@@ -15,5 +15,17 @@ Record source approval decisions here as real university sources are reviewed.
 | webometrics-org-global-web-rankings-january-2026-syria | approved | Source-backed January 2026 world-rank and Syria-rank snapshots for clear missing canonical matches in the independent Webometrics.org table. | Approved narrowly for factual table values only; kept separate from the Webometrics.info/Figshare source. |
 | webometrics-ranking-web-january-2026 | approved | Source-backed ranking snapshots where the Figshare PDF publishes an explicit rank for a canonical Syrian institution. | Approved under CC BY 4.0. Only imported rows visible in the published PDF; the unavailable full Excel list was not copied or inferred. |
 | `sy-...-official-logo` | approved | Per-university official website and official social-page logo sources for the reviewed logo batch. | Approved narrowly for public logo identification assets. Exact source URLs, trademark notes, and CDN variants are retained in `data/assets.json`. |
+| `sy-...-commons-cover` | approved | Per-file Wikimedia Commons photos used as optional cover images for 10 universities (2026-11-11 batch). | Approved because each file carries a free licence (CC BY 2.0, CC BY-SA 3.0, CC BY-SA 4.0, or public domain) checked through Commons metadata, and the creator, licence, and file page are kept in `data/assets.json` so credit is shown. CDN copies are resized WebP/AVIF only; BY-SA derivatives keep the same licence. |
+
+Cover photo review notes for the 2026-11-11 batch:
+
+- Only free-licence Commons files were considered; university website and social
+  media photos were excluded.
+- Candidates were rejected when they were too small, showed interiors or people,
+  depicted a different institution, or had a licence that could not be verified.
+- Damascus University uses a public domain photo of its Faculty of Medicine
+  building.
+- The Syrian Private University photo shows the university hospital building,
+  not the main campus; the asset title and notes say so.
 
 No approved source has been registered yet for canonical faculty or program rows.

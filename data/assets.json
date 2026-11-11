@@ -415,6 +415,79 @@
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
+    "id": "sy-al-jazeera-private-university-cover",
+    "universityId": "sy-al-jazeera-private-university",
+    "assetType": "image",
+    "assetRole": "building",
+    "title": {
+      "en": "Al-Jazeera Private University building",
+      "ar": "مبنى جامعة الجزيرة الخاصة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-jazeera-private-university/cover-v1/w640.webp",
+        "key": "universities/sy-al-jazeera-private-university/cover-v1/w640.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 640,
+        "height": 480,
+        "sha256": "94013b4784128d64150bc48486ad138a6b7e79f078179a2b07d6506cd32c1560",
+        "sizeBytes": 37680
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-jazeera-private-university/cover-v1/w640.avif",
+        "key": "universities/sy-al-jazeera-private-university/cover-v1/w640.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 640,
+        "height": 480,
+        "sha256": "46be981a57da40192c7977b52b6d4419485ac7fb8e952af18e7e1c98f6e8bbcf",
+        "sizeBytes": 54852
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-jazeera-private-university/cover-v1/w960.webp",
+        "key": "universities/sy-al-jazeera-private-university/cover-v1/w960.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 960,
+        "height": 720,
+        "sha256": "9dc5720b8b925f10c84d384e568004ecc30d7892dff8606d85f1bce754840afa",
+        "sizeBytes": 82976
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-jazeera-private-university/cover-v1/w960.avif",
+        "key": "universities/sy-al-jazeera-private-university/cover-v1/w960.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 960,
+        "height": 720,
+        "sha256": "f29875b618bf2df3a0d90a60499b67b236086d8ff642cf03cfb557dc2f0679d5",
+        "sizeBytes": 84040
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Wikimedia Commons",
+      "sourceTitle": "File:جامعة الجزيرة مبنى.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D9%85%D8%A8%D9%86%D9%89.jpg",
+      "creator": "Aaasss1999",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionRequired": true
+    },
+    "sourceIds": ["sy-al-jazeera-private-university-commons-cover"],
+    "sourceReferences": [
+      {
+        "sourceId": "sy-al-jazeera-private-university-commons-cover",
+        "sourceRecordId": "https://commons.wikimedia.org/wiki/File:%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D9%85%D8%A8%D9%86%D9%89.jpg",
+        "sourceRecordDate": "2019-09-13",
+        "accessedAt": "2026-11-11T13:22:10.485Z"
+      }
+    ],
+    "sourceStatus": "released",
+    "notes": "Wikimedia Commons photo stored as OpenSyria CDN cover variants (resized WebP/AVIF only, no other edits). Attribution required: \"Aaasss1999, CC BY-SA 4.0, via Wikimedia Commons\". The resized CDN variants are derivatives and stay under the same share-alike licence. Exterior of the university building; 960 px wide (800-1199 tier) because no larger free photo exists on Commons."
+  },
+  {
     "id": "sy-al-jazeera-private-university-logo",
     "universityId": "sy-al-jazeera-private-university",
     "assetType": "image",
@@ -1154,6 +1227,99 @@
     ],
     "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-al-shamal-private-university-cover",
+    "universityId": "sy-al-shamal-private-university",
+    "assetType": "image",
+    "assetRole": "building",
+    "title": {
+      "en": "Al-Shamal Private University main facade",
+      "ar": "الواجهة الرئيسية لجامعة الشمال الخاصة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-shamal-private-university/cover-v1/w640.webp",
+        "key": "universities/sy-al-shamal-private-university/cover-v1/w640.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 640,
+        "height": 427,
+        "sha256": "d4dae0e938b67bb66548e38affd61e3400f05f3433bb69b15a6256cfe30b915f",
+        "sizeBytes": 35582
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-shamal-private-university/cover-v1/w640.avif",
+        "key": "universities/sy-al-shamal-private-university/cover-v1/w640.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 640,
+        "height": 427,
+        "sha256": "739ebc5e74f93d55043ae835627f42ac632fa39f5c17e20555768e193b50a306",
+        "sizeBytes": 79215
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-shamal-private-university/cover-v1/w1280.webp",
+        "key": "universities/sy-al-shamal-private-university/cover-v1/w1280.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 1280,
+        "height": 853,
+        "sha256": "a8dc4f9dcb6f20f150ba3de7cd2bef943de26c5b12b05805069cb2c4202d9082",
+        "sizeBytes": 97512
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-shamal-private-university/cover-v1/w1280.avif",
+        "key": "universities/sy-al-shamal-private-university/cover-v1/w1280.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 1280,
+        "height": 853,
+        "sha256": "a7b9b565ca11577b73c0107d3afaeb6e1b51843b61ab5f63a3b0d4287a1ceed5",
+        "sizeBytes": 171542
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-shamal-private-university/cover-v1/w1920.webp",
+        "key": "universities/sy-al-shamal-private-university/cover-v1/w1920.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 1920,
+        "height": 1280,
+        "sha256": "1b135230908ce71be641478d90c47e405a2be949f0d49221145b4a1474080825",
+        "sizeBytes": 175264
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-al-shamal-private-university/cover-v1/w1920.avif",
+        "key": "universities/sy-al-shamal-private-university/cover-v1/w1920.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 1920,
+        "height": 1280,
+        "sha256": "1f85b457448ec22d73c77fb0b21f40961f6d17eb73118ea6a01b3acdd1cc99d3",
+        "sizeBytes": 285640
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Wikimedia Commons",
+      "sourceTitle": "File:واجهة جامعة الشمال الخاصة سوريا.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D9%88%D8%A7%D8%AC%D9%87%D8%A9_%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84_%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9_%D8%B3%D9%88%D8%B1%D9%8A%D8%A7.jpg",
+      "creator": "Abdulhalim Bakkour",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionRequired": true
+    },
+    "sourceIds": ["sy-al-shamal-private-university-commons-cover"],
+    "sourceReferences": [
+      {
+        "sourceId": "sy-al-shamal-private-university-commons-cover",
+        "sourceRecordId": "https://commons.wikimedia.org/wiki/File:%D9%88%D8%A7%D8%AC%D9%87%D8%A9_%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84_%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9_%D8%B3%D9%88%D8%B1%D9%8A%D8%A7.jpg",
+        "sourceRecordDate": "2021-09-29",
+        "accessedAt": "2026-11-11T13:22:10.485Z"
+      }
+    ],
+    "sourceStatus": "released",
+    "notes": "Wikimedia Commons photo stored as OpenSyria CDN cover variants (resized WebP/AVIF only, no other edits). Attribution required: \"Abdulhalim Bakkour, CC BY-SA 4.0, via Wikimedia Commons\". The resized CDN variants are derivatives and stay under the same share-alike licence. Main facade with the university name sign; 5184 px wide."
   },
   {
     "id": "sy-al-shamal-private-university-logo",
@@ -2199,6 +2365,99 @@
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
+    "id": "sy-damascus-university-cover",
+    "universityId": "sy-damascus-university",
+    "assetType": "image",
+    "assetRole": "building",
+    "title": {
+      "en": "Damascus University Faculty of Medicine building",
+      "ar": "مبنى كلية الطب في جامعة دمشق"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-damascus-university/cover-v1/w640.webp",
+        "key": "universities/sy-damascus-university/cover-v1/w640.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 640,
+        "height": 480,
+        "sha256": "87ed5c87c9defa4d3b9130c3df3bb281bc2c2a881f507db19156f45ca588c730",
+        "sizeBytes": 36542
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-damascus-university/cover-v1/w640.avif",
+        "key": "universities/sy-damascus-university/cover-v1/w640.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 640,
+        "height": 480,
+        "sha256": "804752a266963c734a80bf4a37c8fe1f114e2bbd2adfbfb0b342021c7ced5a3a",
+        "sizeBytes": 77550
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-damascus-university/cover-v1/w1280.webp",
+        "key": "universities/sy-damascus-university/cover-v1/w1280.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 1280,
+        "height": 960,
+        "sha256": "f3896ee941acf6b100f4b2f9db97138866dfd86ff109a42cf42b602627889b3a",
+        "sizeBytes": 98148
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-damascus-university/cover-v1/w1280.avif",
+        "key": "universities/sy-damascus-university/cover-v1/w1280.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 1280,
+        "height": 960,
+        "sha256": "1eadcc57bc1a0368b2b0f883e155fac062fca0def37e1639aa5c60a0b75ac6c8",
+        "sizeBytes": 170242
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-damascus-university/cover-v1/w1920.webp",
+        "key": "universities/sy-damascus-university/cover-v1/w1920.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 1920,
+        "height": 1440,
+        "sha256": "43ede7d1b9c9b1f4aefbce36d6b72eb2e79d467c0b0f8b610a61dc2af72963b1",
+        "sizeBytes": 173564
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-damascus-university/cover-v1/w1920.avif",
+        "key": "universities/sy-damascus-university/cover-v1/w1920.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 1920,
+        "height": 1440,
+        "sha256": "76cb322586c4228e212a2a841174b6a8d5b9e0de991c163e11b23f1aa28ae42a",
+        "sizeBytes": 272240
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Wikimedia Commons",
+      "sourceTitle": "File:Faculty of Medicine Damascus2.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Faculty_of_Medicine_Damascus2.jpg",
+      "creator": "Osm agha",
+      "credit": "My original work",
+      "license": "Public domain (PD-self)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-self",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-damascus-university-commons-cover"],
+    "sourceReferences": [
+      {
+        "sourceId": "sy-damascus-university-commons-cover",
+        "sourceRecordId": "https://commons.wikimedia.org/wiki/File:Faculty_of_Medicine_Damascus2.jpg",
+        "sourceRecordDate": "2008-04-15",
+        "accessedAt": "2026-11-11T13:22:10.485Z"
+      }
+    ],
+    "sourceStatus": "released",
+    "notes": "Wikimedia Commons photo stored as OpenSyria CDN cover variants (resized WebP/AVIF only, no other edits). No attribution legally required; credit the creator and Wikimedia Commons as good practice. Faculty of Medicine building exterior on the Damascus University campus, no people; chosen over the 1106 px Wikidata P18 because it is at least 1200 px wide."
+  },
+  {
     "id": "sy-damascus-university-logo",
     "universityId": "sy-damascus-university",
     "assetType": "image",
@@ -2450,6 +2709,99 @@
     ],
     "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-hama-university-cover",
+    "universityId": "sy-hama-university",
+    "assetType": "image",
+    "assetRole": "building",
+    "title": {
+      "en": "Hama University headquarters",
+      "ar": "مقر جامعة حماة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-hama-university/cover-v1/w640.webp",
+        "key": "universities/sy-hama-university/cover-v1/w640.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 640,
+        "height": 265,
+        "sha256": "ef0705fd8ce33193b7669d5d4bf884a4d18ab52cc3c65ec8810df841998eb83b",
+        "sizeBytes": 44220
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-hama-university/cover-v1/w640.avif",
+        "key": "universities/sy-hama-university/cover-v1/w640.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 640,
+        "height": 265,
+        "sha256": "3458ac32659de873ebfab6d280c1f74db223715ecd87639d84389be9f4926453",
+        "sizeBytes": 60462
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-hama-university/cover-v1/w1280.webp",
+        "key": "universities/sy-hama-university/cover-v1/w1280.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 1280,
+        "height": 530,
+        "sha256": "45980b4b1b717326425b6632c16f528c764807ab07d983170f22b82690462352",
+        "sizeBytes": 139274
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-hama-university/cover-v1/w1280.avif",
+        "key": "universities/sy-hama-university/cover-v1/w1280.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 1280,
+        "height": 530,
+        "sha256": "a592572e557f9c2d40faf9e340f6ed095a4a57511b245b3929b59e218fde65dc",
+        "sizeBytes": 188016
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-hama-university/cover-v1/w1920.webp",
+        "key": "universities/sy-hama-university/cover-v1/w1920.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 1920,
+        "height": 795,
+        "sha256": "508b3088edbb2fb913d14440344672be280dc647b74009e760ba23de940311f1",
+        "sizeBytes": 238392
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-hama-university/cover-v1/w1920.avif",
+        "key": "universities/sy-hama-university/cover-v1/w1920.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 1920,
+        "height": 795,
+        "sha256": "82549a4e24c58a38b50705a6c08153607265227c8f31e986074342ce5e9ae31e",
+        "sizeBytes": 318558
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Wikimedia Commons",
+      "sourceTitle": "File:Hama University Headquarters.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hama_University_Headquarters.jpg",
+      "creator": "Yaseendh",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionRequired": true
+    },
+    "sourceIds": ["sy-hama-university-commons-cover"],
+    "sourceReferences": [
+      {
+        "sourceId": "sy-hama-university-commons-cover",
+        "sourceRecordId": "https://commons.wikimedia.org/wiki/File:Hama_University_Headquarters.jpg",
+        "sourceRecordDate": "2022-04-21",
+        "accessedAt": "2026-11-11T13:22:10.485Z"
+      }
+    ],
+    "sourceStatus": "released",
+    "notes": "Wikimedia Commons photo stored as OpenSyria CDN cover variants (resized WebP/AVIF only, no other edits). Attribution required: \"Yaseendh, CC BY-SA 4.0, via Wikimedia Commons\". The resized CDN variants are derivatives and stay under the same share-alike licence. Current university headquarters exterior (wide 2.4:1 frame suits a banner)."
   },
   {
     "id": "sy-hama-university-logo",
@@ -3080,6 +3432,79 @@
     "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
+    "id": "sy-homs-university-cover",
+    "universityId": "sy-homs-university",
+    "assetType": "image",
+    "assetRole": "building",
+    "title": {
+      "en": "Homs University Faculty of Medicine building",
+      "ar": "مبنى كلية الطب البشري في جامعة حمص"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-homs-university/cover-v1/w640.webp",
+        "key": "universities/sy-homs-university/cover-v1/w640.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 640,
+        "height": 480,
+        "sha256": "ef27251e2afc09755c8016e22b5ef9e92666bd5a585e8ba68689997784bfd1ed",
+        "sizeBytes": 47918
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-homs-university/cover-v1/w640.avif",
+        "key": "universities/sy-homs-university/cover-v1/w640.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 640,
+        "height": 480,
+        "sha256": "7dd4a8997f501e288511f11d85ccd30a64eaf9dd903449ca76efc353f44b87e3",
+        "sizeBytes": 71835
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-homs-university/cover-v1/w800.webp",
+        "key": "universities/sy-homs-university/cover-v1/w800.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 800,
+        "height": 600,
+        "sha256": "8a01ff9a22ab258e4bd0ffc4f67eada77a6e3219bf86d10d06c6c20b3e3937d2",
+        "sizeBytes": 81950
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-homs-university/cover-v1/w800.avif",
+        "key": "universities/sy-homs-university/cover-v1/w800.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 800,
+        "height": 600,
+        "sha256": "7b95970736e0ce03b0d912de23f4ae641202b74ae0d45a9f461266b3b2114e95",
+        "sizeBytes": 117702
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Wikimedia Commons",
+      "sourceTitle": "File:Faculty of Medicine, Homs University.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Faculty_of_Medicine,_Homs_University.jpg",
+      "creator": "Bassel (Bassel.khabbaz)",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionRequired": true
+    },
+    "sourceIds": ["sy-homs-university-commons-cover"],
+    "sourceReferences": [
+      {
+        "sourceId": "sy-homs-university-commons-cover",
+        "sourceRecordId": "https://commons.wikimedia.org/wiki/File:Faculty_of_Medicine,_Homs_University.jpg",
+        "sourceRecordDate": "2014-08-05",
+        "accessedAt": "2026-11-11T13:22:10.485Z"
+      }
+    ],
+    "sourceStatus": "released",
+    "notes": "Wikimedia Commons photo stored as OpenSyria CDN cover variants (resized WebP/AVIF only, no other edits). Attribution required: \"Bassel (Bassel.khabbaz), CC BY-SA 4.0, via Wikimedia Commons\". The resized CDN variants are derivatives and stay under the same share-alike licence. Faculty of Medicine exterior; only 800 px wide (800-1199 tier). Larger Homs photos are interiors, portrait-only, or show a since-removed political statue."
+  },
+  {
     "id": "sy-homs-university-logo",
     "universityId": "sy-homs-university",
     "assetType": "image",
@@ -3546,6 +3971,99 @@
     "notes": "Official Facebook page logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
+    "id": "sy-latakia-university-cover",
+    "universityId": "sy-latakia-university",
+    "assetType": "image",
+    "assetRole": "campus",
+    "title": {
+      "en": "Latakia University campus",
+      "ar": "حرم جامعة اللاذقية"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-latakia-university/cover-v1/w640.webp",
+        "key": "universities/sy-latakia-university/cover-v1/w640.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 640,
+        "height": 427,
+        "sha256": "a0fa59dcae42784fbc70f1237b2cfad3319c98674833804b0d34db779f023d62",
+        "sizeBytes": 59014
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-latakia-university/cover-v1/w640.avif",
+        "key": "universities/sy-latakia-university/cover-v1/w640.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 640,
+        "height": 427,
+        "sha256": "5ff8de72334956bb2d2b02094152527ac2fbfda519b7046574389b592d517a04",
+        "sizeBytes": 94712
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-latakia-university/cover-v1/w1280.webp",
+        "key": "universities/sy-latakia-university/cover-v1/w1280.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 1280,
+        "height": 853,
+        "sha256": "a982e44f5ba487542a4df50840bf3608c6ec4741abdaa9aad1e4faa8a09e3c11",
+        "sizeBytes": 191616
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-latakia-university/cover-v1/w1280.avif",
+        "key": "universities/sy-latakia-university/cover-v1/w1280.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 1280,
+        "height": 853,
+        "sha256": "dc753be5d8a169d22bb91902da9eb587ad775a135ff7f7b7168d855647911bcd",
+        "sizeBytes": 305255
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-latakia-university/cover-v1/w1920.webp",
+        "key": "universities/sy-latakia-university/cover-v1/w1920.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 1920,
+        "height": 1280,
+        "sha256": "dff8c7261e2087c994ae79892bbf7eba474b41652d3b52f679c05b8cd9f0b4dd",
+        "sizeBytes": 358886
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-latakia-university/cover-v1/w1920.avif",
+        "key": "universities/sy-latakia-university/cover-v1/w1920.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 1920,
+        "height": 1280,
+        "sha256": "b140f9569daa127dc0b42ad8163e81a918e64e57f1f3efc2333b47da342eb5fd",
+        "sizeBytes": 571329
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Wikimedia Commons",
+      "sourceTitle": "File:University of Latakia building and perimeter 2002.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:University_of_Latakia_building_and_perimeter_2002.jpg",
+      "creator": "فادي شاهين (Fadi Shahin)",
+      "credit": "Transferred from Arabic Wikipedia",
+      "license": "Public domain (PD-user-w: released by the author on Arabic Wikipedia)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-user-w",
+      "attributionRequired": false
+    },
+    "sourceIds": ["sy-latakia-university-commons-cover"],
+    "sourceReferences": [
+      {
+        "sourceId": "sy-latakia-university-commons-cover",
+        "sourceRecordId": "https://commons.wikimedia.org/wiki/File:University_of_Latakia_building_and_perimeter_2002.jpg",
+        "sourceRecordDate": "2002",
+        "accessedAt": "2026-11-11T13:22:10.485Z"
+      }
+    ],
+    "sourceStatus": "released",
+    "notes": "Wikimedia Commons photo stored as OpenSyria CDN cover variants (resized WebP/AVIF only, no other edits). No attribution legally required; credit the creator and Wikimedia Commons as good practice. Campus and main building photographed in 2002 when the institution was Tishreen University; public domain release by the author."
+  },
+  {
     "id": "sy-latakia-university-logo",
     "universityId": "sy-latakia-university",
     "assetType": "image",
@@ -3635,6 +4153,99 @@
     ],
     "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-mari-private-university-cover",
+    "universityId": "sy-mari-private-university",
+    "assetType": "image",
+    "assetRole": "building",
+    "title": {
+      "en": "Mari Private University building",
+      "ar": "مبنى جامعة ماري الخاصة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-mari-private-university/cover-v1/w640.webp",
+        "key": "universities/sy-mari-private-university/cover-v1/w640.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 640,
+        "height": 480,
+        "sha256": "5fcfb13a0bfb4ffc126ed74d263478f91e46f5b53815b6b7d170771af11a92e1",
+        "sizeBytes": 62470
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-mari-private-university/cover-v1/w640.avif",
+        "key": "universities/sy-mari-private-university/cover-v1/w640.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 640,
+        "height": 480,
+        "sha256": "250a8f6adea97f8c935072b40914f495de38447bf5e521dedbecaebf0d58d872",
+        "sizeBytes": 134474
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-mari-private-university/cover-v1/w1280.webp",
+        "key": "universities/sy-mari-private-university/cover-v1/w1280.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 1280,
+        "height": 960,
+        "sha256": "5db319540f46e432eee2e9709691fca8152f058f46f8f0608eb43b41ab11436b",
+        "sizeBytes": 206534
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-mari-private-university/cover-v1/w1280.avif",
+        "key": "universities/sy-mari-private-university/cover-v1/w1280.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 1280,
+        "height": 960,
+        "sha256": "9c2695c6378a50420c32f831cce485f6da84979bd09a1ac9182001244ee654e2",
+        "sizeBytes": 324741
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-mari-private-university/cover-v1/w1920.webp",
+        "key": "universities/sy-mari-private-university/cover-v1/w1920.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 1920,
+        "height": 1440,
+        "sha256": "8393cc03d5d3935f30ffa4bd2d0ac42e41b27b18b9891f81ed28df3521f53bb4",
+        "sizeBytes": 407096
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-mari-private-university/cover-v1/w1920.avif",
+        "key": "universities/sy-mari-private-university/cover-v1/w1920.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 1920,
+        "height": 1440,
+        "sha256": "4e465b0613ce194e9525d47f5b8a7944040b894854d27331b03dee0c151ad079",
+        "sizeBytes": 586588
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Wikimedia Commons",
+      "sourceTitle": "File:جامعة ماري الخاصة M.P.U.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D9%85%D8%A7%D8%B1%D9%8A_%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9_M.P.U.jpg",
+      "creator": "THMH2011",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attributionRequired": true
+    },
+    "sourceIds": ["sy-mari-private-university-commons-cover"],
+    "sourceReferences": [
+      {
+        "sourceId": "sy-mari-private-university-commons-cover",
+        "sourceRecordId": "https://commons.wikimedia.org/wiki/File:%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D9%85%D8%A7%D8%B1%D9%8A_%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9_M.P.U.jpg",
+        "sourceRecordDate": "2023-01-01",
+        "accessedAt": "2026-11-11T13:22:10.485Z"
+      }
+    ],
+    "sourceStatus": "released",
+    "notes": "Wikimedia Commons photo stored as OpenSyria CDN cover variants (resized WebP/AVIF only, no other edits). Attribution required: \"THMH2011, CC BY-SA 4.0, via Wikimedia Commons\". The resized CDN variants are derivatives and stay under the same share-alike licence. University building exterior, 2023; 4000 px wide."
   },
   {
     "id": "sy-mari-private-university-logo",
@@ -3868,6 +4479,79 @@
     ],
     "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-syrian-private-university-cover",
+    "universityId": "sy-syrian-private-university",
+    "assetType": "image",
+    "assetRole": "building",
+    "title": {
+      "en": "Syrian Private University hospital building",
+      "ar": "مبنى مشفى الجامعة السورية الخاصة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-syrian-private-university/cover-v1/w640.webp",
+        "key": "universities/sy-syrian-private-university/cover-v1/w640.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 640,
+        "height": 380,
+        "sha256": "769eab13e88d4e6b4637cf32e7fa930d99c0d5b53809124488f4c9b453400580",
+        "sizeBytes": 28694
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-syrian-private-university/cover-v1/w640.avif",
+        "key": "universities/sy-syrian-private-university/cover-v1/w640.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 640,
+        "height": 380,
+        "sha256": "6f85ba466aef7ab2545fb8a5af0a8791fbfe4b63e79800974e678a3d6c6ccb27",
+        "sizeBytes": 37012
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-syrian-private-university/cover-v1/w1000.webp",
+        "key": "universities/sy-syrian-private-university/cover-v1/w1000.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 1000,
+        "height": 594,
+        "sha256": "3d1bab3108cd41aa605841a8424d0c6c8a5f2f2750076a28e6daae2b4fb12bdd",
+        "sizeBytes": 55294
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-syrian-private-university/cover-v1/w1000.avif",
+        "key": "universities/sy-syrian-private-university/cover-v1/w1000.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 1000,
+        "height": 594,
+        "sha256": "46b0af5534b3a112dea8658af5f787490babcd934274621503b71e39dafcf808",
+        "sizeBytes": 67489
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Wikimedia Commons",
+      "sourceTitle": "File:Spumc.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spumc.jpg",
+      "creator": "Zaifoi",
+      "credit": "Own work",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attributionRequired": true
+    },
+    "sourceIds": ["sy-syrian-private-university-commons-cover"],
+    "sourceReferences": [
+      {
+        "sourceId": "sy-syrian-private-university-commons-cover",
+        "sourceRecordId": "https://commons.wikimedia.org/wiki/File:Spumc.jpg",
+        "sourceRecordDate": "2012-10-10",
+        "accessedAt": "2026-11-11T13:22:10.485Z"
+      }
+    ],
+    "sourceStatus": "released",
+    "notes": "Wikimedia Commons photo stored as OpenSyria CDN cover variants (resized WebP/AVIF only, no other edits). Attribution required: \"Zaifoi, CC BY-SA 3.0, via Wikimedia Commons\". The resized CDN variants are derivatives and stay under the same share-alike licence. Syrian Private University hospital building (per the Commons description); 1000 px wide (800-1199 tier). The photo shows the university hospital building, not the main campus."
   },
   {
     "id": "sy-syrian-private-university-logo",
@@ -4194,6 +4878,99 @@
     "notes": "Official university website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
   },
   {
+    "id": "sy-university-of-aleppo-cover",
+    "universityId": "sy-university-of-aleppo",
+    "assetType": "image",
+    "assetRole": "campus",
+    "title": {
+      "en": "University of Aleppo Faculty of Arts and Humanities",
+      "ar": "كلية الآداب والعلوم الإنسانية في جامعة حلب"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-aleppo/cover-v1/w640.webp",
+        "key": "universities/sy-university-of-aleppo/cover-v1/w640.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 640,
+        "height": 341,
+        "sha256": "05ba80f692a228507c061d2f275b6ecec02a240269d4d8a3ed8055b3ca4c0f36",
+        "sizeBytes": 38752
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-aleppo/cover-v1/w640.avif",
+        "key": "universities/sy-university-of-aleppo/cover-v1/w640.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 640,
+        "height": 341,
+        "sha256": "560a59fa6d4bff68efc5c9da452c22c30eebb9e93a45c089e4ac4b15343e7fc3",
+        "sizeBytes": 66605
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-aleppo/cover-v1/w1280.webp",
+        "key": "universities/sy-university-of-aleppo/cover-v1/w1280.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 1280,
+        "height": 682,
+        "sha256": "3d32d859ddcee9c9a84f22fa65123a577e40edb7f3834f259d7f1812fe341ad1",
+        "sizeBytes": 124272
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-aleppo/cover-v1/w1280.avif",
+        "key": "universities/sy-university-of-aleppo/cover-v1/w1280.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 1280,
+        "height": 682,
+        "sha256": "e59784cf8031563cd9bb4269e71881e9248acf9ac2a4b226ea8b97fc95930307",
+        "sizeBytes": 216226
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-aleppo/cover-v1/w1920.webp",
+        "key": "universities/sy-university-of-aleppo/cover-v1/w1920.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 1920,
+        "height": 1023,
+        "sha256": "5e35fcd73710ec11ecd6270fb6cf8857cff0520eeddd545038b30d384ad50c8c",
+        "sizeBytes": 246086
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-aleppo/cover-v1/w1920.avif",
+        "key": "universities/sy-university-of-aleppo/cover-v1/w1920.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 1920,
+        "height": 1023,
+        "sha256": "91d4ea04203d17f831f78ab9376764d67faf5469c0b411e86ea67d20017e5876",
+        "sizeBytes": 412109
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Wikimedia Commons",
+      "sourceTitle": "File:Aleppo University, Faculty of Arts and Humanities.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aleppo_University,_Faculty_of_Arts_and_Humanities.jpg",
+      "creator": "Majd Mohabek",
+      "credit": "Flickr: https://www.flickr.com/photos/majd192/5967108882/",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "attributionRequired": true
+    },
+    "sourceIds": ["sy-university-of-aleppo-commons-cover"],
+    "sourceReferences": [
+      {
+        "sourceId": "sy-university-of-aleppo-commons-cover",
+        "sourceRecordId": "https://commons.wikimedia.org/wiki/File:Aleppo_University,_Faculty_of_Arts_and_Humanities.jpg",
+        "sourceRecordDate": "2011-05-28",
+        "accessedAt": "2026-11-11T13:22:10.485Z"
+      }
+    ],
+    "sourceStatus": "released",
+    "notes": "Wikimedia Commons photo stored as OpenSyria CDN cover variants (resized WebP/AVIF only, no other edits). Attribution required: \"Majd Mohabek, CC BY 2.0, via Wikimedia Commons\". Faculty of Arts and Humanities and campus plaza; Flickr CC BY 2.0 import passed FlickreviewR."
+  },
+  {
     "id": "sy-university-of-aleppo-logo",
     "universityId": "sy-university-of-aleppo",
     "assetType": "image",
@@ -4283,6 +5060,99 @@
     ],
     "sourceStatus": "released",
     "notes": "Official website logo stored as OpenSyria CDN variants for institution identification; trademark and institutional identity rights may apply."
+  },
+  {
+    "id": "sy-university-of-kalamoon-cover",
+    "universityId": "sy-university-of-kalamoon",
+    "assetType": "image",
+    "assetRole": "campus",
+    "title": {
+      "en": "University of Kalamoon campus",
+      "ar": "حرم جامعة القلمون الخاصة"
+    },
+    "variants": [
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-kalamoon/cover-v1/w640.webp",
+        "key": "universities/sy-university-of-kalamoon/cover-v1/w640.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 640,
+        "height": 481,
+        "sha256": "2588ce6429a36a52433a84c73f95bb76714c9b271f6cedab1f673eaf19878b46",
+        "sizeBytes": 33704
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-kalamoon/cover-v1/w640.avif",
+        "key": "universities/sy-university-of-kalamoon/cover-v1/w640.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 640,
+        "height": 481,
+        "sha256": "810528ca66705a53714137bf7630063c879dfcec21c365cb586870ca6e8732dd",
+        "sizeBytes": 63292
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-kalamoon/cover-v1/w1280.webp",
+        "key": "universities/sy-university-of-kalamoon/cover-v1/w1280.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 1280,
+        "height": 962,
+        "sha256": "fb15fc3a976cad2c6d845e1b960c1278fed12480ae6ee3a8c541c21fa9ae7534",
+        "sizeBytes": 120450
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-kalamoon/cover-v1/w1280.avif",
+        "key": "universities/sy-university-of-kalamoon/cover-v1/w1280.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 1280,
+        "height": 962,
+        "sha256": "be39f9568750faeb3f7b54503ea6683eae24511053e3b686d331a925abe64740",
+        "sizeBytes": 187063
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-kalamoon/cover-v1/w1920.webp",
+        "key": "universities/sy-university-of-kalamoon/cover-v1/w1920.webp",
+        "format": "webp",
+        "contentType": "image/webp",
+        "width": 1920,
+        "height": 1443,
+        "sha256": "4c3d5f769708ad94b603a4d2fa43c5683526b6e6b30fc28ff07761b1c53870c4",
+        "sizeBytes": 231450
+      },
+      {
+        "url": "https://cdn.opensyria.org/universities/sy-university-of-kalamoon/cover-v1/w1920.avif",
+        "key": "universities/sy-university-of-kalamoon/cover-v1/w1920.avif",
+        "format": "avif",
+        "contentType": "image/avif",
+        "width": 1920,
+        "height": 1443,
+        "sha256": "30a7c6b4e8c83a55ef33a9251d7ff66658d129b41ae9f06b0865af7a3b695434",
+        "sizeBytes": 362480
+      }
+    ],
+    "attribution": {
+      "sourceProvider": "Wikimedia Commons",
+      "sourceTitle": "File:القلمون.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D8%A7%D9%84%D9%82%D9%84%D9%85%D9%88%D9%86.JPG",
+      "creator": "Wisal Ahdab",
+      "credit": "Own work",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attributionRequired": true
+    },
+    "sourceIds": ["sy-university-of-kalamoon-commons-cover"],
+    "sourceReferences": [
+      {
+        "sourceId": "sy-university-of-kalamoon-commons-cover",
+        "sourceRecordId": "https://commons.wikimedia.org/wiki/File:%D8%A7%D9%84%D9%82%D9%84%D9%85%D9%88%D9%86.JPG",
+        "sourceRecordDate": "2011-09-01",
+        "accessedAt": "2026-11-11T13:22:10.485Z"
+      }
+    ],
+    "sourceStatus": "released",
+    "notes": "Wikimedia Commons photo stored as OpenSyria CDN cover variants (resized WebP/AVIF only, no other edits). Attribution required: \"Wisal Ahdab, CC BY-SA 3.0, via Wikimedia Commons\". The resized CDN variants are derivatives and stay under the same share-alike licence. Campus plaza and brick buildings; described on Commons as University of Kalamoon."
   },
   {
     "id": "sy-university-of-kalamoon-logo",

@@ -31,6 +31,8 @@ Known cleanup gaps:
 - 23 records are missing Wikidata identifiers,
 - 30 records are missing source-backed centroids,
 - 0 records do not yet have approved CDN logo assets,
+- 47 records have no optional cover photo yet (10 of 57 are covered; covers are
+  not a release gate),
 - 13 records are not listed by the approved ranking providers imported so far,
 - 0 records have locality/governorate conflicts that require source review,
 - 16 records retain reviewed comparison-conflict notes,

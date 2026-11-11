@@ -8,3 +8,9 @@ Fields most likely to change:
 - official website,
 - public address,
 - institution naming.
+
+Cover photos can be older than the record they illustrate. Asset
+`sourceReferences[].sourceRecordDate` keeps the date recorded for each Commons
+file; for example, the Latakia University cover was photographed in 2002, when
+the institution was Tishreen University. Replace a cover when a newer
+free-licence photo passes review.
