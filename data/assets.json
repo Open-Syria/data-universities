@@ -485,7 +485,7 @@
       }
     ],
     "sourceStatus": "released",
-    "notes": "Wikimedia Commons photo stored as OpenSyria CDN cover variants (resized WebP/AVIF only, no other edits). Attribution required: \"Aaasss1999, CC BY-SA 4.0, via Wikimedia Commons\". The resized CDN variants are derivatives and stay under the same share-alike licence. Exterior of the university building; 960 px wide (800-1199 tier) because no larger free photo exists on Commons."
+    "notes": "Wikimedia Commons photo stored as OpenSyria CDN cover variants (resized WebP/AVIF only, no other edits). Attribution required: \"Aaasss1999, CC BY-SA 4.0, via Wikimedia Commons\". The resized CDN variants are derivatives and stay under the same share-alike licence. Exterior of the university building; 960 px wide because no larger free photo exists on Commons."
   },
   {
     "id": "sy-al-jazeera-private-university-logo",
@@ -3502,7 +3502,7 @@
       }
     ],
     "sourceStatus": "released",
-    "notes": "Wikimedia Commons photo stored as OpenSyria CDN cover variants (resized WebP/AVIF only, no other edits). Attribution required: \"Bassel (Bassel.khabbaz), CC BY-SA 4.0, via Wikimedia Commons\". The resized CDN variants are derivatives and stay under the same share-alike licence. Faculty of Medicine exterior; only 800 px wide (800-1199 tier). Larger Homs photos are interiors, portrait-only, or show a since-removed political statue."
+    "notes": "Wikimedia Commons photo stored as OpenSyria CDN cover variants (resized WebP/AVIF only, no other edits). Attribution required: \"Bassel (Bassel.khabbaz), CC BY-SA 4.0, via Wikimedia Commons\". The resized CDN variants are derivatives and stay under the same share-alike licence. Faculty of Medicine exterior; 800 px wide. Larger Homs University photos on Commons are interiors or portrait format."
   },
   {
     "id": "sy-homs-university-logo",
@@ -4551,7 +4551,7 @@
       }
     ],
     "sourceStatus": "released",
-    "notes": "Wikimedia Commons photo stored as OpenSyria CDN cover variants (resized WebP/AVIF only, no other edits). Attribution required: \"Zaifoi, CC BY-SA 3.0, via Wikimedia Commons\". The resized CDN variants are derivatives and stay under the same share-alike licence. Syrian Private University hospital building (per the Commons description); 1000 px wide (800-1199 tier). The photo shows the university hospital building, not the main campus."
+    "notes": "Wikimedia Commons photo stored as OpenSyria CDN cover variants (resized WebP/AVIF only, no other edits). Attribution required: \"Zaifoi, CC BY-SA 3.0, via Wikimedia Commons\". The resized CDN variants are derivatives and stay under the same share-alike licence. Syrian Private University hospital building (per the Commons description), not the main campus; 1000 px wide."
   },
   {
     "id": "sy-syrian-private-university-logo",
