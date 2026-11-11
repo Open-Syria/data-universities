@@ -4,11 +4,16 @@ All notable changes to this repository will be documented in this file.
 
 ## Unreleased
 
+## v0.2.3 - 2026-11-11
+
+### Changed
+
 - Make tag-driven release manifests reproducible from the tagged commit timestamp.
 - Prevent release workflow reruns from replacing published assets; matching assets are retained and changed bytes require a new version.
 - Honor `[skip ci]` consistently in validation and CodeQL push workflows.
 - Audit the complete dependency graph during validation and pin the patched `fast-uri` release.
 - Add optional Wikimedia Commons cover photos for 10 of 57 universities (3 campus, 7 building) as attributed CDN WebP/AVIF assets, with one approved source per file and an import manifest.
+- Raise the pinned `fast-uri` and `js-yaml` releases and `zod` past current audit advisories.
 
 ## v0.2.2 - 2026-07-08
 
