@@ -11,6 +11,7 @@ The repository follows the same structure as other OpenSyria data repositories:
 ```text
 data/
   assets.json
+  disciplines.json
   faculties.json
   programs.json
   rankings.json
@@ -18,6 +19,7 @@ data/
   universities.json
 schemas/
   assets.schema.json
+  disciplines.schema.json
   faculties.schema.json
   programs.schema.json
   rankings.schema.json
@@ -27,6 +29,7 @@ schemas/
   source-import.schema.json
 fixtures/valid-data/
   assets.json
+  disciplines.json
   faculties.json
   programs.json
   rankings.json
@@ -60,8 +63,11 @@ University records may include public facts such as:
 - dated `sourceReferences` aligned with each record's `sourceIds`.
 
 Faculty, program, and ranking files are separated from university identity records.
-Current canonical faculty and program arrays are empty until approved reusable
-sources are reviewed. Ranking snapshots are populated only when approved public
+The faculty and program preview covers 351 offerings at 43 universities.
+See the [program pilot](docs/post-seed/PROGRAM_PILOT_2026_2027.md),
+[named program review](docs/post-seed/NAMED_PROGRAM_REVIEW_2026_2027.md)
+and [bulk named-program review](docs/post-seed/BULK_NAMED_PROGRAMS_2026_2027.md).
+Ranking snapshots are populated only when approved public
 ranking providers publish source-backed rows for a canonical institution.
 
 Do not add private personal data, student records, staff records, account data, phone numbers, private addresses, or unreleasable scraped content.
@@ -94,6 +100,7 @@ pnpm run release:build:fixtures
 
 - `release-manifest.json`,
 - six artifact formats for `assets`,
+- six artifact formats for `disciplines`,
 - six artifact formats for `faculties`,
 - six artifact formats for `programs`,
 - six artifact formats for `rankings`,

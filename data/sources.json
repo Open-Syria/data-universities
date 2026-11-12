@@ -14,8 +14,8 @@
     "url": "https://aspu.edu.sy/site/english/index.php",
     "license": "Official public website; factual data only",
     "status": "approved",
-    "fields": ["location", "official website"],
-    "notes": "Used only for public factual location/contact review for Al-Sham Private University."
+    "fields": ["location", "official website", "faculty names", "campus affiliations"],
+    "notes": "Used for factual location and contact review and the Pharmacy, Law, and Administrative Sciences campus affiliations at Al-Tall and Latakia, plus Informatics Engineering at Al-Tall."
   },
   {
     "id": "arab-ranking-for-universities-2025",
@@ -25,6 +25,65 @@
     "status": "approved",
     "fields": ["ranking snapshots"],
     "notes": "Used only for explicit 2025 rank rows published by the official Arab Ranking for Universities results table; no narrative page content is imported."
+  },
+  {
+    "id": "mohe-private-university-admissions-2026-2027",
+    "title": "Syrian Ministry of Higher Education: 2026–2027 private university admissions",
+    "url": "https://mohe.gov.sy/img/uploads1/news_pdf_6abe5325b7e08.pdf",
+    "license": "Official public announcement; factual institution names only",
+    "status": "approved",
+    "fields": ["Arabic institution aliases"],
+    "notes": "Narrow approval for public institution names only. The admissions tables, marks, eligibility rules, and text are not covered."
+  },
+  {
+    "id": "manara-university-pharmacy-official",
+    "title": "Manara University: Faculty of Pharmacy",
+    "url": "https://manara.edu.sy/pharm/index.php?cat_id=208&dir=items&ex=25&lang=1&page=show&ser=42",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["faculty name", "program award"],
+    "notes": "Used for the pharmacy faculty name and first degree."
+  },
+  {
+    "id": "mohe-university-admissions-program-pilot-2026-2027",
+    "title": "Syrian Ministry of Higher Education: 2026–2027 admissions program pilot",
+    "url": "https://mohe.gov.sy/ar/media-center/details/651",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": [
+      "program names",
+      "campus labels",
+      "university affiliation",
+      "admission route identifiers"
+    ],
+    "notes": "Limited to the selected offering facts in Ministry announcement 651, PDFs 2, 6, and 7. No marks, conditions, table content, or prose are reused."
+  },
+  {
+    "id": "sana-damascus-technical-institute-diploma",
+    "title": "SANA: Damascus University Technical Institute of Mechanical and Electrical Engineering",
+    "url": "https://sana.sy/education/2332523/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["institute name", "university affiliation", "qualification level"],
+    "notes": "Used for the public institutional affiliation and technical diploma awarded. No article prose or images are reused."
+  },
+  {
+    "id": "whed-al-sham-private-university-qualification",
+    "title": "IAU World Higher Education Database: Al-Sham Private University",
+    "url": "https://whed.net/institutions/IAU-026953",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["qualification level"],
+    "notes": "Used for the institution's first degrees in Pharmacy, Law, Administration, and Engineering. Campus assignments come from the Ministry and university faculty directory."
+  },
+  {
+    "id": "unesco-isced-f-2013-detailed-field-descriptions",
+    "title": "UNESCO UIS: ISCED-F 2013 detailed field descriptions",
+    "url": "https://uis.unesco.org/sites/default/files/documents/international-standard-classification-of-education-fields-of-education-and-training-2013-detailed-field-descriptions-2015-en.pdf",
+    "license": "Public classification identifiers and short labels only",
+    "status": "approved",
+    "fields": ["ISCED-F 2013 detailed field code"],
+    "notes": "Use the classification code and short field label for mapping. Do not reproduce the detailed descriptions."
   },
   {
     "id": "sy-al-amanos-university-official-logo",
@@ -704,5 +763,1711 @@
     "status": "approved",
     "fields": ["names", "institution type", "location", "founded year", "official website"],
     "notes": "Used as an open reference list for the initial university seed import."
+  },
+  {
+    "id": "mohe-university-admissions-named-programs-2026-2027",
+    "title": "Syrian Ministry of Higher Education: 2026–2027 named program review",
+    "url": "https://mohe.gov.sy/ar/media-center/details/651",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": [
+      "program names",
+      "campus labels",
+      "university affiliation",
+      "admission route identifiers"
+    ],
+    "notes": "Selected Manara rows from announcement 7 and the Damascus institute affiliation from announcement 6. Retain only the reviewed facts."
+  },
+  {
+    "id": "damascus-business-and-marketing-institute-page",
+    "title": "Damascus Technical Institute of Business Administration and Marketing: institute page mirror",
+    "url": "https://www.findglocal.com/SY/Unknown/183084771761938/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D9%84%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84-%D9%88%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82-%D9%81%D9%8A-%D8%AF%D9%85%D8%B4%D9%82",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["technical diploma title", "track names"],
+    "notes": "FindGlocal republishes the institute page. Use only the diploma title and four track names for Damascus, corroborated by the historical institute profile. Do not reuse posts, student information, or images."
+  },
+  {
+    "id": "manara-university-architecture-official",
+    "title": "Manara University: Architecture",
+    "url": "https://manara.edu.sy/arch/index.php?cat_id=255&dir=items&ex=2&lang=1&page=show&service=62",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["faculty name", "program award"],
+    "notes": "Used for the faculty affiliation and first university degree."
+  },
+  {
+    "id": "manara-university-informatics-engineering-official",
+    "title": "Manara University: Informatics Engineering",
+    "url": "https://www.manara.edu.sy/eng/index.php?act=930index.php%3F&cat_id=930&dir=items&ex=2&lang=1&page=show&ser=51",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["faculty name", "program award"],
+    "notes": "Used for the faculty affiliation and first university degree."
+  },
+  {
+    "id": "al-andalus-biomedical-engineering-award",
+    "title": "Al-Andalus University Faculty of Biomedical Engineering award",
+    "url": "https://au.edu.sy/index.php/faculty/5-",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["faculty or institute name", "program names", "award level"],
+    "notes": "Use only the named program, academic unit and award facts in the bulk review."
+  },
+  {
+    "id": "al-andalus-nursing-award",
+    "title": "Al-Andalus University Faculty of Nursing study regulations",
+    "url": "https://au.edu.sy/Study-System-of-nursing",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["faculty or institute name", "program names", "award level"],
+    "notes": "Use only the named program, academic unit and award facts in the bulk review."
+  },
+  {
+    "id": "al-andalus-pharmacy-award",
+    "title": "Al-Andalus University Faculty of Pharmacy study regulations",
+    "url": "https://au.edu.sy/StudySystemOfPharmacy",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["faculty or institute name", "program names", "award level"],
+    "notes": "Use only the named program, academic unit and award facts in the bulk review."
+  },
+  {
+    "id": "iusr-2026-catalogue",
+    "title": "International University for Science and Renaissance 2026–2027 faculty and institute list",
+    "url": "https://iusr.edu.sy/credit-hours/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["faculty or institute name", "program names", "award level"],
+    "notes": "Use only the named program, academic unit and award facts in the bulk review."
+  },
+  {
+    "id": "iusr-dental-prosthetics-diploma",
+    "title": "International University for Science and Renaissance dental prosthetics diploma regulations",
+    "url": "https://iusr.university/%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D8%B9%D9%88%D9%8A%D8%B6%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%86%D9%8A%D8%A9/%D8%B4%D8%B1%D9%88%D8%B7-%D8%A7%D9%84%D9%86%D8%AC%D8%A7%D8%AD-%D9%88%D8%A7%D9%84%D8%AA%D8%AE%D8%B1%D8%AC/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["faculty or institute name", "program names", "award level"],
+    "notes": "Use only the named program, academic unit and award facts in the bulk review."
+  },
+  {
+    "id": "iusr-pharmacy-diploma",
+    "title": "International University for Science and Renaissance pharmacy institute diploma regulations",
+    "url": "https://iusr.university/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A2%D8%AF%D8%A7%D8%A8-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%B4%D8%B1%D9%88%D8%B7-%D8%A7%D9%84%D9%86%D8%AC%D8%A7%D8%AD-%D9%88%D8%A7%D9%84%D8%AA%D8%AE%D8%B1%D8%AC/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["faculty or institute name", "program names", "award level"],
+    "notes": "Use only the named program, academic unit and award facts in the bulk review."
+  },
+  {
+    "id": "iusr-university-study-regulations",
+    "title": "International University for Science and Renaissance undergraduate study regulations",
+    "url": "https://iusr.edu.sy/%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["faculty or institute name", "program names", "award level"],
+    "notes": "Use only the named program, academic unit and award facts in the bulk review."
+  },
+  {
+    "id": "manara-2026-first-degree-programs",
+    "title": "Manara University 2026–2027 first-degree programs",
+    "url": "https://manara.edu.sy/index.phpiljqqy/health/index.php?act=424&cat_id=424&dir=items&ex=2&lang=1&page=show&ser=1",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["faculty or institute name", "program names", "award level"],
+    "notes": "Use only the named program, academic unit and award facts in the bulk review."
+  },
+  {
+    "id": "manara-business-administration-awards",
+    "title": "Manara University Faculty of Business Administration awards",
+    "url": "https://www.manara.edu.sy/admin/index.php?cat_id=280&dir=items&ex=2&lang=1&page=show&ser=72",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["faculty or institute name", "program names", "award level"],
+    "notes": "Use only the named program, academic unit and award facts in the bulk review."
+  },
+  {
+    "id": "manara-faculty-of-engineering-awards",
+    "title": "Manara University Faculty of Engineering awards",
+    "url": "https://www.manara.edu.sy/eng/index.php?cat_id=236&dir=items&ex=2&lang=1&page=show&ser=52",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["faculty or institute name", "program names", "award level"],
+    "notes": "Use only the named program, academic unit and award facts in the bulk review."
+  },
+  {
+    "id": "mohe-spu-construction-engineering-award",
+    "title": "Higher Education Ministry Decision 32/2026 on SPU construction engineering",
+    "url": "https://gov.nawafith.net/ar/decrees/2026-43-32",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["faculty or institute name", "program names", "award level"],
+    "notes": "Use only the named program, academic unit and award facts in the bulk review."
+  },
+  {
+    "id": "mohe-university-admissions-bulk-named-2026-2027",
+    "title": "Syrian Ministry of Higher Education 2026–2027 named university programs",
+    "url": "https://mohe.gov.sy/img/uploads1/news_pdf_6abe5325b7e08.pdf",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["offering name", "host university", "campus", "admissions year", "admissions route"],
+    "notes": "Use reviewed private admissions offering facts with page and row references. Al-Jazeera's intake locality also corroborates the university's permanent campus announcement."
+  },
+  {
+    "id": "spu-administrative-sciences-award",
+    "title": "Syrian Private University Faculty of Administrative Sciences award",
+    "url": "https://www.spu.edu.sy/admin/index.php?act=269&cat_id=269&dir=items&ex=2&lang=1&page=show&ser=71",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["faculty or institute name", "program names", "award level"],
+    "notes": "Use only the named program, academic unit and award facts in the bulk review."
+  },
+  {
+    "id": "spu-ai-engineering-awards",
+    "title": "Syrian Private University Faculty of Artificial Intelligence Engineering awards",
+    "url": "https://www.spu.edu.sy/info/index.php?act=229&cat_id=229&dir=items&ex=2&lang=1&page=show&ser=51",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["faculty or institute name", "program names", "award level"],
+    "notes": "Use only the named program, academic unit and award facts in the bulk review."
+  },
+  {
+    "id": "spu-petroleum-engineering-award",
+    "title": "Syrian Private University Faculty of Petroleum Engineering award",
+    "url": "https://spu.edu.sy/petrol/index.php?act=245&cat_id=245&dir=items&ex=2&lang=1&page=show&ser=61",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["faculty or institute name", "program names", "award level"],
+    "notes": "Use only the named program, academic unit and award facts in the bulk review."
+  },
+  {
+    "id": "spu-university-first-degrees",
+    "title": "Syrian Private University first degrees",
+    "url": "https://www.spu.edu.sy/downloads/files/1495920623_1111111.pdf",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["faculty or institute name", "program names", "award level"],
+    "notes": "Use only the named program, academic unit and award facts in the bulk review."
+  },
+  {
+    "id": "al-sham-administrative-sciences-awards-al-tall",
+    "title": "Al-Sham Private University Administrative Sciences awards at Al-Tall",
+    "url": "https://aspu.edu.sy/site/english/index.php?cat=90449&node=55173",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Use only the documented award and program facts for the matched 2026–2027 offerings."
+  },
+  {
+    "id": "al-sham-administrative-sciences-latakia",
+    "title": "Al-Sham Private University Administrative Sciences faculty at Latakia",
+    "url": "https://aspu.edu.sy/site/english/index.php?FID=10",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus affiliation"],
+    "notes": "Confirms the Administrative Sciences faculty at Latakia. The university award level is corroborated by WHED."
+  },
+  {
+    "id": "mari-2026-academic-catalogue",
+    "title": "Mari Private University 2026–2027 academic catalogue",
+    "url": "https://mari.edu.sy/academics",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Use only the documented award and program facts for the matched 2026–2027 offerings."
+  },
+  {
+    "id": "mari-hizano-campus",
+    "title": "Mari Private University Hizano campus",
+    "url": "https://mari.edu.sy/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["campus"],
+    "notes": "Confirms the university's Hizano, Idlib campus."
+  },
+  {
+    "id": "wadi-administrative-and-economic-sciences-handbook",
+    "title": "Wadi International University Administrative and Economic Sciences student handbook",
+    "url": "https://wiu.edu.sy/wp-content/uploads/2022/10/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%B7%D8%A7%D9%84%D8%A8-%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D8%AF%D8%A7%D8%B1%D9%8A%D8%A9-%D9%88-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9.pdf#page=7",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Use only the documented award and program facts for the matched 2026–2027 offerings."
+  },
+  {
+    "id": "wadi-engineering-student-handbook",
+    "title": "Wadi International University Engineering student handbook",
+    "url": "https://wiu.edu.sy/wp-content/uploads/2022/06/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%B7%D8%A7%D9%84%D8%A8-%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D8%AF%D8%A7%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9.pdf.pdf#page=6",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Use only the documented award and program facts for the matched 2026–2027 offerings."
+  },
+  {
+    "id": "wadi-law-student-handbook",
+    "title": "Wadi International University Law student handbook",
+    "url": "https://wiu.edu.sy/wp-content/uploads/2022/06/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%B7%D8%A7%D9%84%D8%A8-%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D9%82%D9%88%D9%82-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D8%AF%D8%A7%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9.pdf.pdf#page=19",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Use only the documented award and program facts for the matched 2026–2027 offerings."
+  },
+  {
+    "id": "wadi-pharmacy-student-handbook",
+    "title": "Wadi International University Pharmacy student handbook",
+    "url": "https://wiu.edu.sy/wp-content/uploads/2022/06/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%B7%D8%A7%D9%84%D8%A8-%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B5%D9%8A%D8%AF%D9%84%D8%A9-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D8%AF%D8%A7%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9.pdf.pdf#page=7",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Use only the documented award and program facts for the matched 2026–2027 offerings."
+  },
+  {
+    "id": "yarmouk-administrative-and-financial-sciences-awards",
+    "title": "Yarmouk Private University Administrative and Financial Sciences study plan",
+    "url": "https://ypu.edu.sy/wp-content/uploads/2025/05/FMFS-Study-Plan.pdf",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Use only the documented award and program facts for the matched 2026–2027 offerings."
+  },
+  {
+    "id": "yarmouk-jabab-campus",
+    "title": "Yarmouk Private University Jabab campus",
+    "url": "https://ypu.edu.sy/contactus",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["campus"],
+    "notes": "Confirms Jabab, Daraa as the campus on the Damascus–Daraa highway."
+  },
+  {
+    "id": "al-andalus-hospital-management-award",
+    "title": "Al-Andalus University Faculty of Hospital Management study system",
+    "url": "https://au.edu.sy/en/Study-System-of-Hospital-Management",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Use only the documented award and program facts for the matched 2026–2027 offerings."
+  },
+  {
+    "id": "al-sham-private-university-2026-undergraduate-offerings",
+    "title": "Al-Sham Private University 2026–2027 credit hour schedule",
+    "url": "https://aspu.edu.sy/site/english/index.php?cat=90268&node=55173",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name"],
+    "notes": "Confirms Hotel Management and Physical Therapy as distinct faculty programs in 2026–2027."
+  },
+  {
+    "id": "al-sham-private-university-undergraduate-award-rules",
+    "title": "Al-Sham Private University study system and undergraduate awards",
+    "url": "https://aspu.edu.sy/site/english/index.php?cat=90265&node=55173",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["qualification level"],
+    "notes": "The Academic Degree section defines the award on completing an approved first-degree study plan as a bachelor's degree."
+  },
+  {
+    "id": "yarmouk-architecture-faculty-programs",
+    "title": "Yarmouk Private University Faculty of Architectural Engineering",
+    "url": "https://ypu.edu.sy/faculty-of-architecture-engineering",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Names the bachelor award in Architectural Engineering."
+  },
+  {
+    "id": "yarmouk-civil-faculty-programs",
+    "title": "Yarmouk Private University Faculty of Civil Engineering",
+    "url": "https://ypu.edu.sy/faculty-of-civil-engineering",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Identifies Civil Engineering in the five-year faculty program."
+  },
+  {
+    "id": "yarmouk-informatics-faculty-programs",
+    "title": "Yarmouk Private University Faculty of Informatics and Communication Engineering",
+    "url": "https://ypu.edu.sy/faculty-of-informatics-and-communication-engineering",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Names the two specializations in the five-year faculty program."
+  },
+  {
+    "id": "yarmouk-interior-design-faculty-programs",
+    "title": "Yarmouk Private University Faculty of Design and Applied Arts",
+    "url": "https://ypu.edu.sy/faculty-of-fine-arts",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Identifies Interior Design as a four-year specialization. The faculty name in the offering follows the Ministry's 2026–2027 table."
+  },
+  {
+    "id": "yarmouk-undergraduate-admission-and-study-system",
+    "title": "Yarmouk Private University undergraduate admission and study system",
+    "url": "https://www.ypu.edu.sy/ar_SY/admission",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["qualification level"],
+    "notes": "Documents entry after secondary education and award of a degree after completing the faculty study plan."
+  },
+  {
+    "id": "arab-international-university-first-degrees-ghorfa",
+    "title": "Arab International University entry in the Ghorfa education guide",
+    "url": "https://www.ghorfa.de/wp-content/uploads/2016/01/AGEduGuide2013_Abzug.pdf",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "qualification level"],
+    "notes": "The university's International Relations Office entry names first degrees in Pharmacy, Informatics and Communications, Civil Engineering, Business Administration, Architecture and Arts. Use the current Ministry table for the offering labels."
+  },
+  {
+    "id": "arab-international-university-ghabagheb-campus",
+    "title": "Arab International University institutional profile for Erasmus Mundus DUNIA BEAM",
+    "url": "https://www-wp.unipv.it/duniabeam/wp-content/uploads/2012/09/arab-international.pdf",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["campus"],
+    "notes": "The institutional profile locates the university in Ghabagheb on the Daraa highway. Announcement 7 identifies the current admissions site as Daraa."
+  },
+  {
+    "id": "ittihad-administrative-sciences-campus-councils",
+    "title": "Ittihad Private University Administrative Sciences campus councils",
+    "url": "https://ipu.edu.sy/?category_id=85&lang=ar&page=category",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus"],
+    "notes": "Names the Alqeen and Aleppo faculty councils for Administrative Sciences."
+  },
+  {
+    "id": "ittihad-alqeen-campus",
+    "title": "Ittihad Private University Alqeen campus",
+    "url": "https://ipu.edu.sy/?category_id=159&lang=ar&page=category",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["campus"],
+    "notes": "Identifies the Alqeen campus. Announcement 7 supplies the current governorate and offering."
+  },
+  {
+    "id": "ittihad-architecture-campus-councils",
+    "title": "Ittihad Private University Architecture campus councils",
+    "url": "https://ipu.edu.sy/?category_id=39&lang=ar&page=category",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus"],
+    "notes": "Names the Architecture faculty councils for Alqeen and Aleppo."
+  },
+  {
+    "id": "ittihad-architecture-first-degree",
+    "title": "Ittihad Private University Architecture degree",
+    "url": "https://ipu.edu.sy/?category_id=37&lang=ar&page=category",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The faculty names the Architecture degree and its credit requirements."
+  },
+  {
+    "id": "ittihad-communications-engineering-program",
+    "title": "Ittihad Private University Communications Engineering program",
+    "url": "https://ipu.edu.sy/?category_id=54&lang=ar&page=category",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name"],
+    "notes": "Identifies the Communications Engineering specialization of the Faculty of Informatics Engineering."
+  },
+  {
+    "id": "ittihad-computer-engineering-program",
+    "title": "Ittihad Private University Computer Engineering program",
+    "url": "https://ipu.edu.sy/?category_id=60&lang=ar&page=category",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name"],
+    "notes": "Identifies the Computer Engineering specialization of the Faculty of Informatics Engineering."
+  },
+  {
+    "id": "ittihad-first-degree-study-rules",
+    "title": "Ittihad Private University first-degree study rules",
+    "url": "https://ipu.edu.sy/?category_id=58&lang=ar&page=category",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["qualification level"],
+    "notes": "The admissions and study rules identify Pharmacy, Engineering and Administrative Sciences as first-degree programs."
+  },
+  {
+    "id": "ittihad-informatics-engineering-campus-councils",
+    "title": "Ittihad Private University Informatics Engineering campus councils",
+    "url": "https://ipu.edu.sy/?category_id=62&lang=ar&page=category",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus"],
+    "notes": "Names the Alqeen and Aleppo faculty councils."
+  },
+  {
+    "id": "ittihad-pharmacy-curriculum",
+    "title": "Ittihad Private University Pharmacy curriculum",
+    "url": "https://ipu.edu.sy/?category_id=145&lang=ar&page=category",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name"],
+    "notes": "Publishes the Faculty of Pharmacy curriculum."
+  },
+  {
+    "id": "whed-al-hawash-private-university-first-degrees",
+    "title": "IAU World Higher Education Database entry for Al-Hawash Private University",
+    "url": "https://whed.net/detail_institution.php?KDo2MF0sQyxZLEM8YApgCg=%3D",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "qualification level", "campus"],
+    "notes": "The university profile identifies Al-Hawash, Homs and lists bachelor or licence degrees in Engineering, Pharmacy and Cosmetology. Use the current Ministry table for named specializations."
+  },
+  {
+    "id": "al-jazeera-university-graduation-rules",
+    "title": "Al-Jazeera Private University graduation and national examination rules",
+    "url": "https://jude.edu.sy/abouts/Graduation-And-National-Examinations",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["qualification level"],
+    "notes": "Describes the award of a university credential on completing the faculty study plan and passing the applicable first-degree examinations."
+  },
+  {
+    "id": "al-jazeera-university-official-faculties",
+    "title": "Al-Jazeera Private University faculties",
+    "url": "https://jude.edu.sy/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name"],
+    "notes": "The university lists Pharmacy, Architectural Engineering, Informatics Engineering, Civil Engineering and Business Administration."
+  },
+  {
+    "id": "al-jazeera-university-undergraduate-study-system",
+    "title": "Al-Jazeera Private University undergraduate study system",
+    "url": "https://jude.edu.sy/abouts/university-study-system",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "qualification level", "study duration"],
+    "notes": "The university publishes degree completion requirements for Pharmacy, all Engineering departments, and Business Administration."
+  },
+  {
+    "id": "ebla-2026-undergraduate-program-schedule",
+    "title": "Ebla Private University program and credit schedule",
+    "url": "https://www.ebla.edu.sy/Fee_installment",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "study duration"],
+    "notes": "The university schedule lists each named faculty track and separates the two-year health institute tracks."
+  },
+  {
+    "id": "ebla-faculty-of-administrative-sciences",
+    "title": "Ebla Private University Faculty of Administrative Sciences",
+    "url": "https://www.ebla.edu.sy/faculty-of-administrative-sciences",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit"],
+    "notes": "Identifies the faculty for the programs in the university schedule."
+  },
+  {
+    "id": "ebla-faculty-of-engineering",
+    "title": "Ebla Private University Faculty of Engineering",
+    "url": "https://www.ebla.edu.sy/faculty-of-engineering",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit"],
+    "notes": "Identifies the faculty for the programs in the university schedule."
+  },
+  {
+    "id": "ebla-faculty-of-languages-and-humanities",
+    "title": "Ebla Private University Faculty of Languages and Humanities",
+    "url": "https://www.ebla.edu.sy/languages_humanities",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit"],
+    "notes": "Identifies the faculty for the programs in the university schedule."
+  },
+  {
+    "id": "ebla-faculty-of-pharmacy",
+    "title": "Ebla Private University Faculty of Pharmacy",
+    "url": "https://www.ebla.edu.sy/faculty-of-pharmacy",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit"],
+    "notes": "Identifies the faculty for the programs in the university schedule."
+  },
+  {
+    "id": "ebla-undergraduate-award-rules",
+    "title": "Ebla Private University study system and first-degree awards",
+    "url": "https://www.ebla.edu.sy/school_system",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["qualification level"],
+    "notes": "The first-degree table covers Pharmacy, all Engineering and Administrative Sciences tracks, and all Languages and Humanities tracks."
+  },
+  {
+    "id": "mohe-bilad-al-sham-branch-first-degrees-2026",
+    "title": "Ministry decision 186 on Bilad al-Sham University specializations",
+    "url": "https://gov.nawafith.net/en/decrees/2026-41-186",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level", "campus"],
+    "notes": "Article 1 names the Islamic Sharia first degrees and their specializations at Al-Fath and Ahmad Kuftaro."
+  },
+  {
+    "id": "mohe-ebla-civil-engineering-opening-2026",
+    "title": "Ministry decision 188 on Ebla Private University Civil Engineering",
+    "url": "https://gov.nawafith.net/en/decrees/2026-42-188",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "operational status"],
+    "notes": "The Ministry confirms the opening of the Civil Engineering department in the Faculty of Engineering for 2026–2027."
+  },
+  {
+    "id": "mohe-ebla-language-departments-2026",
+    "title": "Ministry decision 189 on Ebla Private University departments",
+    "url": "https://gov.nawafith.net/en/decrees/2026-42-189",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name"],
+    "notes": "The Ministry identifies Arabic and English Language and Literature as departments in the Faculty of Languages and Humanities."
+  },
+  {
+    "id": "al-jazeera-deir-ez-zor-permanent-campus-2026",
+    "title": "Al-Jazeera Private University permanent campus inspection notice",
+    "url": "https://t.me/s/STUDENTSJPU?before=1792",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["permanent campus", "2026–2027 intake location"],
+    "notes": "The September 2026 university notice identifies the permanent campus in Deir ez-Zor. Ministry announcement 7 lists the 2026–2027 offerings there."
+  },
+  {
+    "id": "al-rowad-faculty-of-law",
+    "title": "Al-Rowad University Faculty of Law",
+    "url": "https://alrowaduni.edu.sy/university-programs/colleges-program/faculty-of-law/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name"],
+    "notes": "The university identifies the Law faculty, its program, and its 2024 opening decision."
+  },
+  {
+    "id": "al-rowad-faculty-of-physical-education",
+    "title": "Al-Rowad University Faculty of Physical Education",
+    "url": "https://alrowaduni.edu.sy/university-programs/colleges-program/faculty-of-physical-education/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name"],
+    "notes": "Describes the academic program with sports training and its opening decision."
+  },
+  {
+    "id": "al-rowad-jarabulus-faculty-track-list",
+    "title": "Al-Rowad University Jarabulus faculty and institute admissions list",
+    "url": "https://alrowaduni.edu.sy/university-announcement/student-services/2025/university-admission-competition/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "campus"],
+    "notes": "The university lists named faculty and institute tracks separately at Jarabulus. The current Ministry tables confirm the 2026–2027 offerings."
+  },
+  {
+    "id": "al-rowad-undergraduate-study-system",
+    "title": "Al-Rowad University undergraduate study system",
+    "url": "https://alrowaduni.edu.sy/about-the-university/university-councils/university-systems/university-study-system/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["qualification level"],
+    "notes": "Article 30 describes first-degree credit and graduation requirements for faculty programs."
+  },
+  {
+    "id": "al-shamal-2026-undergraduate-admission",
+    "title": "Al-Shamal Private University admissions",
+    "url": "https://al-shamal.edu.sy/%D8%A7%D9%84%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D9%88%D8%A7%D9%84%D9%82%D8%A8%D9%88%D9%84-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D9%8A/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["qualification level"],
+    "notes": "The university distinguishes first-degree and institute admissions. Use only with the faculty list and current Ministry rows."
+  },
+  {
+    "id": "al-shamal-official-faculty-and-institute-list",
+    "title": "Al-Shamal Private University faculty and institute list",
+    "url": "https://al-shamal.edu.sy/colleges-and-institutes/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name"],
+    "notes": "Identifies the named faculties and separates institute programs."
+  },
+  {
+    "id": "al-wataniya-2026-program-list",
+    "title": "Al-Wataniya Private University 2026–2027 intake programme list",
+    "url": "https://wpu.edu.sy/%D8%B1%D8%B3%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D9%8A%D8%A9-%D9%84%D9%84%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D9%8A-%D9%A2-2/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "campus"],
+    "notes": "The university lists its 2026–2027 faculty tracks and locates the campus on the Homs–Hama highway. Use program and campus facts."
+  },
+  {
+    "id": "al-wataniya-first-degree-profile",
+    "title": "Al-Wataniya Private University qualification and faculty profile",
+    "url": "https://uni.sy/Syria/University/wpu.edu.sy",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level", "campus"],
+    "notes": "Reports the university's first-degree qualification level across the listed faculties. The university's own intake table confirms the current offerings."
+  },
+  {
+    "id": "iust-architecture-official-faculty",
+    "title": "International University for Science and Technology Faculty of Architecture",
+    "url": "https://iust.edu.sy/architecture/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "campus"],
+    "notes": "Official faculty information corroborates the named university and Ghabagheb campus. Use the matched current Ministry entries for the 2026–2027 offering."
+  },
+  {
+    "id": "iust-arts-official-faculty",
+    "title": "International University for Science and Technology Faculty of Arts and Sciences",
+    "url": "https://iust.edu.sy/arts-sciences/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "campus"],
+    "notes": "Official faculty information corroborates the named university and Ghabagheb campus. Use the matched current Ministry entries for the 2026–2027 offering."
+  },
+  {
+    "id": "iust-business-official-faculty",
+    "title": "International University for Science and Technology Faculty of Business Administration and Finance",
+    "url": "https://iust.edu.sy/finance-administration/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "campus"],
+    "notes": "Official faculty information corroborates the named university and Ghabagheb campus. Use the matched current Ministry entries for the 2026–2027 offering."
+  },
+  {
+    "id": "iust-engineering-official-faculty",
+    "title": "International University for Science and Technology Faculty of Engineering and Technology",
+    "url": "https://iust.edu.sy/engineering-technology/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "campus"],
+    "notes": "Official faculty information corroborates the named university and Ghabagheb campus. Use the matched current Ministry entries for the 2026–2027 offering."
+  },
+  {
+    "id": "iust-first-degree-profile",
+    "title": "International University for Science and Technology qualification and faculty profile",
+    "url": "https://www.uni.sy/Syria/University/iust.edu.sy",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["program name", "qualification level", "campus"],
+    "notes": "Reports first-degree qualifications and their subject areas. Use the official faculty and Ministry sources for unit affiliation."
+  },
+  {
+    "id": "iust-pharmacy-official-faculty",
+    "title": "International University for Science and Technology Faculty of Pharmacy",
+    "url": "https://iust.edu.sy/pharmacy/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "campus"],
+    "notes": "Official faculty information corroborates the named university and Ghabagheb campus. Use the matched current Ministry entries for the 2026–2027 offering."
+  },
+  {
+    "id": "kalamoon-2026-program-announcement",
+    "title": "University of Kalamoon 2026–2027 program announcement",
+    "url": "https://mail.uni.sy/index.php/news/1918.html",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name"],
+    "notes": "Republication of the university's current announcement identifies the first-entry programs. Use the program facts only."
+  },
+  {
+    "id": "kalamoon-first-degree-profile",
+    "title": "University of Kalamoon qualification and faculty profile",
+    "url": "https://uni.sy/index.php/Syria/University/uok.edu.sy",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level", "campus"],
+    "notes": "Institution profile identifies its first-degree awards and names the reviewed faculties and programs in Deir Atiyah."
+  },
+  {
+    "id": "al-maarif-business-programme",
+    "title": "Al-Maarif University Business Administration programme",
+    "url": "https://mas.edu.sy/business-administration/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Official subject and faculty information for the offering matched in Ministry announcement 7."
+  },
+  {
+    "id": "al-maarif-chemistry-programme",
+    "title": "Al-Maarif University Applied Chemistry programme",
+    "url": "https://mas.edu.sy/chemistry/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Official subject and faculty information for the offering matched in Ministry announcement 7."
+  },
+  {
+    "id": "al-maarif-english-programme",
+    "title": "Al-Maarif University English Language programme",
+    "url": "https://mas.edu.sy/%F0%9F%94%B9-%D9%82%D8%B3%D9%85-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A2%D8%AF%D8%A7%D8%A8/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Official subject and faculty information for the offering matched in Ministry announcement 7."
+  },
+  {
+    "id": "al-maarif-first-degree-and-campus-profile",
+    "title": "Al-Maarif University qualification and campus profile",
+    "url": "https://www.uni.sy/index.php/Syria/University/mas-university.com",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["program name", "qualification level", "campus"],
+    "notes": "Corroborates first-degree awards in the named subjects and the location near Sarmada."
+  },
+  {
+    "id": "al-maarif-it-programme",
+    "title": "Al-Maarif University Information Technology Engineering programme",
+    "url": "https://mas.edu.sy/information-technology/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Official subject and faculty information for the offering matched in Ministry announcement 7."
+  },
+  {
+    "id": "al-maarif-mechatronics-programme",
+    "title": "Al-Maarif University Mechatronics Engineering programme",
+    "url": "https://mas.edu.sy/mechatronics/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Official subject and faculty information for the offering matched in Ministry announcement 7."
+  },
+  {
+    "id": "al-maarif-mis-programme",
+    "title": "Al-Maarif University Management Information Systems programme",
+    "url": "https://mas.edu.sy/economy-mis/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Official subject and faculty information for the offering matched in Ministry announcement 7."
+  },
+  {
+    "id": "al-maarif-pharmacy-programme",
+    "title": "Al-Maarif University Industrial Pharmacy programme",
+    "url": "https://mas.edu.sy/industrial-pharmacy/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Official subject and faculty information for the offering matched in Ministry announcement 7."
+  },
+  {
+    "id": "antioch-administrative-and-economic-sciences-first-degree",
+    "title": "Antioch Syrian University Faculty of Administrative and Economic Sciences",
+    "url": "https://asu.edu.sy/ar/admin-economic-sciences",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "University faculty page names the tracks and their first university qualification in Maarat Saidnaya."
+  },
+  {
+    "id": "antioch-engineering-first-degree",
+    "title": "Antioch Syrian University Faculty of Engineering",
+    "url": "https://asu.edu.sy/engineering",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "University faculty page names the tracks and their first university qualification in Maarat Saidnaya."
+  },
+  {
+    "id": "antioch-law-first-degree",
+    "title": "Antioch Syrian University Faculty of Law",
+    "url": "https://asu.edu.sy/law",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "University faculty page names the tracks and their first university qualification in Maarat Saidnaya."
+  },
+  {
+    "id": "antioch-pharmacy-first-degree",
+    "title": "Antioch Syrian University Faculty of Pharmacy",
+    "url": "https://asu.edu.sy/pharmacy",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "University faculty page names the tracks and their first university qualification in Maarat Saidnaya."
+  },
+  {
+    "id": "qasyoun-architecture-first-degree",
+    "title": "Qasyoun Private University Faculty of Architecture",
+    "url": "https://qpu.edu.sy/faculties/Architecture",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "University faculty information identifies the first-degree award. Ministry announcement 7 identifies the specific intake tracks."
+  },
+  {
+    "id": "qasyoun-arts-first-degree",
+    "title": "Qasyoun Private University Faculty of Arts",
+    "url": "https://qpu.edu.sy/faculties/Art",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "University faculty information identifies the first-degree award. Ministry announcement 7 identifies the specific intake tracks."
+  },
+  {
+    "id": "qasyoun-dental-prosthetics-decision-20",
+    "title": "Decision 20 approving Qasyoun's Dental Prosthetics study plan",
+    "url": "https://gov.nawafith.net/ar/decrees/2026-43-20",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Reproduction of the official decision. Article 4 of the attached regulations specifies the technical diploma in Dental Prosthetics."
+  },
+  {
+    "id": "qasyoun-dental-prosthetics-institute",
+    "title": "Qasyoun Private University Dental Prosthetics Institute",
+    "url": "https://qpu.edu.sy/faculties/Dental-Prosthetics-Institute",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The institute identifies the technical diploma in Dental Prosthetics."
+  },
+  {
+    "id": "qasyoun-first-degree-and-campus-profile",
+    "title": "Qasyoun Private University qualification and campus profile",
+    "url": "https://www.uni.sy/Syria/University/qpu.edu.sy",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level", "campus"],
+    "notes": "Corroborates the university's first-degree qualification and its campus at Jabab on the Damascus–Daraa highway."
+  },
+  {
+    "id": "qasyoun-informatics-and-communications-engineering-first-degree",
+    "title": "Qasyoun Private University Faculty of Informatics and Communications Engineering",
+    "url": "https://qpu.edu.sy/faculties/Informatics",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "University faculty information identifies the first-degree award. Ministry announcement 7 identifies the specific intake tracks."
+  },
+  {
+    "id": "qasyoun-official-faculty-list",
+    "title": "Qasyoun Private University official faculty list",
+    "url": "https://qpu.edu.sy/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name"],
+    "notes": "Identifies the Faculty of Pharmacy and the academic units on the university site."
+  },
+  {
+    "id": "al-zahraa-economics-and-administrative-sciences-first-degree",
+    "title": "Al-Zahraa University Faculty of Economics and Administrative Sciences",
+    "url": "https://alzahraauniversity.edu.sy/faculties/econ",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The university identifies the academic unit and its first-degree level. Ministry announcement 7 identifies the 2026–2027 Jarabulus intake."
+  },
+  {
+    "id": "al-zahraa-educational-and-psychological-sciences-first-degree",
+    "title": "Al-Zahraa University Faculty of Educational and Psychological Sciences",
+    "url": "https://alzahraauniversity.edu.sy/faculties/edu",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The university identifies the academic unit and its first-degree level. Ministry announcement 7 identifies the 2026–2027 Jarabulus intake."
+  },
+  {
+    "id": "al-zahraa-engineering-first-degree",
+    "title": "Al-Zahraa University Faculty of Engineering",
+    "url": "https://alzahraauniversity.edu.sy/faculties/eng",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The university identifies the academic unit and its first-degree level. Ministry announcement 7 identifies the 2026–2027 Jarabulus intake."
+  },
+  {
+    "id": "al-zahraa-official-programme-table",
+    "title": "Al-Zahraa University programme table",
+    "url": "https://alzahraauniversity.edu.sy/installments",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The university groups named programmes under their academic units and separates first-degree and institute study."
+  },
+  {
+    "id": "al-zahraa-sharia-and-islamic-studies-first-degree",
+    "title": "Al-Zahraa University Faculty of Sharia and Islamic Studies",
+    "url": "https://alzahraauniversity.edu.sy/faculties/sharia",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The university identifies the academic unit and its first-degree level. Ministry announcement 7 identifies the 2026–2027 Jarabulus intake."
+  },
+  {
+    "id": "arab-university-first-degree-profile",
+    "title": "Arab University for Science and Technology qualification and campus profile",
+    "url": "https://www.uni.sy/index.php/Syria/University/aust.edu.sy",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level", "campus"],
+    "notes": "Corroborates the first-degree awards in the listed faculties, their named tracks and the Tall Qartal campus."
+  },
+  {
+    "id": "arab-university-official-faculty-catalogue",
+    "title": "Arab University for Science and Technology faculty catalogue",
+    "url": "https://aust.edu.sy/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "campus"],
+    "notes": "The university lists academic units and 2026 intake subjects, and locates the campus at the Tall Qartal junction in Hama."
+  },
+  {
+    "id": "basaksehir-2026-programme-announcement",
+    "title": "Başakşehir University 2026–2027 programme announcement",
+    "url": "https://uni.sy/index.php/news/1714.html",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name"],
+    "notes": "Republication of the university's current list. Use programme facts from entries with a matching Ministry title."
+  },
+  {
+    "id": "basaksehir-first-degree-profile",
+    "title": "Başakşehir University qualification and campus profile",
+    "url": "https://www.uni.sy/Syria/University/bs-uni.com",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level", "campus"],
+    "notes": "Identifies first-degree awards in the named faculties and records faculty and institute entries separately."
+  },
+  {
+    "id": "basaksehir-official-faculty-directory",
+    "title": "Başakşehir University faculty and institute directory",
+    "url": "https://bsu.edu.sy/academics/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name"],
+    "notes": "The university's directory identifies the faculties and distinguishes institute tracks. Use it with the current intake and qualification evidence."
+  },
+  {
+    "id": "al-zaytuna-2026-intake-announcement",
+    "title": "Al-Zaytuna International University 2026–2027 intake announcement",
+    "url": "https://www.uni.sy/news/1737.html",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name"],
+    "notes": "Republication of the current university programme table. Use factual programme details only."
+  },
+  {
+    "id": "al-zaytuna-bachelor-admissions-guide",
+    "title": "Al-Zaytuna International University bachelor admissions guide",
+    "url": "https://www.scribd.com/document/824535205",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "A reproduction of the university's admissions guide. Its bachelor's table identifies the four faculty programmes matched to the 2026–2027 intake."
+  },
+  {
+    "id": "british-university-in-damascus-2026-faculty-list",
+    "title": "British University in Damascus current faculty and department list",
+    "url": "https://bud.edu.sy/study-fees",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name"],
+    "notes": "Use the faculty and department names only."
+  },
+  {
+    "id": "british-university-in-damascus-bachelor-catalogue",
+    "title": "British University in Damascus bachelor programme catalogue",
+    "url": "https://bud.edu.sy/programs",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level", "campus"],
+    "notes": "The university lists the selected bachelor's degrees. The dentistry heading and description disagree about the award, so that entry stays in review."
+  },
+  {
+    "id": "british-university-in-damascus-ghabagheb-campus",
+    "title": "British University in Damascus Ghabagheb campus contact",
+    "url": "https://bud.edu.sy/contact",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["campus"],
+    "notes": "Identifies the Ghabagheb campus in Daraa Governorate. The Damascus postal address is separate from the campus."
+  },
+  {
+    "id": "international-sham-2026-programme-list",
+    "title": "International Sham University 2026–2027 programme list",
+    "url": "https://isu.edu.sy/news/53-altkhssat-almtah-llaaam-aldrasy-20262027",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "campus"],
+    "notes": "The university's current intake announcement complements the named Ministry rows for Azaz."
+  },
+  {
+    "id": "international-sham-azaz-faculty-directory",
+    "title": "International Sham University Azaz faculty directory",
+    "url": "https://isu.edu.sy/home",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "campus"],
+    "notes": "Identifies the faculties and departments of International Sham University in the Azaz area."
+  },
+  {
+    "id": "international-sham-first-degree-study-regulations",
+    "title": "International Sham University study and examination regulations",
+    "url": "https://isu.edu.sy/education-system-and-exams",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["qualification level"],
+    "notes": "Describes first-degree study and graduation at the university."
+  },
+  {
+    "id": "al-amanos-anesthesia-faculty-study-plan",
+    "title": "Al-Amanos University Health Sciences Anesthesia study plan",
+    "url": "https://amanusuniversity.com/college-anesthesia/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "study plan"],
+    "notes": "Names the first degree in Anesthesia."
+  },
+  {
+    "id": "al-amanos-faculty-and-institute-directory",
+    "title": "Al-Amanos University faculty and institute directory",
+    "url": "https://amanusuniversity.com/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "study duration"],
+    "notes": "Distinguishes the four-year faculty offerings in Afrin from the two-year institutes. Use only the documented programme, duration, and campus facts."
+  },
+  {
+    "id": "al-amanos-lab-faculty-study-plan",
+    "title": "Al-Amanos University Health Sciences Laboratory study plan",
+    "url": "https://amanusuniversity.com/college-lab/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "study plan"],
+    "notes": "Names the first degree in Health Sciences in the laboratory track."
+  },
+  {
+    "id": "al-amanos-midwifery-faculty-study-plan",
+    "title": "Al-Amanos University Midwifery study plan",
+    "url": "https://amanusuniversity.com/college-midwifery/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "study plan"],
+    "notes": "Names the first degree in Health Sciences in Midwifery."
+  },
+  {
+    "id": "al-amanos-nursing-faculty-study-plan",
+    "title": "Al-Amanos University Nursing study plan",
+    "url": "https://amanusuniversity.com/college-nursing/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "study plan"],
+    "notes": "Provides the four-year Faculty of Nursing study plan."
+  },
+  {
+    "id": "al-maali-2026-programme-announcement",
+    "title": "Al-Maali University 2026–2027 programme announcement",
+    "url": "https://www.uni.sy/news/1917.html",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name"],
+    "notes": "Reproduction of the university's current programme table. Use the names of the programmes only."
+  },
+  {
+    "id": "al-maali-first-degree-qualification-profile",
+    "title": "Al-Maali University first-degree qualification profile",
+    "url": "https://www.uni.sy/Syria/University/almaali-univ.org",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level", "campus"],
+    "notes": "Corroborates bachelor's degrees in the named faculties and identifies the Al-Bab campus."
+  },
+  {
+    "id": "al-shahba-academic-department-profile",
+    "title": "Al-Shahba University academic department profile",
+    "url": "https://www.al-raaei.com/univ/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%B4%D9%87%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name"],
+    "notes": "Corroborates the engineering and business department names. Use only the names of the selected departments."
+  },
+  {
+    "id": "al-shahba-first-degree-qualification-profile",
+    "title": "Al-Shahba University first-degree qualification profile",
+    "url": "https://www.uni.sy/index.php/Syria/University/su.edu.sy",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Corroborates the bachelor level for the selected business and engineering tracks. Use the Ministry intake for the teaching campus."
+  },
+  {
+    "id": "aram-2026-programme-announcement",
+    "title": "Aram University for Sciences 2026–2027 programme announcement",
+    "url": "https://mail.uni.sy/news/1720.html",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name"],
+    "notes": "Reproduction of the university's programme table. Use only the programme and academic unit names."
+  },
+  {
+    "id": "aram-first-degree-qualification-profile",
+    "title": "Aram University for Sciences first-degree qualification profile",
+    "url": "https://www.uni.sy/index.php/Syria/University/aram-sy.com",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level", "campus"],
+    "notes": "Corroborates the three bachelor's programmes and the Aqrobat campus."
+  },
+  {
+    "id": "aastmt-latakia-campus-colleges",
+    "title": "Arab Academy Latakia campus colleges",
+    "url": "https://aast.edu/en/campuses-2023/latakia/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus"],
+    "notes": "Lists the academic units of the Latakia branch."
+  },
+  {
+    "id": "aastmt-latakia-campus-degree-list",
+    "title": "Arab Academy Latakia campus degree list",
+    "url": "https://aast.edu/en/admission/contenttempsub.php?page_id=54600010&unit_id=546",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["program name", "qualification level", "campus"],
+    "notes": "Identifies the Latakia bachelor's offerings in trade logistics and international transport, computer engineering, and business administration."
+  },
+  {
+    "id": "aastmt-latakia-engineering-degree-list",
+    "title": "Arab Academy Latakia engineering degree list",
+    "url": "https://aast.edu/en/colleges/coe/latakia/contenttemp.php?page_id=62900001",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level", "campus"],
+    "notes": "Identifies the Latakia College of Engineering and Technology and its first degrees, including architectural and environmental design."
+  },
+  {
+    "id": "cordoba-first-degree-qualification-profile",
+    "title": "Cordoba Private University first-degree qualification profile",
+    "url": "https://uni.sy/Syria/University/cpu.edu.sy",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level", "campus"],
+    "notes": "Corroborates the bachelor's level for the selected faculty offerings. The 2026–2027 Ministry announcement supplies the exact current campus for each track."
+  },
+  {
+    "id": "cordoba-study-in-syria-campus-profile",
+    "title": "Cordoba Private University campus profile on Study in Syria",
+    "url": "https://www.studyinsyria.sy/university/5-gamaa-krtb-alkhas",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["university identity", "campus"],
+    "notes": "Identifies Qamishli and Aleppo as campuses of the same university."
+  },
+  {
+    "id": "damascus-faculty-of-theology-campus-admissions",
+    "title": "Damascus Faculty of Theology campus admissions notice",
+    "url": "https://theologyfaculty.org/arabic/index.php?cat=14996&node=55171",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["university identity", "campus"],
+    "notes": "The faculty identifies its teaching site at the Melkite Greek Catholic Patriarchate in Bab Sharqi, Damascus."
+  },
+  {
+    "id": "damascus-faculty-of-theology-establishment-decree",
+    "title": "Damascus Faculty of Theology establishment decree",
+    "url": "https://gov.nawafith.net/ar/decrees/2019-21-6",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["university identity", "program name", "qualification level", "campus"],
+    "notes": "Article 2 identifies the first degree in theology awarded by the Melkite Greek Catholic faculty established in Damascus."
+  },
+  {
+    "id": "islamic-university-al-dubayt-qualification-profile",
+    "title": "Islamic University in Syria Al-Dubayt campus profile",
+    "url": "https://uni.sy/index.php/Syria/University/iuis.university",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["campus"],
+    "notes": "Corroborates the Al-Dubayt location in the 2026–2027 Ministry announcement. Use the university catalogue for current programme titles."
+  },
+  {
+    "id": "islamic-university-syria-first-degree-catalogue",
+    "title": "Islamic University in Syria first-degree catalogue",
+    "url": "https://iuis.edu.sy/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Lists the four active first-degree programmes, including Islamic Education under that award title."
+  },
+  {
+    "id": "mohe-cordoba-campus-faculty-directory-2019",
+    "title": "Ministry private university directory, Cordoba campus tables",
+    "url": "https://eduschool40.blog/wp-content/uploads/2020/08/1569176080_PriUnv22-9-2019.pdf",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "campus"],
+    "notes": "Historical Ministry directory preserved by a public mirror. Corroborates the Qamishli business, architecture, and English branches alongside the 2026–2027 Ministry rows."
+  },
+  {
+    "id": "hama-applied-college-award-profile",
+    "title": "Hama University Applied College award profile",
+    "url": "https://www.al-raaei.com/content/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%8A%D8%A9-1",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level", "campus"],
+    "notes": "Corroborates the first-degree level, the Hama teaching location, and the two departments named in announcement 6."
+  },
+  {
+    "id": "homs-music-education-2026-award",
+    "title": "Homs University Music Education award and 2026 intake",
+    "url": "https://sana.sy/education/2603461/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level", "campus"],
+    "notes": "The dean confirms the four-year first degree in Music Education and the 2026–2027 intake at Homs University."
+  },
+  {
+    "id": "latakia-applied-college-award-profile",
+    "title": "Latakia University Applied College award profile",
+    "url": "https://www.al-raaei.com/en/node/1022",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Lists the applied sciences first-degree awards at Latakia. Mechanical Manufacturing is corroborated by the earlier Ministry vocational table and named in the current intake."
+  },
+  {
+    "id": "mohe-public-university-named-programs-2026-2027",
+    "title": "Syrian Ministry of Higher Education 2026–2027 named public university programs",
+    "url": "https://mohe.gov.sy/ar/media-center/details/651",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["program name", "campus", "university affiliation", "admission route identifiers"],
+    "notes": "Use the named public university rows in announcement 6 for the reviewed program and campus facts. Keep the admissions tables and scores on the admissions site."
+  },
+  {
+    "id": "mohe-student-guide-2013-applied-sciences-award",
+    "title": "Ministry 2013–2014 student guide on applied college awards",
+    "url": "https://www.25lera.com/oler/students_guide2013-2014.pdf",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "qualification level"],
+    "notes": "The Ministry's student guide describes the bachelor's degree in Applied Sciences and identifies Al-Baath University in Homs. Use the current announcement for this intake."
+  },
+  {
+    "id": "mohe-vocational-admission-2024-applied-colleges",
+    "title": "Ministry 2024–2025 vocational admissions, applied college tables",
+    "url": "https://fglearn.net/pluginfile.php/2030/mod_folder/content/0/%D8%A7%D8%B9%D9%84%D8%A7%D9%86%20%D9%85%D9%87%D9%86%D9%8A%20%D8%B9%D8%A7%D9%85%20-%20%D9%85%D9%88%D8%A7%D8%B2%D9%8A%202024.pdf",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["program name", "academic unit", "university affiliation"],
+    "notes": "Earlier Ministry tables corroborate the named tracks, including Mechanical Manufacturing at Latakia under its former Tishreen name, and the applied college tracks in Homs and Hama."
+  },
+  {
+    "id": "tartus-technical-engineering-official-gazette-2020",
+    "title": "University of Tartus Technical Engineering regulations",
+    "url": "https://odd.syria-report.com/wp-content/uploads/2021/03/2020-11-04-Issue42-Part1.pdf",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The 2020 official gazette publishes the university's five first degrees in Technical Engineering. The Ministry's current intake names Tartus for all five."
+  },
+  {
+    "id": "aleppo-agricultural-institute-award-profile",
+    "title": "University of Aleppo Agricultural Technical Institute awards",
+    "url": "https://al-raaei.com/content/%EF%B8%8E%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A-0",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Identifies the common Technical Diploma in Agricultural Sciences at Aleppo. Use the current Ministry row for the campus and preserve the grouped intake."
+  },
+  {
+    "id": "aleppo-applied-college-programme-profile",
+    "title": "University of Aleppo Applied College programme profile",
+    "url": "https://www.al-raaei.com/content/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%8A%D8%A9-3",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name"],
+    "notes": "Identifies both Applied College programmes. Use the Ministry guide for the bachelor's award and the 2026–2027 rows for the current campus."
+  },
+  {
+    "id": "aleppo-mechanical-and-electrical-institute-award-profile",
+    "title": "University of Aleppo Mechanical and Electrical Engineering Institute awards",
+    "url": "https://al-raaei.com/en/node/812",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "qualification level"],
+    "notes": "The Aleppo institute profile names technical diplomas in its mechanical and electrical engineering tracks. Use the common award group for the Ministry's institute-wide row."
+  },
+  {
+    "id": "aleppo-technical-engineering-official-gazette-2022",
+    "title": "University of Aleppo Technical Engineering regulations",
+    "url": "https://odd.syria-report.com/wp-content/uploads/2021/03/2022-08-24-Issue31-Part1.pdf",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The admission regulations cite the prior first degrees in Environmental Engineering Technologies and Food Engineering Technologies for the Aleppo faculty."
+  },
+  {
+    "id": "idlib-al-dana-financial-institute-diploma-qualification",
+    "title": "Idlib Al-Dana recruitment notice for financial institute diploma holders",
+    "url": "https://worklink.sy/jobs/ozar_altnmy_aladary_msaaad_adary_thany552807?page=4",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["qualification level"],
+    "notes": "The university's Al-Dana posting identifies the financial and administrative sciences institute among the relevant two-year diploma qualifications."
+  },
+  {
+    "id": "idlib-al-dana-financial-institute-recognition",
+    "title": "Council recognition of Idlib's Al-Dana financial institute",
+    "url": "https://sana.sy/education/2288298/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "university affiliation"],
+    "notes": "The council retained the existing Al-Dana specializations and renamed the institute the Second Technical Institute of Financial and Administrative Sciences."
+  },
+  {
+    "id": "idlib-financial-and-administrative-sciences-diploma",
+    "title": "Idlib University Financial and Administrative Sciences technical diploma",
+    "url": "https://idlib.university/%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%87%D8%AF/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D9%84%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A5%D8%AF%D8%A7/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Names the Technical Diploma in Financial and Administrative Sciences. Keep the institute-level award used by the Ministry intake."
+  },
+  {
+    "id": "idlib-medical-equipment-maintenance-diploma",
+    "title": "Idlib University Medical Equipment Maintenance technical diploma",
+    "url": "https://idlib.university/%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%87%D8%AF/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D9%84%D9%84%D8%AA%D8%AC%D9%87%D9%8A%D8%B2%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Idlib University names the two-year Technical Diploma in Medical Equipment Maintenance."
+  },
+  {
+    "id": "aleppo-computing-and-business-institute-diploma-qualification",
+    "title": "University of Aleppo recruitment notice for institute diploma holders",
+    "url": "https://worklink.sy/jobs/gamaa_hlb_msaaad_adary_thany_aaamal_adary_omktby685139",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "qualification level"],
+    "notes": "The University of Aleppo names the computing and business administration and marketing institutes under two-year diploma qualifications. Use descriptive grouped labels and the current Ministry rows for the Aleppo campuses."
+  },
+  {
+    "id": "damascus-applied-college-award-profile",
+    "title": "Damascus University Applied College awards",
+    "url": "https://www.al-raaei.com/content/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%8A%D8%A9",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The college profile gives the four-year Applied Sciences award and explicitly names Computer Technologies, Mechatronics, and Renewable Energy (Solar Energy)."
+  },
+  {
+    "id": "damascus-computer-institute-award-profile",
+    "title": "Damascus University Technical Computer Institute awards",
+    "url": "https://www.al-raaei.com/content/%EF%B8%8E%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D9%84%D9%84%D8%AD%D8%A7%D8%B3%D9%88%D8%A8",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The profile names the two-year diploma in computer, software, or network engineering at the Damascus city institute. Use one descriptive label for the grouped intake."
+  },
+  {
+    "id": "damascus-financial-and-banking-institute-atlas",
+    "title": "Damascus University Financial and Banking Sciences institute award list",
+    "url": "https://atlas-sy.com/faculty/technical-institute-of-financial-and-banking-sciences-damascus-university/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Corroborates the diploma level and lists the accounting, banking, and financial markets technical diplomas at the Damascus city institute."
+  },
+  {
+    "id": "damascus-financial-and-banking-institute-award-profile",
+    "title": "Damascus University Financial and Banking Sciences institute awards",
+    "url": "https://al-raaei.com/en/node/718",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The profile names the banking and financial markets technical diplomas and identifies the accounting department at the Damascus institute. Keep the Ministry's grouped intake under a descriptive label."
+  },
+  {
+    "id": "homs-agricultural-institute-award-profile",
+    "title": "Homs University Agricultural Technical Institute awards",
+    "url": "https://al-raaei.com/content/%EF%B8%8E%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A-2",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The former Al-Baath University institute profile names the two-year Technical Diploma in Agricultural Sciences. Current affiliation and teaching city are from announcement 6."
+  },
+  {
+    "id": "aleppo-applied-fine-arts-award-profile",
+    "title": "University of Aleppo Applied Fine Arts awards",
+    "url": "https://al-raaei.com/content/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%AC%D9%85%D9%8A%D9%84%D8%A9-0",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level", "campus"],
+    "notes": "The university's Applied Fine Arts profile names the first degree in Fine Arts across its internal specializations."
+  },
+  {
+    "id": "damascus-fine-arts-award-profile",
+    "title": "Damascus University Fine Arts award and common first year",
+    "url": "https://al-raaei.com/en/node/938",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level", "campus"],
+    "notes": "Lists first degrees in the Fine Arts departments and a common first year in Damascus. Keep one grouped offering for the 2026–2027 admission row."
+  },
+  {
+    "id": "damascus-kharabo-agricultural-institute-award-profile",
+    "title": "Damascus University Agricultural Technical Institute award",
+    "url": "https://www.al-raaei.com/content/%EF%B8%8E%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Names the Agricultural Sciences Technical Diploma for the institute formerly located in Kharabo."
+  },
+  {
+    "id": "damascus-quneitra-agricultural-institute-award-profile",
+    "title": "Damascus University Quneitra Agricultural Technical Institute award",
+    "url": "https://al-raaei.com/content/%EF%B8%8E%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A-%D8%A8%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The Quneitra institute profile identifies its Agricultural Sciences Technical Diploma. Use the Ministry's current grouped intake rather than inferring separate tracks."
+  },
+  {
+    "id": "damascus-second-fine-arts-award-profile",
+    "title": "Damascus University Second Faculty of Fine Arts awards in Suwayda",
+    "url": "https://www.al-raaei.com/en/node/962",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level", "campus"],
+    "notes": "The Suwayda faculty profile names the Fine Arts first-degree award and a common first year."
+  },
+  {
+    "id": "damascus-statistical-institute-award-profile",
+    "title": "Damascus University Statistical Technical Institute award",
+    "url": "https://al-raaei.com/content/%EF%B8%8E%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A6%D9%8A-%D8%A8%D8%AF%D9%85%D8%B4%D9%82-0",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level", "campus"],
+    "notes": "The Damascus city institute profile names the two-year Statistical Technical Diploma."
+  },
+  {
+    "id": "mohe-2026-2027-technical-education-announcement-5",
+    "title": "Syrian Ministry of Higher Education 2026–2027 technical education list",
+    "url": "https://mohe.gov.sy/img/uploads1/news_pdf_20260930155934_651_0.pdf",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "university affiliation"],
+    "notes": "Announcement 5 records the current teaching locations, including the Faculty of Agriculture in Damascus for the institute named for Kharabo."
+  },
+  {
+    "id": "yarmouk-pharmacy-faculty-curriculum",
+    "title": "Yarmouk Private University Pharmacy faculty and campus",
+    "url": "https://ypu.edu.sy/ar_SY/faculty-of-pharmacy-curriculum",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "campus"],
+    "notes": "Yarmouk's Pharmacy faculty page confirms the campus in Jabab."
+  },
+  {
+    "id": "yarmouk-university-first-degree-profile",
+    "title": "Yarmouk Private University first-degree qualification profile",
+    "url": "https://uni.sy/index.php/Syria/University/ypu.edu.sy",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The profile names Pharmacy and states that the university awards the first degree (bachelor) in its faculty specializations."
+  },
+  {
+    "id": "al-hawash-first-degree-programme-profile",
+    "title": "Al-Hawash Private University first-degree programme profile",
+    "url": "https://uni.sy/Syria/University/hpu.edu.sy",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Names the current Nutrition, Nursing, Law, and Entrepreneurship faculty offerings and identifies the first-degree level."
+  },
+  {
+    "id": "al-jazeera-first-degree-programme-profile",
+    "title": "Al-Jazeera Private University first-degree programme profile",
+    "url": "https://uni.sy/index.php/Syria/University/jude.edu.sy",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Identifies the Law and English Language and Literature faculty programmes and the first-degree level. The Ministry and university notice establish the Deir ez-Zor teaching location."
+  },
+  {
+    "id": "al-wataniya-administrative-and-financial-sciences-award-profile",
+    "title": "Al-Wataniya Private University Administrative and Financial Sciences awards",
+    "url": "https://www.al-raaei.com/content/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Lists first degrees in the four departments. The Ministry lists one grouped intake for the faculty."
+  },
+  {
+    "id": "arab-international-university-law-first-degree-profile",
+    "title": "Arab International University Law first-degree profile",
+    "url": "https://uni.sy/Syria/University/aiu.edu.sy",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The qualification profile identifies the Law faculty, its Law programme, and the university's first-degree level."
+  },
+  {
+    "id": "basaksehir-health-sciences-programme-list",
+    "title": "Başakşehir University Faculty of Health Sciences programmes",
+    "url": "https://bsu.edu.sy/faculty/health/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name"],
+    "notes": "The university names four faculty programmes. The first-degree profile distinguishes those faculty awards from the separate two-year institute programmes."
+  },
+  {
+    "id": "ebla-law-first-degree-profile",
+    "title": "Ebla Private University Law first-degree profile",
+    "url": "https://uni.sy/Syria/University/ebla.edu.sy",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Identifies the four-year Law faculty programme at Saraqib and the university's first-degree level."
+  },
+  {
+    "id": "mohe-arab-international-university-law-faculty-decision-84",
+    "title": "Higher Education Decision 84 on Arab International University Law",
+    "url": "https://gov.nawafith.net/ar/decrees/2020-16-84",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit"],
+    "notes": "Opens the university's Faculty of Law. Use the qualification profile and current Ministry admissions for the degree and location."
+  },
+  {
+    "id": "qasyoun-management-and-economics-award-profile",
+    "title": "Qasyoun Private University Management and Economics awards",
+    "url": "https://atlas-sy.com/faculty/faculty-of-management-and-economics-qasyoun-private-university-for-science-and-technology/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Lists the four-year first-degree awards for the named faculty. The Ministry groups the 2026–2027 admissions entry."
+  },
+  {
+    "id": "bilad-al-sham-al-fath-and-ruqayya-first-degrees",
+    "title": "Bilad al-Sham University Al-Fath and Sayyida Ruqayya first-degree awards",
+    "url": "https://al-raaei.com/univ/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A8%D9%84%D8%A7%D8%AF-%D8%A7%D9%84%D8%B4%D8%A7%D9%85-%D9%84%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The campus-specific award lists identify the first degrees in Arabic Language, Quran and Hadith fields, and Islamic Dawah at Al-Fath, and Sharia at Sayyida Ruqayya."
+  },
+  {
+    "id": "bilad-al-sham-sayyida-ruqayya-campus-sharia",
+    "title": "Bilad al-Sham University Sayyida Ruqayya branch admissions notice",
+    "url": "https://ruqayya-uni.com/wp-content/uploads/2018/11/20-.pdf",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "university affiliation"],
+    "notes": "The branch notice identifies Sharia at Sayyida Ruqayya. Current campus and offering come from the Ministry row."
+  },
+  {
+    "id": "damascus-awqaf-al-fath-academic-units",
+    "title": "Damascus Awqaf Directorate Al-Fath Islamic Complex academic units",
+    "url": "https://awqaf-damas.com/?category_id=53&id=36&page=show_det",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "university affiliation"],
+    "notes": "Documents Al-Fath's academic units under the university's predecessor. Use the current admissions rows for the current faculty and branch labels."
+  },
+  {
+    "id": "mohe-public-city-programs-2026-2027",
+    "title": "Syrian Ministry of Higher Education 2026–2027 scientific admissions minimums (announcement 2)",
+    "url": "https://mohe.gov.sy/img/uploads1/news_pdf_20260930155934_651_0.pdf",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["program name", "campus", "admission route identifiers"],
+    "notes": "Uses the selected city-grouped offering labels and intake routes. Faculty affiliation and award level require separate evidence."
+  },
+  {
+    "id": "aleppo-homs-civil-engineering-official-gazette-2019",
+    "title": "Syrian Official Gazette issue 25 of 2019, Civil Engineering regulations for Aleppo and Al-Baath",
+    "url": "https://gov.nawafith.net/ar/decrees/2019-25-33",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "program name", "qualification level"],
+    "notes": "The archived issue text includes decisions 34 and 35. Decision 34 article 6 names Al-Baath's Civil Engineering degree. Decision 35 article 5 names the University of Aleppo's Civil Engineering degree."
+  },
+  {
+    "id": "sana-decree-99-2025-homs-university-name",
+    "title": "Presidential Decree 99 of 2025 on the name of Homs University",
+    "url": "https://sana.sy/locals/2233877/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["university name", "university identity"],
+    "notes": "The decree adopts Homs University as the name of the existing public Al-Baath University."
+  },
+  {
+    "id": "damascus-informatics-engineering-first-degree",
+    "title": "Damascus University Faculty of Informatics Engineering qualification profile",
+    "url": "https://www.al-raaei.com/en/node/211",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "qualification level"],
+    "notes": "Lists the first degree in Informatics Engineering and the faculty's specializations."
+  },
+  {
+    "id": "public-university-affiliations-decree-250-2006",
+    "title": "Syrian Decree 250 of 2006, university organization regulations",
+    "url": "https://www.bunud.ai/sy/laws/university-organization-law-executive-regulations",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation"],
+    "notes": "Article 2 identifies the Informatics Engineering faculties at Damascus and Tishreen universities."
+  },
+  {
+    "id": "damascus-civil-engineering-first-degree",
+    "title": "Damascus University Faculty of Civil Engineering qualification profile",
+    "url": "https://atlas-sy.com/faculty/faculty-of-civil-engineering-damascus-university/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "qualification level"],
+    "notes": "Names the five-year first degree in Civil Engineering at the faculty in Baramkeh, Damascus."
+  },
+  {
+    "id": "latakia-informatics-engineering-first-degree",
+    "title": "University of Latakia Faculty of Informatics Engineering qualification profile",
+    "url": "https://atlas-sy.com/faculty/faculty-of-informatics-engineering-latakia-university/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "qualification level"],
+    "notes": "Documents a five-year first degree with three common years and specializations in the last two years."
+  },
+  {
+    "id": "latakia-civil-engineering-official-gazette-2017",
+    "title": "Syrian Official Gazette issue 38 of 2017, Tishreen Civil Engineering regulations",
+    "url": "https://gov.nawafith.net/ar/decrees/2017-38-69",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "program name", "qualification level"],
+    "notes": "Decision 70 article 8 names the five-year first degree in Civil Engineering with the general Civil Engineering specialization."
+  },
+  {
+    "id": "sana-decree-100-2025-latakia-university-name",
+    "title": "Presidential Decree 100 of 2025 on the name of the University of Latakia",
+    "url": "https://sana.sy/presidency/2233898/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["university name", "university identity"],
+    "notes": "The decree adopts the University of Latakia name for the existing public Tishreen University."
+  },
+  {
+    "id": "homs-informatics-engineering-official-gazette-2023",
+    "title": "Syrian Official Gazette issue 48 of 2023, Al-Baath Informatics Engineering graduate regulations",
+    "url": "https://odd.syria-report.com/wp-content/uploads/2021/03/2023-12-06-Issue48-Part1.pdf",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Decision 107 of 2022 article 3 names the Software Engineering and Information Systems and Networks and Computer Systems Engineering first-degree tracks in its eligibility table."
+  },
+  {
+    "id": "homs-informatics-engineering-first-degree",
+    "title": "Homs University Faculty of Informatics Engineering qualification profile",
+    "url": "https://www.uni.sy/homs-univ.edu.sy/3329/Information-engineering",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "qualification level"],
+    "notes": "The faculty grants a five-year first degree in Informatics Engineering and the corresponding specialization."
   }
 ]

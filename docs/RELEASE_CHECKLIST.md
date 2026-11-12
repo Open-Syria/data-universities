@@ -9,7 +9,9 @@ Before publishing:
 - run `pnpm run report:production`,
 - run `pnpm run coverage:data`,
 - build artifacts with `pnpm run release:build`,
-- inspect `dist/release/release-manifest.json`.
+- inspect `dist/release/release-manifest.json`,
+- check program and discipline artifact counts and the structured campus
+  and route fields before promoting downstream pins.
 
 For a formal release:
 

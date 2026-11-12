@@ -8,6 +8,7 @@ This directory contains machine-readable JSON Schemas for canonical data files a
 sources.schema.json
 universities.schema.json
 assets.schema.json
+disciplines.schema.json
 faculties.schema.json
 programs.schema.json
 rankings.schema.json
@@ -37,3 +38,5 @@ pnpm run validate
 ```
 
 The repository validation scripts remain the authoritative validation path because they also check cross-file rules such as unique IDs, approved source references, and duplicate aliases.
+Program validation also checks discipline references, faculty ownership,
+and consecutive academic years.

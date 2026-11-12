@@ -4,6 +4,7 @@ import path from 'node:path';
 import {
   assetRecordSchema,
   datasetReleaseStatusSchema,
+  disciplineRecordSchema,
   facultyRecordSchema,
   parseJsonArray,
   programRecordSchema,
@@ -90,6 +91,27 @@ const datasetConfigs = [
     ],
   },
   {
+    name: 'disciplines',
+    tableName: 'university_disciplines',
+    fileName: 'disciplines.json',
+    schema: disciplineRecordSchema,
+    toPublicRecord: (record) => record,
+    toFlatRow: toDisciplineFlatRow,
+    columns: [
+      'id',
+      'name_en',
+      'name_ar',
+      'aliases_json',
+      'field',
+      'isced_f_2013_code',
+      'source_ids_json',
+      'source_references_json',
+      'latest_source_accessed_at',
+      'latest_source_record_date',
+      'source_status',
+    ],
+  },
+  {
     name: 'faculties',
     tableName: 'university_faculties',
     fileName: 'faculties.json',
@@ -123,6 +145,12 @@ const datasetConfigs = [
       'id',
       'university_id',
       'faculty_id',
+      'discipline_id',
+      'campus_locality_en',
+      'campus_locality_ar',
+      'campus_governorate_slug',
+      'admissions_academic_year',
+      'admissions_routes_json',
       'name_en',
       'name_ar',
       'aliases_json',
@@ -342,6 +370,22 @@ function toAssetFlatRow(record) {
   };
 }
 
+function toDisciplineFlatRow(record) {
+  return {
+    id: record.id,
+    name_en: record.name.en,
+    name_ar: record.name.ar,
+    aliases_json: stringifyCompactJson(record.aliases),
+    field: record.field,
+    isced_f_2013_code: record.iscedF2013Code,
+    source_ids_json: stringifyCompactJson(record.sourceIds),
+    source_references_json: stringifyCompactJson(record.sourceReferences),
+    latest_source_accessed_at: latestSourceAccessedAt(record),
+    latest_source_record_date: latestSourceRecordDate(record),
+    source_status: record.sourceStatus,
+  };
+}
+
 function toFacultyPublicRecord(record) {
   return removeUndefined({
     id: record.id,
@@ -381,6 +425,9 @@ function toProgramPublicRecord(record) {
     id: record.id,
     universityId: record.universityId,
     facultyId: record.facultyId,
+    disciplineId: record.disciplineId,
+    campus: record.campus,
+    admissions: record.admissions,
     name: record.name,
     aliases: record.aliases,
     programType: record.programType,
@@ -399,6 +446,14 @@ function toProgramFlatRow(record) {
     id: record.id,
     university_id: record.universityId,
     faculty_id: record.facultyId,
+    discipline_id: record.disciplineId,
+    campus_locality_en: record.campus?.locality.en ?? null,
+    campus_locality_ar: record.campus?.locality.ar ?? null,
+    campus_governorate_slug: record.campus?.governorateSlug ?? null,
+    admissions_academic_year: record.admissions?.academicYear ?? null,
+    admissions_routes_json: record.admissions
+      ? stringifyCompactJson(record.admissions.routes)
+      : null,
     name_en: record.name.en,
     name_ar: record.name.ar ?? null,
     aliases_json: stringifyCompactJson(record.aliases),
@@ -742,6 +797,7 @@ function buildReleaseReadiness() {
   const universities = datasetRecordsByName.get('universities') ?? [];
   const assets = datasetRecordsByName.get('assets') ?? [];
   const logoAssets = assets.filter((asset) => asset.assetRole === 'logo');
+  const disciplines = datasetRecordsByName.get('disciplines') ?? [];
   const faculties = datasetRecordsByName.get('faculties') ?? [];
   const programs = datasetRecordsByName.get('programs') ?? [];
   const rankings = datasetRecordsByName.get('rankings') ?? [];
@@ -858,16 +914,22 @@ function buildReleaseReadiness() {
           'Logo coverage is the public profile asset target. Non-logo image assets are optional and do not satisfy this gate.',
       },
       {
+        name: 'disciplines',
+        status: disciplines.length > 0 ? 'partial' : 'empty',
+        recordCount: disciplines.length,
+        notes: 'Discipline coverage expands through reviewed field-of-study mappings.',
+      },
+      {
         name: 'faculties',
         status: faculties.length > 0 ? 'partial' : 'empty',
         recordCount: faculties.length,
-        notes: 'Faculty records are schema-ready but not populated for this release.',
+        notes: 'Faculty coverage expands through reviewed university and institute sources.',
       },
       {
         name: 'programs',
         status: programs.length > 0 ? 'partial' : 'empty',
         recordCount: programs.length,
-        notes: 'Program records are schema-ready but not populated for this release.',
+        notes: 'Program coverage expands through reviewed offerings and affiliations.',
       },
       {
         name: 'rankings',

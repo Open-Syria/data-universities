@@ -2,6 +2,7 @@ import { mkdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import {
   assetRecordSchema,
+  disciplineRecordSchema,
   facultyRecordSchema,
   parseJsonArray,
   programRecordSchema,
@@ -45,6 +46,11 @@ async function loadData() {
       assetRecordSchema,
       await readJson(path.join(dataDirectory, 'assets.json')),
       'assets',
+    ),
+    disciplines: parseJsonArray(
+      disciplineRecordSchema,
+      await readJson(path.join(dataDirectory, 'disciplines.json')),
+      'disciplines',
     ),
     faculties: parseJsonArray(
       facultyRecordSchema,
@@ -222,6 +228,7 @@ function buildDatasetCounts(data) {
     sources: data.sources.length,
     universities: data.universities.length,
     assets: data.assets.length,
+    disciplines: data.disciplines.length,
     faculties: data.faculties.length,
     programs: data.programs.length,
     rankings: data.rankings.length,

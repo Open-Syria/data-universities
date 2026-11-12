@@ -1,0 +1,42 @@
+{
+  "sourceId": "mohe-university-admissions-named-programs-2026-2027",
+  "sourceTitle": "Syrian Ministry of Higher Education 2026–2027 named program review",
+  "sourceUrl": "https://mohe.gov.sy/ar/media-center/details/651",
+  "license": "Public source; factual data only",
+  "accessedAt": "2026-11-12T00:00:00.000Z",
+  "status": "imported",
+  "rawFiles": [
+    {
+      "name": "news_pdf_20260930160315_651_0.pdf",
+      "sha256": "ab03dd05c06227039b9721011a15f15120f695df237e692ff753368e82374ed9",
+      "notes": "Announcement 6, p20 r8 names the Damascus institute and its host university."
+    },
+    {
+      "name": "news_pdf_6abe5325b7e08.pdf",
+      "sha256": "3c77e01b253325f0bc77dc210b0c29982744db80d71a33ffac13375074f8c1ee",
+      "notes": "Announcement 7, p13 r12 and p18 r7 identify the two Al-Manara programs."
+    }
+  ],
+  "importedFields": [
+    "program names",
+    "faculty or institute names",
+    "university affiliation",
+    "campus",
+    "award level and track names",
+    "verified program admission route",
+    "discipline classification",
+    "source references"
+  ],
+  "targetFiles": [
+    "data/disciplines.json",
+    "data/faculties.json",
+    "data/programs.json",
+    "data/sources.json"
+  ],
+  "transforms": [
+    "Deduplicate repeated rows for Informatics Engineering and Architecture at Al-Manara University in Latakia.",
+    "Verify the first-degree awards against Al-Manara's faculty pages.",
+    "Use the Damascus institute's published diploma title and four specializations. The Ministry lists admission for the institute as a whole, so the four track records carry no individual route claims."
+  ],
+  "reviewNotes": "Import two bachelor's programs and four Damascus diploma tracks. Hold the Aleppo and Latakia institute records until campus-specific qualification and track evidence is available. Keep only the reviewed facts."
+}

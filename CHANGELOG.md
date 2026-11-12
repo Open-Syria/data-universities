@@ -4,6 +4,36 @@ All notable changes to this repository will be documented in this file.
 
 ## Unreleased
 
+### Added
+
+- Add six verified Civil Engineering and Informatics Engineering bachelor's offerings in Damascus, Homs, and Latakia.
+
+- Add Arabic Ministry admissions aliases to 11 existing universities, with page and row references.
+- Add four faculties or institutes and four reviewed program offerings across three universities.
+- Add two bachelor's programs at Al-Manara University and four technical diploma tracks at Damascus University.
+- Add 34 bachelor's programs and two technical diplomas from the named 2026–2027 review.
+- Add 23 bachelor's programs and four technical diplomas from the second named review.
+- Add eight bachelor's programs from the third named review.
+- Add 20 bachelor's offerings at Ittihad, Al-Hawash, and Arab International University.
+- Add 18 bachelor's offerings at Ebla, Al-Jazeera, and Bilad al-Sham.
+- Add 21 bachelor's offerings at Al-Rowad and Al-Shamal.
+- Add 25 bachelor's offerings at Kalamoon, IUST, and Al-Wataniya, and map Graphic Design as a field of study.
+- Add 19 bachelor's offerings and one technical diploma at Antioch, Al-Maarif, and Qasyoun, and map Applied Chemistry as a field of study.
+- Add 32 bachelor's offerings at Başakşehir, Al-Zahraa, and the Arab University for Science and Technology, and map Chemical Engineering as a field of study.
+- Add 30 bachelor's offerings at International Sham University, the British University in Damascus, and Al-Zaytuna International University.
+- Add 18 bachelor's offerings at Al-Amanos, Al-Maali, Al-Shahba, and Aram University for Sciences.
+- Add 17 bachelor's offerings at the Arab Academy's Latakia campus, Cordoba's Aleppo and Qamishli campuses, the Islamic University in Syria, and the Faculty of Theology in Damascus.
+- Add 17 public bachelor's offerings at Latakia, Homs, Hama, and Tartus, with a shared Computer Technologies field of study.
+- Add four bachelor's programmes and two technical diplomas at Aleppo, and three technical diplomas at Idlib and Al-Dana.
+- Add three bachelor's programmes and five technical diploma offerings at Damascus, Aleppo, and Homs.
+- Add 24 bachelor's offerings and three technical diplomas in the completed named admissions review. Document alternate Ministry rows for existing offerings and record the evidence still needed for pending rows.
+- Add the verified Civil Engineering first degrees at the University of Aleppo and Homs University from the city-grouped scientific table.
+- Export the field-of-study catalogue, plus campus and academic-year admission routes on program offerings.
+
+### Changed
+
+- Use Deir ez-Zor as Al-Jazeera Private University's permanent campus for the 2026–2027 intake.
+
 ## v0.2.3 - 2026-11-11
 
 ### Changed

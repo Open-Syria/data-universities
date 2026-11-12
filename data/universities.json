@@ -5,7 +5,13 @@
       "en": "Al-Amanos University",
       "ar": "جامعة الأمانوس"
     },
-    "aliases": [],
+    "aliases": [
+      {
+        "value": "جامعة الأمانوس الخاصة",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
     "institutionType": "private",
     "operationalStatus": "unknown",
     "foundedYear": 2023,
@@ -22,11 +28,19 @@
     "externalIds": {
       "website": "https://amanusuniversity.com"
     },
-    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceIds": [
+      "wikipedia-list-universities-syria",
+      "mohe-private-university-admissions-2026-2027"
+    ],
     "sourceReferences": [
       {
         "sourceId": "wikipedia-list-universities-syria",
         "accessedAt": "2026-06-29T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-private-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p20:r15",
+        "accessedAt": "2026-11-12T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -204,16 +218,12 @@
     "website": "http://jude.edu.sy",
     "location": {
       "governorate": {
-        "en": "Daraa",
-        "ar": "درعا"
+        "en": "Deir ez-Zor",
+        "ar": "دير الزور"
       },
       "locality": {
-        "en": "Ghabagheb",
-        "ar": "غباغب"
-      },
-      "centroid": {
-        "latitude": 33.166833333,
-        "longitude": 36.297527777
+        "en": "Deir ez-Zor",
+        "ar": "دير الزور"
       }
     },
     "externalIds": {
@@ -223,7 +233,9 @@
     "sourceIds": [
       "wikidata",
       "wikipedia-list-universities-syria",
-      "al-jazeera-private-university-official-website"
+      "al-jazeera-private-university-official-website",
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "al-jazeera-deir-ez-zor-permanent-campus-2026"
     ],
     "sourceReferences": [
       {
@@ -239,10 +251,20 @@
         "sourceId": "al-jazeera-private-university-official-website",
         "accessedAt": "2026-06-29T00:00:00.000Z",
         "sourceRecordId": "http://jude.edu.sy"
+      },
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "accessedAt": "2026-11-12T00:00:00.000Z",
+        "sourceRecordId": "announcement-7:p11:r19"
+      },
+      {
+        "sourceId": "al-jazeera-deir-ez-zor-permanent-campus-2026",
+        "accessedAt": "2026-11-12T00:00:00.000Z",
+        "sourceRecordId": "https://t.me/STUDENTSJPU/1779"
       }
     ],
     "sourceStatus": "released",
-    "notes": "Location conflict reviewed: current public-facing campus locality normalized to Ghabagheb, Daraa; Deir ez-Zor historical-seat context and Damascus contact context require future multi-campus or history modeling."
+    "notes": "Deir ez-Zor is the permanent campus and 2026–2027 intake location. Earlier records describe temporary teaching in Ghabagheb, Daraa and a Damascus contact office. The former Ghabagheb coordinates do not locate the permanent campus."
   },
   {
     "id": "sy-al-maali-university",
@@ -250,7 +272,13 @@
       "en": "Al-Maali University",
       "ar": "جامعة المعالي"
     },
-    "aliases": [],
+    "aliases": [
+      {
+        "value": "جامعة المعالي الخاصة",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
     "institutionType": "private",
     "operationalStatus": "unknown",
     "foundedYear": 2021,
@@ -267,11 +295,19 @@
     "externalIds": {
       "website": "https://almaali-univ.org/"
     },
-    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceIds": [
+      "wikipedia-list-universities-syria",
+      "mohe-private-university-admissions-2026-2027"
+    ],
     "sourceReferences": [
       {
         "sourceId": "wikipedia-list-universities-syria",
         "accessedAt": "2026-06-29T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-private-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p36:r7",
+        "accessedAt": "2026-11-12T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -314,7 +350,13 @@
       "en": "Al-Manara University",
       "ar": "جامعة المنارة الخاصة"
     },
-    "aliases": [],
+    "aliases": [
+      {
+        "value": "جامعة المنارة",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
     "institutionType": "private",
     "operationalStatus": "unknown",
     "foundedYear": 2016,
@@ -336,7 +378,11 @@
       "wikidata": "Q100260373",
       "website": "https://manara.edu.sy"
     },
-    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceIds": [
+      "wikidata",
+      "wikipedia-list-universities-syria",
+      "mohe-private-university-admissions-2026-2027"
+    ],
     "sourceReferences": [
       {
         "sourceId": "wikidata",
@@ -346,6 +392,11 @@
       {
         "sourceId": "wikipedia-list-universities-syria",
         "accessedAt": "2026-06-29T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-private-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p11:r7",
+        "accessedAt": "2026-11-12T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -356,7 +407,13 @@
       "en": "Al-Rasheed International University for Science and Technology",
       "ar": "جامعة الرشيد الدولية الخاصة للعلوم والتكنولوجيا"
     },
-    "aliases": [],
+    "aliases": [
+      {
+        "value": "الجامعة البريطانية في دمشق",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
     "institutionType": "private",
     "operationalStatus": "unknown",
     "foundedYear": 2007,
@@ -373,11 +430,19 @@
     "externalIds": {
       "website": "http://ru.edu.sy"
     },
-    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceIds": [
+      "wikipedia-list-universities-syria",
+      "mohe-private-university-admissions-2026-2027"
+    ],
     "sourceReferences": [
       {
         "sourceId": "wikipedia-list-universities-syria",
         "accessedAt": "2026-06-29T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-private-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p11:r2",
+        "accessedAt": "2026-11-12T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -523,7 +588,7 @@
       "en": "Al-Sham University",
       "ar": "جامعة الشام العالمية الخاصة"
     },
-    "aliases": [],
+    "aliases": [{ "value": "جامعة الشام العالمية", "language": "ar", "type": "alias" }],
     "institutionType": "private",
     "operationalStatus": "unknown",
     "foundedYear": 2015,
@@ -540,11 +605,19 @@
     "externalIds": {
       "website": "https://isu.edu.sy"
     },
-    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceIds": [
+      "wikipedia-list-universities-syria",
+      "mohe-private-university-admissions-2026-2027"
+    ],
     "sourceReferences": [
       {
         "sourceId": "wikipedia-list-universities-syria",
         "accessedAt": "2026-06-29T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-private-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p13:r11",
+        "accessedAt": "2026-11-12T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released",
@@ -642,7 +715,13 @@
       "en": "Al-Zahraa University",
       "ar": "جامعة الزهراء"
     },
-    "aliases": [],
+    "aliases": [
+      {
+        "value": "جامعة الزهراء الخاصة",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
     "institutionType": "private",
     "operationalStatus": "unknown",
     "foundedYear": 2021,
@@ -659,11 +738,19 @@
     "externalIds": {
       "website": "https://alzahraa.university"
     },
-    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceIds": [
+      "wikipedia-list-universities-syria",
+      "mohe-private-university-admissions-2026-2027"
+    ],
     "sourceReferences": [
       {
         "sourceId": "wikipedia-list-universities-syria",
         "accessedAt": "2026-06-29T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-private-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p34:r9",
+        "accessedAt": "2026-11-12T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released",
@@ -707,7 +794,9 @@
       "en": "Antioch Syrian University",
       "ar": "جامعة أنطاكية السورية الخاصة"
     },
-    "aliases": [],
+    "aliases": [
+      { "value": "جامعة انطاكية السورية الخاصة", "language": "ar", "type": "alternate_spelling" }
+    ],
     "institutionType": "private",
     "operationalStatus": "unknown",
     "foundedYear": 2017,
@@ -729,7 +818,11 @@
       "wikidata": "Q107600970",
       "website": "http://asu.edu.sy/"
     },
-    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceIds": [
+      "wikidata",
+      "wikipedia-list-universities-syria",
+      "mohe-private-university-admissions-2026-2027"
+    ],
     "sourceReferences": [
       {
         "sourceId": "wikidata",
@@ -739,6 +832,11 @@
       {
         "sourceId": "wikipedia-list-universities-syria",
         "accessedAt": "2026-06-29T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-private-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p11:r8",
+        "accessedAt": "2026-11-12T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -781,7 +879,13 @@
       "en": "Arab Academy of Science and Technology and Maritime Transport",
       "ar": "الأكاديمية العربية للعلوم والتكنولوجيا والنقل"
     },
-    "aliases": [],
+    "aliases": [
+      {
+        "value": "الأكاديمية العربية للعلوم والتكنولوجيا والنقل البحري",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
     "institutionType": "private",
     "operationalStatus": "unknown",
     "foundedYear": 2001,
@@ -798,11 +902,19 @@
     "externalIds": {
       "website": "https://aast.edu/ar/campuses/latakia/ar"
     },
-    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceIds": [
+      "wikipedia-list-universities-syria",
+      "mohe-private-university-admissions-2026-2027"
+    ],
     "sourceReferences": [
       {
         "sourceId": "wikipedia-list-universities-syria",
         "accessedAt": "2026-06-29T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-private-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p13:r17",
+        "accessedAt": "2026-11-12T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -813,7 +925,13 @@
       "en": "Arab International University",
       "ar": "الجامعة العربية الدولية"
     },
-    "aliases": [],
+    "aliases": [
+      {
+        "value": "الجامعة العربية الدولية الخاصة",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
     "institutionType": "private",
     "operationalStatus": "unknown",
     "foundedYear": 2005,
@@ -835,7 +953,11 @@
       "wikidata": "Q4783194",
       "website": "https://aiu.edu.sy"
     },
-    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceIds": [
+      "wikidata",
+      "wikipedia-list-universities-syria",
+      "mohe-private-university-admissions-2026-2027"
+    ],
     "sourceReferences": [
       {
         "sourceId": "wikidata",
@@ -845,6 +967,11 @@
       {
         "sourceId": "wikipedia-list-universities-syria",
         "accessedAt": "2026-06-29T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-private-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r10",
+        "accessedAt": "2026-11-12T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released",
@@ -963,6 +1090,11 @@
         "value": "جامعة بلاد الشام",
         "language": "ar",
         "type": "alias"
+      },
+      {
+        "value": "جامعة بلاد الشام الخاصة للعلوم الشرعية",
+        "language": "ar",
+        "type": "alias"
       }
     ],
     "institutionType": "private",
@@ -982,7 +1114,11 @@
       "website": "http://shamkuftaro.org/",
       "wikidata": "Q28715211"
     },
-    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceIds": [
+      "wikidata",
+      "wikipedia-list-universities-syria",
+      "mohe-private-university-admissions-2026-2027"
+    ],
     "sourceReferences": [
       {
         "sourceId": "wikidata",
@@ -992,6 +1128,11 @@
       {
         "sourceId": "wikipedia-list-universities-syria",
         "accessedAt": "2026-06-29T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-private-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p29:r11",
+        "accessedAt": "2026-11-12T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released",
@@ -2109,7 +2250,13 @@
       "en": "Wadi International University",
       "ar": "جامعة الوادي الدولية"
     },
-    "aliases": [],
+    "aliases": [
+      {
+        "value": "جامعة الوادي الدولية الخاصة",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
     "institutionType": "private",
     "operationalStatus": "unknown",
     "foundedYear": 2005,
@@ -2131,7 +2278,11 @@
       "wikidata": "Q1282182",
       "website": "https://wiu.edu.sy"
     },
-    "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
+    "sourceIds": [
+      "wikidata",
+      "wikipedia-list-universities-syria",
+      "mohe-private-university-admissions-2026-2027"
+    ],
     "sourceReferences": [
       {
         "sourceId": "wikidata",
@@ -2141,6 +2292,11 @@
       {
         "sourceId": "wikipedia-list-universities-syria",
         "accessedAt": "2026-06-29T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-private-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r13",
+        "accessedAt": "2026-11-12T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"

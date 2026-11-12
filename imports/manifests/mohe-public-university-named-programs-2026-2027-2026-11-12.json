@@ -1,0 +1,33 @@
+{
+  "sourceId": "mohe-public-university-named-programs-2026-2027",
+  "sourceTitle": "Syrian Ministry of Higher Education 2026–2027 named public university programs",
+  "sourceUrl": "https://mohe.gov.sy/ar/media-center/details/651",
+  "license": "Public source; factual data only",
+  "accessedAt": "2026-11-12T00:00:00.000Z",
+  "status": "imported",
+  "rawFiles": [
+    {
+      "name": "news_pdf_20260930160315_651_0.pdf",
+      "sha256": "ab03dd05c06227039b9721011a15f15120f695df237e692ff753368e82374ed9",
+      "notes": "Announcement 6. Retain the page and row of each reviewed offering."
+    }
+  ],
+  "importedFields": [
+    "program name",
+    "campus",
+    "university affiliation",
+    "admission route identifiers"
+  ],
+  "targetFiles": [
+    "data/disciplines.json",
+    "data/faculties.json",
+    "data/programs.json",
+    "data/sources.json"
+  ],
+  "transforms": [
+    "Match named rows in announcement 6 to their current university and campus. Keep each verified track once per teaching campus.",
+    "Corroborate the first-degree award with the relevant qualification profile, Ministry guide, dean's statement, or university regulations.",
+    "Keep the general and parallel routes. Use one reviewed discipline for Computer Technologies across the four reviewed applied colleges."
+  ],
+  "reviewNotes": "The four public batches include 27 bachelor's offerings and 13 technical diplomas across seven universities. Preserve the three verified grouped Fine Arts intakes. Announcement 5 corroborates the current teaching campus for the Agricultural Technical Institute named for Kharabo. Other rows with unresolved evidence are recorded in the pending register."
+}

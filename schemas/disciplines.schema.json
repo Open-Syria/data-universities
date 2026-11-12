@@ -1,0 +1,130 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://opensyria.org/schemas/data-universities/disciplines.schema.json",
+  "title": "OpenSyria Fields of Study",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "id",
+      "name",
+      "aliases",
+      "field",
+      "iscedF2013Code",
+      "sourceIds",
+      "sourceReferences",
+      "sourceStatus"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^sy-[a-z0-9]+(?:-[a-z0-9]+)*$"
+      },
+      "name": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["en", "ar"],
+        "properties": {
+          "en": {
+            "type": "string",
+            "minLength": 1
+          },
+          "ar": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      },
+      "aliases": {
+        "type": "array",
+        "items": {
+          "$ref": "#/$defs/alias"
+        }
+      },
+      "field": {
+        "type": "string",
+        "enum": [
+          "engineering",
+          "health",
+          "business",
+          "education",
+          "languages",
+          "humanities",
+          "technology",
+          "science",
+          "agriculture",
+          "religion",
+          "law",
+          "arts",
+          "media",
+          "tourism"
+        ]
+      },
+      "iscedF2013Code": {
+        "type": "string",
+        "pattern": "^[0-9]{4}$"
+      },
+      "sourceIds": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "minLength": 1
+        },
+        "minItems": 1
+      },
+      "sourceReferences": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["sourceId", "accessedAt"],
+          "properties": {
+            "sourceId": {
+              "type": "string",
+              "minLength": 1
+            },
+            "sourceRecordId": {
+              "type": "string",
+              "minLength": 1
+            },
+            "sourceRecordDate": {
+              "type": "string",
+              "pattern": "^[0-9]{4}(?:-[0-9]{2}(?:-[0-9]{2})?)?$"
+            },
+            "accessedAt": {
+              "type": "string",
+              "format": "date-time"
+            }
+          }
+        },
+        "minItems": 1
+      },
+      "sourceStatus": {
+        "type": "string",
+        "enum": ["pending_release", "seed", "released", "deprecated"]
+      }
+    }
+  },
+  "$defs": {
+    "alias": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["value"],
+      "properties": {
+        "value": {
+          "type": "string",
+          "minLength": 1
+        },
+        "language": {
+          "type": "string",
+          "enum": ["ar", "en", "und"]
+        },
+        "type": {
+          "type": "string",
+          "enum": ["alias", "formal", "transliteration", "historical", "alternate_spelling"]
+        }
+      }
+    }
+  }
+}

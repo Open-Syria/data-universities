@@ -122,7 +122,7 @@ export const releaseReadinessCheckSchema = z
 
 export const releaseReadinessDomainSchema = z
   .object({
-    name: z.enum(['universities', 'assets', 'faculties', 'programs', 'rankings']),
+    name: z.enum(['universities', 'assets', 'disciplines', 'faculties', 'programs', 'rankings']),
     status: z.enum(['ready', 'partial', 'empty', 'blocked']),
     recordCount: z.number().int().nonnegative(),
     notes: z.string().trim().min(1),
@@ -198,6 +198,7 @@ export const sourceImportManifestSchema = z
       .array(
         z.enum([
           'data/assets.json',
+          'data/disciplines.json',
           'data/faculties.json',
           'data/programs.json',
           'data/rankings.json',
@@ -295,11 +296,83 @@ export const facultyRecordSchema = z
   })
   .strict();
 
+const bilingualNameSchema = localizedTextSchema.required({ ar: true });
+
+export const disciplineRecordSchema = z
+  .object({
+    id: idSchema,
+    name: bilingualNameSchema,
+    aliases: z.array(aliasSchema),
+    field: z.enum([
+      'engineering',
+      'health',
+      'business',
+      'education',
+      'languages',
+      'humanities',
+      'technology',
+      'science',
+      'agriculture',
+      'religion',
+      'law',
+      'arts',
+      'media',
+      'tourism',
+    ]),
+    iscedF2013Code: z.string().regex(/^[0-9]{4}$/),
+    sourceIds: z.array(z.string().trim().min(1)).min(1),
+    sourceReferences: z.array(sourceReferenceSchema).min(1),
+    sourceStatus: sourceStatusSchema,
+  })
+  .strict();
+
+const programCampusSchema = z
+  .object({
+    locality: bilingualNameSchema,
+    governorateSlug: z.enum([
+      'damascus',
+      'rif-dimashq',
+      'aleppo',
+      'homs',
+      'hama',
+      'latakia',
+      'tartus',
+      'idlib',
+      'deir-ez-zor',
+      'raqqa',
+      'hasakah',
+      'daraa',
+      'sweida',
+      'quneitra',
+    ]),
+  })
+  .strict();
+
+const programAdmissionsSchema = z
+  .object({
+    academicYear: z
+      .string()
+      .regex(/^[1-9][0-9]{3}-[1-9][0-9]{3}$/)
+      .refine((year) => Number(year.slice(5)) === Number(year.slice(0, 4)) + 1, {
+        message: 'Academic year must span two consecutive years',
+      }),
+    routes: z
+      .array(z.enum(['general', 'parallel', 'private']))
+      .min(1)
+      .refine((routes) => new Set(routes).size === routes.length, {
+        message: 'Admission routes must be unique',
+      }),
+  })
+  .strict();
+
 export const programRecordSchema = z
   .object({
     id: idSchema,
     universityId: idSchema,
     facultyId: idSchema.nullable(),
+    disciplineId: idSchema.nullable(),
+    campus: programCampusSchema.nullable(),
+    admissions: programAdmissionsSchema.nullable(),
     name: localizedTextSchema,
     aliases: z.array(aliasSchema),
     programType: z.enum(['academic', 'technical', 'specialty', 'track', 'other']),
@@ -487,11 +560,30 @@ export function ensureKnownUniversities(records, universities, label) {
 }
 
 export function ensureKnownFaculties(records, faculties, label) {
-  const facultyIds = new Set(faculties.map((faculty) => faculty.id));
+  const facultyById = new Map(faculties.map((faculty) => [faculty.id, faculty]));
 
   for (const record of records) {
-    if (record.facultyId && !facultyIds.has(record.facultyId)) {
+    if (!record.facultyId) continue;
+    const faculty = facultyById.get(record.facultyId);
+    if (!faculty) {
       throw new Error(`${label} ${record.id} references unknown faculty: ${record.facultyId}`);
+    }
+    if (faculty.universityId !== record.universityId) {
+      throw new Error(
+        `${label} ${record.id} references a faculty from another university: ${record.facultyId}`,
+      );
+    }
+  }
+}
+
+export function ensureKnownDisciplines(programs, disciplines) {
+  const disciplineIds = new Set(disciplines.map((discipline) => discipline.id));
+
+  for (const program of programs) {
+    if (program.disciplineId && !disciplineIds.has(program.disciplineId)) {
+      throw new Error(
+        `Program ${program.id} references unknown discipline: ${program.disciplineId}`,
+      );
     }
   }
 }

@@ -182,6 +182,15 @@ data/rankings.json
 
 Work in these files only when a maintainer has opened or approved a specific issue or review batch. Use the batch notes in [`../docs/POST_SEED_BACKLOG.md`](../docs/POST_SEED_BACKLOG.md) and [`../docs/post-seed/`](../docs/post-seed/) before changing them.
 
+The [program pilot](../docs/post-seed/PROGRAM_PILOT_2026_2027.md) shows how
+to review campus affiliation, qualification level, and admission routes before
+adding offerings.
+For city-grouped choices, use the [public program review](../docs/post-seed/PUBLIC_CITY_PROGRAMS_2026_2027.md) to track program-specific university and campus evidence.
+
+Keep shared field-of-study records in `data/disciplines.json`. See the
+[field reference](../docs/FIELD_REFERENCE.md#discipline-fields) for how
+programs reference a discipline, campus, and admission cycle.
+
 ## ID Rules
 
 IDs must:

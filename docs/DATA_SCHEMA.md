@@ -59,11 +59,18 @@ CDN variants. Do not place external hotlinks in canonical records.
 - `sourceReferences`
 - `sourceStatus`
 
+The `disciplines.json` catalogue records shared fields of study with bilingual
+names, aliases, an admissions field, an ISCED-F 2013 detailed code, source
+references, and release status.
+
 `programs.json` records academic programs, technical programs, specialties, and tracks. Each program record must have:
 
 - `id`
 - `universityId`
 - `facultyId`
+- `disciplineId`
+- `campus`
+- `admissions`
 - `name`
 - `aliases`
 - `programType`
@@ -89,8 +96,9 @@ CDN variants. Do not place external hotlinks in canonical records.
 - `sourceReferences`
 - `sourceStatus`
 
-The current canonical faculty and program arrays are intentionally empty until
-approved reusable sources are reviewed. Ranking rows are populated only when an
+The first canonical faculty and program batch covers four offerings across
+three universities. It includes one curated discipline. See the
+[program pilot](post-seed/PROGRAM_PILOT_2026_2027.md) for mapping decisions. Ranking rows are populated only when an
 approved ranking source publishes a source-backed snapshot. Every public record
 must include `sourceReferences` with dated evidence for each `sourceIds` entry.
 

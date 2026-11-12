@@ -9,6 +9,13 @@ Fields most likely to change:
 - public address,
 - institution naming.
 
+The [program pilot](post-seed/PROGRAM_PILOT_2026_2027.md) and
+[named program review](post-seed/NAMED_PROGRAM_REVIEW_2026_2027.md) and
+[bulk named-program review](post-seed/BULK_NAMED_PROGRAMS_2026_2027.md) cite
+the 2026–2027 cycle. Each route list carries its source year. Recheck routes
+against the next bulletin before describing an offering as open for a new cycle.
+The [city-grouped review](post-seed/PUBLIC_CITY_PROGRAMS_2026_2027.md) uses the 2026–2027 cycle too.
+
 Cover photos can be older than the record they illustrate. Asset
 `sourceReferences[].sourceRecordDate` keeps the date recorded for each Commons
 file; for example, the Latakia University cover was photographed in 2002, when

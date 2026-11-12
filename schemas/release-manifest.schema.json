@@ -204,7 +204,14 @@
             "properties": {
               "name": {
                 "type": "string",
-                "enum": ["universities", "assets", "faculties", "programs", "rankings"]
+                "enum": [
+                  "universities",
+                  "assets",
+                  "disciplines",
+                  "faculties",
+                  "programs",
+                  "rankings"
+                ]
               },
               "status": {
                 "type": "string",
