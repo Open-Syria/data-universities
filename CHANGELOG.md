@@ -6,6 +6,9 @@ All notable changes to this repository will be documented in this file.
 
 ### Added
 
+- Add 118 fields of study, giving 148, so that every program label in the 2026–2027 Ministry admissions announcements maps to one field. Each field has an ISCED-F 2013 code, a Ministry row reference and Ministry spellings as aliases. Military and security college labels are left out.
+- Assign a field of study to the 152 verified program offerings that had none.
+- Add the field-of-study curation rules and build script under `scripts/curation`.
 - Add six verified Civil Engineering and Informatics Engineering bachelor's offerings in Damascus, Homs, and Latakia.
 
 - Add Arabic Ministry admissions aliases to 11 existing universities, with page and row references.

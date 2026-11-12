@@ -5,12 +5,34 @@
       "en": "Pharmacy",
       "ar": "الصيدلة"
     },
-    "aliases": [],
+    "aliases": [
+      {
+        "value": "صيدلة",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "الصيدلة والكيمياء الصيدلانية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "الصيدلة والكيمياء الصيدلية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "الصيدلة الصناعية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
     "field": "health",
     "iscedF2013Code": "0916",
     "sourceIds": [
       "mohe-university-admissions-program-pilot-2026-2027",
-      "unesco-isced-f-2013-detailed-field-descriptions"
+      "unesco-isced-f-2013-detailed-field-descriptions",
+      "mohe-university-admissions-2026-2027"
     ],
     "sourceReferences": [
       {
@@ -22,6 +44,11 @@
         "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
         "sourceRecordId": "0916",
         "accessedAt": "2026-11-12T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p11:r12",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -32,12 +59,39 @@
       "en": "Architecture",
       "ar": "الهندسة المعمارية"
     },
-    "aliases": [],
+    "aliases": [
+      {
+        "value": "هندسة العمارة",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة معمارية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "الهندسة المعمارية والتصميم البيئي",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "العمارة",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "الهندسة المعمارية والتصميم الحضري",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
     "field": "engineering",
     "iscedF2013Code": "0731",
     "sourceIds": [
       "mohe-university-admissions-named-programs-2026-2027",
-      "unesco-isced-f-2013-detailed-field-descriptions"
+      "unesco-isced-f-2013-detailed-field-descriptions",
+      "mohe-university-admissions-2026-2027"
     ],
     "sourceReferences": [
       {
@@ -49,6 +103,11 @@
         "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
         "sourceRecordId": "0731",
         "accessedAt": "2026-11-12T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p9:r23",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -59,12 +118,44 @@
       "en": "Informatics Engineering",
       "ar": "الهندسة المعلوماتية"
     },
-    "aliases": [],
+    "aliases": [
+      {
+        "value": "هندسة المعلوماتية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة معلوماتية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "Information Technology Engineering",
+        "language": "en",
+        "type": "alias"
+      },
+      {
+        "value": "الهندسة المعلوماتية والاتصالات",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "المعلوماتية والاتصالات",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة المعلوماتية والنظم الموزعة",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
     "field": "engineering",
     "iscedF2013Code": "0613",
     "sourceIds": [
       "mohe-university-admissions-named-programs-2026-2027",
-      "unesco-isced-f-2013-detailed-field-descriptions"
+      "unesco-isced-f-2013-detailed-field-descriptions",
+      "mohe-university-admissions-2026-2027"
     ],
     "sourceReferences": [
       {
@@ -76,6 +167,11 @@
         "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
         "sourceRecordId": "0613",
         "accessedAt": "2026-11-12T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p12:r18",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -113,12 +209,34 @@
       "en": "Business Administration",
       "ar": "إدارة الأعمال"
     },
-    "aliases": [],
+    "aliases": [
+      {
+        "value": "إدارة أعمال",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "Business Management",
+        "language": "en",
+        "type": "alias"
+      },
+      {
+        "value": "العلوم الإدارية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "المعهد التقاني لإدارة الأعمال والتسويق",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
     "field": "business",
     "iscedF2013Code": "0413",
     "sourceIds": [
       "mohe-university-admissions-bulk-named-2026-2027",
-      "unesco-isced-f-2013-detailed-field-descriptions"
+      "unesco-isced-f-2013-detailed-field-descriptions",
+      "mohe-university-admissions-2026-2027"
     ],
     "sourceReferences": [
       {
@@ -130,6 +248,11 @@
         "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
         "sourceRecordId": "0413",
         "accessedAt": "2026-11-12T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p35:r22",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -140,12 +263,24 @@
       "en": "Civil Engineering",
       "ar": "الهندسة المدنية"
     },
-    "aliases": [],
+    "aliases": [
+      {
+        "value": "هندسة مدنية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "الهندسة المدنية والمشروعات العامة",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
     "field": "engineering",
     "iscedF2013Code": "0732",
     "sourceIds": [
       "mohe-university-admissions-bulk-named-2026-2027",
-      "unesco-isced-f-2013-detailed-field-descriptions"
+      "unesco-isced-f-2013-detailed-field-descriptions",
+      "mohe-university-admissions-2026-2027"
     ],
     "sourceReferences": [
       {
@@ -157,6 +292,11 @@
         "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
         "sourceRecordId": "0732",
         "accessedAt": "2026-11-12T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p9:r14",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -177,6 +317,31 @@
         "value": "العلوم المالية والمصرفية",
         "language": "ar",
         "type": "alias"
+      },
+      {
+        "value": "مصارف",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "المعهد التقاني للعلوم المالية والمصرفية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "المعاملات المصرفية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "التمويل والمصارف",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "تمويل ومصارف",
+        "language": "ar",
+        "type": "alias"
       }
     ],
     "field": "business",
@@ -184,7 +349,8 @@
     "sourceIds": [
       "mohe-university-admissions-bulk-named-2026-2027",
       "unesco-isced-f-2013-detailed-field-descriptions",
-      "ebla-2026-undergraduate-program-schedule"
+      "ebla-2026-undergraduate-program-schedule",
+      "mohe-university-admissions-2026-2027"
     ],
     "sourceReferences": [
       {
@@ -201,6 +367,11 @@
         "sourceId": "ebla-2026-undergraduate-program-schedule",
         "sourceRecordId": "https://www.ebla.edu.sy/Fee_installment",
         "accessedAt": "2026-11-12T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p23:r20",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -211,12 +382,39 @@
       "en": "Law",
       "ar": "الحقوق"
     },
-    "aliases": [],
+    "aliases": [
+      {
+        "value": "حقوق",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "القانون",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "المعهد التقاني للعلوم القانونية والإدارية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "المعهد التقاني القانوني",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "علوم قانونية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
     "field": "law",
     "iscedF2013Code": "0421",
     "sourceIds": [
       "mohe-university-admissions-bulk-named-2026-2027",
-      "unesco-isced-f-2013-detailed-field-descriptions"
+      "unesco-isced-f-2013-detailed-field-descriptions",
+      "mohe-university-admissions-2026-2027"
     ],
     "sourceReferences": [
       {
@@ -228,6 +426,11 @@
         "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
         "sourceRecordId": "0421",
         "accessedAt": "2026-11-12T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p33:r10",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -238,12 +441,19 @@
       "en": "Marketing and E-commerce",
       "ar": "التسويق والتجارة الإلكترونية"
     },
-    "aliases": [],
+    "aliases": [
+      {
+        "value": "التسويق",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
     "field": "business",
     "iscedF2013Code": "0414",
     "sourceIds": [
       "mohe-university-admissions-bulk-named-2026-2027",
-      "unesco-isced-f-2013-detailed-field-descriptions"
+      "unesco-isced-f-2013-detailed-field-descriptions",
+      "mohe-university-admissions-2026-2027"
     ],
     "sourceReferences": [
       {
@@ -255,6 +465,11 @@
         "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
         "sourceRecordId": "0414",
         "accessedAt": "2026-11-12T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p33:r3",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -265,12 +480,24 @@
       "en": "Nursing",
       "ar": "التمريض"
     },
-    "aliases": [],
+    "aliases": [
+      {
+        "value": "تمريض",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "مدرسة التمريض",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
     "field": "health",
     "iscedF2013Code": "0913",
     "sourceIds": [
       "mohe-university-admissions-bulk-named-2026-2027",
-      "unesco-isced-f-2013-detailed-field-descriptions"
+      "unesco-isced-f-2013-detailed-field-descriptions",
+      "mohe-university-admissions-2026-2027"
     ],
     "sourceReferences": [
       {
@@ -282,6 +509,11 @@
         "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
         "sourceRecordId": "0913",
         "accessedAt": "2026-11-12T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p16:r6",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -292,12 +524,19 @@
       "en": "Occupational Therapy",
       "ar": "العلاج الوظيفي"
     },
-    "aliases": [],
+    "aliases": [
+      {
+        "value": "علاج وظيفي",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
     "field": "health",
     "iscedF2013Code": "0915",
     "sourceIds": [
       "mohe-university-admissions-bulk-named-2026-2027",
-      "unesco-isced-f-2013-detailed-field-descriptions"
+      "unesco-isced-f-2013-detailed-field-descriptions",
+      "mohe-university-admissions-2026-2027"
     ],
     "sourceReferences": [
       {
@@ -309,6 +548,11 @@
         "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
         "sourceRecordId": "0915",
         "accessedAt": "2026-11-12T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p15:r20",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -324,6 +568,16 @@
         "value": "Physical Therapy",
         "language": "en",
         "type": "alias"
+      },
+      {
+        "value": "العلاج الفيزيائي",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "معالجة فيزيائية",
+        "language": "ar",
+        "type": "alias"
       }
     ],
     "field": "health",
@@ -331,7 +585,8 @@
     "sourceIds": [
       "mohe-university-admissions-bulk-named-2026-2027",
       "unesco-isced-f-2013-detailed-field-descriptions",
-      "al-sham-private-university-2026-undergraduate-offerings"
+      "al-sham-private-university-2026-undergraduate-offerings",
+      "mohe-university-admissions-2026-2027"
     ],
     "sourceReferences": [
       {
@@ -348,6 +603,11 @@
         "sourceId": "al-sham-private-university-2026-undergraduate-offerings",
         "sourceRecordId": "College of Health Sciences – Department of Physical Therapy",
         "accessedAt": "2026-11-12T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p26:r20",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -358,12 +618,24 @@
       "en": "Tourism and Hospitality Management",
       "ar": "الإدارة السياحية والفندقية"
     },
-    "aliases": [],
+    "aliases": [
+      {
+        "value": "السياحة",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "المعهد التقاني للعلوم السياحية والفندقية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
     "field": "tourism",
     "iscedF2013Code": "1013",
     "sourceIds": [
       "mohe-university-admissions-bulk-named-2026-2027",
-      "unesco-isced-f-2013-detailed-field-descriptions"
+      "unesco-isced-f-2013-detailed-field-descriptions",
+      "mohe-university-admissions-2026-2027"
     ],
     "sourceReferences": [
       {
@@ -375,6 +647,11 @@
         "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
         "sourceRecordId": "1013",
         "accessedAt": "2026-11-12T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p36:r9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -385,12 +662,19 @@
       "en": "Midwifery",
       "ar": "القبالة"
     },
-    "aliases": [],
+    "aliases": [
+      {
+        "value": "قبالة",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
     "field": "health",
     "iscedF2013Code": "0913",
     "sourceIds": [
       "mohe-university-admissions-bulk-named-2026-2027",
-      "unesco-isced-f-2013-detailed-field-descriptions"
+      "unesco-isced-f-2013-detailed-field-descriptions",
+      "mohe-university-admissions-2026-2027"
     ],
     "sourceReferences": [
       {
@@ -402,6 +686,11 @@
         "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
         "sourceRecordId": "0913",
         "accessedAt": "2026-11-12T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p25:r14",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -439,12 +728,19 @@
       "en": "Interior Design",
       "ar": "التصميم الداخلي"
     },
-    "aliases": [],
+    "aliases": [
+      {
+        "value": "ديكور",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
     "field": "arts",
     "iscedF2013Code": "0212",
     "sourceIds": [
       "mohe-university-admissions-bulk-named-2026-2027",
-      "unesco-isced-f-2013-detailed-field-descriptions"
+      "unesco-isced-f-2013-detailed-field-descriptions",
+      "mohe-university-admissions-2026-2027"
     ],
     "sourceReferences": [
       {
@@ -456,6 +752,11 @@
         "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
         "sourceRecordId": "0212",
         "accessedAt": "2026-11-12T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p39:r16",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -466,12 +767,19 @@
       "en": "Software Engineering",
       "ar": "هندسة البرمجيات"
     },
-    "aliases": [],
+    "aliases": [
+      {
+        "value": "هندسة البرمجيات ونظم المعلومات الذكية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
     "field": "technology",
     "iscedF2013Code": "0613",
     "sourceIds": [
       "mohe-university-admissions-bulk-named-2026-2027",
-      "unesco-isced-f-2013-detailed-field-descriptions"
+      "unesco-isced-f-2013-detailed-field-descriptions",
+      "mohe-university-admissions-2026-2027"
     ],
     "sourceReferences": [
       {
@@ -483,6 +791,11 @@
         "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
         "sourceRecordId": "0613",
         "accessedAt": "2026-11-12T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p14:r4",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -493,13 +806,45 @@
       "en": "Communications Engineering",
       "ar": "هندسة الاتصالات"
     },
-    "aliases": [],
+    "aliases": [
+      {
+        "value": "هندسة اتصالات",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة الاتصالات والمعلومات",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة الاتصالات الذكية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة الإلكترونيات والاتصالات",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة الاتصالات والإلكترونيات",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "الاتصالات",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
     "field": "engineering",
     "iscedF2013Code": "0714",
     "sourceIds": [
       "mohe-university-admissions-bulk-named-2026-2027",
       "ittihad-communications-engineering-program",
-      "unesco-isced-f-2013-detailed-field-descriptions"
+      "unesco-isced-f-2013-detailed-field-descriptions",
+      "mohe-university-admissions-2026-2027"
     ],
     "sourceReferences": [
       {
@@ -516,6 +861,11 @@
         "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
         "sourceRecordId": "0714",
         "accessedAt": "2026-11-12T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p14:r19",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -526,13 +876,35 @@
       "en": "Computer Engineering",
       "ar": "هندسة الحاسبات"
     },
-    "aliases": [],
+    "aliases": [
+      {
+        "value": "هندسة الحواسيب",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة الحاسوب",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة الحواسيب والاتصالات المحمولة",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة الحاسوب والذكاء الصنعي",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
     "field": "engineering",
     "iscedF2013Code": "0714",
     "sourceIds": [
       "mohe-university-admissions-bulk-named-2026-2027",
       "ittihad-computer-engineering-program",
-      "unesco-isced-f-2013-detailed-field-descriptions"
+      "unesco-isced-f-2013-detailed-field-descriptions",
+      "mohe-university-admissions-2026-2027"
     ],
     "sourceReferences": [
       {
@@ -549,6 +921,11 @@
         "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
         "sourceRecordId": "0714",
         "accessedAt": "2026-11-12T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p13:r15",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -559,13 +936,25 @@
       "en": "Accounting",
       "ar": "المحاسبة"
     },
-    "aliases": [],
+    "aliases": [
+      {
+        "value": "محاسبة",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "المحاسبة والتمويل",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
     "field": "business",
     "iscedF2013Code": "0411",
     "sourceIds": [
       "mohe-university-admissions-bulk-named-2026-2027",
       "ebla-2026-undergraduate-program-schedule",
-      "unesco-isced-f-2013-detailed-field-descriptions"
+      "unesco-isced-f-2013-detailed-field-descriptions",
+      "mohe-university-admissions-2026-2027"
     ],
     "sourceReferences": [
       {
@@ -582,6 +971,11 @@
         "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
         "sourceRecordId": "0411",
         "accessedAt": "2026-11-12T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p21:r19",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -592,13 +986,25 @@
       "en": "Arabic Language and Literature",
       "ar": "اللغة العربية وآدابها"
     },
-    "aliases": [],
+    "aliases": [
+      {
+        "value": "أدب عربي",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "اللغة العربية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
     "field": "languages",
     "iscedF2013Code": "0232",
     "sourceIds": [
       "mohe-university-admissions-bulk-named-2026-2027",
       "ebla-2026-undergraduate-program-schedule",
-      "unesco-isced-f-2013-detailed-field-descriptions"
+      "unesco-isced-f-2013-detailed-field-descriptions",
+      "mohe-university-admissions-2026-2027"
     ],
     "sourceReferences": [
       {
@@ -615,6 +1021,11 @@
         "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
         "sourceRecordId": "0232",
         "accessedAt": "2026-11-12T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p30:r3",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -630,6 +1041,21 @@
         "value": "اللغة الإنكليزية وآدابها",
         "language": "ar",
         "type": "alternate_spelling"
+      },
+      {
+        "value": "أدب إنكليزي",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "اللغة الإنكليزية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "English Literature",
+        "language": "en",
+        "type": "alias"
       }
     ],
     "field": "languages",
@@ -637,7 +1063,8 @@
     "sourceIds": [
       "mohe-university-admissions-bulk-named-2026-2027",
       "ebla-2026-undergraduate-program-schedule",
-      "unesco-isced-f-2013-detailed-field-descriptions"
+      "unesco-isced-f-2013-detailed-field-descriptions",
+      "mohe-university-admissions-2026-2027"
     ],
     "sourceReferences": [
       {
@@ -654,6 +1081,11 @@
         "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
         "sourceRecordId": "0232",
         "accessedAt": "2026-11-12T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p30:r21",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -736,13 +1168,20 @@
       "en": "Primary Education",
       "ar": "معلم الصف"
     },
-    "aliases": [],
+    "aliases": [
+      {
+        "value": "معلم صف",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
     "field": "education",
     "iscedF2013Code": "0113",
     "sourceIds": [
       "mohe-university-admissions-bulk-named-2026-2027",
       "al-rowad-jarabulus-faculty-track-list",
-      "unesco-isced-f-2013-detailed-field-descriptions"
+      "unesco-isced-f-2013-detailed-field-descriptions",
+      "mohe-university-admissions-2026-2027"
     ],
     "sourceReferences": [
       {
@@ -759,6 +1198,11 @@
         "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
         "sourceRecordId": "0113",
         "accessedAt": "2026-11-12T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p20:r9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -807,6 +1251,16 @@
         "value": "التصميم الجرافيكي",
         "language": "ar",
         "type": "alternate_spelling"
+      },
+      {
+        "value": "الاتصالات البصرية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "معهد التصميم الجرافيكي",
+        "language": "ar",
+        "type": "alias"
       }
     ],
     "field": "arts",
@@ -815,7 +1269,8 @@
       "mohe-university-admissions-bulk-named-2026-2027",
       "kalamoon-2026-program-announcement",
       "iust-arts-official-faculty",
-      "unesco-isced-f-2013-detailed-field-descriptions"
+      "unesco-isced-f-2013-detailed-field-descriptions",
+      "mohe-university-admissions-2026-2027"
     ],
     "sourceReferences": [
       {
@@ -837,6 +1292,11 @@
         "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
         "sourceRecordId": "0211",
         "accessedAt": "2026-11-12T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p39:r13",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"
@@ -923,6 +1383,16 @@
         "value": "تقنيات الحاسوب",
         "language": "ar",
         "type": "alternate_spelling"
+      },
+      {
+        "value": "المعهد التقاني للحاسوب",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "تقنيات حاسوب",
+        "language": "ar",
+        "type": "alias"
       }
     ],
     "field": "technology",
@@ -930,7 +1400,8 @@
     "sourceIds": [
       "mohe-public-university-named-programs-2026-2027",
       "mohe-vocational-admission-2024-applied-colleges",
-      "unesco-isced-f-2013-detailed-field-descriptions"
+      "unesco-isced-f-2013-detailed-field-descriptions",
+      "mohe-university-admissions-2026-2027"
     ],
     "sourceReferences": [
       {
@@ -947,6 +1418,4316 @@
         "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
         "sourceRecordId": "0610",
         "accessedAt": "2026-11-12T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p25:r22",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-theatre-and-film-directing",
+    "name": {
+      "en": "Theatre and Film Directing",
+      "ar": "الفنون المسرحية والإخراج السينمائي"
+    },
+    "aliases": [],
+    "field": "arts",
+    "iscedF2013Code": "0215",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p40:r3",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0215",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-applied-arts",
+    "name": {
+      "en": "Applied Arts",
+      "ar": "الفنون التطبيقية"
+    },
+    "aliases": [
+      {
+        "value": "المعهد التقاني للفنون التطبيقية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "الفنون الجميلة التطبيقية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "كلية الفنون الجميلة التطبيقية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "arts",
+    "iscedF2013Code": "0214",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p35:r17",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0214",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-fine-arts",
+    "name": {
+      "en": "Fine Arts",
+      "ar": "الفنون الجميلة"
+    },
+    "aliases": [
+      {
+        "value": "فنون جميلة",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "كلية الفنون الجميلة",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "arts",
+    "iscedF2013Code": "0213",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p35:r15",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0213",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-music-education",
+    "name": {
+      "en": "Music Education",
+      "ar": "التربية الموسيقية"
+    },
+    "aliases": [
+      {
+        "value": "كلية التربية الموسيقية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "education",
+    "iscedF2013Code": "0114",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p35:r21",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0114",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-radio-and-television-production",
+    "name": {
+      "en": "Radio and Television Production",
+      "ar": "الإخراج الإذاعي والتلفزيوني"
+    },
+    "aliases": [
+      {
+        "value": "تقديم البرامج الإذاعية والتلفزيونية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "media",
+    "iscedF2013Code": "0211",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p36:r6",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0211",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-media-and-printing-technology",
+    "name": {
+      "en": "Media and Printing Technology",
+      "ar": "الإعلام والطباعة"
+    },
+    "aliases": [
+      {
+        "value": "المعهد التقاني للإعلام والطباعة",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "media",
+    "iscedF2013Code": "0211",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p36:r5",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0211",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-media-and-journalism",
+    "name": {
+      "en": "Media and Journalism",
+      "ar": "الإعلام"
+    },
+    "aliases": [
+      {
+        "value": "الصحافة",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "Journalism",
+        "language": "en",
+        "type": "alias"
+      },
+      {
+        "value": "إعلام",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "media",
+    "iscedF2013Code": "0321",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p33:r9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0321",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-dental-prosthetics",
+    "name": {
+      "en": "Dental Prosthetics",
+      "ar": "التعويضات السنية"
+    },
+    "aliases": [
+      {
+        "value": "المعهد التقاني للتعويضات السنية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "معهد التعويضات السنية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "health",
+    "iscedF2013Code": "0911",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p23:r11",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0911",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-dental-assistance",
+    "name": {
+      "en": "Dental Assistance",
+      "ar": "مساعد طبيب الأسنان"
+    },
+    "aliases": [
+      {
+        "value": "مساعد طبيب أسنان",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "قسم المساعدات",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "health",
+    "iscedF2013Code": "0911",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p23:r15",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0911",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-dentistry",
+    "name": {
+      "en": "Dentistry",
+      "ar": "طب الأسنان"
+    },
+    "aliases": [
+      {
+        "value": "طب أسنان",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "Dental Medicine",
+        "language": "en",
+        "type": "alias"
+      }
+    ],
+    "field": "health",
+    "iscedF2013Code": "0911",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r8",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0911",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-medicine",
+    "name": {
+      "en": "Medicine",
+      "ar": "الطب البشري"
+    },
+    "aliases": [
+      {
+        "value": "طب بشري",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "Human Medicine",
+        "language": "en",
+        "type": "alias"
+      }
+    ],
+    "field": "health",
+    "iscedF2013Code": "0912",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0912",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-veterinary-technology",
+    "name": {
+      "en": "Veterinary Technology",
+      "ar": "التقانات البيطرية"
+    },
+    "aliases": [
+      {
+        "value": "معهد بيطري",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "المعهد التقاني للطب البيطري",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "agriculture",
+    "iscedF2013Code": "0841",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p25:r32",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0841",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-veterinary-medicine",
+    "name": {
+      "en": "Veterinary Medicine",
+      "ar": "الطب البيطري"
+    },
+    "aliases": [
+      {
+        "value": "طب بيطري",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "agriculture",
+    "iscedF2013Code": "0841",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p12:r20",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0841",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-pharmacy-technology",
+    "name": {
+      "en": "Pharmacy Technology",
+      "ar": "التقانات الصيدلانية"
+    },
+    "aliases": [
+      {
+        "value": "معهد صيدلة",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "فني صيدلة",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "معهد الصيدلة",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "health",
+    "iscedF2013Code": "0916",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p26:r17",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0916",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-prosthetics-and-orthotics",
+    "name": {
+      "en": "Prosthetics and Orthotics",
+      "ar": "الأطراف الصناعية والأجهزة التقويمية"
+    },
+    "aliases": [
+      {
+        "value": "اطراف صناعية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "المعهد التقاني للأطراف الصناعية والأجهزة التعويضية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "الأطراف الاصطناعية والأجهزة التقويمية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "health",
+    "iscedF2013Code": "0914",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p26:r22",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0914",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-medical-equipment-technology",
+    "name": {
+      "en": "Medical Equipment Technology",
+      "ar": "تقانات الأجهزة الطبية"
+    },
+    "aliases": [
+      {
+        "value": "المعهد التقاني للتجهيزات الطبية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "صيانة أجهزة طبية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "المعهد التقاني للتجهير نات الطبية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "0714",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-11:p10:r5",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0714",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-biomedical-engineering",
+    "name": {
+      "en": "Biomedical Engineering",
+      "ar": "الهندسة الطبية"
+    },
+    "aliases": [
+      {
+        "value": "الهندسة الطبية الحيوية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "الهندسة الطبية الذكية والمعلوماتية الحيوية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "0788",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p10:r6",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0788",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-anesthesia",
+    "name": {
+      "en": "Anesthesia",
+      "ar": "التخدير"
+    },
+    "aliases": [
+      {
+        "value": "تخدير",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "التخدير والانعاش",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "معهد التخدير",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "health",
+    "iscedF2013Code": "0914",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p26:r18",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0914",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-medical-laboratory-sciences",
+    "name": {
+      "en": "Medical Laboratory Sciences",
+      "ar": "التحليل المخبري"
+    },
+    "aliases": [
+      {
+        "value": "التحاليل الطبية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "المخابر",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "مخابر",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "العلوم المخبرية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "معهد التحليل المخبري",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "health",
+    "iscedF2013Code": "0914",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p26:r16",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0914",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-radiology",
+    "name": {
+      "en": "Radiology",
+      "ar": "الأشعة"
+    },
+    "aliases": [
+      {
+        "value": "أشعة",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "التشخيص والعلاج الشعاعي",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "health",
+    "iscedF2013Code": "0914",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p26:r19",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0914",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-optics",
+    "name": {
+      "en": "Optics",
+      "ar": "البصريات"
+    },
+    "aliases": [
+      {
+        "value": "بصريات",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "معهد البصريات",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "health",
+    "iscedF2013Code": "0914",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p26:r27",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0914",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-emergency-medical-services",
+    "name": {
+      "en": "Emergency Medical Services",
+      "ar": "طب الطوارئ"
+    },
+    "aliases": [
+      {
+        "value": "الإسعاف",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "طب طوارئ",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "الطوارئ",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "طوارئ",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "health",
+    "iscedF2013Code": "0914",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p24:r27",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0914",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-surgical-technology",
+    "name": {
+      "en": "Surgical Technology",
+      "ar": "فني العمليات"
+    },
+    "aliases": [
+      {
+        "value": "فني عمليات",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "health",
+    "iscedF2013Code": "0914",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p25:r13",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0914",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-speech-and-language-therapy",
+    "name": {
+      "en": "Speech and Language Therapy",
+      "ar": "تقويم الكلام واللغة"
+    },
+    "aliases": [
+      {
+        "value": "علاج النطق",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "اضطرابات النطق والسمع",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "health",
+    "iscedF2013Code": "0915",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p15:r18",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0915",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-audiology",
+    "name": {
+      "en": "Audiology",
+      "ar": "السمعيات"
+    },
+    "aliases": [],
+    "field": "health",
+    "iscedF2013Code": "0915",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p15:r19",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0915",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-nutrition-and-dietetics",
+    "name": {
+      "en": "Nutrition and Dietetics",
+      "ar": "التغذية"
+    },
+    "aliases": [
+      {
+        "value": "التغذية العلاجية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "التغذية التجميلية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "معهد التغذية وعلوم الغذاء",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "تغذية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "health",
+    "iscedF2013Code": "0915",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p15:r26",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0915",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-cosmetology",
+    "name": {
+      "en": "Cosmetology",
+      "ar": "التجميل"
+    },
+    "aliases": [
+      {
+        "value": "علوم التجميل",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "العناية بالبشرة",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "التجميل والعناية بالبشرة",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "health",
+    "iscedF2013Code": "1012",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p19:r14",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "1012",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-public-health",
+    "name": {
+      "en": "Public Health",
+      "ar": "الصحة العامة"
+    },
+    "aliases": [
+      {
+        "value": "صحة عامة",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "health",
+    "iscedF2013Code": "0988",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p26:r21",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0988",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-health-information-management",
+    "name": {
+      "en": "Health Information Management",
+      "ar": "إدارة المعلومات الصحية"
+    },
+    "aliases": [
+      {
+        "value": "ادارة معلومات صحية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "health",
+    "iscedF2013Code": "0988",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p15:r24",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0988",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-educational-psychology",
+    "name": {
+      "en": "Educational Psychology",
+      "ar": "علم النفس التربوي"
+    },
+    "aliases": [],
+    "field": "education",
+    "iscedF2013Code": "0313",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p36:r9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0313",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-psychology",
+    "name": {
+      "en": "Psychology",
+      "ar": "علم النفس"
+    },
+    "aliases": [
+      {
+        "value": "علم نفس",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "علم النفس العام",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "الصحة النفسية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "علم النفس السريري",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "education",
+    "iscedF2013Code": "0313",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p33:r27",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0313",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-psychological-counseling",
+    "name": {
+      "en": "Psychological Counseling",
+      "ar": "الإرشاد النفسي"
+    },
+    "aliases": [
+      {
+        "value": "المعهد التقاني للإرشاد النفسي والتربوي",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "education",
+    "iscedF2013Code": "0923",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p34:r4",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0923",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-statistics",
+    "name": {
+      "en": "Statistics",
+      "ar": "الإحصاء"
+    },
+    "aliases": [
+      {
+        "value": "الإحصاء الرياضي",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "المعهد التقاني الإحصائي",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "احصاء صحي وحيوي",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "science",
+    "iscedF2013Code": "0542",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p15:r14",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0542",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-islamic-dawah",
+    "name": {
+      "en": "Islamic Dawah",
+      "ar": "الدعوة الإسلامية"
+    },
+    "aliases": [
+      {
+        "value": "الدعوة الإسلامية باللغة الإنكليزية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "religion",
+    "iscedF2013Code": "0221",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p39:r9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0221",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-islamic-economics-and-banking",
+    "name": {
+      "en": "Islamic Economics and Banking",
+      "ar": "الاقتصاد والمصارف الإسلامية"
+    },
+    "aliases": [
+      {
+        "value": "الاقتصاد الإسلامي",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "اقتصاد ومصارف إسلامية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "religion",
+    "iscedF2013Code": "0412",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p21:r17",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0412",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-islamic-education",
+    "name": {
+      "en": "Islamic Education",
+      "ar": "التربية الإسلامية"
+    },
+    "aliases": [],
+    "field": "education",
+    "iscedF2013Code": "0114",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p34:r27",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0114",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-sharia-and-law",
+    "name": {
+      "en": "Sharia and Law",
+      "ar": "الشريعة والقانون"
+    },
+    "aliases": [
+      {
+        "value": "القانون والأحوال الشخصية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "religion",
+    "iscedF2013Code": "0221",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p34:r24",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0221",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-islamic-jurisprudence",
+    "name": {
+      "en": "Islamic Jurisprudence",
+      "ar": "الفقه الإسلامي وأصوله"
+    },
+    "aliases": [
+      {
+        "value": "الفقه وأصوله",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "religion",
+    "iscedF2013Code": "0221",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p34:r23",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0221",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-quran-and-hadith-studies",
+    "name": {
+      "en": "Quran and Hadith Studies",
+      "ar": "علوم القرآن والحديث"
+    },
+    "aliases": [
+      {
+        "value": "القرآن والحديث",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "القراءات القرآنية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "التفسير وعلوم القرآن",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "الحديث النبوي وعلومه",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "religion",
+    "iscedF2013Code": "0221",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p34:r22",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0221",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-fundamentals-of-religion",
+    "name": {
+      "en": "Fundamentals of Religion",
+      "ar": "أصول الدين"
+    },
+    "aliases": [
+      {
+        "value": "العقائد والأديان والفلسفة الإسلامية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "العقيدة والفلسفة الإسلامية والاديان",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "religion",
+    "iscedF2013Code": "0221",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p38:r19",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0221",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-islamic-studies",
+    "name": {
+      "en": "Islamic Studies",
+      "ar": "الدراسات الإسلامية"
+    },
+    "aliases": [
+      {
+        "value": "المعهد المتوسط للعلوم الشرعية والعربية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "العلوم الشرعية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "religion",
+    "iscedF2013Code": "0221",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p36:r19",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0221",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-christian-theology",
+    "name": {
+      "en": "Christian Theology",
+      "ar": "اللاهوت"
+    },
+    "aliases": [],
+    "field": "religion",
+    "iscedF2013Code": "0221",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p39:r12",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0221",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-sharia",
+    "name": {
+      "en": "Sharia",
+      "ar": "الشريعة"
+    },
+    "aliases": [
+      {
+        "value": "شريعة",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "religion",
+    "iscedF2013Code": "0221",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p38:r10",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0221",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-special-education",
+    "name": {
+      "en": "Special Education",
+      "ar": "التربية الخاصة"
+    },
+    "aliases": [],
+    "field": "education",
+    "iscedF2013Code": "0113",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p33:r30",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0113",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-curricula-and-teaching-methods",
+    "name": {
+      "en": "Curricula and Teaching Methods",
+      "ar": "المناهج وطرائق التدريس"
+    },
+    "aliases": [],
+    "field": "education",
+    "iscedF2013Code": "0111",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p33:r21",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0111",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-physical-education",
+    "name": {
+      "en": "Physical Education",
+      "ar": "التربية الرياضية"
+    },
+    "aliases": [
+      {
+        "value": "التربية البدنية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "education",
+    "iscedF2013Code": "1014",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p35:r19",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "1014",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-translation",
+    "name": {
+      "en": "Translation",
+      "ar": "الترجمة"
+    },
+    "aliases": [
+      {
+        "value": "المعهد التقاني للترجمة التطبيقية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "languages",
+    "iscedF2013Code": "0231",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p31:r22",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0231",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-french-language-and-literature",
+    "name": {
+      "en": "French Language and Literature",
+      "ar": "اللغة الفرنسية وآدابها"
+    },
+    "aliases": [
+      {
+        "value": "أدب فرنسي",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "اللغة الفرنسية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "languages",
+    "iscedF2013Code": "0232",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p31:r6",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0232",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-turkish-language",
+    "name": {
+      "en": "Turkish Language",
+      "ar": "اللغة التركية"
+    },
+    "aliases": [],
+    "field": "languages",
+    "iscedF2013Code": "0232",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p31:r14",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0232",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-russian-language",
+    "name": {
+      "en": "Russian Language",
+      "ar": "اللغة الروسية"
+    },
+    "aliases": [],
+    "field": "languages",
+    "iscedF2013Code": "0232",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p31:r16",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0232",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-persian-language",
+    "name": {
+      "en": "Persian Language",
+      "ar": "اللغة الفارسية"
+    },
+    "aliases": [],
+    "field": "languages",
+    "iscedF2013Code": "0232",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p31:r17",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0232",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-kurdish-language",
+    "name": {
+      "en": "Kurdish Language",
+      "ar": "اللغة الكردية"
+    },
+    "aliases": [],
+    "field": "languages",
+    "iscedF2013Code": "0232",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p31:r20",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0232",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-robotics-engineering",
+    "name": {
+      "en": "Robotics and Intelligent Systems Engineering",
+      "ar": "هندسة الروبوت والأنظمة الذكية"
+    },
+    "aliases": [
+      {
+        "value": "هندسة الروبوت والنظم الذكية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "0714",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p14:r10",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0714",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-cybersecurity",
+    "name": {
+      "en": "Cybersecurity",
+      "ar": "الأمن السيبراني"
+    },
+    "aliases": [
+      {
+        "value": "أمن المعلومات",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة أمن نظم المعلومات الذكية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "technology",
+    "iscedF2013Code": "0612",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p14:r8",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0612",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-control-and-automation-engineering",
+    "name": {
+      "en": "Control and Automation Engineering",
+      "ar": "هندسة التحكم والأتمتة"
+    },
+    "aliases": [
+      {
+        "value": "هندسة الأتمتة الصناعية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة الحواسيب والأتمتة",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة التحكم الآلي والأتمتة الصناعية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة الحاسبات والتحكم الآلي",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة التحكم الآلي والحواسيب",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "أتمتة صناعية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "نظم التحكم الذكية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "0714",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p10:r3",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0714",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-artificial-intelligence-engineering",
+    "name": {
+      "en": "Artificial Intelligence Engineering",
+      "ar": "هندسة الذكاء الاصطناعي"
+    },
+    "aliases": [
+      {
+        "value": "الذكاء الاصطناعي",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "Artificial Intelligence",
+        "language": "en",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة الذكاء الاصطناعي وعلوم البيانات",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "تكنولوجيا الذكاء الاصطناعي",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "الذكاء الصنعي",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "technology",
+    "iscedF2013Code": "0613",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p9:r13",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0613",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-information-technology",
+    "name": {
+      "en": "Information Technology",
+      "ar": "تقانة المعلومات"
+    },
+    "aliases": [
+      {
+        "value": "هندسة تقانة المعلومات",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة تكنولوجيا المعلومات",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة تكنولوجيا المعلومات والاتصالات",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "technology",
+    "iscedF2013Code": "0612",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p12:r3",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0612",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-communications-technology",
+    "name": {
+      "en": "Communications Technology",
+      "ar": "تقانات الاتصالات"
+    },
+    "aliases": [
+      {
+        "value": "المعهد التقاني للاتصالات",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "المعهد التقاني لالتصالات",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "0714",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p23:r9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0714",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-computer-science",
+    "name": {
+      "en": "Computer Science",
+      "ar": "علوم الحاسوب"
+    },
+    "aliases": [],
+    "field": "technology",
+    "iscedF2013Code": "0613",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p32:r2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0613",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-management-information-systems",
+    "name": {
+      "en": "Management Information Systems",
+      "ar": "نظم المعلومات الإدارية"
+    },
+    "aliases": [
+      {
+        "value": "معهد التنمية الإدارية ونظم المعلومات",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "المعهد التقاني للإدارة الرقمية ونظم المعلومات",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "business",
+    "iscedF2013Code": "0413",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p33:r7",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0413",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-library-and-information-science",
+    "name": {
+      "en": "Library and Information Science",
+      "ar": "المكتبات والمعلومات"
+    },
+    "aliases": [],
+    "field": "humanities",
+    "iscedF2013Code": "0322",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p32:r11",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0322",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-mechatronics-engineering",
+    "name": {
+      "en": "Mechatronics Engineering",
+      "ar": "هندسة الميكاترونكس"
+    },
+    "aliases": [
+      {
+        "value": "هندسة الميكاترونيكس",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "ميكاترونيكس",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة الميكاترونيك",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "الهندسة الميكاترونكس",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "الميكاترونيكس",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "ميكاترونكس",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "الميكاترونكس",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "0714",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p10:r18",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0714",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-mechanical-and-electrical-technology",
+    "name": {
+      "en": "Mechanical and Electrical Technology",
+      "ar": "التقانات الميكانيكية والكهربائية"
+    },
+    "aliases": [
+      {
+        "value": "المعهد التقاني للهندسة الميكانيكية والكهربائية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "0715",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p23:r6",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0715",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-electrical-technology",
+    "name": {
+      "en": "Electrical Technology",
+      "ar": "التقانات الكهربائية"
+    },
+    "aliases": [
+      {
+        "value": "معهد كهرباء",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "0713",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p12:r10",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0713",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-electronics-technology",
+    "name": {
+      "en": "Electronics Technology",
+      "ar": "التقانات الإلكترونية"
+    },
+    "aliases": [],
+    "field": "engineering",
+    "iscedF2013Code": "0714",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p12:r7",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0714",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-electrical-engineering",
+    "name": {
+      "en": "Electrical Engineering",
+      "ar": "الهندسة الكهربائية"
+    },
+    "aliases": [
+      {
+        "value": "هندسة كهربائية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة الطاقة الكهربائية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة نظم القدرة الكهربائية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة القيادة الكهربائية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "القدرة الكهربائية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "0713",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p10:r4",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0713",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-electronics-engineering",
+    "name": {
+      "en": "Electronics Engineering",
+      "ar": "الهندسة الإلكترونية"
+    },
+    "aliases": [
+      {
+        "value": "هندسة إلكترونية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "0714",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p10:r15",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0714",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hvac-technology",
+    "name": {
+      "en": "Heating, Air Conditioning and Refrigeration",
+      "ar": "التدفئة والتكييف والتبريد"
+    },
+    "aliases": [
+      {
+        "value": "تدفئة والتكييف والتبريد",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "تدفئة وتبريد وتكييف",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "تدفئة وتكييف وتبريد",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "0713",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-11:p5:r10",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0713",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-mechanical-manufacturing",
+    "name": {
+      "en": "Mechanical Manufacturing",
+      "ar": "التصنيع الميكانيكي"
+    },
+    "aliases": [
+      {
+        "value": "تصنيع ميكانيكي",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "0715",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p12:r14",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0715",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-vehicle-mechanics",
+    "name": {
+      "en": "Vehicle Mechanics",
+      "ar": "ميكانيك المركبات"
+    },
+    "aliases": [
+      {
+        "value": "ميكانيك مركبات",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "0716",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p12:r13",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0716",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-automotive-and-heavy-machinery-engineering",
+    "name": {
+      "en": "Automotive and Heavy Machinery Engineering",
+      "ar": "هندسة السيارات والآليات"
+    },
+    "aliases": [
+      {
+        "value": "هندسة المعدات والآليات",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة السيارات والآليات الثقيلة",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "معدات وآليات",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "0716",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p10:r9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0716",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-agricultural-mechanization",
+    "name": {
+      "en": "Agricultural Mechanization",
+      "ar": "المكننة الزراعية"
+    },
+    "aliases": [
+      {
+        "value": "المعهد التقاني للمكننة الزراعية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة الآلات الزراعية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "agriculture",
+    "iscedF2013Code": "0715",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p24:r21",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0715",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-textile-engineering",
+    "name": {
+      "en": "Textile Engineering",
+      "ar": "هندسة الغزل والنسيج"
+    },
+    "aliases": [
+      {
+        "value": "المعهد التقاني للصناعات النسيجية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة ميكانيك الصناعات النسيجية وتقاناتها",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة ميكانيك الغزل والنسيج",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "0723",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p10:r8",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0723",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-mechanical-design-and-production-engineering",
+    "name": {
+      "en": "Mechanical Design and Production Engineering",
+      "ar": "هندسة التصميم الميكانيكي والإنتاج"
+    },
+    "aliases": [
+      {
+        "value": "هندسة التصميم والإنتاج",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة التصميم الميكانيكي",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة الإنتاج",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "0715",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p11:r6",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0715",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-industrial-engineering",
+    "name": {
+      "en": "Industrial Engineering",
+      "ar": "الهندسة الصناعية"
+    },
+    "aliases": [
+      {
+        "value": "هندسة صناعية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "0788",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p10:r25",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0788",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-mechanical-engineering",
+    "name": {
+      "en": "Mechanical Engineering",
+      "ar": "الهندسة الميكانيكية"
+    },
+    "aliases": [
+      {
+        "value": "هندسة ميكانيك",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة ميكانيكية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة القوى الميكانيكية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة الميكانيك العام",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "الميكانيك العام",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "0715",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p10:r11",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0715",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-petrochemical-engineering",
+    "name": {
+      "en": "Petrochemical Engineering",
+      "ar": "هندسة الصناعات البتروكيميائية"
+    },
+    "aliases": [],
+    "field": "engineering",
+    "iscedF2013Code": "0711",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p11:r32",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0711",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-chemical-industries-technology",
+    "name": {
+      "en": "Chemical Industries Technology",
+      "ar": "تقانات الصناعات الكيميائية"
+    },
+    "aliases": [
+      {
+        "value": "المعهد التقاني للصناعات الكيميائية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "0711",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p26:r11",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0711",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-materials-engineering",
+    "name": {
+      "en": "Materials Engineering",
+      "ar": "هندسة المواد"
+    },
+    "aliases": [
+      {
+        "value": "هندسة علم المواد الهندسية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة المعادن",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "علوم وهندسة المواد",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "0722",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p10:r23",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0722",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-oil-and-gas-technology",
+    "name": {
+      "en": "Oil and Gas Technology",
+      "ar": "تقانات النفط والغاز"
+    },
+    "aliases": [],
+    "field": "engineering",
+    "iscedF2013Code": "0724",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p28:r5",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0724",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-petroleum-engineering",
+    "name": {
+      "en": "Petroleum Engineering",
+      "ar": "الهندسة البترولية"
+    },
+    "aliases": [
+      {
+        "value": "هندسة البترول",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "0724",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p11:r27",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0724",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-renewable-energy",
+    "name": {
+      "en": "Renewable Energy",
+      "ar": "الطاقات المتجددة"
+    },
+    "aliases": [
+      {
+        "value": "الطاقة الشمسية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة الطاقة البديلة",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "طاقات متجددة طاقة شمسية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "تقانات الطاقات المتجددة",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "طاقات متجددة",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "0713",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p26:r8",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0713",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-environmental-engineering",
+    "name": {
+      "en": "Environmental Engineering",
+      "ar": "الهندسة البيئية"
+    },
+    "aliases": [
+      {
+        "value": "تقانات الهندسة البيئية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "0712",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p11:r19",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0712",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-nuclear-engineering",
+    "name": {
+      "en": "Nuclear Engineering",
+      "ar": "الهندسة النووية"
+    },
+    "aliases": [],
+    "field": "engineering",
+    "iscedF2013Code": "0713",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p10:r19",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0713",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-marine-engineering",
+    "name": {
+      "en": "Marine Engineering",
+      "ar": "الهندسة البحرية"
+    },
+    "aliases": [],
+    "field": "engineering",
+    "iscedF2013Code": "0716",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p11:r7",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0716",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-maritime-transport",
+    "name": {
+      "en": "Maritime Transport",
+      "ar": "النقل البحري"
+    },
+    "aliases": [
+      {
+        "value": "المعهد التقاني للنقل البحري",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "1041",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p26:r9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "1041",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-aeronautical-engineering",
+    "name": {
+      "en": "Aeronautical Engineering",
+      "ar": "هندسة الطيران"
+    },
+    "aliases": [],
+    "field": "engineering",
+    "iscedF2013Code": "0716",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p10:r21",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0716",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-railway-technology",
+    "name": {
+      "en": "Railway Technology",
+      "ar": "الخطوط الحديدية"
+    },
+    "aliases": [
+      {
+        "value": "المعهد التقاني للخطوط الحديدية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "1041",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p28:r4",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "1041",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-applied-industries-technology",
+    "name": {
+      "en": "Applied Industries Technology",
+      "ar": "تقانات الصناعات التطبيقية"
+    },
+    "aliases": [
+      {
+        "value": "المعهد التقاني للصناعات التطبيقية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "0715",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p26:r12",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0715",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-surveying-and-geomatics",
+    "name": {
+      "en": "Surveying and Geomatics",
+      "ar": "المساحة والجيوماتيك"
+    },
+    "aliases": [
+      {
+        "value": "المساحة",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "الهندسة المساحية والجيوماتية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "0731",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p22:r7",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0731",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-architectural-drafting-technology",
+    "name": {
+      "en": "Architectural Drafting Technology",
+      "ar": "العمارة والرسم الهندسي"
+    },
+    "aliases": [],
+    "field": "engineering",
+    "iscedF2013Code": "0731",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p22:r9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0731",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-building-construction-technology",
+    "name": {
+      "en": "Building Construction Technology",
+      "ar": "الإنشاءات العامة"
+    },
+    "aliases": [
+      {
+        "value": "المدني والإنشاءات الخاصة",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "0732",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p22:r6",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0732",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-water-and-sanitation-technology",
+    "name": {
+      "en": "Water and Sanitation Technology",
+      "ar": "التقانات الصحية والمائية"
+    },
+    "aliases": [
+      {
+        "value": "الصحية والمائية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "engineering",
+    "iscedF2013Code": "0732",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p22:r8",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0732",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-construction-engineering",
+    "name": {
+      "en": "Construction Engineering",
+      "ar": "هندسة تكنولوجيا البناء والتشييد"
+    },
+    "aliases": [],
+    "field": "engineering",
+    "iscedF2013Code": "0732",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p16:r10",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0732",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-biotechnology-engineering",
+    "name": {
+      "en": "Biotechnology Engineering",
+      "ar": "هندسة التقانات الحيوية"
+    },
+    "aliases": [
+      {
+        "value": "التقانة الحيوية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "تقانات الهندسة الحيوية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "agriculture",
+    "iscedF2013Code": "0512",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p11:r21",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0512",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-food-engineering",
+    "name": {
+      "en": "Food Engineering",
+      "ar": "الهندسة الغذائية"
+    },
+    "aliases": [
+      {
+        "value": "تقانة الأغذية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "تقانات الهندسة الغذائية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "هندسة التقانات الغذائية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "تكنولوجيا الأغذية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "agriculture",
+    "iscedF2013Code": "0721",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p11:r20",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0721",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-agricultural-technology",
+    "name": {
+      "en": "Agricultural Technology",
+      "ar": "التقانات الزراعية"
+    },
+    "aliases": [
+      {
+        "value": "معهد زراعي",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "المعهد التقاني الزراعي",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "المعهد التقاني للزراعات المتوسطية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "المعهد التقاني للري الحديث",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "المعهد التقاني لشؤون البادية والتصحر",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "agriculture",
+    "iscedF2013Code": "0811",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p24:r7",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0811",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-agricultural-engineering",
+    "name": {
+      "en": "Agricultural Engineering",
+      "ar": "الهندسة الزراعية"
+    },
+    "aliases": [
+      {
+        "value": "هندسة زراعية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "agriculture",
+    "iscedF2013Code": "0811",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p12:r24",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0811",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-environmental-sciences",
+    "name": {
+      "en": "Environmental Sciences",
+      "ar": "العلوم البيئية"
+    },
+    "aliases": [
+      {
+        "value": "البيئة والتنمية المستدامة",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "science",
+    "iscedF2013Code": "0521",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p40:r11",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0521",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-mathematics",
+    "name": {
+      "en": "Mathematics",
+      "ar": "الرياضيات"
+    },
+    "aliases": [
+      {
+        "value": "رياضيات",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "science",
+    "iscedF2013Code": "0541",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p14:r10",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0541",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-chemistry",
+    "name": {
+      "en": "Chemistry",
+      "ar": "الكيمياء"
+    },
+    "aliases": [
+      {
+        "value": "كيمياء",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "science",
+    "iscedF2013Code": "0531",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p15:r4",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0531",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-physics",
+    "name": {
+      "en": "Physics",
+      "ar": "الفيزياء"
+    },
+    "aliases": [
+      {
+        "value": "فيزياء",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "science",
+    "iscedF2013Code": "0533",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p14:r24",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0533",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-biology",
+    "name": {
+      "en": "Biology",
+      "ar": "علم الحياة"
+    },
+    "aliases": [
+      {
+        "value": "علم الأحياء",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "بيولوجيا",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "science",
+    "iscedF2013Code": "0511",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p13:r22",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0511",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-geology",
+    "name": {
+      "en": "Geology",
+      "ar": "الجيولوجيا"
+    },
+    "aliases": [],
+    "field": "science",
+    "iscedF2013Code": "0532",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p14:r5",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0532",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-political-science",
+    "name": {
+      "en": "Political Science",
+      "ar": "العلوم السياسية"
+    },
+    "aliases": [],
+    "field": "law",
+    "iscedF2013Code": "0312",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p35:r10",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0312",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-archaeology",
+    "name": {
+      "en": "Archaeology",
+      "ar": "الآثار"
+    },
+    "aliases": [
+      {
+        "value": "معهد الآثار والمتاحف",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "humanities",
+    "iscedF2013Code": "0222",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p33:r5",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0222",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-history",
+    "name": {
+      "en": "History",
+      "ar": "التاريخ"
+    },
+    "aliases": [
+      {
+        "value": "تاريخ",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "humanities",
+    "iscedF2013Code": "0222",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p32:r24",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0222",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-geography",
+    "name": {
+      "en": "Geography",
+      "ar": "الجغرافية"
+    },
+    "aliases": [
+      {
+        "value": "الجغرافيا",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "جغرافيا",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "humanities",
+    "iscedF2013Code": "0314",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p32:r13",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0314",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-philosophy",
+    "name": {
+      "en": "Philosophy",
+      "ar": "الفلسفة"
+    },
+    "aliases": [
+      {
+        "value": "فلسفة",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "humanities",
+    "iscedF2013Code": "0223",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p31:r23",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0223",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-jineology",
+    "name": {
+      "en": "Jineology (Women's Studies)",
+      "ar": "الجينولوجيا (علم المرأة)"
+    },
+    "aliases": [
+      {
+        "value": "علم المرأة",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "humanities",
+    "iscedF2013Code": "0314",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p32:r10",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0314",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-sociology",
+    "name": {
+      "en": "Sociology",
+      "ar": "علم الاجتماع"
+    },
+    "aliases": [
+      {
+        "value": "علم اجتماع",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "العلوم الاجتماعية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "humanities",
+    "iscedF2013Code": "0314",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p31:r30",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0314",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-social-work",
+    "name": {
+      "en": "Social Work",
+      "ar": "الخدمة الاجتماعية"
+    },
+    "aliases": [
+      {
+        "value": "المعهد التقاني للخدمة الاجتماعية",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "humanities",
+    "iscedF2013Code": "0923",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p35:r32",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0923",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hospital-management",
+    "name": {
+      "en": "Hospital Management",
+      "ar": "إدارة المشافي"
+    },
+    "aliases": [
+      {
+        "value": "إدارة المستشفيات",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "business",
+    "iscedF2013Code": "0413",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p33:r2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0413",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-logistics-and-international-transport",
+    "name": {
+      "en": "Logistics and International Transport",
+      "ar": "لوجستيات التجارة والنقل الدولي"
+    },
+    "aliases": [
+      {
+        "value": "اللوجستيات",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "business",
+    "iscedF2013Code": "1041",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p33:r6",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "1041",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-entrepreneurship",
+    "name": {
+      "en": "Entrepreneurship",
+      "ar": "ريادة الأعمال"
+    },
+    "aliases": [],
+    "field": "business",
+    "iscedF2013Code": "0413",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-7:p33:r10",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0413",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-office-management",
+    "name": {
+      "en": "Office Management",
+      "ar": "إدارة المكاتب"
+    },
+    "aliases": [
+      {
+        "value": "المعهد التقاني لإدارة المكاتب",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "business",
+    "iscedF2013Code": "0415",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p35:r28",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0415",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-financial-and-administrative-sciences",
+    "name": {
+      "en": "Financial and Administrative Sciences",
+      "ar": "العلوم المالية والإدارية"
+    },
+    "aliases": [
+      {
+        "value": "معهد مالي",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "المعهد التقاني للعلوم المالية والإدارية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "العلوم الإدارية والمالية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "المعهد التقاني المالي",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "business",
+    "iscedF2013Code": "0413",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p35:r25",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0413",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-economics",
+    "name": {
+      "en": "Economics",
+      "ar": "الاقتصاد"
+    },
+    "aliases": [
+      {
+        "value": "اقتصاد",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "الإدارة والاقتصاد",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "العلوم الإدارية والاقتصادية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "الاقتصاد والتنمية",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "التجارة والاقتصاد",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "الاقتصاد والإدارة",
+        "language": "ar",
+        "type": "alias"
+      },
+      {
+        "value": "إدارة واقتصاد",
+        "language": "ar",
+        "type": "alias"
+      }
+    ],
+    "field": "business",
+    "iscedF2013Code": "0311",
+    "sourceIds": [
+      "mohe-university-admissions-2026-2027",
+      "unesco-isced-f-2013-detailed-field-descriptions"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-2026-2027",
+        "sourceRecordId": "announcement-9:p13:r6",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "unesco-isced-f-2013-detailed-field-descriptions",
+        "sourceRecordId": "0311",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"

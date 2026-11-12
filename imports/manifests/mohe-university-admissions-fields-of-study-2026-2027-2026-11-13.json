@@ -1,0 +1,77 @@
+{
+  "sourceId": "mohe-university-admissions-2026-2027",
+  "sourceTitle": "Syrian Ministry of Higher Education 2026–2027 undergraduate admissions announcements",
+  "sourceUrl": "https://mohe.gov.sy/ar/media-center/details/651",
+  "license": "Public source; factual data only",
+  "accessedAt": "2026-11-13T00:00:00.000Z",
+  "status": "imported",
+  "rawFiles": [
+    {
+      "name": "news_pdf_20260930155756_651_0.pdf",
+      "sha256": "19cbf7ff60d37c9b73a87c6d1e011a4558b20bdad72279b2733aaf8ced452493",
+      "notes": "Announcement 1: Scientific branch: conditions and entrance examinations."
+    },
+    {
+      "name": "news_pdf_20260930155934_651_0.pdf",
+      "sha256": "1812ac613d9e0d9b178f6829af2455add52c6bdf34e82e8c5289107a046faad9",
+      "notes": "Announcement 2: Scientific branch: application minimums."
+    },
+    {
+      "name": "news_pdf_20260930160044_651_0.pdf",
+      "sha256": "00b1a9c6df967054ce0389a59a522878b23e3941ad8508fc600fde88844e740d",
+      "notes": "Announcement 3: Literary branch: general conditions."
+    },
+    {
+      "name": "news_pdf_20260930160200_651_0.pdf",
+      "sha256": "6c6211d1e6f0649c801fe8d12b6297685fbb6d9441344375d24f62edf51760e5",
+      "notes": "Announcement 4: Literary branch: application minimums."
+    },
+    {
+      "name": "news_pdf_20260930160241_651_0.pdf",
+      "sha256": "27f6ad5a9b40d99a6e7d6725d2432cded4769e37e33e13fe2f935eaac5c9d551",
+      "notes": "Announcement 5: Applied colleges and institutes: specialisations and conditions."
+    },
+    {
+      "name": "news_pdf_20260930160315_651_0.pdf",
+      "sha256": "ab03dd05c06227039b9721011a15f15120f695df237e692ff753368e82374ed9",
+      "notes": "Announcement 6: Syrian vocational certificates: general and parallel admission."
+    },
+    {
+      "name": "news_pdf_6abe5325b7e08.pdf",
+      "sha256": "3c77e01b253325f0bc77dc210b0c29982744db80d71a33ffac13375074f8c1ee",
+      "notes": "Announcement 7: Private universities: conditions and application minimums."
+    },
+    {
+      "name": "news_pdf_20260930160533_651_0.pdf",
+      "sha256": "d572ad4e29293e5f88592478d2efb457ab833e55cb99085a5496121c39ec10ca",
+      "notes": "Announcement 8: Non-Syrian scientific/literary certificates: Syrian applicants and equivalents."
+    },
+    {
+      "name": "news_pdf_20260930160627_651_0.pdf",
+      "sha256": "b142a797e545d95fa8dc5d6b35a7c54bcf9fd4e6b83506db17f363a887e623be",
+      "notes": "Announcement 9: Arab and foreign applicants: scientific and literary branches."
+    },
+    {
+      "name": "news_pdf_20260930160657_651_0.pdf",
+      "sha256": "4b4cde82a8a95e74d0ef870416290bbcb0d246d707105097f0a0527298f2fb6c",
+      "notes": "Announcement 10: Non-Syrian vocational certificates: Syrian applicants and equivalents."
+    },
+    {
+      "name": "news_pdf_20260930200556_651_0.pdf",
+      "sha256": "2fad31764c81bb80dfbc9f0e8761a6dd990938b0a3d91c0db67f9ff5e135ff33",
+      "notes": "Announcement 11: Arab and foreign applicants: vocational certificates."
+    }
+  ],
+  "importedFields": ["field of study names"],
+  "targetFiles": ["data/disciplines.json", "data/programs.json", "data/sources.json"],
+  "transforms": [
+    "Read every program label in the 24 OpenSyria admissions catalogues (Open-Syria/website 0754506), which transcribe these announcements with announcement, page and row references.",
+    "Fold Arabic spelling variants and drop applicant quotas, campus suffixes, ordinals and gender notes, giving 744 distinct labels.",
+    "Assign each label to one field of study by its specialization, keeping technical-institute fields separate from degree fields where the qualification differs (for example Pharmacy Technology and Pharmacy).",
+    "Leave out military and security college labels, the medical preparatory year and faculty labels that name no program.",
+    "Keep the 30 existing field IDs and add 118 fields, each with an ISCED-F 2013 detailed code and a Ministry row reference.",
+    "Add Ministry spellings as aliases only when the alias maps back to the same field, and drop aliases shared by two fields.",
+    "Assign the 152 verified program offerings that had no field, using the award name before the shared Ministry row."
+  ],
+  "reviewNotes": "Field names, English translations and ISCED-F codes were assigned by the maintainer from the Ministry labels and the UNESCO detailed field descriptions. Fields name what people studied; they do not assert that any university offers the program. Offerings still need their own award and campus evidence."
+}

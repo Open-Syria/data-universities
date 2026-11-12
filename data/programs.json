@@ -144,7 +144,7 @@
     "id": "sy-damascus-university-mechanical-and-electrical-engineering-technical-diploma",
     "universityId": "sy-damascus-university",
     "facultyId": "sy-damascus-university-technical-institute-of-mechanical-and-electrical-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-mechanical-and-electrical-technology",
     "campus": {
       "locality": {
         "en": "Damascus",
@@ -273,7 +273,7 @@
     "id": "sy-damascus-university-business-administration-technical-diploma",
     "universityId": "sy-damascus-university",
     "facultyId": "sy-damascus-university-technical-institute-of-business-administration-and-marketing",
-    "disciplineId": null,
+    "disciplineId": "sy-business-administration",
     "campus": {
       "locality": {
         "en": "Damascus",
@@ -313,7 +313,7 @@
     "id": "sy-damascus-university-marketing-and-sales-technical-diploma",
     "universityId": "sy-damascus-university",
     "facultyId": "sy-damascus-university-technical-institute-of-business-administration-and-marketing",
-    "disciplineId": null,
+    "disciplineId": "sy-marketing-and-e-commerce",
     "campus": {
       "locality": {
         "en": "Damascus",
@@ -353,7 +353,7 @@
     "id": "sy-damascus-university-public-relations-technical-diploma",
     "universityId": "sy-damascus-university",
     "facultyId": "sy-damascus-university-technical-institute-of-business-administration-and-marketing",
-    "disciplineId": null,
+    "disciplineId": "sy-business-administration",
     "campus": {
       "locality": {
         "en": "Damascus",
@@ -393,7 +393,7 @@
     "id": "sy-damascus-university-conference-and-exhibition-management-technical-diploma",
     "universityId": "sy-damascus-university",
     "facultyId": "sy-damascus-university-technical-institute-of-business-administration-and-marketing",
-    "disciplineId": null,
+    "disciplineId": "sy-business-administration",
     "campus": {
       "locality": {
         "en": "Damascus",
@@ -433,7 +433,7 @@
     "id": "sy-al-andalus-university-for-medical-sciences-biomedical-engineering",
     "universityId": "sy-al-andalus-university-for-medical-sciences",
     "facultyId": "sy-al-andalus-university-for-medical-sciences-faculty-of-biomedical-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-biomedical-engineering",
     "campus": {
       "locality": {
         "en": "Al-Qadmus",
@@ -728,7 +728,7 @@
     "id": "sy-al-manara-university-mechatronics-engineering",
     "universityId": "sy-al-manara-university",
     "facultyId": "sy-al-manara-university-faculty-of-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-mechatronics-engineering",
     "campus": {
       "locality": {
         "en": "Latakia",
@@ -814,7 +814,7 @@
     "id": "sy-al-manara-university-robotics-and-intelligent-systems-engineering",
     "universityId": "sy-al-manara-university",
     "facultyId": "sy-al-manara-university-faculty-of-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-robotics-engineering",
     "campus": {
       "locality": {
         "en": "Latakia",
@@ -949,7 +949,7 @@
     "id": "sy-international-university-for-science-and-renaissance-biotechnology-engineering",
     "universityId": "sy-international-university-for-science-and-renaissance",
     "facultyId": "sy-international-university-for-science-and-renaissance-faculty-of-biotechnology-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-biotechnology-engineering",
     "campus": {
       "locality": {
         "en": "Azaz",
@@ -1096,7 +1096,7 @@
     "id": "sy-international-university-for-science-and-renaissance-classroom-teaching",
     "universityId": "sy-international-university-for-science-and-renaissance",
     "facultyId": "sy-international-university-for-science-and-renaissance-faculty-of-education",
-    "disciplineId": null,
+    "disciplineId": "sy-primary-education",
     "campus": {
       "locality": {
         "en": "Azaz",
@@ -1145,7 +1145,7 @@
     "id": "sy-international-university-for-science-and-renaissance-dental-prosthetics-technical-diploma",
     "universityId": "sy-international-university-for-science-and-renaissance",
     "facultyId": "sy-international-university-for-science-and-renaissance-institute-of-dental-prosthetics",
-    "disciplineId": null,
+    "disciplineId": "sy-dental-prosthetics",
     "campus": {
       "locality": {
         "en": "Azaz",
@@ -1194,7 +1194,7 @@
     "id": "sy-international-university-for-science-and-renaissance-educational-psychology",
     "universityId": "sy-international-university-for-science-and-renaissance",
     "facultyId": "sy-international-university-for-science-and-renaissance-faculty-of-education",
-    "disciplineId": null,
+    "disciplineId": "sy-psychology",
     "campus": {
       "locality": {
         "en": "Azaz",
@@ -1341,7 +1341,7 @@
     "id": "sy-international-university-for-science-and-renaissance-medical-laboratory-sciences",
     "universityId": "sy-international-university-for-science-and-renaissance",
     "facultyId": "sy-international-university-for-science-and-renaissance-faculty-of-health-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-medical-laboratory-sciences",
     "campus": {
       "locality": {
         "en": "Azaz",
@@ -1537,7 +1537,7 @@
     "id": "sy-international-university-for-science-and-renaissance-pharmacy-technical-diploma",
     "universityId": "sy-international-university-for-science-and-renaissance",
     "facultyId": "sy-international-university-for-science-and-renaissance-pharmacy-institute",
-    "disciplineId": null,
+    "disciplineId": "sy-pharmacy-technology",
     "campus": {
       "locality": {
         "en": "Azaz",
@@ -1635,7 +1635,7 @@
     "id": "sy-syrian-private-university-artificial-intelligence-and-data-science-engineering",
     "universityId": "sy-syrian-private-university",
     "facultyId": "sy-syrian-private-university-faculty-of-artificial-intelligence-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-artificial-intelligence-engineering",
     "campus": {
       "locality": {
         "en": "Al-Kiswah",
@@ -1675,7 +1675,7 @@
     "id": "sy-syrian-private-university-building-and-construction-technology-engineering",
     "universityId": "sy-syrian-private-university",
     "facultyId": "sy-syrian-private-university-faculty-of-building-and-construction-technology-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-construction-engineering",
     "campus": {
       "locality": {
         "en": "Al-Kiswah",
@@ -1761,7 +1761,7 @@
     "id": "sy-syrian-private-university-intelligent-communications-engineering",
     "universityId": "sy-syrian-private-university",
     "facultyId": "sy-syrian-private-university-faculty-of-artificial-intelligence-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-communications-engineering",
     "campus": {
       "locality": {
         "en": "Al-Kiswah",
@@ -1801,7 +1801,7 @@
     "id": "sy-syrian-private-university-intelligent-information-systems-security-engineering",
     "universityId": "sy-syrian-private-university",
     "facultyId": "sy-syrian-private-university-faculty-of-artificial-intelligence-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-cybersecurity",
     "campus": {
       "locality": {
         "en": "Al-Kiswah",
@@ -1841,7 +1841,7 @@
     "id": "sy-syrian-private-university-intelligent-medical-engineering-and-bioinformatics",
     "universityId": "sy-syrian-private-university",
     "facultyId": "sy-syrian-private-university-faculty-of-artificial-intelligence-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-biomedical-engineering",
     "campus": {
       "locality": {
         "en": "Al-Kiswah",
@@ -1881,7 +1881,7 @@
     "id": "sy-syrian-private-university-petroleum-engineering",
     "universityId": "sy-syrian-private-university",
     "facultyId": "sy-syrian-private-university-faculty-of-petroleum-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-petroleum-engineering",
     "campus": {
       "locality": {
         "en": "Al-Kiswah",
@@ -1967,7 +1967,7 @@
     "id": "sy-syrian-private-university-robotics-and-intelligent-systems-engineering",
     "universityId": "sy-syrian-private-university",
     "facultyId": "sy-syrian-private-university-faculty-of-artificial-intelligence-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-robotics-engineering",
     "campus": {
       "locality": {
         "en": "Al-Kiswah",
@@ -2007,7 +2007,7 @@
     "id": "sy-syrian-private-university-software-and-intelligent-information-systems-engineering",
     "universityId": "sy-syrian-private-university",
     "facultyId": "sy-syrian-private-university-faculty-of-artificial-intelligence-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-software-engineering",
     "campus": {
       "locality": {
         "en": "Al-Kiswah",
@@ -2047,7 +2047,7 @@
     "id": "sy-al-sham-private-university-administrative-sciences-al-tall",
     "universityId": "sy-al-sham-private-university",
     "facultyId": "sy-al-sham-private-university-faculty-of-administrative-sciences-al-tall",
-    "disciplineId": null,
+    "disciplineId": "sy-business-administration",
     "campus": {
       "locality": {
         "en": "Al-Tall",
@@ -2096,7 +2096,7 @@
     "id": "sy-al-sham-private-university-administrative-sciences-latakia",
     "universityId": "sy-al-sham-private-university",
     "facultyId": "sy-al-sham-private-university-faculty-of-administrative-sciences-latakia",
-    "disciplineId": null,
+    "disciplineId": "sy-business-administration",
     "campus": {
       "locality": {
         "en": "Latakia",
@@ -2298,7 +2298,7 @@
     "id": "sy-mari-private-university-aesthetic-nutrition",
     "universityId": "sy-mari-private-university",
     "facultyId": "sy-mari-private-university-faculty-of-health-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-nutrition-and-dietetics",
     "campus": {
       "locality": {
         "en": "Hizano",
@@ -2396,7 +2396,7 @@
     "id": "sy-mari-private-university-commerce-and-economics",
     "universityId": "sy-mari-private-university",
     "facultyId": "sy-mari-private-university-faculty-of-commerce-and-economics",
-    "disciplineId": null,
+    "disciplineId": "sy-economics",
     "campus": {
       "locality": {
         "en": "Hizano",
@@ -2445,7 +2445,7 @@
     "id": "sy-mari-private-university-computer-technology-technical-diploma",
     "universityId": "sy-mari-private-university",
     "facultyId": "sy-mari-private-university-technical-computer-institute",
-    "disciplineId": null,
+    "disciplineId": "sy-computer-technologies",
     "campus": {
       "locality": {
         "en": "Hizano",
@@ -2494,7 +2494,7 @@
     "id": "sy-mari-private-university-dental-assistance-technical-diploma",
     "universityId": "sy-mari-private-university",
     "facultyId": "sy-mari-private-university-technical-institute-of-dentistry",
-    "disciplineId": null,
+    "disciplineId": "sy-dental-assistance",
     "campus": {
       "locality": {
         "en": "Hizano",
@@ -2543,7 +2543,7 @@
     "id": "sy-mari-private-university-dental-prosthetics-technical-diploma",
     "universityId": "sy-mari-private-university",
     "facultyId": "sy-mari-private-university-technical-institute-of-dentistry",
-    "disciplineId": null,
+    "disciplineId": "sy-dental-prosthetics",
     "campus": {
       "locality": {
         "en": "Hizano",
@@ -2641,7 +2641,7 @@
     "id": "sy-mari-private-university-food-technology-engineering",
     "universityId": "sy-mari-private-university",
     "facultyId": "sy-mari-private-university-faculty-of-food-technology-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-food-engineering",
     "campus": {
       "locality": {
         "en": "Hizano",
@@ -2739,7 +2739,7 @@
     "id": "sy-mari-private-university-mechatronics-engineering",
     "universityId": "sy-mari-private-university",
     "facultyId": "sy-mari-private-university-faculty-of-mechatronics-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-mechatronics-engineering",
     "campus": {
       "locality": {
         "en": "Hizano",
@@ -2788,7 +2788,7 @@
     "id": "sy-mari-private-university-mental-health",
     "universityId": "sy-mari-private-university",
     "facultyId": "sy-mari-private-university-faculty-of-health-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-psychology",
     "campus": {
       "locality": {
         "en": "Hizano",
@@ -2935,7 +2935,7 @@
     "id": "sy-mari-private-university-prosthetics-and-orthotics-technical-diploma",
     "universityId": "sy-mari-private-university",
     "facultyId": "sy-mari-private-university-technical-institute-of-prosthetics-and-orthotics",
-    "disciplineId": null,
+    "disciplineId": "sy-prosthetics-and-orthotics",
     "campus": {
       "locality": {
         "en": "Hizano",
@@ -2984,7 +2984,7 @@
     "id": "sy-mari-private-university-therapeutic-nutrition",
     "universityId": "sy-mari-private-university",
     "facultyId": "sy-mari-private-university-faculty-of-health-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-nutrition-and-dietetics",
     "campus": {
       "locality": {
         "en": "Hizano",
@@ -3033,7 +3033,7 @@
     "id": "sy-wadi-international-university-administrative-and-economic-sciences",
     "universityId": "sy-wadi-international-university",
     "facultyId": "sy-wadi-international-university-faculty-of-administrative-and-economic-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-economics",
     "campus": {
       "locality": {
         "en": "Wadi al-Nasara",
@@ -3288,7 +3288,7 @@
     "id": "sy-yarmouk-private-university-administrative-and-financial-sciences",
     "universityId": "sy-yarmouk-private-university",
     "facultyId": "sy-yarmouk-private-university-faculty-of-administrative-and-financial-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-financial-and-administrative-sciences",
     "campus": {
       "locality": {
         "en": "Jabab",
@@ -3337,7 +3337,7 @@
     "id": "sy-al-andalus-university-for-medical-sciences-hospital-management",
     "universityId": "sy-al-andalus-university-for-medical-sciences",
     "facultyId": "sy-al-andalus-university-for-medical-sciences-faculty-of-hospital-management",
-    "disciplineId": null,
+    "disciplineId": "sy-hospital-management",
     "campus": {
       "locality": {
         "en": "Al-Qadmus",
@@ -3594,7 +3594,7 @@
     "id": "sy-yarmouk-private-university-communications-and-information-engineering",
     "universityId": "sy-yarmouk-private-university",
     "facultyId": "sy-yarmouk-private-university-faculty-of-informatics-and-communication-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-communications-engineering",
     "campus": {
       "locality": {
         "en": "Jabab",
@@ -3931,7 +3931,7 @@
     "id": "sy-al-hawash-private-university-skin-care",
     "universityId": "sy-al-hawash-private-university",
     "facultyId": "sy-al-hawash-private-university-faculty-of-cosmetology-and-health-care",
-    "disciplineId": null,
+    "disciplineId": "sy-cosmetology",
     "campus": {
       "locality": {
         "en": "Al-Hawash",
@@ -4023,7 +4023,7 @@
     "id": "sy-arab-international-university-arts-interior-architecture-and-visual-communication",
     "universityId": "sy-arab-international-university",
     "facultyId": "sy-arab-international-university-faculty-of-arts",
-    "disciplineId": null,
+    "disciplineId": "sy-graphic-design",
     "campus": {
       "locality": {
         "en": "Ghabagheb",
@@ -4170,7 +4170,7 @@
     "id": "sy-arab-international-university-informatics-and-communications-engineering",
     "universityId": "sy-arab-international-university",
     "facultyId": "sy-arab-international-university-faculty-of-informatics-and-communications-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-informatics-engineering",
     "campus": {
       "locality": {
         "en": "Ghabagheb",
@@ -4268,7 +4268,7 @@
     "id": "sy-ittihad-private-university-administrative-sciences-aleppo",
     "universityId": "sy-ittihad-private-university",
     "facultyId": "sy-ittihad-private-university-faculty-of-administrative-sciences-aleppo",
-    "disciplineId": null,
+    "disciplineId": "sy-business-administration",
     "campus": {
       "locality": {
         "en": "Aleppo",
@@ -4317,7 +4317,7 @@
     "id": "sy-ittihad-private-university-administrative-sciences-alqeen",
     "universityId": "sy-ittihad-private-university",
     "facultyId": "sy-ittihad-private-university-faculty-of-administrative-sciences-alqeen",
-    "disciplineId": null,
+    "disciplineId": "sy-business-administration",
     "campus": {
       "locality": {
         "en": "Alqeen",
@@ -5093,7 +5093,7 @@
     "id": "sy-bilad-al-sham-university-for-sharia-sciences-islamic-economics-and-banking-ahmad-kuftaro",
     "universityId": "sy-bilad-al-sham-university-for-sharia-sciences",
     "facultyId": "sy-bilad-al-sham-university-for-sharia-sciences-faculty-of-sharia-and-law-ahmad-kuftaro",
-    "disciplineId": null,
+    "disciplineId": "sy-sharia",
     "campus": {
       "locality": {
         "en": "Ahmad Kuftaro Complex",
@@ -5136,7 +5136,7 @@
     "id": "sy-bilad-al-sham-university-for-sharia-sciences-islamic-law-and-personal-status-al-fath",
     "universityId": "sy-bilad-al-sham-university-for-sharia-sciences",
     "facultyId": "sy-bilad-al-sham-university-for-sharia-sciences-faculty-of-sharia-and-law-al-fath",
-    "disciplineId": null,
+    "disciplineId": "sy-sharia-and-law",
     "campus": {
       "locality": {
         "en": "Al-Fath Islamic Complex",
@@ -5637,7 +5637,7 @@
     "id": "sy-ebla-private-university-informatics-and-communications-engineering",
     "universityId": "sy-ebla-private-university",
     "facultyId": "sy-ebla-private-university-faculty-of-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-informatics-engineering",
     "campus": {
       "locality": {
         "en": "Saraqib",
@@ -5747,7 +5747,7 @@
     "id": "sy-al-ruwad-university-for-science-and-culture-accounting-and-finance",
     "universityId": "sy-al-ruwad-university-for-science-and-culture",
     "facultyId": "sy-al-ruwad-university-for-science-and-culture-faculty-of-administrative-and-financial-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-accounting",
     "campus": {
       "locality": {
         "en": "Jarabulus",
@@ -5943,7 +5943,7 @@
     "id": "sy-al-ruwad-university-for-science-and-culture-computer-engineering-and-artificial-intelligence",
     "universityId": "sy-al-ruwad-university-for-science-and-culture",
     "facultyId": "sy-al-ruwad-university-for-science-and-culture-faculty-of-informatics-engineering-and-technology",
-    "disciplineId": null,
+    "disciplineId": "sy-computer-engineering",
     "campus": {
       "locality": {
         "en": "Jarabulus",
@@ -6041,7 +6041,7 @@
     "id": "sy-al-ruwad-university-for-science-and-culture-economics-and-development",
     "universityId": "sy-al-ruwad-university-for-science-and-culture",
     "facultyId": "sy-al-ruwad-university-for-science-and-culture-faculty-of-administrative-and-financial-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-economics",
     "campus": {
       "locality": {
         "en": "Jarabulus",
@@ -6188,7 +6188,7 @@
     "id": "sy-al-ruwad-university-for-science-and-culture-psychological-counseling",
     "universityId": "sy-al-ruwad-university-for-science-and-culture",
     "facultyId": "sy-al-ruwad-university-for-science-and-culture-faculty-of-education-and-community-development",
-    "disciplineId": null,
+    "disciplineId": "sy-psychological-counseling",
     "campus": {
       "locality": {
         "en": "Jarabulus",
@@ -6286,7 +6286,7 @@
     "id": "sy-al-ruwad-university-for-science-and-culture-special-education",
     "universityId": "sy-al-ruwad-university-for-science-and-culture",
     "facultyId": "sy-al-ruwad-university-for-science-and-culture-faculty-of-education-and-community-development",
-    "disciplineId": null,
+    "disciplineId": "sy-special-education",
     "campus": {
       "locality": {
         "en": "Jarabulus",
@@ -6384,7 +6384,7 @@
     "id": "sy-al-shamal-private-university-administrative-sciences",
     "universityId": "sy-al-shamal-private-university",
     "facultyId": "sy-al-shamal-private-university-faculty-of-administrative-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-business-administration",
     "campus": {
       "locality": {
         "en": "Sarmada",
@@ -6433,7 +6433,7 @@
     "id": "sy-al-shamal-private-university-alternative-energy-engineering",
     "universityId": "sy-al-shamal-private-university",
     "facultyId": "sy-al-shamal-private-university-faculty-of-alternative-energy-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-renewable-energy",
     "campus": {
       "locality": {
         "en": "Sarmada",
@@ -6482,7 +6482,7 @@
     "id": "sy-al-shamal-private-university-biomedical-engineering",
     "universityId": "sy-al-shamal-private-university",
     "facultyId": "sy-al-shamal-private-university-faculty-of-biomedical-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-biomedical-engineering",
     "campus": {
       "locality": {
         "en": "Sarmada",
@@ -6531,7 +6531,7 @@
     "id": "sy-al-shamal-private-university-english-language",
     "universityId": "sy-al-shamal-private-university",
     "facultyId": "sy-al-shamal-private-university-faculty-of-arts",
-    "disciplineId": null,
+    "disciplineId": "sy-english-language-and-literature",
     "campus": {
       "locality": {
         "en": "Sarmada",
@@ -6629,7 +6629,7 @@
     "id": "sy-al-shamal-private-university-mechatronics-engineering",
     "universityId": "sy-al-shamal-private-university",
     "facultyId": "sy-al-shamal-private-university-faculty-of-mechatronics-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-mechatronics-engineering",
     "campus": {
       "locality": {
         "en": "Sarmada",
@@ -6727,7 +6727,7 @@
     "id": "sy-al-shamal-private-university-psychological-counseling",
     "universityId": "sy-al-shamal-private-university",
     "facultyId": "sy-al-shamal-private-university-faculty-of-education",
-    "disciplineId": null,
+    "disciplineId": "sy-psychological-counseling",
     "campus": {
       "locality": {
         "en": "Sarmada",
@@ -7462,7 +7462,7 @@
     "id": "sy-international-university-for-science-and-technology-marketing",
     "universityId": "sy-international-university-for-science-and-technology",
     "facultyId": "sy-international-university-for-science-and-technology-faculty-of-business-administration-and-finance",
-    "disciplineId": null,
+    "disciplineId": "sy-marketing-and-e-commerce",
     "campus": {
       "locality": {
         "en": "Ghabagheb",
@@ -7805,7 +7805,7 @@
     "id": "sy-university-of-kalamoon-information-technology-engineering",
     "universityId": "sy-university-of-kalamoon",
     "facultyId": "sy-university-of-kalamoon-faculty-of-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-information-technology",
     "campus": {
       "locality": {
         "en": "Deir Atiyah",
@@ -7903,7 +7903,7 @@
     "id": "sy-university-of-kalamoon-mechatronics-engineering",
     "universityId": "sy-university-of-kalamoon",
     "facultyId": "sy-university-of-kalamoon-faculty-of-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-mechatronics-engineering",
     "campus": {
       "locality": {
         "en": "Deir Atiyah",
@@ -8099,7 +8099,7 @@
     "id": "sy-al-maarif-private-university-english-language",
     "universityId": "sy-al-maarif-private-university",
     "facultyId": "sy-al-maarif-private-university-faculty-of-arts",
-    "disciplineId": null,
+    "disciplineId": "sy-english-language-and-literature",
     "campus": {
       "locality": {
         "en": "Sarmada",
@@ -8197,7 +8197,7 @@
     "id": "sy-al-maarif-private-university-information-technology-engineering",
     "universityId": "sy-al-maarif-private-university",
     "facultyId": "sy-al-maarif-private-university-faculty-of-information-technology-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-information-technology",
     "campus": {
       "locality": {
         "en": "Sarmada",
@@ -8246,7 +8246,7 @@
     "id": "sy-al-maarif-private-university-management-information-systems",
     "universityId": "sy-al-maarif-private-university",
     "facultyId": "sy-al-maarif-private-university-faculty-of-economics-and-administrative-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-management-information-systems",
     "campus": {
       "locality": {
         "en": "Sarmada",
@@ -8295,7 +8295,7 @@
     "id": "sy-al-maarif-private-university-mechatronics-engineering",
     "universityId": "sy-al-maarif-private-university",
     "facultyId": "sy-al-maarif-private-university-faculty-of-mechatronics-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-mechatronics-engineering",
     "campus": {
       "locality": {
         "en": "Sarmada",
@@ -8740,7 +8740,7 @@
     "id": "sy-qasyoun-private-university-dental-prosthetics-technical-diploma",
     "universityId": "sy-qasyoun-private-university",
     "facultyId": "sy-qasyoun-private-university-dental-prosthetics-institute",
-    "disciplineId": null,
+    "disciplineId": "sy-dental-prosthetics",
     "campus": {
       "locality": {
         "en": "Jabab",
@@ -8795,7 +8795,7 @@
     "id": "sy-qasyoun-private-university-english-language",
     "universityId": "sy-qasyoun-private-university",
     "facultyId": "sy-qasyoun-private-university-faculty-of-arts",
-    "disciplineId": null,
+    "disciplineId": "sy-english-language-and-literature",
     "campus": {
       "locality": {
         "en": "Jabab",
@@ -9040,7 +9040,7 @@
     "id": "sy-al-zahraa-university-curriculum-and-instruction",
     "universityId": "sy-al-zahraa-university",
     "facultyId": "sy-al-zahraa-university-faculty-of-educational-and-psychological-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-curricula-and-teaching-methods",
     "campus": {
       "locality": {
         "en": "Jarabulus",
@@ -9089,7 +9089,7 @@
     "id": "sy-al-zahraa-university-educational-psychology",
     "universityId": "sy-al-zahraa-university",
     "facultyId": "sy-al-zahraa-university-faculty-of-educational-and-psychological-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-educational-psychology",
     "campus": {
       "locality": {
         "en": "Jarabulus",
@@ -9138,7 +9138,7 @@
     "id": "sy-al-zahraa-university-islamic-jurisprudence-and-its-principles",
     "universityId": "sy-al-zahraa-university",
     "facultyId": "sy-al-zahraa-university-faculty-of-sharia-and-islamic-studies",
-    "disciplineId": null,
+    "disciplineId": "sy-islamic-jurisprudence",
     "campus": {
       "locality": {
         "en": "Jarabulus",
@@ -9236,7 +9236,7 @@
     "id": "sy-al-zahraa-university-psychological-counseling",
     "universityId": "sy-al-zahraa-university",
     "facultyId": "sy-al-zahraa-university-faculty-of-educational-and-psychological-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-psychological-counseling",
     "campus": {
       "locality": {
         "en": "Jarabulus",
@@ -9285,7 +9285,7 @@
     "id": "sy-al-zahraa-university-quranic-exegesis-and-sciences",
     "universityId": "sy-al-zahraa-university",
     "facultyId": "sy-al-zahraa-university-faculty-of-sharia-and-islamic-studies",
-    "disciplineId": null,
+    "disciplineId": "sy-quran-and-hadith-studies",
     "campus": {
       "locality": {
         "en": "Jarabulus",
@@ -9432,7 +9432,7 @@
     "id": "sy-arab-university-for-science-and-technology-artificial-intelligence",
     "universityId": "sy-arab-university-for-science-and-technology",
     "facultyId": "sy-arab-university-for-science-and-technology-faculty-of-informatics-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-artificial-intelligence-engineering",
     "campus": {
       "locality": {
         "en": "Tall Qartal",
@@ -9481,7 +9481,7 @@
     "id": "sy-arab-university-for-science-and-technology-banking-transactions",
     "universityId": "sy-arab-university-for-science-and-technology",
     "facultyId": "sy-arab-university-for-science-and-technology-faculty-of-administration-and-economics",
-    "disciplineId": null,
+    "disciplineId": "sy-financial-and-banking-management",
     "campus": {
       "locality": {
         "en": "Tall Qartal",
@@ -9628,7 +9628,7 @@
     "id": "sy-arab-university-for-science-and-technology-cosmetology-and-skin-care",
     "universityId": "sy-arab-university-for-science-and-technology",
     "facultyId": "sy-arab-university-for-science-and-technology-faculty-of-health-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-cosmetology",
     "campus": {
       "locality": {
         "en": "Tall Qartal",
@@ -9726,7 +9726,7 @@
     "id": "sy-arab-university-for-science-and-technology-information-technology-engineering",
     "universityId": "sy-arab-university-for-science-and-technology",
     "facultyId": "sy-arab-university-for-science-and-technology-faculty-of-informatics-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-information-technology",
     "campus": {
       "locality": {
         "en": "Tall Qartal",
@@ -9824,7 +9824,7 @@
     "id": "sy-arab-university-for-science-and-technology-medical-laboratory-analysis",
     "universityId": "sy-arab-university-for-science-and-technology",
     "facultyId": "sy-arab-university-for-science-and-technology-faculty-of-health-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-medical-laboratory-sciences",
     "campus": {
       "locality": {
         "en": "Tall Qartal",
@@ -9873,7 +9873,7 @@
     "id": "sy-arab-university-for-science-and-technology-petroleum-engineering",
     "universityId": "sy-arab-university-for-science-and-technology",
     "facultyId": "sy-arab-university-for-science-and-technology-faculty-of-petroleum-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-petroleum-engineering",
     "campus": {
       "locality": {
         "en": "Tall Qartal",
@@ -10240,7 +10240,7 @@
     "id": "sy-basaksehir-university-fundamentals-of-religion",
     "universityId": "sy-basaksehir-university",
     "facultyId": "sy-basaksehir-university-faculty-of-sharia-and-islamic-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-fundamentals-of-religion",
     "campus": {
       "locality": {
         "en": "Al-Bab",
@@ -10295,7 +10295,7 @@
     "id": "sy-basaksehir-university-islamic-jurisprudence-and-its-principles",
     "universityId": "sy-basaksehir-university",
     "facultyId": "sy-basaksehir-university-faculty-of-sharia-and-islamic-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-islamic-jurisprudence",
     "campus": {
       "locality": {
         "en": "Al-Bab",
@@ -10460,7 +10460,7 @@
     "id": "sy-basaksehir-university-psychological-counseling",
     "universityId": "sy-basaksehir-university",
     "facultyId": "sy-basaksehir-university-faculty-of-education-and-social-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-psychological-counseling",
     "campus": {
       "locality": {
         "en": "Al-Bab",
@@ -10900,7 +10900,7 @@
     "id": "sy-al-rasheed-international-university-for-science-and-technology-mechatronics-engineering",
     "universityId": "sy-al-rasheed-international-university-for-science-and-technology",
     "facultyId": "sy-al-rasheed-international-university-for-science-and-technology-faculty-of-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-mechatronics-engineering",
     "campus": {
       "locality": {
         "en": "Ghabagheb",
@@ -11120,7 +11120,7 @@
     "id": "sy-al-sham-university-accounting-and-finance",
     "universityId": "sy-al-sham-university",
     "facultyId": "sy-al-sham-university-faculty-of-economics-and-administration",
-    "disciplineId": null,
+    "disciplineId": "sy-accounting",
     "campus": {
       "locality": {
         "en": "Azaz",
@@ -11395,7 +11395,7 @@
     "id": "sy-al-sham-university-economics",
     "universityId": "sy-al-sham-university",
     "facultyId": "sy-al-sham-university-faculty-of-economics-and-administration",
-    "disciplineId": null,
+    "disciplineId": "sy-economics",
     "campus": {
       "locality": {
         "en": "Azaz",
@@ -11450,7 +11450,7 @@
     "id": "sy-al-sham-university-emergency-medicine",
     "universityId": "sy-al-sham-university",
     "facultyId": "sy-al-sham-university-faculty-of-health-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-emergency-medical-services",
     "campus": {
       "locality": {
         "en": "Azaz",
@@ -11505,7 +11505,7 @@
     "id": "sy-al-sham-university-english-language",
     "universityId": "sy-al-sham-university",
     "facultyId": "sy-al-sham-university-faculty-of-arts-and-humanities",
-    "disciplineId": null,
+    "disciplineId": "sy-english-language-and-literature",
     "campus": {
       "locality": {
         "en": "Azaz",
@@ -11670,7 +11670,7 @@
     "id": "sy-al-sham-university-mechatronics-engineering",
     "universityId": "sy-al-sham-university",
     "facultyId": "sy-al-sham-university-faculty-of-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-mechatronics-engineering",
     "campus": {
       "locality": {
         "en": "Azaz",
@@ -11725,7 +11725,7 @@
     "id": "sy-al-sham-university-medical-laboratory-sciences",
     "universityId": "sy-al-sham-university",
     "facultyId": "sy-al-sham-university-faculty-of-health-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-medical-laboratory-sciences",
     "campus": {
       "locality": {
         "en": "Azaz",
@@ -11890,7 +11890,7 @@
     "id": "sy-al-sham-university-psychological-counseling",
     "universityId": "sy-al-sham-university",
     "facultyId": "sy-al-sham-university-faculty-of-education",
-    "disciplineId": null,
+    "disciplineId": "sy-psychological-counseling",
     "campus": {
       "locality": {
         "en": "Azaz",
@@ -11945,7 +11945,7 @@
     "id": "sy-al-sham-university-sharia",
     "universityId": "sy-al-sham-university",
     "facultyId": "sy-al-sham-university-faculty-of-sharia-and-law",
-    "disciplineId": null,
+    "disciplineId": "sy-sharia",
     "campus": {
       "locality": {
         "en": "Azaz",
@@ -12147,7 +12147,7 @@
     "id": "sy-al-zaytuna-university-psychological-counseling",
     "universityId": "sy-al-zaytuna-university",
     "facultyId": "sy-al-zaytuna-university-faculty-of-education",
-    "disciplineId": null,
+    "disciplineId": "sy-psychological-counseling",
     "campus": {
       "locality": {
         "en": "Azaz",
@@ -12196,7 +12196,7 @@
     "id": "sy-al-amanos-university-anesthesia",
     "universityId": "sy-al-amanos-university",
     "facultyId": "sy-al-amanos-university-faculty-of-health-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-anesthesia",
     "campus": {
       "locality": {
         "en": "Afrin",
@@ -12251,7 +12251,7 @@
     "id": "sy-al-amanos-university-medical-laboratory-analysis",
     "universityId": "sy-al-amanos-university",
     "facultyId": "sy-al-amanos-university-faculty-of-health-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-medical-laboratory-sciences",
     "campus": {
       "locality": {
         "en": "Afrin",
@@ -12453,7 +12453,7 @@
     "id": "sy-al-maali-university-educational-psychology",
     "universityId": "sy-al-maali-university",
     "facultyId": "sy-al-maali-university-faculty-of-education",
-    "disciplineId": null,
+    "disciplineId": "sy-educational-psychology",
     "campus": {
       "locality": {
         "en": "Al-Bab",
@@ -12502,7 +12502,7 @@
     "id": "sy-al-maali-university-fundamentals-of-religion",
     "universityId": "sy-al-maali-university",
     "facultyId": "sy-al-maali-university-faculty-of-sharia",
-    "disciplineId": null,
+    "disciplineId": "sy-fundamentals-of-religion",
     "campus": {
       "locality": {
         "en": "Al-Bab",
@@ -12551,7 +12551,7 @@
     "id": "sy-al-maali-university-general-psychology",
     "universityId": "sy-al-maali-university",
     "facultyId": "sy-al-maali-university-faculty-of-education",
-    "disciplineId": null,
+    "disciplineId": "sy-psychology",
     "campus": {
       "locality": {
         "en": "Al-Bab",
@@ -12600,7 +12600,7 @@
     "id": "sy-al-maali-university-history",
     "universityId": "sy-al-maali-university",
     "facultyId": "sy-al-maali-university-faculty-of-arts",
-    "disciplineId": null,
+    "disciplineId": "sy-history",
     "campus": {
       "locality": {
         "en": "Al-Bab",
@@ -12698,7 +12698,7 @@
     "id": "sy-al-maali-university-special-education",
     "universityId": "sy-al-maali-university",
     "facultyId": "sy-al-maali-university-faculty-of-education",
-    "disciplineId": null,
+    "disciplineId": "sy-special-education",
     "campus": {
       "locality": {
         "en": "Al-Bab",
@@ -12894,7 +12894,7 @@
     "id": "sy-al-shahba-university-marketing",
     "universityId": "sy-al-shahba-university",
     "facultyId": "sy-al-shahba-university-faculty-of-business-and-administration",
-    "disciplineId": null,
+    "disciplineId": "sy-marketing-and-e-commerce",
     "campus": {
       "locality": {
         "en": "Tall Hadiya",
@@ -12943,7 +12943,7 @@
     "id": "sy-aram-university-for-sciences-administration-and-economics",
     "universityId": "sy-aram-university-for-sciences",
     "facultyId": "sy-aram-university-for-sciences-faculty-of-administration-and-economics",
-    "disciplineId": null,
+    "disciplineId": "sy-economics",
     "campus": {
       "locality": {
         "en": "Aqrobat",
@@ -13041,7 +13041,7 @@
     "id": "sy-aram-university-for-sciences-sharia",
     "universityId": "sy-aram-university-for-sciences",
     "facultyId": "sy-aram-university-for-sciences-faculty-of-sharia",
-    "disciplineId": null,
+    "disciplineId": "sy-sharia",
     "campus": {
       "locality": {
         "en": "Aqrobat",
@@ -13237,7 +13237,7 @@
     "id": "sy-arab-academy-of-science-and-technology-and-maritime-transport-trade-logistics-and-international-transport",
     "universityId": "sy-arab-academy-of-science-and-technology-and-maritime-transport",
     "facultyId": "sy-arab-academy-of-science-and-technology-and-maritime-transport-faculty-of-international-transport-and-logistics",
-    "disciplineId": null,
+    "disciplineId": "sy-logistics-and-international-transport",
     "campus": {
       "locality": {
         "en": "Latakia",
@@ -13702,7 +13702,7 @@
     "id": "sy-faculty-of-theology-theology",
     "universityId": "sy-faculty-of-theology",
     "facultyId": null,
-    "disciplineId": null,
+    "disciplineId": "sy-christian-theology",
     "campus": {
       "locality": {
         "en": "Damascus",
@@ -13751,7 +13751,7 @@
     "id": "sy-the-islamic-university-hadith-and-its-sciences",
     "universityId": "sy-the-islamic-university",
     "facultyId": "sy-the-islamic-university-faculty-of-quran-and-hadith",
-    "disciplineId": null,
+    "disciplineId": "sy-quran-and-hadith-studies",
     "campus": {
       "locality": {
         "en": "Al-Dubayt",
@@ -13800,7 +13800,7 @@
     "id": "sy-the-islamic-university-islamic-dawa",
     "universityId": "sy-the-islamic-university",
     "facultyId": "sy-the-islamic-university-faculty-of-dawa-and-islamic-media",
-    "disciplineId": null,
+    "disciplineId": "sy-islamic-dawah",
     "campus": {
       "locality": {
         "en": "Al-Dubayt",
@@ -13849,7 +13849,7 @@
     "id": "sy-the-islamic-university-islamic-education",
     "universityId": "sy-the-islamic-university",
     "facultyId": "sy-the-islamic-university-faculty-of-islamic-education",
-    "disciplineId": null,
+    "disciplineId": "sy-islamic-education",
     "campus": {
       "locality": {
         "en": "Al-Dubayt",
@@ -13898,7 +13898,7 @@
     "id": "sy-the-islamic-university-quranic-readings",
     "universityId": "sy-the-islamic-university",
     "facultyId": "sy-the-islamic-university-faculty-of-quran-and-hadith",
-    "disciplineId": null,
+    "disciplineId": "sy-quran-and-hadith-studies",
     "campus": {
       "locality": {
         "en": "Al-Dubayt",
@@ -13996,7 +13996,7 @@
     "id": "sy-hama-university-electrical-supply-for-industrial-facilities-and-cities",
     "universityId": "sy-hama-university",
     "facultyId": "sy-hama-university-applied-college",
-    "disciplineId": null,
+    "disciplineId": "sy-electrical-technology",
     "campus": {
       "locality": {
         "en": "Hama",
@@ -14094,7 +14094,7 @@
     "id": "sy-homs-university-heating-air-conditioning-and-refrigeration",
     "universityId": "sy-homs-university",
     "facultyId": "sy-homs-university-applied-college",
-    "disciplineId": null,
+    "disciplineId": "sy-hvac-technology",
     "campus": {
       "locality": {
         "en": "Homs",
@@ -14143,7 +14143,7 @@
     "id": "sy-homs-university-music-education",
     "universityId": "sy-homs-university",
     "facultyId": "sy-homs-university-faculty-of-music-education",
-    "disciplineId": null,
+    "disciplineId": "sy-music-education",
     "campus": {
       "locality": {
         "en": "Homs",
@@ -14186,7 +14186,7 @@
     "id": "sy-latakia-university-communications-technologies",
     "universityId": "sy-latakia-university",
     "facultyId": "sy-latakia-university-applied-college",
-    "disciplineId": null,
+    "disciplineId": "sy-communications-technology",
     "campus": {
       "locality": {
         "en": "Latakia",
@@ -14284,7 +14284,7 @@
     "id": "sy-latakia-university-electrical-supply-for-industrial-facilities-and-cities",
     "universityId": "sy-latakia-university",
     "facultyId": "sy-latakia-university-applied-college",
-    "disciplineId": null,
+    "disciplineId": "sy-electrical-technology",
     "campus": {
       "locality": {
         "en": "Latakia",
@@ -14333,7 +14333,7 @@
     "id": "sy-latakia-university-heating-air-conditioning-and-refrigeration",
     "universityId": "sy-latakia-university",
     "facultyId": "sy-latakia-university-applied-college",
-    "disciplineId": null,
+    "disciplineId": "sy-hvac-technology",
     "campus": {
       "locality": {
         "en": "Latakia",
@@ -14382,7 +14382,7 @@
     "id": "sy-latakia-university-mechanical-manufacturing",
     "universityId": "sy-latakia-university",
     "facultyId": "sy-latakia-university-applied-college",
-    "disciplineId": null,
+    "disciplineId": "sy-mechanical-manufacturing",
     "campus": {
       "locality": {
         "en": "Latakia",
@@ -14431,7 +14431,7 @@
     "id": "sy-latakia-university-medical-device-technologies",
     "universityId": "sy-latakia-university",
     "facultyId": "sy-latakia-university-applied-college",
-    "disciplineId": null,
+    "disciplineId": "sy-medical-equipment-technology",
     "campus": {
       "locality": {
         "en": "Latakia",
@@ -14480,7 +14480,7 @@
     "id": "sy-latakia-university-vehicle-mechanics",
     "universityId": "sy-latakia-university",
     "facultyId": "sy-latakia-university-applied-college",
-    "disciplineId": null,
+    "disciplineId": "sy-vehicle-mechanics",
     "campus": {
       "locality": {
         "en": "Latakia",
@@ -14529,7 +14529,7 @@
     "id": "sy-university-of-tartus-agricultural-mechanization-engineering",
     "universityId": "sy-university-of-tartus",
     "facultyId": "sy-university-of-tartus-faculty-of-technical-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-agricultural-mechanization",
     "campus": {
       "locality": {
         "en": "Tartus",
@@ -14572,7 +14572,7 @@
     "id": "sy-university-of-tartus-equipment-and-machinery-engineering",
     "universityId": "sy-university-of-tartus",
     "facultyId": "sy-university-of-tartus-faculty-of-technical-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-automotive-and-heavy-machinery-engineering",
     "campus": {
       "locality": {
         "en": "Tartus",
@@ -14615,7 +14615,7 @@
     "id": "sy-university-of-tartus-food-technology-engineering",
     "universityId": "sy-university-of-tartus",
     "facultyId": "sy-university-of-tartus-faculty-of-technical-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-food-engineering",
     "campus": {
       "locality": {
         "en": "Tartus",
@@ -14658,7 +14658,7 @@
     "id": "sy-university-of-tartus-industrial-automation-engineering",
     "universityId": "sy-university-of-tartus",
     "facultyId": "sy-university-of-tartus-faculty-of-technical-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-control-and-automation-engineering",
     "campus": {
       "locality": {
         "en": "Tartus",
@@ -14701,7 +14701,7 @@
     "id": "sy-university-of-tartus-renewable-energy-technologies-engineering",
     "universityId": "sy-university-of-tartus",
     "facultyId": "sy-university-of-tartus-faculty-of-technical-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-renewable-energy",
     "campus": {
       "locality": {
         "en": "Tartus",
@@ -14744,7 +14744,7 @@
     "id": "sy-idlib-university-financial-and-administrative-sciences-technical-diploma",
     "universityId": "sy-idlib-university",
     "facultyId": "sy-idlib-university-technical-institute-of-financial-and-administrative-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-business-administration",
     "campus": {
       "locality": {
         "en": "Idlib",
@@ -14787,7 +14787,7 @@
     "id": "sy-idlib-university-financial-and-administrative-sciences-technical-diploma-al-dana",
     "universityId": "sy-idlib-university",
     "facultyId": "sy-idlib-university-second-technical-institute-of-financial-and-administrative-sciences-al-dana",
-    "disciplineId": null,
+    "disciplineId": "sy-business-administration",
     "campus": {
       "locality": {
         "en": "Al-Dana",
@@ -14842,7 +14842,7 @@
     "id": "sy-idlib-university-medical-equipment-maintenance-technical-diploma",
     "universityId": "sy-idlib-university",
     "facultyId": "sy-idlib-university-technical-institute-of-medical-equipment",
-    "disciplineId": null,
+    "disciplineId": "sy-medical-equipment-technology",
     "campus": {
       "locality": {
         "en": "Idlib",
@@ -14885,7 +14885,7 @@
     "id": "sy-university-of-aleppo-agricultural-sciences-technical-diploma",
     "universityId": "sy-university-of-aleppo",
     "facultyId": "sy-university-of-aleppo-agricultural-technical-institute",
-    "disciplineId": null,
+    "disciplineId": "sy-agricultural-technology",
     "campus": {
       "locality": {
         "en": "Aleppo",
@@ -14928,7 +14928,7 @@
     "id": "sy-university-of-aleppo-electronics-technologies",
     "universityId": "sy-university-of-aleppo",
     "facultyId": "sy-university-of-aleppo-applied-college",
-    "disciplineId": null,
+    "disciplineId": "sy-electronics-technology",
     "campus": {
       "locality": {
         "en": "Aleppo",
@@ -14977,7 +14977,7 @@
     "id": "sy-university-of-aleppo-environmental-engineering-technologies",
     "universityId": "sy-university-of-aleppo",
     "facultyId": "sy-university-of-aleppo-faculty-of-technical-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-environmental-engineering",
     "campus": {
       "locality": {
         "en": "Aleppo",
@@ -15020,7 +15020,7 @@
     "id": "sy-university-of-aleppo-food-engineering-technologies",
     "universityId": "sy-university-of-aleppo",
     "facultyId": "sy-university-of-aleppo-faculty-of-technical-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-food-engineering",
     "campus": {
       "locality": {
         "en": "Aleppo",
@@ -15063,7 +15063,7 @@
     "id": "sy-university-of-aleppo-heating-air-conditioning-and-refrigeration",
     "universityId": "sy-university-of-aleppo",
     "facultyId": "sy-university-of-aleppo-applied-college",
-    "disciplineId": null,
+    "disciplineId": "sy-hvac-technology",
     "campus": {
       "locality": {
         "en": "Aleppo",
@@ -15112,7 +15112,7 @@
     "id": "sy-university-of-aleppo-mechanical-and-electrical-engineering-technical-diploma",
     "universityId": "sy-university-of-aleppo",
     "facultyId": "sy-university-of-aleppo-technical-institute-of-mechanical-and-electrical-engineering",
-    "disciplineId": null,
+    "disciplineId": "sy-mechanical-and-electrical-technology",
     "campus": {
       "locality": {
         "en": "Aleppo",
@@ -15198,7 +15198,7 @@
     "id": "sy-damascus-university-computing-technical-diploma",
     "universityId": "sy-damascus-university",
     "facultyId": "sy-damascus-university-technical-computer-institute",
-    "disciplineId": null,
+    "disciplineId": "sy-computer-technologies",
     "campus": {
       "locality": {
         "en": "Damascus",
@@ -15241,7 +15241,7 @@
     "id": "sy-damascus-university-financial-and-banking-sciences-technical-diploma",
     "universityId": "sy-damascus-university",
     "facultyId": "sy-damascus-university-technical-institute-of-financial-and-banking-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-financial-and-banking-management",
     "campus": {
       "locality": {
         "en": "Damascus",
@@ -15290,7 +15290,7 @@
     "id": "sy-damascus-university-mechatronics",
     "universityId": "sy-damascus-university",
     "facultyId": "sy-damascus-university-applied-college",
-    "disciplineId": null,
+    "disciplineId": "sy-mechatronics-engineering",
     "campus": {
       "locality": {
         "en": "Damascus",
@@ -15333,7 +15333,7 @@
     "id": "sy-damascus-university-renewable-energy-solar-energy",
     "universityId": "sy-damascus-university",
     "facultyId": "sy-damascus-university-applied-college",
-    "disciplineId": null,
+    "disciplineId": "sy-renewable-energy",
     "campus": {
       "locality": {
         "en": "Damascus",
@@ -15376,7 +15376,7 @@
     "id": "sy-homs-university-agricultural-sciences-technical-diploma",
     "universityId": "sy-homs-university",
     "facultyId": "sy-homs-university-agricultural-technical-institute",
-    "disciplineId": null,
+    "disciplineId": "sy-agricultural-technology",
     "campus": {
       "locality": {
         "en": "Homs",
@@ -15419,7 +15419,7 @@
     "id": "sy-university-of-aleppo-business-administration-and-marketing-technical-diploma",
     "universityId": "sy-university-of-aleppo",
     "facultyId": "sy-university-of-aleppo-technical-institute-of-business-administration-and-marketing",
-    "disciplineId": null,
+    "disciplineId": "sy-business-administration",
     "campus": {
       "locality": {
         "en": "Aleppo",
@@ -15462,7 +15462,7 @@
     "id": "sy-university-of-aleppo-computing-technical-diploma",
     "universityId": "sy-university-of-aleppo",
     "facultyId": "sy-university-of-aleppo-technical-computer-institute",
-    "disciplineId": null,
+    "disciplineId": "sy-computer-technologies",
     "campus": {
       "locality": {
         "en": "Aleppo",
@@ -15505,7 +15505,7 @@
     "id": "sy-damascus-university-agricultural-sciences-technical-diploma-kharabo",
     "universityId": "sy-damascus-university",
     "facultyId": "sy-damascus-university-agricultural-technical-institute-kharabo",
-    "disciplineId": null,
+    "disciplineId": "sy-agricultural-technology",
     "campus": {
       "locality": {
         "en": "Damascus",
@@ -15554,7 +15554,7 @@
     "id": "sy-damascus-university-agricultural-sciences-technical-diploma-quneitra",
     "universityId": "sy-damascus-university",
     "facultyId": "sy-damascus-university-agricultural-technical-institute-quneitra",
-    "disciplineId": null,
+    "disciplineId": "sy-agricultural-technology",
     "campus": {
       "locality": {
         "en": "Quneitra",
@@ -15597,7 +15597,7 @@
     "id": "sy-damascus-university-fine-arts",
     "universityId": "sy-damascus-university",
     "facultyId": "sy-damascus-university-faculty-of-fine-arts",
-    "disciplineId": null,
+    "disciplineId": "sy-fine-arts",
     "campus": {
       "locality": {
         "en": "Damascus",
@@ -15640,7 +15640,7 @@
     "id": "sy-damascus-university-fine-arts-al-suwayda",
     "universityId": "sy-damascus-university",
     "facultyId": "sy-damascus-university-second-faculty-of-fine-arts-al-suwayda",
-    "disciplineId": null,
+    "disciplineId": "sy-fine-arts",
     "campus": {
       "locality": {
         "en": "As-Suwayda",
@@ -15683,7 +15683,7 @@
     "id": "sy-damascus-university-statistical-technical-diploma",
     "universityId": "sy-damascus-university",
     "facultyId": "sy-damascus-university-statistical-technical-institute",
-    "disciplineId": null,
+    "disciplineId": "sy-statistics",
     "campus": {
       "locality": {
         "en": "Damascus",
@@ -15726,7 +15726,7 @@
     "id": "sy-university-of-aleppo-fine-arts",
     "universityId": "sy-university-of-aleppo",
     "facultyId": "sy-university-of-aleppo-faculty-of-applied-fine-arts",
-    "disciplineId": null,
+    "disciplineId": "sy-fine-arts",
     "campus": {
       "locality": {
         "en": "Aleppo",
@@ -15818,7 +15818,7 @@
     "id": "sy-al-hawash-private-university-entrepreneurship",
     "universityId": "sy-al-hawash-private-university",
     "facultyId": "sy-al-hawash-private-university-faculty-of-entrepreneurship",
-    "disciplineId": null,
+    "disciplineId": "sy-entrepreneurship",
     "campus": {
       "locality": {
         "en": "Al-Hawash",
@@ -15947,7 +15947,7 @@
     "id": "sy-al-hawash-private-university-nutrition",
     "universityId": "sy-al-hawash-private-university",
     "facultyId": "sy-al-hawash-private-university-faculty-of-cosmetology-and-health-care",
-    "disciplineId": null,
+    "disciplineId": "sy-nutrition-and-dietetics",
     "campus": {
       "locality": {
         "en": "Al-Hawash",
@@ -16100,7 +16100,7 @@
     "id": "sy-al-wataniya-private-university-administrative-and-financial-sciences",
     "universityId": "sy-al-wataniya-private-university",
     "facultyId": "sy-al-wataniya-private-university-faculty-of-administrative-and-financial-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-financial-and-administrative-sciences",
     "campus": {
       "locality": {
         "en": "Ghawr al-Assi",
@@ -16204,7 +16204,7 @@
     "id": "sy-basaksehir-university-anesthesia",
     "universityId": "sy-basaksehir-university",
     "facultyId": "sy-basaksehir-university-faculty-of-health-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-anesthesia",
     "campus": {
       "locality": {
         "en": "Al-Bab",
@@ -16253,7 +16253,7 @@
     "id": "sy-basaksehir-university-islamic-studies",
     "universityId": "sy-basaksehir-university",
     "facultyId": "sy-basaksehir-university-faculty-of-sharia-and-islamic-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-islamic-studies",
     "campus": {
       "locality": {
         "en": "Al-Bab",
@@ -16400,7 +16400,7 @@
     "id": "sy-basaksehir-university-public-health",
     "universityId": "sy-basaksehir-university",
     "facultyId": "sy-basaksehir-university-faculty-of-health-sciences",
-    "disciplineId": null,
+    "disciplineId": "sy-public-health",
     "campus": {
       "locality": {
         "en": "Al-Bab",
@@ -16547,7 +16547,7 @@
     "id": "sy-qasyoun-private-university-management-and-economics",
     "universityId": "sy-qasyoun-private-university",
     "facultyId": "sy-qasyoun-private-university-faculty-of-management-and-economics",
-    "disciplineId": null,
+    "disciplineId": "sy-economics",
     "campus": {
       "locality": {
         "en": "Jabab",
@@ -16645,7 +16645,7 @@
     "id": "sy-bilad-al-sham-university-for-sharia-sciences-islamic-dawah-al-fath",
     "universityId": "sy-bilad-al-sham-university-for-sharia-sciences",
     "facultyId": "sy-bilad-al-sham-university-for-sharia-sciences-faculty-of-islamic-and-arabic-studies-al-fath",
-    "disciplineId": null,
+    "disciplineId": "sy-islamic-dawah",
     "campus": {
       "locality": {
         "en": "Al-Fath Islamic Complex",
@@ -16694,7 +16694,7 @@
     "id": "sy-bilad-al-sham-university-for-sharia-sciences-quran-and-hadith-sciences-al-fath",
     "universityId": "sy-bilad-al-sham-university-for-sharia-sciences",
     "facultyId": "sy-bilad-al-sham-university-for-sharia-sciences-faculty-of-fundamentals-of-religion-al-fath",
-    "disciplineId": null,
+    "disciplineId": "sy-quran-and-hadith-studies",
     "campus": {
       "locality": {
         "en": "Al-Fath Islamic Complex",
@@ -16743,7 +16743,7 @@
     "id": "sy-bilad-al-sham-university-for-sharia-sciences-sharia-sayyida-ruqayya",
     "universityId": "sy-bilad-al-sham-university-for-sharia-sciences",
     "facultyId": "sy-bilad-al-sham-university-for-sharia-sciences-faculty-of-sharia-sayyida-ruqayya",
-    "disciplineId": null,
+    "disciplineId": "sy-sharia",
     "campus": {
       "locality": {
         "en": "Sayyida Ruqayya Complex",

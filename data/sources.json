@@ -2469,5 +2469,14 @@
     "status": "approved",
     "fields": ["academic unit", "campus", "qualification level"],
     "notes": "The faculty grants a five-year first degree in Informatics Engineering and the corresponding specialization."
+  },
+  {
+    "id": "mohe-university-admissions-2026-2027",
+    "title": "Syrian Ministry of Higher Education 2026–2027 undergraduate admissions announcements",
+    "url": "https://mohe.gov.sy/ar/media-center/details/651",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["program name", "field of study"],
+    "notes": "Program labels from the eleven 2026–2027 admissions announcements, as transcribed in the OpenSyria admissions catalogues. Used to name fields of study; offerings, faculties and awards need separate evidence."
   }
 ]
