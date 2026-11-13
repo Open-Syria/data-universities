@@ -5703,7 +5703,7 @@
       },
       {
         "sourceId": "mohe-2026-2027-technical-education-announcement-5",
-        "sourceRecordId": "https://mohe.gov.sy/img/uploads1/news_pdf_20260930155934_651_0.pdf",
+        "sourceRecordId": "announcement-5:p4",
         "accessedAt": "2026-11-12T00:00:00.000Z"
       }
     ],
@@ -6443,6 +6443,3357 @@
         "sourceId": "sana-decree-100-2025-latakia-university-name",
         "sourceRecordId": "decree-100-2025",
         "accessedAt": "2026-11-12T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-faculty-of-human-medicine",
+    "universityId": "sy-homs-university",
+    "name": {
+      "en": "Faculty of Human Medicine",
+      "ar": "كلية الطب البشري"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["homs-univ-faculties-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-faculty-of-dentistry",
+    "universityId": "sy-homs-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["homs-univ-faculties-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-faculty-of-pharmacy",
+    "universityId": "sy-homs-university",
+    "name": {
+      "en": "Faculty of Pharmacy",
+      "ar": "كلية الصيدلة"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["homs-pharmacy-program-spec"],
+    "sourceReferences": [
+      {
+        "sourceId": "homs-pharmacy-program-spec",
+        "sourceRecordId": "https://homs-univ.edu.sy/pharmacy/%d8%aa%d9%88%d8%b5%d9%8a%d9%81-%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d9%85%d8%ac-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-faculty-of-architecture",
+    "universityId": "sy-homs-university",
+    "name": {
+      "en": "Faculty of Architecture",
+      "ar": "كلية الهندسة المعمارية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-archi-about-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r30",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-archi-about-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/archi/%d8%a7%d9%84%d8%b1%d8%a4%d9%8a%d8%a7-%d9%88%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d9%84%d8%a9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-faculty-of-mechanical-and-electrical-engineering",
+    "universityId": "sy-homs-university",
+    "name": {
+      "en": "Faculty of Mechanical and Electrical Engineering",
+      "ar": "كلية الهندسة الميكانيكية والكهربائية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "homs-univ-faculties-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r24",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-faculty-of-chemical-and-petroleum-engineering",
+    "universityId": "sy-homs-university",
+    "name": {
+      "en": "Faculty of Chemical and Petroleum Engineering",
+      "ar": "كلية الهندسة الكيميائية والبترولية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "homs-univ-faculties-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r43",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-faculty-of-agricultural-engineering",
+    "universityId": "sy-homs-university",
+    "name": {
+      "en": "Faculty of Agricultural Engineering",
+      "ar": "كلية الهندسة الزراعية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "homs-univ-faculties-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r35",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-faculty-of-economics",
+    "universityId": "sy-homs-university",
+    "name": {
+      "en": "Faculty of Economics",
+      "ar": "كلية الاقتصاد"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-news-economics-sciences-faculties-2026",
+      "homs-univ-faculties-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r54",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-economics-sciences-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d9%85%d9%86%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a%d8%a9-%d9%88-%d8%a7%d9%84/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-faculty-of-sciences",
+    "universityId": "sy-homs-university",
+    "name": {
+      "en": "Faculty of Sciences",
+      "ar": "كلية العلوم"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "homs-univ-faculties-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p4:r26",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-faculty-of-health-sciences",
+    "universityId": "sy-homs-university",
+    "name": {
+      "en": "Faculty of Health Sciences",
+      "ar": "كلية العلوم الصحية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-news-medical-faculties-2026",
+      "homs-univ-faculties-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p10:r21",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-medical-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%a9-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d8%aa%d9%83%d8%a7%d9%85%d9%84-2/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-faculty-of-arts-and-humanities",
+    "universityId": "sy-homs-university",
+    "name": {
+      "en": "Faculty of Arts and Humanities",
+      "ar": "كلية الآداب والعلوم الإنسانية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "homs-univ-faculties-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p11:r17",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-faculty-of-law",
+    "universityId": "sy-homs-university",
+    "name": {
+      "en": "Faculty of Law",
+      "ar": "كلية الحقوق"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "homs-univ-faculties-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p13:r35",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-faculty-of-education",
+    "universityId": "sy-homs-university",
+    "name": {
+      "en": "Faculty of Education",
+      "ar": "كلية التربية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "homs-univ-faculties-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p13:r46",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-faculty-of-tourism",
+    "universityId": "sy-homs-university",
+    "name": {
+      "en": "Faculty of Tourism",
+      "ar": "كلية السياحة"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "homs-univ-faculties-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p15:r25",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-technical-engineering-institute",
+    "universityId": "sy-homs-university",
+    "name": {
+      "en": "Technical Engineering Institute",
+      "ar": "المعهد التقاني الهندسي"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "homs-univ-institutes-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r11",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-institutes-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5/d8-a7-d9-84-d9-85-d8-b9-d8-a7-d9-87-d8-af/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-technical-institute-of-dentistry",
+    "universityId": "sy-homs-university",
+    "name": {
+      "en": "Technical Institute of Dentistry",
+      "ar": "المعهد التقاني لطب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "homs-univ-news-technical-institutes-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r40",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "https://mohe.gov.sy/img/uploads1/news_pdf_20260930160241_651_0.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-technical-institutes-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d8%ad%d8%a7%d8%b6%d9%86%d8%a9-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d9%87%d8%af-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%86%d9%8a%d8%a9-%d9%86%d8%ad%d9%88-%d9%85/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-technical-institute-of-badia-affairs-and-desertification",
+    "universityId": "sy-homs-university",
+    "name": {
+      "en": "Technical Institute of Badia Affairs and Desertification",
+      "ar": "المعهد التقاني لشؤون البادية والتصحر"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-institutes-page",
+      "mohe-2026-2027-technical-education-announcement-5"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p17:r25",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-institutes-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5/d8-a7-d9-84-d9-85-d8-b9-d8-a7-d9-87-d8-af/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "https://mohe.gov.sy/img/uploads1/news_pdf_20260930160241_651_0.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-technical-institute-of-computing",
+    "universityId": "sy-homs-university",
+    "name": {
+      "en": "Technical Institute of Computing",
+      "ar": "المعهد التقاني للحاسوب"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-news-technical-institutes-2026",
+      "mohe-2026-2027-technical-education-announcement-5"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p18:r17",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-technical-institutes-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d8%ad%d8%a7%d8%b6%d9%86%d8%a9-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d9%87%d8%af-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%86%d9%8a%d8%a9-%d9%86%d8%ad%d9%88-%d9%85/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "https://mohe.gov.sy/img/uploads1/news_pdf_20260930160241_651_0.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-faculty-of-human-medicine",
+    "universityId": "sy-latakia-university",
+    "name": {
+      "en": "Faculty of Human Medicine",
+      "ar": "كلية الطب البشري"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["latakia-medicine-faculty-page", "latakia-medicine-internal-regulations"],
+    "sourceReferences": [
+      {
+        "sourceId": "latakia-medicine-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/92",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-medicine-internal-regulations",
+        "sourceRecordId": "https://latakia-univ.edu.sy/uploads/f4751d7e-375d-4bcd-9e62-aadad0b50f4a.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-faculty-of-dentistry",
+    "universityId": "sy-latakia-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["latakia-dentistry-faculty-page", "latakia-dentistry-undergraduate-plan"],
+    "sourceReferences": [
+      {
+        "sourceId": "latakia-dentistry-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/98",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-dentistry-undergraduate-plan",
+        "sourceRecordId": "https://latakia-univ.edu.sy/uploads/a9c48d83-7228-494b-a687-1d1d38c044b9.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-faculty-of-pharmacy",
+    "universityId": "sy-latakia-university",
+    "name": {
+      "en": "Faculty of Pharmacy",
+      "ar": "كلية الصيدلة"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["latakia-pharmacy-faculty-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "latakia-pharmacy-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/1213",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-faculty-of-mechanical-and-electrical-engineering",
+    "universityId": "sy-latakia-university",
+    "name": {
+      "en": "Faculty of Mechanical and Electrical Engineering",
+      "ar": "كلية الهندسة الميكانيكية والكهربائية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "latakia-mech-elec-faculty-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r17",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-mech-elec-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/81",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-faculty-of-science",
+    "universityId": "sy-latakia-university",
+    "name": {
+      "en": "Faculty of Science",
+      "ar": "كلية العلوم"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "latakia-science-faculty-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p4:r24",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-science-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/100",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-faculty-of-nursing",
+    "universityId": "sy-latakia-university",
+    "name": {
+      "en": "Faculty of Nursing",
+      "ar": "كلية التمريض"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "latakia-nursing-faculty-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p10:r32",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-nursing-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/105",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-faculty-of-arts-and-humanities",
+    "universityId": "sy-latakia-university",
+    "name": {
+      "en": "Faculty of Arts and Humanities",
+      "ar": "كلية الآداب والعلوم الإنسانية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "latakia-arts-faculty-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p12:r42",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-arts-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/104",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-faculty-of-human-medicine",
+    "universityId": "sy-hama-university",
+    "name": {
+      "en": "Faculty of Human Medicine",
+      "ar": "كلية الطب البشري"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["public-university-affiliations-decree-250-2006"],
+    "sourceReferences": [
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-faculty-of-pharmacy",
+    "universityId": "sy-hama-university",
+    "name": {
+      "en": "Faculty of Pharmacy",
+      "ar": "كلية الصيدلة"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["hama-pharmacy-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "hama-pharmacy-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D8%A7%D9%84%D8%B5%D9%8A%D8%AF%D9%84%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-faculty-of-architecture-salamiyah",
+    "universityId": "sy-hama-university",
+    "name": {
+      "en": "Faculty of Architecture",
+      "ar": "كلية الهندسة المعمارية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "hama-architecture-page",
+      "hama-architecture-history"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r31",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-architecture-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D9%85%D8%A7%D8%B1%D9%8A%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-architecture-history",
+        "sourceRecordId": "https://architecture.hama-univ.edu.sy/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-faculty-of-veterinary-medicine",
+    "universityId": "sy-hama-university",
+    "name": {
+      "en": "Faculty of Veterinary Medicine",
+      "ar": "كلية الطب البيطري"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "hama-veterinary-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r23",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-veterinary-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D8%A8-%D8%A7%D9%84%D8%A8%D9%8A%D8%B7%D8%B1%D9%8A/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-faculty-of-arts-and-humanities",
+    "universityId": "sy-hama-university",
+    "name": {
+      "en": "Faculty of Arts and Humanities",
+      "ar": "كلية الآداب والعلوم الإنسانية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "hama-arts-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p11:r18",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-arts-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%AF%D8%A7%D8%A8-%D9%88-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%A7%D9%86%D9%8A%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-faculty-of-physical-education",
+    "universityId": "sy-hama-university",
+    "name": {
+      "en": "Faculty of Physical Education",
+      "ar": "كلية التربية الرياضية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "hama-sport-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p15:r32",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-sport-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-technical-engineering-institute",
+    "universityId": "sy-hama-university",
+    "name": {
+      "en": "Technical Engineering Institute",
+      "ar": "المعهد التقاني الهندسي"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "hama-institutes-list",
+      "hama-engineering-institute-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r20",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-institutes-list",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D9%85%D8%B9%D8%A7%D9%87%D8%AF-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-engineering-institute-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D9%8A/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-technical-institute-of-dentistry",
+    "universityId": "sy-hama-university",
+    "name": {
+      "en": "Technical Institute of Dentistry",
+      "ar": "المعهد التقاني لطب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "hama-institutes-list",
+      "hama-dental-institute-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r37",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-institutes-list",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D9%85%D8%B9%D8%A7%D9%87%D8%AF-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-dental-institute-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D9%84%D8%B7%D8%A8-%D8%A7%D9%84%D8%A7%D8%B3%D9%86%D8%A7%D9%86/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-technical-agricultural-institute",
+    "universityId": "sy-university-of-tartus",
+    "name": {
+      "en": "Technical Agricultural Institute",
+      "ar": "المعهد التقاني الزراعي"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "tartus-university-units-list",
+      "mohe-2026-2027-technical-education-announcement-5"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p17:r17",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "https://mohe.gov.sy/img/uploads1/news_pdf_20260930160241_651_0.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-faculty-of-pharmacy-raqqa",
+    "universityId": "sy-al-furat-university",
+    "name": {
+      "en": "Faculty of Pharmacy",
+      "ar": "كلية الصيدلة"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "al-furat-raqqa-pharmacy-faculty-page",
+      "public-university-affiliations-decree-250-2006"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "al-furat-raqqa-pharmacy-faculty-page",
+        "sourceRecordId": "https://alfuratuniv.edu.sy/college.php?id=30&lang=ar",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-faculty-of-informatics-engineering",
+    "universityId": "sy-al-furat-university",
+    "name": {
+      "en": "Faculty of Informatics Engineering",
+      "ar": "كلية الهندسة المعلوماتية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "al-furat-informatics-engineering-faculty-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r11",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-informatics-engineering-faculty-page",
+        "sourceRecordId": "https://alfuratuniv.edu.sy/college.php?id=31&lang=ar",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-faculty-of-civil-engineering-raqqa",
+    "universityId": "sy-al-furat-university",
+    "name": {
+      "en": "Faculty of Civil Engineering",
+      "ar": "كلية الهندسة المدنية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "al-furat-raqqa-civil-engineering-faculty-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r24",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-raqqa-civil-engineering-faculty-page",
+        "sourceRecordId": "https://alfuratuniv.edu.sy/college.php?id=10&lang=ar",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-faculty-of-petrochemical-engineering",
+    "universityId": "sy-al-furat-university",
+    "name": {
+      "en": "Faculty of Petrochemical Engineering",
+      "ar": "كلية الهندسة البتروكيميائية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "al-furat-petrochemical-engineering-faculty-page",
+      "al-furat-university-about-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r47",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-petrochemical-engineering-faculty-page",
+        "sourceRecordId": "https://alfuratuniv.edu.sy/college.php?id=12&lang=ar",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-university-about-page",
+        "sourceRecordId": "https://alfuratuniv.edu.sy/about.php?lang=ar",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-faculty-of-agricultural-engineering",
+    "universityId": "sy-al-furat-university",
+    "name": {
+      "en": "Faculty of Agricultural Engineering",
+      "ar": "كلية الهندسة الزراعية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "al-furat-agricultural-engineering-faculty-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r37",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-agricultural-engineering-faculty-page",
+        "sourceRecordId": "https://alfuratuniv.edu.sy/college.php?id=13&lang=ar",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-faculty-of-agricultural-engineering-hasakah",
+    "universityId": "sy-al-furat-university",
+    "name": {
+      "en": "Faculty of Agricultural Engineering",
+      "ar": "كلية الهندسة الزراعية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "al-furat-hasakah-agricultural-engineering-faculty-page",
+      "al-furat-hasakah-agricultural-engineering-archived-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r39",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-hasakah-agricultural-engineering-faculty-page",
+        "sourceRecordId": "https://alfuratuniv.edu.sy/college.php?id=29&lang=ar",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-hasakah-agricultural-engineering-archived-page",
+        "sourceRecordId": "http://web.archive.org/web/20101129041709/http://alfuratuniv.edu.sy:80/uof_collages.php?collage_id=14",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-faculty-of-agricultural-engineering-raqqa",
+    "universityId": "sy-al-furat-university",
+    "name": {
+      "en": "Faculty of Agricultural Engineering",
+      "ar": "كلية الهندسة الزراعية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "al-furat-agricultural-engineering-faculty-page",
+      "al-furat-university-about-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r41",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-agricultural-engineering-faculty-page",
+        "sourceRecordId": "https://alfuratuniv.edu.sy/college.php?id=13&lang=ar",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-university-about-page",
+        "sourceRecordId": "https://alfuratuniv.edu.sy/about.php?lang=ar",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-faculty-of-law-hasakah",
+    "universityId": "sy-al-furat-university",
+    "name": {
+      "en": "Faculty of Law",
+      "ar": "كلية الحقوق"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "al-furat-hasakah-law-faculty-page",
+      "public-university-affiliations-decree-250-2006"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p13:r38",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-hasakah-law-faculty-page",
+        "sourceRecordId": "https://alfuratuniv.edu.sy/college.php?id=19&lang=ar",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-faculty-of-science-hasakah",
+    "universityId": "sy-al-furat-university",
+    "name": {
+      "en": "Faculty of Science",
+      "ar": "كلية العلوم"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "al-furat-hasakah-science-faculty-archived-page",
+      "public-university-affiliations-decree-250-2006"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p6:r19",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-hasakah-science-faculty-archived-page",
+        "sourceRecordId": "http://web.archive.org/web/20101129041724/http://alfuratuniv.edu.sy:80/uof_collages.php?collage_id=17",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-faculty-of-nursing",
+    "universityId": "sy-al-furat-university",
+    "name": {
+      "en": "Faculty of Nursing",
+      "ar": "كلية التمريض"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "al-furat-nursing-faculty-page",
+      "public-university-affiliations-decree-250-2006"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p10:r34",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-nursing-faculty-page",
+        "sourceRecordId": "https://alfuratuniv.edu.sy/college.php?id=20&lang=ar",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-technical-institute-of-financial-and-banking-sciences-raqqa",
+    "universityId": "sy-al-furat-university",
+    "name": {
+      "en": "Technical Institute of Financial and Banking Sciences",
+      "ar": "المعهد التقاني للعلوم المالية والمصرفية"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "al-furat-raqqa-financial-institute-archived-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r48",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-raqqa-financial-institute-archived-page",
+        "sourceRecordId": "http://web.archive.org/web/20120128140612/http://www.alfuratuniv.edu.sy/uof_collages.php?collage_id=34",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-agricultural-technical-institute",
+    "universityId": "sy-al-furat-university",
+    "name": {
+      "en": "Agricultural Technical Institute",
+      "ar": "المعهد التقاني الزراعي"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "al-furat-deir-ez-zor-agricultural-institute-archived-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p17:r18",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-deir-ez-zor-agricultural-institute-archived-page",
+        "sourceRecordId": "http://web.archive.org/web/20120128104521/http://www.alfuratuniv.edu.sy/uof_collages.php?collage_id=26",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-agricultural-technical-institute-hasakah",
+    "universityId": "sy-al-furat-university",
+    "name": {
+      "en": "Agricultural Technical Institute",
+      "ar": "المعهد التقاني الزراعي"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "al-furat-hasakah-agricultural-institute-archived-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p17:r19",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-hasakah-agricultural-institute-archived-page",
+        "sourceRecordId": "http://web.archive.org/web/20120128153751/http://www.alfuratuniv.edu.sy/uof_collages.php?collage_id=35",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-veterinary-technical-institute-hasakah",
+    "universityId": "sy-al-furat-university",
+    "name": {
+      "en": "Veterinary Technical Institute",
+      "ar": "المعهد التقاني للطب البيطري"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "al-furat-hasakah-veterinary-institute-archived-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p18:r23",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-hasakah-veterinary-institute-archived-page",
+        "sourceRecordId": "http://web.archive.org/web/20120128051756/http://www.alfuratuniv.edu.sy/uof_collages.php?collage_id=36",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-faculty-of-informatics-engineering",
+    "universityId": "sy-idlib-university",
+    "name": {
+      "en": "Faculty of Informatics Engineering",
+      "ar": "كلية الهندسة المعلوماتية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-cs-regulation"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-cs-regulation",
+        "sourceRecordId": "https://cs.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-faculty-of-civil-engineering",
+    "universityId": "sy-idlib-university",
+    "name": {
+      "en": "Faculty of Civil Engineering",
+      "ar": "كلية الهندسة المدنية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-ce-regulation"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r21",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-ce-regulation",
+        "sourceRecordId": "https://ce.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-faculty-of-architecture",
+    "universityId": "sy-idlib-university",
+    "name": {
+      "en": "Faculty of Architecture",
+      "ar": "كلية الهندسة المعمارية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-arch-regulation"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r33",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-arch-regulation",
+        "sourceRecordId": "https://arch.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-faculty-of-electrical-and-mechanical-engineering",
+    "universityId": "sy-idlib-university",
+    "name": {
+      "en": "Faculty of Electrical and Mechanical Engineering",
+      "ar": "كلية الهندسة الكهربائية والميكانيكية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-mee-main"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r13",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-mee-main",
+        "sourceRecordId": "https://mee.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-faculty-of-science",
+    "universityId": "sy-idlib-university",
+    "name": {
+      "en": "Faculty of Science",
+      "ar": "كلية العلوم"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-sci-regulation"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p4:r22",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-sci-regulation",
+        "sourceRecordId": "https://sci.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-faculty-of-health-sciences",
+    "universityId": "sy-idlib-university",
+    "name": {
+      "en": "Faculty of Health Sciences",
+      "ar": "كلية العلوم الصحية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-hs-goals"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p10:r24",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-hs-goals",
+        "sourceRecordId": "https://hs.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-faculty-of-education",
+    "universityId": "sy-idlib-university",
+    "name": {
+      "en": "Faculty of Education",
+      "ar": "كلية التربية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-ed-site"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p14:r17",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-ed-site",
+        "sourceRecordId": "https://ed.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-second-faculty-of-education-al-dana",
+    "universityId": "sy-idlib-university",
+    "name": {
+      "en": "Second Faculty of Education",
+      "ar": "كلية التربية الثانية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p14:r36",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-faculty-of-political-science",
+    "universityId": "sy-idlib-university",
+    "name": {
+      "en": "Faculty of Political Science",
+      "ar": "كلية العلوم السياسية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-ps-regulation"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p15:r23",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-ps-regulation",
+        "sourceRecordId": "https://ps.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-faculty-of-human-medicine",
+    "universityId": "sy-idlib-university",
+    "name": {
+      "en": "Faculty of Human Medicine",
+      "ar": "كلية الطب البشري"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["sana-decree-210-2026-idlib-university-faculties", "idlib-med-site"],
+    "sourceReferences": [
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-med-site",
+        "sourceRecordId": "https://med.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-faculty-of-dentistry",
+    "universityId": "sy-idlib-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["sana-decree-210-2026-idlib-university-faculties", "idlib-dent-about"],
+    "sourceReferences": [
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-dent-about",
+        "sourceRecordId": "https://dent.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-faculty-of-pharmacy",
+    "universityId": "sy-idlib-university",
+    "name": {
+      "en": "Faculty of Pharmacy",
+      "ar": "كلية الصيدلة"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["sana-decree-210-2026-idlib-university-faculties", "idlib-pharm-degrees"],
+    "sourceReferences": [
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-pharm-degrees",
+        "sourceRecordId": "https://pharm.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-andalus-university-for-medical-sciences-faculty-of-human-medicine",
+    "universityId": "sy-al-andalus-university-for-medical-sciences",
+    "name": {
+      "en": "Faculty of Human Medicine",
+      "ar": "كلية الطب البشري"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r4",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-andalus-university-for-medical-sciences-faculty-of-dentistry",
+    "universityId": "sy-al-andalus-university-for-medical-sciences",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r14",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-shahba-university-faculty-of-dentistry",
+    "universityId": "sy-al-shahba-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r18",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-sham-private-university-faculty-of-human-medicine-al-tall",
+    "universityId": "sy-al-sham-private-university",
+    "name": {
+      "en": "Faculty of Human Medicine",
+      "ar": "كلية الطب البشري"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "al-sham-private-university-faculty-menu"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r7",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-sham-private-university-faculty-menu",
+        "sourceRecordId": "https://aspu.edu.sy/site/arabic/index.php",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-sham-private-university-faculty-of-dentistry-al-mazraa",
+    "universityId": "sy-al-sham-private-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "al-sham-private-university-faculty-menu"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p11:r4",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-sham-private-university-faculty-menu",
+        "sourceRecordId": "https://aspu.edu.sy/site/arabic/index.php",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-sham-private-university-faculty-of-dentistry-latakia",
+    "universityId": "sy-al-sham-private-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "al-sham-private-university-faculty-menu"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p11:r5",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-sham-private-university-faculty-menu",
+        "sourceRecordId": "https://aspu.edu.sy/site/arabic/index.php",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-antioch-syrian-university-faculty-of-dentistry",
+    "universityId": "sy-antioch-syrian-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "antioch-dentistry-first-degree"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p11:r8",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "antioch-dentistry-first-degree",
+        "sourceRecordId": "https://asu.edu.sy/ar/dentistry",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-cordoba-private-university-faculty-of-civil-engineering-qamishli",
+    "universityId": "sy-cordoba-private-university",
+    "name": {
+      "en": "Faculty of Civil Engineering",
+      "ar": "كلية الهندسة المدنية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "cordoba-official-faculty-list"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p15:r15",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "cordoba-official-faculty-list",
+        "sourceRecordId": "https://www.cpu.edu.sy/home",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-international-university-for-science-and-renaissance-faculty-of-dentistry",
+    "universityId": "sy-international-university-for-science-and-renaissance",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p11:r9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-international-university-for-science-and-renaissance-medical-technical-institute",
+    "universityId": "sy-international-university-for-science-and-renaissance",
+    "name": {
+      "en": "Medical Technical Institute",
+      "ar": "المعهد التقاني الطبي"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p30:r13",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-mari-private-university-faculty-of-dentistry",
+    "universityId": "sy-mari-private-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p11:r6",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-qasyoun-private-university-faculty-of-dentistry",
+    "universityId": "sy-qasyoun-private-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "qasyoun-first-degree-and-campus-profile"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p11:r3",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "qasyoun-first-degree-and-campus-profile",
+        "sourceRecordId": "https://www.uni.sy/Syria/University/qpu.edu.sy",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-syrian-private-university-faculty-of-human-medicine",
+    "universityId": "sy-syrian-private-university",
+    "name": {
+      "en": "Faculty of Human Medicine",
+      "ar": "كلية الطب البشري"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r3",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-syrian-private-university-faculty-of-dentistry",
+    "universityId": "sy-syrian-private-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r11",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-yarmouk-private-university-faculty-of-dentistry",
+    "universityId": "sy-yarmouk-private-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027", "yarmouk-jabab-campus"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r19",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "yarmouk-jabab-campus",
+        "sourceRecordId": "https://ypu.edu.sy/contactus",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-faculty-of-surveying-and-geomatics-engineering",
+    "universityId": "sy-latakia-university",
+    "name": {
+      "en": "Faculty of Surveying and Geomatics Engineering",
+      "ar": "كلية الهندسة المساحية والجيوماتية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "latakia-surveying-faculty-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r26",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-surveying-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/5492",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-faculty-of-agricultural-engineering",
+    "universityId": "sy-idlib-university",
+    "name": {
+      "en": "Faculty of Agricultural Engineering",
+      "ar": "كلية الهندسة الزراعية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-agricultural-engineering-regulation"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r32",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-agricultural-engineering-regulation",
+        "sourceRecordId": "https://agri.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-faculty-of-architecture",
+    "universityId": "sy-damascus-university",
+    "name": {
+      "en": "Faculty of Architecture",
+      "ar": "كلية الهندسة المعمارية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "damascus-arch-about-wayback-2024"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r27",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "damascus-arch-about-wayback-2024",
+        "sourceRecordId": "https://web.archive.org/web/20240605154322/https://www.damascusuniversity.edu.sy/arch/index.php?lang=1&set=3&id=321",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-faculty-of-mechanical-and-electrical-engineering",
+    "universityId": "sy-damascus-university",
+    "name": {
+      "en": "Faculty of Mechanical and Electrical Engineering",
+      "ar": "كلية الهندسة الميكانيكية والكهربائية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "damascus-fmee-degrees-wayback-2025"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r36",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "damascus-fmee-degrees-wayback-2025",
+        "sourceRecordId": "https://web.archive.org/web/20250331022410/https://www.damascusuniversity.edu.sy/fmee/index.php?lang=1&set=3&id=404",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-faculty-of-economics",
+    "universityId": "sy-damascus-university",
+    "name": {
+      "en": "Faculty of Economics",
+      "ar": "كلية الاقتصاد"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "damascus-eco-certificates-wayback-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r43",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "damascus-eco-certificates-wayback-2026",
+        "sourceRecordId": "https://web.archive.org/web/20260105083013/https://www.damascusuniversity.edu.sy/eco/index.php?id=417&lang=1&set=3",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-second-faculty-of-economics-daraa",
+    "universityId": "sy-damascus-university",
+    "name": {
+      "en": "Second Faculty of Economics",
+      "ar": "كلية الاقتصاد الثانية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r44",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-faculty-of-sciences",
+    "universityId": "sy-damascus-university",
+    "name": {
+      "en": "Faculty of Sciences",
+      "ar": "كلية العلوم"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "damascus-sci-regulation-wayback-2025"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p4:r8",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "damascus-sci-regulation-wayback-2025",
+        "sourceRecordId": "https://web.archive.org/web/20251007113930/https://www.damascusuniversity.edu.sy/sci/?lang=1&set=3&id=324",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-faculty-of-education",
+    "universityId": "sy-damascus-university",
+    "name": {
+      "en": "Faculty of Education",
+      "ar": "كلية التربية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "damascus-edu-about-wayback-2022"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p13:r51",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "damascus-edu-about-wayback-2022",
+        "sourceRecordId": "https://web.archive.org/web/20221104045759/http://damascusuniversity.edu.sy/edu/index.php?lang=1&set=3&id=321",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-faculty-of-law",
+    "universityId": "sy-damascus-university",
+    "name": {
+      "en": "Faculty of Law",
+      "ar": "كلية الحقوق"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "damascus-law-degrees-wayback-2022"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p13:r26",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "damascus-law-degrees-wayback-2022",
+        "sourceRecordId": "https://web.archive.org/web/20220812160730/http://damascusuniversity.edu.sy/law/index.php?lang=1&set=3&id=459",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-third-faculty-of-education-daraa",
+    "universityId": "sy-damascus-university",
+    "name": {
+      "en": "Third Faculty of Education",
+      "ar": "كلية التربية الثالثة"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p14:r11",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-faculty-of-human-medicine",
+    "universityId": "sy-damascus-university",
+    "name": {
+      "en": "Faculty of Human Medicine",
+      "ar": "كلية الطب البشري"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "public-university-affiliations-decree-250-2006",
+      "damascus-med-degrees-wayback-2023"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "damascus-med-degrees-wayback-2023",
+        "sourceRecordId": "https://web.archive.org/web/20231209030954/https://www.damascusuniversity.edu.sy/med/?lang=1&set=3&id=731",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-faculty-of-dentistry",
+    "universityId": "sy-damascus-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "public-university-affiliations-decree-250-2006",
+      "damascus-dent-degrees-wayback-2023"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "damascus-dent-degrees-wayback-2023",
+        "sourceRecordId": "https://web.archive.org/web/20230424065140/http://damascusuniversity.edu.sy/dent/index.php?lang=1&set=3&id=479",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-faculty-of-pharmacy",
+    "universityId": "sy-damascus-university",
+    "name": {
+      "en": "Faculty of Pharmacy",
+      "ar": "كلية الصيدلة"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "public-university-affiliations-decree-250-2006",
+      "damascus-pharm-about-wayback-2025"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "damascus-pharm-about-wayback-2025",
+        "sourceRecordId": "https://web.archive.org/web/20251208164605/https://www.damascusuniversity.edu.sy/pharm/index.php?lang=1&set=3&id=256",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-faculty-of-architecture",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Faculty of Architecture",
+      "ar": "كلية الهندسة المعمارية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-architecture-faculty-about-wayback-2011"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r28",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-architecture-faculty-about-wayback-2011",
+        "sourceRecordId": "https://web.archive.org/web/20110215004855/http://www.alepuniv.edu.sy/arch/index.jsp?inc=12&id=2&lang=ar&type=1",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-faculty-of-electrical-and-electronic-engineering",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Faculty of Electrical and Electronic Engineering",
+      "ar": "كلية الهندسة الكهربائية والإلكترونية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-electrical-faculty-api-wayback-2020"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r47",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-electrical-faculty-api-wayback-2020",
+        "sourceRecordId": "https://web.archive.org/web/20200724202219/https://alepuniv.edu.sy/api/faculties/faculty-of-electrical-and-electronic-engineering",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-faculty-of-mechanical-engineering",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Faculty of Mechanical Engineering",
+      "ar": "كلية الهندسة الميكانيكية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-mechanical-faculty-api-wayback-2022"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r5",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-mechanical-faculty-api-wayback-2022",
+        "sourceRecordId": "https://web.archive.org/web/20220312094428/https://alepuniv.edu.sy/api/faculties/faculty-of-mechanics",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-faculty-of-agricultural-engineering",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Faculty of Agricultural Engineering",
+      "ar": "كلية الهندسة الزراعية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-agriculture-faculty-print-wayback-2017"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r31",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-agriculture-faculty-print-wayback-2017",
+        "sourceRecordId": "https://web.archive.org/web/20170710124928/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-faculty-of-economics",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Faculty of Economics",
+      "ar": "كلية الاقتصاد"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-economics-faculty-print-wayback-2017"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r50",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-economics-faculty-print-wayback-2017",
+        "sourceRecordId": "https://web.archive.org/web/20170712020002/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-faculty-of-nursing",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Faculty of Nursing",
+      "ar": "كلية التمريض"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-nursing-faculty-degrees-wayback-2011"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p10:r31",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-nursing-faculty-degrees-wayback-2011",
+        "sourceRecordId": "https://web.archive.org/web/20111222043601/http://www.alepuniv.edu.sy/nuf/index.jsp?inc=12&id=1965&lang=ar&type=8",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-faculty-of-arts-and-humanities",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Faculty of Arts and Humanities",
+      "ar": "كلية الآداب والعلوم الإنسانية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-arts-faculty-print-wayback-2017"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p11:r10",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-arts-faculty-print-wayback-2017",
+        "sourceRecordId": "https://web.archive.org/web/20170712235059/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%A2%D8%AF%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86%D9%8A%D8%A9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-faculty-of-law",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Faculty of Law",
+      "ar": "كلية الحقوق"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-law-faculty-print-wayback-2017"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p13:r31",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-law-faculty-print-wayback-2017",
+        "sourceRecordId": "https://web.archive.org/web/20170617001510/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AD%D9%82%D9%88%D9%82",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-faculty-of-education",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Faculty of Education",
+      "ar": "كلية التربية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-education-faculty-print-wayback-2017"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p13:r44",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-education-faculty-print-wayback-2017",
+        "sourceRecordId": "https://web.archive.org/web/20170713131246/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-engineering-technical-institute",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Engineering Technical Institute",
+      "ar": "المعهد التقاني الهندسي"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "aleppo-engineering-technical-institute-wayback-2014"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r4",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-engineering-technical-institute-wayback-2014",
+        "sourceRecordId": "https://web.archive.org/web/20140816224452/http://www.alepuniv.edu.sy/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%85%D8%B9%D8%A7%D9%87%D8%AF-%D8%AA%D9%82%D8%A7%D9%86%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D9%8A",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-technical-institute-of-dentistry",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Technical Institute of Dentistry",
+      "ar": "المعهد التقاني لطب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "aleppo-dental-technical-institute-api-wayback-2024"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r35",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-dental-technical-institute-api-wayback-2024",
+        "sourceRecordId": "https://web.archive.org/web/20240828134434/https://alepuniv.edu.sy/api/faculties/technical-institute-of-dentistry",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-technical-institute-of-financial-and-banking-sciences",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Technical Institute of Financial and Banking Sciences",
+      "ar": "المعهد التقاني للعلوم المالية والمصرفية"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r45",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "https://mohe.gov.sy/img/uploads1/news_pdf_20260930160241_651_0.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-medical-technical-institute",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Medical Technical Institute",
+      "ar": "المعهد التقاني الطبي"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "aleppo-medical-technical-institute-api-wayback-2024"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p17:r36",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-medical-technical-institute-api-wayback-2024",
+        "sourceRecordId": "https://web.archive.org/web/20241210201213/https://alepuniv.edu.sy/api/faculties/medical-technology-institute",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-faculty-of-human-medicine",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Faculty of Human Medicine",
+      "ar": "كلية الطب البشري"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-medicine-faculty-api-wayback-2025"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-medicine-faculty-api-wayback-2025",
+        "sourceRecordId": "https://web.archive.org/web/20250709121908/https://alepuniv.edu.sy/api/faculties/college-of-human-medicine",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-hawash-private-university-faculty-of-human-medicine",
+    "universityId": "sy-al-hawash-private-university",
+    "name": {
+      "en": "Faculty of Human Medicine",
+      "ar": "كلية الطب البشري"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r5",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-hawash-private-university-faculty-of-dentistry",
+    "universityId": "sy-al-hawash-private-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r15",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-jazeera-private-university-faculty-of-dentistry",
+    "universityId": "sy-al-jazeera-private-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r16",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-manara-university-faculty-of-dentistry",
+    "universityId": "sy-al-manara-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p11:r7",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-rasheed-international-university-for-science-and-technology-faculty-of-dentistry",
+    "universityId": "sy-al-rasheed-international-university-for-science-and-technology",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "british-university-in-damascus-ghabagheb-campus"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p11:r2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "british-university-in-damascus-ghabagheb-campus",
+        "sourceRecordId": "https://bud.edu.sy/contact",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-wataniya-private-university-faculty-of-dentistry",
+    "universityId": "sy-al-wataniya-private-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "al-wataniya-2026-program-list"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r20",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-wataniya-2026-program-list",
+        "sourceRecordId": "https://wpu.edu.sy/%D8%B1%D8%B3%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D9%8A%D8%A9-%D9%84%D9%84%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D9%8A-%D9%A2-2/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-arab-international-university-faculty-of-dentistry",
+    "universityId": "sy-arab-international-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "arab-international-university-ghabagheb-campus"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r10",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "arab-international-university-ghabagheb-campus",
+        "sourceRecordId": "https://www-wp.unipv.it/duniabeam/wp-content/uploads/2012/09/arab-international.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-arab-university-for-science-and-technology-faculty-of-dentistry",
+    "universityId": "sy-arab-university-for-science-and-technology",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r17",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-cordoba-private-university-faculty-of-dentistry-aleppo",
+    "universityId": "sy-cordoba-private-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "cordoba-official-faculty-list"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "cordoba-official-faculty-list",
+        "sourceRecordId": "https://www.cpu.edu.sy/home",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-ebla-private-university-faculty-of-human-medicine",
+    "universityId": "sy-ebla-private-university",
+    "name": {
+      "en": "Faculty of Human Medicine",
+      "ar": "كلية الطب البشري"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r6",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-international-university-for-science-and-technology-faculty-of-dentistry",
+    "universityId": "sy-international-university-for-science-and-technology",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "iust-pharmacy-official-faculty"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r12",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "iust-pharmacy-official-faculty",
+        "sourceRecordId": "https://iust.edu.sy/pharmacy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-kalamoon-faculty-of-human-medicine",
+    "universityId": "sy-university-of-kalamoon",
+    "name": {
+      "en": "Faculty of Human Medicine",
+      "ar": "كلية الطب البشري"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-kalamoon-faculty-of-dentistry",
+    "universityId": "sy-university-of-kalamoon",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r8",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-wadi-international-university-faculty-of-dentistry",
+    "universityId": "sy-wadi-international-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r13",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"

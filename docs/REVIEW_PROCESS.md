@@ -19,6 +19,10 @@ See the [program pilot](post-seed/PROGRAM_PILOT_2026_2027.md) and the
 for an example of recording admission routes at the level the source supports.
 For city-grouped rows, see the [public affiliation review](post-seed/PUBLIC_CITY_PROGRAMS_2026_2027.md)
 for examples of corroborating the awarding university and teaching site.
+Check announcement 5 before assigning an institute: health, tourism, Sharia
+and several technical institutes belong to other ministries. When an award
+comes from an archived copy of a university page, check the snapshot date
+and prefer a current page when one exists.
 The [bulk named-program review](post-seed/BULK_NAMED_PROGRAMS_2026_2027.md)
 shows how to cross-reference institution and campus matches with award evidence.
 

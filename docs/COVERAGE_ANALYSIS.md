@@ -33,10 +33,14 @@ pnpm run coverage:data
   uniRank 2026 Syrian University Ranking, independent Webometrics.org January
   2026, and UNIRANKS 2026 snapshots.
 
-The preview contains 233 faculties or institutes and 351 offerings
-across 43 universities. Thirty disciplines have reviewed mappings.
-All 351 offerings carry a campus. Of these, 347 carry verified 2026–2027
-admission routes. [Bulk named-program review](post-seed/BULK_NAMED_PROGRAMS_2026_2027.md)
+The preview contains 349 faculties or institutes and 558 offerings
+across 44 universities. Every offering has one of the 148 fields of study;
+121 fields are in use. All 558 offerings carry a campus. Of these, 538
+carry verified 2026–2027 admission routes; public Human Medicine, Dentistry
+and Pharmacy have none because entry is through the preparatory year.
+The [city-grouped register](post-seed/PENDING_PUBLIC_CITY_PROGRAMS_2026_2027.md)
+and the [named register](post-seed/PENDING_NAMED_PROGRAMS_2026_2027.md)
+list the rows still pending. [Bulk named-program review](post-seed/BULK_NAMED_PROGRAMS_2026_2027.md)
 · [City-grouped public program review](post-seed/PUBLIC_CITY_PROGRAMS_2026_2027.md)
 
 The production canonical boundary is the approved production scope plus

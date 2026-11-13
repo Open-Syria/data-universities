@@ -10,6 +10,11 @@ All notable changes to this repository will be documented in this file.
 - Assign a field of study to the 152 verified program offerings that had none.
 - Add the field-of-study curation rules and build script under `scripts/curation`.
 - Add six verified Civil Engineering and Informatics Engineering bachelor's offerings in Damascus, Homs, and Latakia.
+- Assign 177 city-grouped public offerings to universities: 149 bachelor's programs and 28 technical diplomas at Damascus (29), Aleppo (38), Homs (47), Latakia (15), Hama (12), Tartus (1), Al-Furat (15) and Idlib (20), with 87 new faculties or institutes. Awards come from the universities' own pages, regulations and the Official Gazette; archived copies of university pages are cited by snapshot where the current page names none.
+- Add public Human Medicine, Dentistry and Pharmacy offerings where the university names the award, with null admissions because entry is through the common preparatory year. Record professional first degrees at the bachelor level as Human Medicine and Dentistry, per the owner's decision.
+- Resolve 38 named candidates from the pending register: 27 private Human Medicine and Dentistry degrees, Cordoba's Civil Engineering at Qamishli, two IUSR medical technical diplomas, and eight public institute rows. Fourteen of the professional degrees rest on Higher Education Council Decision 31, article 49, with the Ministry row for the university and campus.
+- Add the city-grouped pending register, listing the 430 leads still pending with the evidence each needs, including the 97 institute rows that announcement 5 assigns to other ministries.
+- Add the announcement 4 Ministry source for rows that only the literary table lists, Higher Education Council Decision 31 as an approved award source for private professional degrees, and import manifests for both batch 3 imports.
 
 - Add Arabic Ministry admissions aliases to 11 existing universities, with page and row references.
 - Add four faculties or institutes and four reviewed program offerings across three universities.
@@ -36,6 +41,8 @@ All notable changes to this repository will be documented in this file.
 ### Changed
 
 - Use Deir ez-Zor as Al-Jazeera Private University's permanent campus for the 2026–2027 intake.
+- Point the announcement 5 source at its own PDF instead of announcement 2's.
+- Widen the Decree 250 source to the faculty and branch lists it supports.
 
 ## v0.2.3 - 2026-11-11
 

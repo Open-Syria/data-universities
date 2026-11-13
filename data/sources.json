@@ -2247,8 +2247,8 @@
   },
   {
     "id": "mohe-2026-2027-technical-education-announcement-5",
-    "title": "Syrian Ministry of Higher Education 2026–2027 technical education list",
-    "url": "https://mohe.gov.sy/img/uploads1/news_pdf_20260930155934_651_0.pdf",
+    "title": "Syrian Ministry of Higher Education 2026–2027 technical education list (announcement 5)",
+    "url": "https://mohe.gov.sy/img/uploads1/news_pdf_20260930160241_651_0.pdf",
     "license": "Public source; factual data only",
     "status": "approved",
     "fields": ["academic unit", "campus", "university affiliation"],
@@ -2413,8 +2413,8 @@
     "url": "https://www.bunud.ai/sy/laws/university-organization-law-executive-regulations",
     "license": "Public source; factual data only",
     "status": "approved",
-    "fields": ["academic unit", "university affiliation"],
-    "notes": "Article 2 identifies the Informatics Engineering faculties at Damascus and Tishreen universities."
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Article 2 lists the faculties of Damascus, Aleppo, Tishreen (now Latakia), Al-Baath (now Homs), Al-Furat and Hama universities, as amended, including branch faculties and their cities. It identifies the Informatics Engineering faculties at Damascus and Tishreen universities."
   },
   {
     "id": "damascus-civil-engineering-first-degree",
@@ -2478,5 +2478,1169 @@
     "status": "approved",
     "fields": ["program name", "field of study"],
     "notes": "Program labels from the eleven 2026–2027 admissions announcements, as transcribed in the OpenSyria admissions catalogues. Used to name fields of study; offerings, faculties and awards need separate evidence."
+  },
+  {
+    "id": "mohe-public-city-programs-literary-2026-2027",
+    "title": "Syrian Ministry of Higher Education 2026–2027 literary admissions minimums (announcement 4)",
+    "url": "https://mohe.gov.sy/img/uploads1/news_pdf_20260930160200_651_0.pdf",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["program name", "campus", "admission route identifiers"],
+    "notes": "Uses the city-grouped offering labels and intake routes that appear only in the literary table. Faculty affiliation and award level require separate evidence."
+  },
+  {
+    "id": "homs-univ-faculties-page",
+    "title": "Homs University faculties overview (التعليم في جامعة حمص / الكليات)",
+    "url": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Describes each Homs University faculty, its founding decree and seat (Homs; second faculties of Education and Sciences in Palmyra; new Faculty of Sharia from 2026-2027)."
+  },
+  {
+    "id": "homs-med-degrees-page",
+    "title": "Homs University Faculty of Medicine: degrees granted",
+    "url": "https://homs-univ.edu.sy/med/%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d8%a7%d9%84%d8%aa%d9%8a-%d8%aa%d9%85%d9%86%d8%ad%d9%87%d8%a7-%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%b7%d8%a8",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The Faculty of Medicine grants إجازة دكتور في الطب البشري and postgraduate degrees."
+  },
+  {
+    "id": "homs-univ-news-medical-faculties-2026",
+    "title": "Homs University medical sciences faculties profile (4 Oct 2026)",
+    "url": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%a9-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d8%aa%d9%83%d8%a7%d9%85%d9%84-2/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level", "university affiliation"],
+    "notes": "Lists departments and degrees granted by the Faculties of Medicine, Dentistry, Pharmacy and Health Sciences of Homs University."
+  },
+  {
+    "id": "homs-pharmacy-program-spec",
+    "title": "Homs University Faculty of Pharmacy programme specification",
+    "url": "https://homs-univ.edu.sy/pharmacy/%d8%aa%d9%88%d8%b5%d9%8a%d9%81-%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d9%85%d8%ac-2",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Pharmacy programme (Al-Baath/Homs University): five years including the preparatory year; qualification إجازة في الصيدلة والكيمياء الصيدلية; delivered on the university campus."
+  },
+  {
+    "id": "homs-it-about-page",
+    "title": "Homs University Faculty of Informatics Engineering: vision, mission and degrees",
+    "url": "https://homs-univ.edu.sy/it/%d8%a7%d9%84%d8%b1%d8%a4%d9%8a%d8%a7-%d9%88%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d9%84%d8%a9",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Five-year programme leading to the إجازة in informatics engineering; departments software, networks and (then unopened) artificial intelligence; faculty belongs to Al-Baath (Homs) University."
+  },
+  {
+    "id": "homs-univ-news-engineering-faculties-2026",
+    "title": "Homs University engineering faculties profile (4 Oct 2026)",
+    "url": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a%d8%a9-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d9%87%d9%86%d8%af-2/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Lists departments and the إجازة degrees of the Informatics, Civil, Architecture, Chemical and Petroleum, Mechanical and Electrical, Agricultural engineering faculties and the Applied College of Homs University."
+  },
+  {
+    "id": "homs-archi-about-page",
+    "title": "Homs University Faculty of Architecture: vision, mission and degrees",
+    "url": "https://homs-univ.edu.sy/archi/%d8%a7%d9%84%d8%b1%d8%a4%d9%8a%d8%a7-%d9%88%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d9%84%d8%a9",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "The architecture إجازة at Homs University takes five years and requires passing all courses and the graduation project."
+  },
+  {
+    "id": "homs-univ-news-economics-sciences-faculties-2026",
+    "title": "Homs University economics and basic sciences faculties profile (4 Oct 2026)",
+    "url": "https://homs-univ.edu.sy/2026/10/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d9%85%d9%86%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a%d8%a9-%d9%88-%d8%a7%d9%84/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "program name", "qualification level"],
+    "notes": "Lists departments and the إجازة degrees of the Faculty of Economics (business administration) and the Faculty of Sciences of Homs University."
+  },
+  {
+    "id": "homs-univ-news-humanities-faculties-2026",
+    "title": "Homs University humanities faculties profile (4 Oct 2026)",
+    "url": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d8%a9-%d9%85%d9%86%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d9%83%d8%b1-%d9%88%d8%a8/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Lists departments and the إجازة degrees of the Arts and Humanities, Law, Tourism, Education and Music Education faculties of Homs University."
+  },
+  {
+    "id": "homs-univ-institutes-page",
+    "title": "Homs University institutes overview (المعاهد)",
+    "url": "https://homs-univ.edu.sy/%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5/d8-a7-d9-84-d9-85-d8-b9-d8-a7-d9-87-d8-af/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Lists the university technical institutes (computer, engineering in Homs, agricultural, Badia and desertification) and states the agricultural institute diploma."
+  },
+  {
+    "id": "homs-univ-news-technical-institutes-2026",
+    "title": "Homs University technical institutes profile (4 Oct 2026)",
+    "url": "https://homs-univ.edu.sy/2026/10/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d8%ad%d8%a7%d8%b6%d9%86%d8%a9-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d9%87%d8%af-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%86%d9%8a%d8%a9-%d9%86%d8%ad%d9%88-%d9%85/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "program name",
+      "qualification level",
+      "campus",
+      "university affiliation"
+    ],
+    "notes": "Lists the technical diplomas (دبلوم تقاني) granted by the Homs University computer, Badia and desertification, dental, agricultural and engineering institutes."
+  },
+  {
+    "id": "latakia-medicine-faculty-page",
+    "title": "University of Latakia Faculty of Human Medicine page",
+    "url": "https://latakia-univ.edu.sy/ar/Faculty/Index/92",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation"],
+    "notes": "Faculty of Medicine of the University of Latakia, founded 1974."
+  },
+  {
+    "id": "latakia-medicine-internal-regulations",
+    "title": "Internal regulations of the Faculty of Medicine, Tishreen University (Latakia)",
+    "url": "https://latakia-univ.edu.sy/uploads/f4751d7e-375d-4bcd-9e62-aadad0b50f4a.pdf",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Art. 7: the university grants the degree of licence doctor of medicine (MD); study lasts six years; letterhead Tishreen University Faculty of Medicine, Syria - Latakia."
+  },
+  {
+    "id": "latakia-dentistry-faculty-page",
+    "title": "University of Latakia Faculty of Dentistry page",
+    "url": "https://latakia-univ.edu.sy/ar/Faculty/Index/98",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation"],
+    "notes": "Faculty of Dentistry of the University of Latakia; department list."
+  },
+  {
+    "id": "latakia-dentistry-undergraduate-plan",
+    "title": "Undergraduate study plan, licence programme in dentistry, University of Latakia",
+    "url": "https://latakia-univ.edu.sy/uploads/a9c48d83-7228-494b-a687-1d1d38c044b9.pdf",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Degree awarded by the university: licence in dentistry (bachelor); duration 5 years."
+  },
+  {
+    "id": "latakia-pharmacy-faculty-page",
+    "title": "University of Latakia Faculty of Pharmacy page",
+    "url": "https://latakia-univ.edu.sy/ar/Faculty/Index/1213",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Faculty of Pharmacy of the University of Latakia (founded 1991) offers a programme leading to the licence in pharmacy and pharmaceutical chemistry."
+  },
+  {
+    "id": "latakia-mech-elec-faculty-page",
+    "title": "University of Latakia Faculty of Mechanical and Electrical Engineering page",
+    "url": "https://latakia-univ.edu.sy/ar/Faculty/Index/81",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Faculty established by decree 2259 of 1980 at the University of Latakia; departments: marine, computers and automatic control, electrical power, mechatronics, biomedical, communications and electronics, mechanical power, design and production."
+  },
+  {
+    "id": "latakia-comms-eng-module-handbook",
+    "title": "Course Structure and Module Handbook, Bachelor Electronics and Communications Engineering (English)",
+    "url": "https://latakia-univ.edu.sy/uploads/c42b3596-d2b9-4fab-8c71-233e0b075091.pdf",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Handbook of the Electronics and Communications Engineering Dept., Faculty of Mechanical and Electrical Engineering, Tishreen University, for the Bachelor programme; plan runs 1st to 5th year."
+  },
+  {
+    "id": "latakia-science-faculty-page",
+    "title": "University of Latakia Faculty of Science page",
+    "url": "https://latakia-univ.edu.sy/ar/Faculty/Index/100",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Faculty of Science of the University of Latakia."
+  },
+  {
+    "id": "latakia-science-internal-regulations",
+    "title": "Internal regulations of the Faculty of Science, Tishreen University",
+    "url": "https://latakia-univ.edu.sy/uploads/339e217e-b53e-43a1-b62e-fee4c710ae69.pdf",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Art. 3: the university grants the licence in mathematics, physics, chemistry, biology, geology and mathematical statistics; Art. 4: licence takes four years."
+  },
+  {
+    "id": "latakia-nursing-faculty-page",
+    "title": "University of Latakia Faculty of Nursing page",
+    "url": "https://latakia-univ.edu.sy/ar/Faculty/Index/105",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Faculty of Nursing of the University of Latakia, established 1994."
+  },
+  {
+    "id": "latakia-nursing-guide",
+    "title": "Faculty of Nursing guide (departments), Tishreen University",
+    "url": "https://latakia-univ.edu.sy/uploads/e487d268-1b5b-48f4-b4c3-0155f78eaef2.pdf",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Tishreen University grants, on the proposal of the Faculty of Nursing, the licence in nursing."
+  },
+  {
+    "id": "latakia-arts-faculty-page",
+    "title": "University of Latakia Faculty of Arts and Humanities page",
+    "url": "https://latakia-univ.edu.sy/ar/Faculty/Index/104",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Faculty of Arts and Humanities is one of the faculties of the University of Latakia; department list."
+  },
+  {
+    "id": "latakia-sociology-programme-page",
+    "title": "University of Latakia sociology department programme description",
+    "url": "https://latakia-univ.edu.sy/ar/FacultyDepartments/Index/4234",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Sociology programme: four years; qualification: licence in arts and humanities - sociology."
+  },
+  {
+    "id": "latakia-library-programme-page",
+    "title": "University of Latakia library and information science department programme description",
+    "url": "https://latakia-univ.edu.sy/ar/FacultyDepartments/Index/4248",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Library and information programme: four years; qualification: licence in arts and humanities - libraries and information."
+  },
+  {
+    "id": "latakia-geography-programme-page",
+    "title": "University of Latakia geography department programme description",
+    "url": "https://latakia-univ.edu.sy/ar/FacultyDepartments/Index/4239",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Geography programme: 8 semesters over 4 years; qualification: licence in arts and humanities, geography department."
+  },
+  {
+    "id": "hama-medicine-page",
+    "title": "Hama University Faculty of Human Medicine page",
+    "url": "https://hama-univ.edu.sy/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D8%A8-%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Faculty created by decree 241/2012; six-year programme ending with the unified exam for the licence of doctor in human medicine."
+  },
+  {
+    "id": "hama-pharmacy-page",
+    "title": "Hama University Faculty of Pharmacy page",
+    "url": "https://hama-univ.edu.sy/%D8%A7%D9%84%D8%B5%D9%8A%D8%AF%D9%84%D8%A9/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Faculty of Pharmacy seated in Hama, part of Hama University; university grants licence in pharmacy and pharmaceutical chemistry, five years."
+  },
+  {
+    "id": "hama-architecture-page",
+    "title": "Hama University Faculty of Architecture page",
+    "url": "https://hama-univ.edu.sy/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D9%85%D8%A7%D8%B1%D9%8A%D8%A9/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "program name", "qualification level"],
+    "notes": "Faculty of Architecture of Hama University grants the licence in architecture, five years."
+  },
+  {
+    "id": "hama-architecture-history",
+    "title": "Hama University Faculty of Architecture subsite, history page",
+    "url": "https://architecture.hama-univ.edu.sy/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A9/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus"],
+    "notes": "Faculty of Architecture created in Salamiyah by decree 481 of 23/12/2012."
+  },
+  {
+    "id": "hama-veterinary-page",
+    "title": "Hama University Faculty of Veterinary Medicine page",
+    "url": "https://hama-univ.edu.sy/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D8%A8-%D8%A7%D9%84%D8%A8%D9%8A%D8%B7%D8%B1%D9%8A/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Veterinary faculty seated in Hama; became a Hama University faculty under decree 19/2014."
+  },
+  {
+    "id": "hama-veterinary-about",
+    "title": "Hama University Faculty of Veterinary Medicine subsite, about page",
+    "url": "https://veterinary.hama-univ.edu.sy/%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A9/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Faculty grants the licence of doctor in veterinary medicine plus postgraduate degrees."
+  },
+  {
+    "id": "hama-arts-page",
+    "title": "Hama University Faculty of Arts and Humanities page",
+    "url": "https://hama-univ.edu.sy/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%AF%D8%A7%D8%A8-%D9%88-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%A7%D9%86%D9%8A%D8%A9/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Faculty in Hama, part of Hama University, grants licences in Arabic, English and French language departments."
+  },
+  {
+    "id": "hama-sport-page",
+    "title": "Hama University Faculty of Physical Education page",
+    "url": "https://hama-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Faculty in Hama (Al-Basel sports city) grants the licence in physical education, four years."
+  },
+  {
+    "id": "hama-institutes-list",
+    "title": "Hama University institutes list page",
+    "url": "https://hama-univ.edu.sy/%D9%85%D8%B9%D8%A7%D9%87%D8%AF-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation"],
+    "notes": "Lists the university's institutes: computer, dentistry, veterinary, medical, agricultural, engineering technical institutes and the higher institute of languages."
+  },
+  {
+    "id": "hama-engineering-institute-page",
+    "title": "Hama University Technical Engineering Institute page",
+    "url": "https://hama-univ.edu.sy/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D9%8A/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus"],
+    "notes": "Institute located in Hama, Al-Arbaeen district."
+  },
+  {
+    "id": "hama-engineering-institute-history",
+    "title": "Hama University Technical Engineering Institute subsite, history page",
+    "url": "https://inst-eng.hama-univ.edu.sy/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Institute awards the technical diploma in civil engineering."
+  },
+  {
+    "id": "hama-dental-institute-page",
+    "title": "Hama University Technical Institute of Dentistry page",
+    "url": "https://hama-univ.edu.sy/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D9%84%D8%B7%D8%A8-%D8%A7%D9%84%D8%A7%D8%B3%D9%86%D8%A7%D9%86/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Institute in Hama (Al-Sharia district) trains students of both specialties for the technical diploma in dentistry."
+  },
+  {
+    "id": "tartus-university-units-list",
+    "title": "University of Tartus faculties and institutes list (site API)",
+    "url": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation"],
+    "notes": "Lists the university's faculties (medicine, dentistry, pharmacy, architecture, ICT engineering, agricultural engineering, technical engineering, economics, science, arts, education, tourism) and institutes (agricultural, engineering, solar energy, maritime transport)."
+  },
+  {
+    "id": "tartus-agricultural-institute-page",
+    "title": "University of Tartus Technical Agricultural Institute page",
+    "url": "https://tartous-univ.edu.sy/faculties/almaahd-altkany-alzraaay",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The institute page says its graduates hold the agricultural technical diploma in protected agriculture (الدبلوم التقاني الزراعي باختصاص الزراعات المحمية), with a two-year study period. The page text is served by the site API at https://api.tartous-univ.edu.sy/api/website/pages/unit/45."
+  },
+  {
+    "id": "al-furat-raqqa-pharmacy-faculty-page",
+    "title": "Al-Furat University Faculty of Pharmacy in Raqqa page",
+    "url": "https://alfuratuniv.edu.sy/college.php?id=30&lang=ar",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation"],
+    "notes": "Faculty of Pharmacy created at Al-Furat in Raqqa by Decree 301/2011; does not name the award."
+  },
+  {
+    "id": "al-furat-raqqa-pharmacy-archived-page",
+    "title": "Al-Furat University old site page, Faculty of Pharmacy - Raqqa (Wayback 2012)",
+    "url": "http://web.archive.org/web/20120128064630/http://www.alfuratuniv.edu.sy/uof_collages.php?collage_id=24",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Pharmacy faculty in Raqqa (Decree 301 of 8/8/2011); aims to prepare pharmacists holding درجة الإجازة في الصيدلة."
+  },
+  {
+    "id": "al-furat-informatics-engineering-faculty-page",
+    "title": "Al-Furat University Faculty of Informatics Engineering in Deir ez-Zor page",
+    "url": "https://alfuratuniv.edu.sy/college.php?id=31&lang=ar",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Faculty of Informatics Engineering in Deir ez-Zor; 5 years to obtain الإجازة في الهندسة المعلوماتية."
+  },
+  {
+    "id": "al-furat-raqqa-civil-engineering-faculty-page",
+    "title": "Al-Furat University Faculty of Civil Engineering in Raqqa page",
+    "url": "https://alfuratuniv.edu.sy/college.php?id=10&lang=ar",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Faculty in Raqqa; grants the licence (الإجازة) in general civil engineering; 5 years."
+  },
+  {
+    "id": "al-furat-petrochemical-engineering-faculty-page",
+    "title": "Al-Furat University Faculty of Petrochemical Engineering page",
+    "url": "https://alfuratuniv.edu.sy/college.php?id=12&lang=ar",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "program name", "qualification level"],
+    "notes": "Faculty created at Al-Furat by Decree 822/2005; grants الإجازة in petrochemical industries engineering and in petroleum engineering; 5 years."
+  },
+  {
+    "id": "al-furat-university-about-page",
+    "title": "Al-Furat University about page (faculties by governorate)",
+    "url": "https://alfuratuniv.edu.sy/about.php?lang=ar",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus"],
+    "notes": "University established by Law 33 of 2006; lists its faculties by city: Deir ez-Zor (11 incl. Human Medicine), Hasakah (8 incl. Dentistry), Raqqa (6 incl. Pharmacy)."
+  },
+  {
+    "id": "al-furat-agricultural-engineering-faculty-page",
+    "title": "Al-Furat University Faculty of Agricultural Engineering in Deir ez-Zor and Raqqa page",
+    "url": "https://alfuratuniv.edu.sy/college.php?id=13&lang=ar",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Faculty in Deir ez-Zor (and Raqqa) belonging to Al-Furat since 2006; 5 years to obtain الإجازة; lists its departments."
+  },
+  {
+    "id": "al-furat-hasakah-agricultural-engineering-faculty-page",
+    "title": "Al-Furat University Faculty of Agricultural Engineering in Hasakah page",
+    "url": "https://alfuratuniv.edu.sy/college.php?id=29&lang=ar",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation"],
+    "notes": "Faculty of Agricultural Engineering in Hasakah of Al-Furat University; department list, no first-degree award statement."
+  },
+  {
+    "id": "al-furat-hasakah-agricultural-engineering-archived-page",
+    "title": "Al-Furat University old site page, Faculty of Agricultural Engineering - Hasakah (Wayback 2010)",
+    "url": "http://web.archive.org/web/20101129041709/http://alfuratuniv.edu.sy:80/uof_collages.php?collage_id=14",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Agricultural Engineering faculty in Hasakah (Decree 284/2006); Al-Furat grants درجة الإجازة العامة في الهندسة الزراعية, 5 years."
+  },
+  {
+    "id": "al-furat-hasakah-law-faculty-page",
+    "title": "Al-Furat University Faculty of Law in Hasakah page",
+    "url": "https://alfuratuniv.edu.sy/college.php?id=19&lang=ar",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "program name", "qualification level"],
+    "notes": "Faculty of Law in Hasakah; programme leading to الإجازة في الحقوق (البكالوريوس)."
+  },
+  {
+    "id": "al-furat-hasakah-science-faculty-archived-page",
+    "title": "Al-Furat University old site page, Faculty of Science - Hasakah (third Faculty of Science) (Wayback 2010)",
+    "url": "http://web.archive.org/web/20101129041724/http://alfuratuniv.edu.sy:80/uof_collages.php?collage_id=17",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "program name", "qualification level"],
+    "notes": "Third Faculty of Science in Hasakah (Decree 336/2009) linked to Al-Furat; mathematics department grants الإجازة في الرياضيات."
+  },
+  {
+    "id": "al-furat-nursing-faculty-page",
+    "title": "Al-Furat University Faculty of Nursing in Deir ez-Zor page",
+    "url": "https://alfuratuniv.edu.sy/college.php?id=20&lang=ar",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "program name", "qualification level"],
+    "notes": "Faculty of Nursing in Deir ez-Zor; 4 years leading to إجازة في التمريض."
+  },
+  {
+    "id": "al-furat-raqqa-financial-institute-archived-page",
+    "title": "Al-Furat University old site page, Financial and Banking Technical Institute - Raqqa (Wayback 2012)",
+    "url": "http://web.archive.org/web/20120128140612/http://www.alfuratuniv.edu.sy/uof_collages.php?collage_id=34",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Financial and banking institute in Raqqa; two years; awards دبلوم تقاني."
+  },
+  {
+    "id": "al-furat-deir-ez-zor-agricultural-institute-archived-page",
+    "title": "Al-Furat University old site page, Agricultural Technical Institute - Deir ez-Zor (Wayback 2012)",
+    "url": "http://web.archive.org/web/20120128104521/http://www.alfuratuniv.edu.sy/uof_collages.php?collage_id=26",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Agricultural technical institute in Deir ez-Zor; two years; awards دبلوم تقاني."
+  },
+  {
+    "id": "al-furat-hasakah-agricultural-institute-archived-page",
+    "title": "Al-Furat University old site page, Agricultural Technical Institute - Hasakah (Wayback 2012)",
+    "url": "http://web.archive.org/web/20120128153751/http://www.alfuratuniv.edu.sy/uof_collages.php?collage_id=35",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Agricultural technical institute in Hasakah (al-Majarja); two years; awards دبلوم تقاني."
+  },
+  {
+    "id": "al-furat-hasakah-veterinary-institute-archived-page",
+    "title": "Al-Furat University old site page, Veterinary Technical Institute - Hasakah (Wayback 2012)",
+    "url": "http://web.archive.org/web/20120128051756/http://www.alfuratuniv.edu.sy/uof_collages.php?collage_id=36",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Veterinary technical institute in Hasakah; two years; awards دبلوم تقاني في الطب البيطري."
+  },
+  {
+    "id": "sana-decree-210-2026-idlib-university-faculties",
+    "title": "SANA: text of Decree 210 of 2026 deeming Idlib University faculties established",
+    "url": "https://sana.sy/presidency/2629196/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Decree 210/2026 adds paragraph (و) to art. 2 of the University Organization Law executive regulations listing Idlib University's faculties and their departments, including the second faculties in Al-Dana."
+  },
+  {
+    "id": "idlib-cs-regulation",
+    "title": "Idlib University Faculty of Informatics Engineering internal regulation",
+    "url": "https://cs.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Art. 3: Idlib University grants 'درجة الإجازة في الهندسة المعلوماتية'; one department (systems and software engineering). Scanned PDF read visually (PDF p. 5)."
+  },
+  {
+    "id": "idlib-ce-regulation",
+    "title": "Idlib University Faculty of Civil Engineering internal regulation",
+    "url": "https://ce.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Chapter 4, art. 5: Idlib University grants 'إجازة في الهندسة المدنية'; art. 6: five study years. Scanned PDF read visually (PDF p. 12)."
+  },
+  {
+    "id": "idlib-arch-regulation",
+    "title": "Idlib University Faculty of Architecture internal regulation",
+    "url": "https://arch.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Art. 6: Idlib University grants 'الإجازة في الهندسة المعمارية'; art. 7: five study years (ten semesters)."
+  },
+  {
+    "id": "idlib-mee-main",
+    "title": "Idlib University Faculty of Mechanical and Electrical Engineering home page",
+    "url": "https://mee.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Mechanical engineering faculty founded 2015, seated in Idlib city, five years, graduates receive a bachelor's in mechanical engineering; departments tab lists general mechanics, mechatronics, power, communications/electronics."
+  },
+  {
+    "id": "idlib-sci-regulation",
+    "title": "Idlib University Faculty of Science internal regulation",
+    "url": "https://sci.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Art. 5: Idlib University council grants the licences in mathematics (pure/applied/tracks), physics, physics and chemistry, pure and applied chemistry, biology tracks; art. 6: four years."
+  },
+  {
+    "id": "idlib-hs-goals",
+    "title": "Idlib University Faculty of Health Sciences page",
+    "url": "https://hs.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Idlib University grants 'درجة الإجازة في العلوم الصحية' in nursing, emergency, laboratory sciences and anaesthesia; four years. Page content served by https://api.idlib.edu.sy (get_page_elements_component_by_page_id p_page_id 489)."
+  },
+  {
+    "id": "idlib-ed-site",
+    "title": "Idlib University Faculty of Education official site",
+    "url": "https://ed.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus"],
+    "notes": "Official site of the (first) Faculty of Education at Idlib University, main campus; lists class teacher, kindergarten and psychological counselling departments at licence stage."
+  },
+  {
+    "id": "idlib-ed-regulation",
+    "title": "Idlib University Faculty of Education internal regulation, posted on the Second Faculty of Education site",
+    "url": "https://ed2.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "'اللائحة الداخلية لكلية التربية في جامعة إدلب', art. 8: licences in education (class teacher, kindergarten, psychological counselling); art. 9: four years."
+  },
+  {
+    "id": "idlib-ps-regulation",
+    "title": "Idlib University Faculty of Political Science internal regulation",
+    "url": "https://ps.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Art. 5: Idlib University grants 'إجازة في العلوم السياسية'; art. 6: four years."
+  },
+  {
+    "id": "idlib-med-site",
+    "title": "Idlib University Faculty of Human Medicine official site (about and news pages)",
+    "url": "https://med.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus"],
+    "notes": "Official faculty site of Idlib University's Faculty of Human Medicine; says the faculty opened in Idlib city in 2016."
+  },
+  {
+    "id": "idlib-med-regulation",
+    "title": "Idlib University Faculty of Human Medicine internal regulation",
+    "url": "https://med.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Art. 4: the university grants 'إجازة دكتور في الطب البشري'; art. 5: study lasts six years. Scanned PDF read visually (PDF pp. 9). Page content served by https://api.idlib.edu.sy (get_page_elements_component_by_page_id p_page_id 478; file via get_file_url)."
+  },
+  {
+    "id": "idlib-dent-about",
+    "title": "Idlib University Faculty of Dentistry overview page",
+    "url": "https://dent.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Faculty located in Idlib city; degree 'إجازة في طب وجراحة الفم والأسنان'; 3 theoretical/lab years plus 2 clinical years. Page content served by https://api.idlib.edu.sy (get_page_elements_component_by_page_id p_page_id 227)."
+  },
+  {
+    "id": "idlib-pharm-degrees",
+    "title": "Idlib University Faculty of Pharmacy page",
+    "url": "https://pharm.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Art. 6: Idlib University grants 'الإجازة في الصيدلة'; art. 7: five study years. Page content served by https://api.idlib.edu.sy (get_page_elements_component_by_page_id p_page_id 289)."
+  },
+  {
+    "id": "al-andalus-human-medicine-award",
+    "title": "Al-Andalus University for Medical Sciences, Faculty of Human Medicine page",
+    "url": "https://au.edu.sy/faculty/1-%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D8%A8-%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The Faculty of Human Medicine (opened 2011-2012) grants the Ijaza in Human Medicine; six years."
+  },
+  {
+    "id": "al-andalus-dentistry-award",
+    "title": "Al-Andalus University for Medical Sciences, Faculty of Dentistry page",
+    "url": "https://au.edu.sy/faculty/2-%D9%83%D9%84%D9%8A%D8%A9-%D8%B7%D8%A8-%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The Faculty of Dentistry (opened 2007-2008) grants the Ijaza in Dentistry; five years."
+  },
+  {
+    "id": "al-shahba-study-system",
+    "title": "Al-Shahba Private University study system page",
+    "url": "https://www.su.edu.sy/stu3",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Faculty study plans lead to the Ijaza; duration to obtain the Ijaza in five-year medical faculties is ten semesters."
+  },
+  {
+    "id": "al-sham-private-university-faculty-menu",
+    "title": "Al-Sham Private University site menu, faculties by campus",
+    "url": "https://aspu.edu.sy/site/arabic/index.php",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus"],
+    "notes": "Faculties menu by campus: Damascus-Al-Tall (Human Medicine, Pharmacy, Informatics Eng., IR, Law, Admin.), Damascus-Al-Mazraa (Dentistry), Latakia-Al-Sulaybah (Dentistry, Pharmacy, Law, Admin.); no tourism faculty listed."
+  },
+  {
+    "id": "al-sham-private-university-study-system",
+    "title": "Al-Sham Private University study system page",
+    "url": "https://aspu.edu.sy/site/arabic/index.php?node=55173&cat=14972&",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The graduation degree is called the Ijaza (bachelor's); the Ijaza takes six years in the Faculty of Human Medicine and five in Dentistry."
+  },
+  {
+    "id": "antioch-dentistry-first-degree",
+    "title": "Antioch Syrian Private University, Faculty of Dentistry page",
+    "url": "https://asu.edu.sy/ar/dentistry",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Faculty table: Dentistry, opened 2025, degree awarded bachelor's, 5 years; address Maarat Saidnaya."
+  },
+  {
+    "id": "cordoba-official-faculty-list",
+    "title": "Cordoba Private University homepage, faculties by branch",
+    "url": "https://www.cpu.edu.sy/home",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus"],
+    "notes": "Faculties by branch: Engineering (Qamishli, Aleppo), Admin. and Financial Sciences (Qamishli, Aleppo), Languages and Humanities (Aleppo), Dentistry (Aleppo), Architecture (Aleppo), Civil Engineering (Qamishli). No education faculty listed."
+  },
+  {
+    "id": "iusr-dentistry-award",
+    "title": "International University for Science and Renaissance, Faculty of Dentistry pass and graduation conditions",
+    "url": "https://iusr.edu.sy/%d9%83%d9%84%d9%8a%d8%a9-%d8%b7%d8%a8-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86/%d8%b4%d8%b1%d9%88%d8%b7-%d8%a7%d9%84%d9%86%d8%ac%d8%a7%d8%ad-%d9%88%d8%a7%d9%84%d8%aa%d8%ae%d8%b1%d8%ac/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The Ijaza certificate in Dentistry is granted on completing the study plan."
+  },
+  {
+    "id": "iusr-medical-laboratory-institute-award",
+    "title": "IUSR Medical Technical Institute (laboratory) pass and graduation conditions",
+    "url": "https://iusr.edu.sy/%d8%a7%d9%84%d9%85%d8%b9%d9%87%d8%af-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a-%d9%85%d8%ae%d8%a8%d8%b1%d9%8a/%d8%b4%d8%b1%d9%88%d8%b7-%d8%a7%d9%84%d9%86%d8%ac%d8%a7%d8%ad-%d9%88%d8%a7%d9%84%d8%aa%d8%ae%d8%b1%d8%ac/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Grants the medical technical diploma, laboratory specialisation."
+  },
+  {
+    "id": "iusr-nursing-institute-award",
+    "title": "IUSR Medical Technical Institute (nursing) pass and graduation conditions",
+    "url": "https://iusr.edu.sy/%d8%a7%d9%84%d9%85%d8%b9%d9%87%d8%af-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a-%d8%aa%d9%85%d8%b1%d9%8a%d8%b6/%d8%b4%d8%b1%d9%88%d8%b7-%d8%a7%d9%84%d9%86%d8%ac%d8%a7%d8%ad-%d9%88%d8%a7%d9%84%d8%aa%d8%ae%d8%b1%d8%ac/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Grants the medical technical diploma, nursing specialisation."
+  },
+  {
+    "id": "mari-dentistry-award",
+    "title": "Mari Private University, Faculty of Dentistry page",
+    "url": "https://mari.edu.sy/faculties/faculty-of-dentistry",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Degree awarded: Bachelor of Dental Medicine and Surgery, 193 credit hours."
+  },
+  {
+    "id": "qasyoun-dentistry-award",
+    "title": "Qasyoun Private University, Faculty of Dentistry page",
+    "url": "https://qpu.edu.sy/faculties/dentistry",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Certificate awarded: Ijaza in Dentistry (Doctor of Dental Surgery - DDS)."
+  },
+  {
+    "id": "spu-study-system",
+    "title": "Syrian Private University study system page",
+    "url": "http://www.spu.edu.sy/index.php?page=show&ex=2&dir=items&lang=1&ser=1&cat_id=45&act=45&",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Maximum enrolment to obtain the Ijaza: nine years in the Faculty of Medicine (six-year programme), eight in Dentistry, Pharmacy and Engineering (five-year)."
+  },
+  {
+    "id": "yarmouk-dentistry-award",
+    "title": "Yarmouk Private University, Faculty of Dentistry page (Arabic)",
+    "url": "https://ypu.edu.sy/ar_SY/faculty-of-dentistry",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Five-year programme (ten semesters) leading to the bachelor's degree in dental surgery, 188 credit hours."
+  },
+  {
+    "id": "latakia-surveying-faculty-page",
+    "title": "University of Latakia Faculty of Surveying and Geomatics Engineering page",
+    "url": "https://latakia-univ.edu.sy/ar/Faculty/Index/5492",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Lists the Faculty of Surveying and Geomatics Engineering and its departments on the university site."
+  },
+  {
+    "id": "latakia-surveying-and-geomatics-official-gazette-2023",
+    "title": "Official Gazette 2023 issue 48 part 1: internal regulation of the Faculty of Surveying and Geomatics Engineering, Tishreen University (decision 108 of 19/11/2023)",
+    "url": "https://odd.syria-report.com/wp-content/uploads/2021/03/2023-12-06-Issue48-Part1.pdf",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Art. 8: Tishreen University grants the licence in surveying and geomatics engineering on the faculty council's proposal; art. 9: five study years. PDF pp. 13-20; quotes read from the rendered PDF p. 16."
+  },
+  {
+    "id": "idlib-agricultural-engineering-regulation",
+    "title": "Idlib University Faculty of Agricultural Engineering internal regulation",
+    "url": "https://agri.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Chapter 4, art. 4: Idlib University grants, on the faculty council's proposal, the general licence in agricultural engineering (plus master's and doctorate); art. 5: five study years. Scanned PDF read visually (PDF p. 36, printed p. 35 of 37)."
+  },
+  {
+    "id": "damascus-arch-about-wayback-2024",
+    "title": "Damascus University Faculty of Architecture: about the faculty",
+    "url": "https://web.archive.org/web/20240605154322/https://www.damascusuniversity.edu.sy/arch/index.php?lang=1&set=3&id=321",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2024-06-05. Faculty of Architecture lists its departments and certificates; first is 'الإجازة في الهندسة المعمارية'."
+  },
+  {
+    "id": "damascus-fmee-degrees-wayback-2025",
+    "title": "Damascus University Faculty of Mechanical and Electrical Engineering: degrees and study length",
+    "url": "https://web.archive.org/web/20250331022410/https://www.damascusuniversity.edu.sy/fmee/index.php?lang=1&set=3&id=404",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2025-03-31. University grants, on the faculty's proposal, 14 ijaza degrees (mechanical tracks, electrical tracks, biomedical, textile, media engineering); ijaza study length five years."
+  },
+  {
+    "id": "damascus-eco-certificates-wayback-2026",
+    "title": "Damascus University Faculty of Economics: certificates granted by the faculty",
+    "url": "https://web.archive.org/web/20260105083013/https://www.damascusuniversity.edu.sy/eco/index.php?id=417&lang=1&set=3",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2026-01-05. University grants 'إجازة في الاقتصاد' by specialisation (economics, accounting, business administration, applied statistics, banking and insurance)."
+  },
+  {
+    "id": "damascus-eco2-about-wayback-2025",
+    "title": "Damascus University Second Faculty of Economics (Daraa): about the faculty",
+    "url": "https://web.archive.org/web/20251008024722/https://www.damascusuniversity.edu.sy/eco2/?lang=1&set=3&id=321",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Snapshot 2025-10-08. Second Faculty of Economics founded 2005, four-year study; grants 'درجة الإجازة في الاقتصاد' in accounting and banking."
+  },
+  {
+    "id": "damascus-sci-regulation-wayback-2025",
+    "title": "Damascus University Faculty of Science: internal regulation (degrees and study length)",
+    "url": "https://web.archive.org/web/20251007113930/https://www.damascusuniversity.edu.sy/sci/?lang=1&set=3&id=324",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "campus",
+      "program name",
+      "qualification level",
+      "university affiliation"
+    ],
+    "notes": "Snapshot 2025-10-07. Article 5: university grants ijazas in chemistry, mathematics, biology, geology, mathematical statistics, physics and environmental sciences; article 6: four years."
+  },
+  {
+    "id": "damascus-edu-about-wayback-2022",
+    "title": "Damascus University Faculty of Education: about the faculty",
+    "url": "https://web.archive.org/web/20221104045759/http://damascusuniversity.edu.sy/edu/index.php?lang=1&set=3&id=321",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2022-11-04. Faculty has five ijaza-level specialisations: class teacher, kindergarten, special education, curricula (four years) and psychology, psychological counselling (five years); study-plan menu names each 'الإجازة في ...'."
+  },
+  {
+    "id": "damascus-law-degrees-wayback-2022",
+    "title": "Damascus University Faculty of Law: degrees granted by the faculty",
+    "url": "https://web.archive.org/web/20220812160730/http://damascusuniversity.edu.sy/law/index.php?lang=1&set=3&id=459",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2022-08-12. University grants 'الإجازة في الحقوق' and the open-learning legal-studies ijaza."
+  },
+  {
+    "id": "damascus-edu3-about-wayback-2025",
+    "title": "Damascus University Third Faculty of Education (Daraa): about the faculty",
+    "url": "https://web.archive.org/web/20251007115712/https://www.damascusuniversity.edu.sy/edu3/?lang=1&set=3&id=321",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Snapshot 2025-10-07. Third Faculty of Education in Daraa grants 'الإجازة بالتربية' in class teacher and psychological counselling."
+  },
+  {
+    "id": "damascus-med-degrees-wayback-2023",
+    "title": "Damascus University Faculty of Human Medicine: degrees granted by the faculty",
+    "url": "https://web.archive.org/web/20231209030954/https://www.damascusuniversity.edu.sy/med/?lang=1&set=3&id=731",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2023-12-09. Faculty site 'كلية الطب البشري - جامعة دمشق' page 'الدرجات العلمية التي تمنحها كلية الطب البشري' lists 'إجازة دكتور في الطب البشري'."
+  },
+  {
+    "id": "damascus-dent-degrees-wayback-2023",
+    "title": "Damascus University Faculty of Dentistry: degrees granted by the faculty",
+    "url": "https://web.archive.org/web/20230424065140/http://damascusuniversity.edu.sy/dent/index.php?lang=1&set=3&id=479",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2023-04-24. Faculty site 'كلية طب الأسنان - جامعة دمشق' page 'الدرجات العلمية التي تمنحها الكلية' lists اجازة, دبلوم, تأهيل, ماجستير, دكتوراه."
+  },
+  {
+    "id": "damascus-pharm-about-wayback-2025",
+    "title": "Damascus University Faculty of Pharmacy: about the faculty (degrees and study length)",
+    "url": "https://web.archive.org/web/20251208164605/https://www.damascusuniversity.edu.sy/pharm/index.php?lang=1&set=3&id=256",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2025-12-08. Faculty of Pharmacy grants 'الإجازة في الصيدلة والكيمياء الصيدلية' after five years of study."
+  },
+  {
+    "id": "aleppo-architecture-faculty-about-wayback-2011",
+    "title": "University of Aleppo Faculty of Architecture site: about the faculty",
+    "url": "https://web.archive.org/web/20110215004855/http://www.alepuniv.edu.sy/arch/index.jsp?inc=12&id=2&lang=ar&type=1",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2011-02-15. Faculty of Architecture (opened 1983) of the University of Aleppo; study for 'درجة الإجازة في الهندسة المعمارية' lasts five years."
+  },
+  {
+    "id": "aleppo-electrical-faculty-api-wayback-2020",
+    "title": "University of Aleppo Faculty of Electrical and Electronic Engineering record (official site API)",
+    "url": "https://web.archive.org/web/20200724202219/https://alepuniv.edu.sy/api/faculties/faculty-of-electrical-and-electronic-engineering",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus"],
+    "notes": "Snapshot 2020-07-24. Faculty record with departments incl. electronics, communications, computers, control and automation, mechatronics, power systems, electrical drives."
+  },
+  {
+    "id": "aleppo-electrical-faculty-degrees-wayback-2010",
+    "title": "University of Aleppo Faculty of Electrical and Electronic Engineering site: certificates granted",
+    "url": "https://web.archive.org/web/20100212020633/http://www.alepuniv.edu.sy:80/eef/index.jsp?inc=10&lang=ar&cid=1",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Snapshot 2010-02-12. Old faculty site (2010) lists the ijazas granted: electronic engineering (electronic systems, medical electronics, nuclear electronics, communications, computers, control and automation, mechatronics) and electrical engineering (power systems, electrical drives)."
+  },
+  {
+    "id": "aleppo-mechanical-faculty-api-wayback-2022",
+    "title": "University of Aleppo Faculty of Mechanical Engineering record (official site API)",
+    "url": "https://web.archive.org/web/20220312094428/https://alepuniv.edu.sy/api/faculties/faculty-of-mechanics",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus"],
+    "notes": "Snapshot 2022-03-12. Faculty record lists ten departments incl. textile, mechanical energy, agricultural machinery, materials, nuclear, production, aeronautics, industrial."
+  },
+  {
+    "id": "aleppo-mechanical-faculty-degrees-wayback-2011",
+    "title": "University of Aleppo Faculty of Mechanical Engineering site: degrees and study length",
+    "url": "https://web.archive.org/web/20111222083827/http://www.alepuniv.edu.sy/mef/index.jsp?inc=12&id=1136&lang=ar&type=8",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Snapshot 2011-12-22. Five-year study leading to 'درجة الإجازة في الهندسة الميكانيكية' in mechanical power, design and production, and agricultural machinery (list as of 2011)."
+  },
+  {
+    "id": "aleppo-technical-engineering-faculty-print-wayback-2017",
+    "title": "University of Aleppo Faculty of Technical Engineering page (print view)",
+    "url": "https://web.archive.org/web/20170708115348/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2017-07-08. Faculty of Technical Engineering (Decree 380 of 2002); 'درجة الإجازة في الهندسة التقنية' takes five years; environmental and food technology departments described."
+  },
+  {
+    "id": "aleppo-agriculture-faculty-print-wayback-2017",
+    "title": "University of Aleppo Faculty of Agriculture page (print view)",
+    "url": "https://web.archive.org/web/20170710124928/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2017-07-10. Faculty of Agriculture (est. 1960) grants 'الإجازة العامة في الهندسة الزراعية' in five years."
+  },
+  {
+    "id": "aleppo-economics-faculty-print-wayback-2017",
+    "title": "University of Aleppo Faculty of Economics page (print view)",
+    "url": "https://web.archive.org/web/20170712020002/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2017-07-12. University council grants 'الإجازة في الاقتصاد' in six specialisations; ijaza study length four years."
+  },
+  {
+    "id": "aleppo-nursing-faculty-degrees-wayback-2011",
+    "title": "University of Aleppo Faculty of Nursing site: degrees granted",
+    "url": "https://web.archive.org/web/20111222043601/http://www.alepuniv.edu.sy/nuf/index.jsp?inc=12&id=1965&lang=ar&type=8",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2011-12-22. Degrees granted by the Faculty of Nursing at the University of Aleppo: first 'درجة الإجازة في التمريض'."
+  },
+  {
+    "id": "aleppo-arts-faculty-print-wayback-2017",
+    "title": "University of Aleppo Faculty of Arts and Humanities page (print view)",
+    "url": "https://web.archive.org/web/20170712235059/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%A2%D8%AF%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86%D9%8A%D8%A9",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2017-07-12. Four-year study leading to 'درجة الإجازة في الآداب' in Arabic, English, French, Turkish, Persian, geography, history, archaeology and philosophical and social studies."
+  },
+  {
+    "id": "aleppo-law-faculty-print-wayback-2017",
+    "title": "University of Aleppo Faculty of Law page (print view)",
+    "url": "https://web.archive.org/web/20170617001510/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AD%D9%82%D9%88%D9%82",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2017-06-17. Faculty of Law grants 'إجازة في الحقوق' (regular) and the legal-studies programme ijaza."
+  },
+  {
+    "id": "aleppo-education-faculty-print-wayback-2017",
+    "title": "University of Aleppo Faculty of Education page (print view)",
+    "url": "https://web.archive.org/web/20170713131246/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2017-07-13. Faculty of Education (est. 1997) teaches the ijaza in class teacher, psychological counselling and education (curricula and educational technology; administration and planning)."
+  },
+  {
+    "id": "aleppo-engineering-technical-institute-wayback-2014",
+    "title": "University of Aleppo Engineering Technical Institute page",
+    "url": "https://web.archive.org/web/20140816224452/http://www.alepuniv.edu.sy/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%85%D8%B9%D8%A7%D9%87%D8%AF-%D8%AA%D9%82%D8%A7%D9%86%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D9%8A",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Snapshot 2014-08-16. Engineering institute in Aleppo (Decree 2603 of 1970), part of the University of Aleppo; certificate renamed 'دبلوم تقاني' from 2007-2008; specialisations: drafting, general construction, surveying, sanitary engineering and treatment plants."
+  },
+  {
+    "id": "aleppo-dental-technical-institute-api-wayback-2024",
+    "title": "University of Aleppo Technical Institute of Dentistry record (official site API)",
+    "url": "https://web.archive.org/web/20240828134434/https://alepuniv.edu.sy/api/faculties/technical-institute-of-dentistry",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Snapshot 2024-08-28. Dental institute in Aleppo (Ministry decision 1401 of 1987) grants 'دبلوم تقاني' in dentistry; departments: dental prosthetics, dental health assistance."
+  },
+  {
+    "id": "aleppo-financial-banking-institute-api-wayback-2024",
+    "title": "University of Aleppo Technical Institute of Financial and Banking Sciences record (official site API)",
+    "url": "https://web.archive.org/web/20241210201217/https://alepuniv.edu.sy/api/faculties/technical-institute-of-financial-and-banking-sciences",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Snapshot 2024-12-10. Institute grants 'دبلوم تقاني' in economics: accounting, administration, financial markets, insurance, banking."
+  },
+  {
+    "id": "aleppo-medical-technical-institute-api-wayback-2024",
+    "title": "University of Aleppo Medical Technical Institute record (official site API)",
+    "url": "https://web.archive.org/web/20241210201213/https://alepuniv.edu.sy/api/faculties/medical-technology-institute",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Snapshot 2024-12-10. Medical institute of the University of Aleppo (Decree 697 of 1970), at least two years of study, grants 'دبلوم تقاني'; departments: laboratories, physiotherapy, anaesthesia, radiography, audiology and speech, emergency medicine, pharmacy, nursing."
+  },
+  {
+    "id": "aleppo-medicine-faculty-api-wayback-2025",
+    "title": "University of Aleppo Faculty of Human Medicine page data (Wayback snapshot of official site API, 2025-07-09)",
+    "url": "https://web.archive.org/web/20250709121908/https://alepuniv.edu.sy/api/faculties/college-of-human-medicine",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus"],
+    "notes": "Official faculty record 'كلية الطب البشري' with mission, objectives and 19 departments; names the faculty as 'كلية الطب – جامعة حلب'; no explicit first-degree award statement."
+  },
+  {
+    "id": "aleppo-medicine-faculty-print-wayback-2017",
+    "title": "University of Aleppo Faculty of Medicine page (print view)",
+    "url": "https://web.archive.org/web/20170613165421/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA-%D8%B7%D8%A8%D9%8A%D8%A9/%D8%A7%D9%84%D8%B7%D8%A8",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Snapshot 2017-06-13. Faculty of Medicine at the University of Aleppo (established 1965); study for 'درجة إجازة دكتور في الطب' lasts six years."
+  },
+  {
+    "id": "mohe-higher-education-council-decision-31-private-universities",
+    "title": "Higher Education Council Decision 31, rules for the academic accreditation of private universities (Ministry of Higher Education, 2008)",
+    "url": "https://jude.edu.sy/storage/jpunews/October2024/hqkmQfOiKhFtxDy8D9Ex.pdf",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "qualification level"],
+    "notes": "Adopted by the Higher Education Council on 26 November 2007 and published by the Ministry in 2008; this copy is hosted on Al-Jazeera Private University’s site (SHA-256 502995b98e493903013ac25ff545715d4315dd566f04b0aeb5d74f719d9078d2). Article 49 caps enrolment for the first degree (درجة الإجازة) at nine years in faculties of medicine and eight in faculties of dentistry at private universities. Used with the 2026–2027 Ministry row that names the university and campus as award evidence for private Human Medicine and Dentistry first degrees."
   }
 ]

@@ -181,3 +181,27 @@ faculty-specific qualification profiles establish the first degrees.
 Grouped Informatics intakes retain one offering per campus. The two Homs
 tracks retain separate offerings under the same field of study.
 [Second city-grouped review](post-seed/PUBLIC_CITY_PROGRAMS_2026_2027.md#second-review-of-the-scientific-table)
+
+The third city-grouped pass, batch 3 of the program plan, assigns rows to
+public universities. Use each university's own faculty and institute
+pages, internal regulations, study plans and guides, its published degree
+lists, establishment decrees such as Decree 210 of 2026, article 2 of the
+Decree 250 executive regulations, Higher Education Council decisions and
+announcement 5 for the university, teaching city and award. When a current
+page names no award, an Internet Archive copy of the university's own page
+is approved for the facts it shows and is cited by its snapshot URL.
+Human Medicine, Dentistry and Pharmacy are recorded from university
+sources without a Ministry row, because entry is through the common
+preparatory year. Directories and third-party profiles are not used.
+[Third city-grouped review](post-seed/PUBLIC_CITY_PROGRAMS_2026_2027.md#third-review-university-assignments)
+
+The same batch resolves named private candidates. Use the university's
+faculty or study-system page for the professional first degree in Human
+Medicine or Dentistry, which is recorded at the bachelor level by owner
+decision. When the university names no award, Higher Education Council
+Decision 31 (adopted 26 November 2007, published 2008), article 49, is
+approved as the award evidence for these first degrees, combined with the
+2026–2027 Ministry row that names the university and campus. The owner
+accepted this basis on 13 November 2026. Decision 31 covers the award only;
+a row whose campus is unconfirmed stays pending.
+[Pending register](post-seed/PENDING_NAMED_PROGRAMS_2026_2027.md)

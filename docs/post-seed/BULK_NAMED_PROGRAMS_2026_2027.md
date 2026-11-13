@@ -641,7 +641,7 @@ qualifications.
 | Qamishli | Agricultural mechanization: agricultural machinery. |
 | Raqqa | Computing: computer engineering. Finance: accounting and banking. Agriculture: field crops. Modern Irrigation: modern irrigation. Veterinary: general prevention and reproductive care and artificial insemination. |
 
-[Ministry technical education list](https://mohe.gov.sy/img/uploads1/news_pdf_20260930155934_651_0.pdf) ·
+[Ministry technical education list](https://mohe.gov.sy/img/uploads1/news_pdf_20260930160241_651_0.pdf) ·
 [Al-Furat Institutes Directorate](https://alfuratuniv.edu.sy/directorate-of-institutes.php) ·
 [Raqqa Modern Irrigation update](https://furat.alwehda.gov.sy/?p=207122)
 
@@ -675,7 +675,7 @@ existing programmes in the table below. The other 135 candidates stay in the
   Damascus according to announcement 5.
   [Damascus Fine Arts](https://al-raaei.com/en/node/938) ·
   [As-Suwayda Fine Arts](https://www.al-raaei.com/en/node/962) ·
-  [Ministry technical education list](https://mohe.gov.sy/img/uploads1/news_pdf_20260930155934_651_0.pdf)
+  [Ministry technical education list](https://mohe.gov.sy/img/uploads1/news_pdf_20260930160241_651_0.pdf)
 - Başakşehir's health faculty and institute have overlapping subjects.
   The four verified faculty first degrees are separate from the pending
   institute credentials. The administrative faculty rows at Al-Wataniya
