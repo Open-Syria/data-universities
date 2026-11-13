@@ -3348,5 +3348,110 @@
     "status": "approved",
     "fields": ["academic unit", "campus", "program name", "qualification level"],
     "notes": "Chapter 4, art. 4: Idlib University grants, on the faculty council's proposal, the general licence in agricultural engineering (plus master's and doctorate); art. 5: five study years. Scanned PDF read visually (PDF p. 36, printed p. 35 of 37)."
+  },
+  {
+    "id": "damascus-arch-about-wayback-2024",
+    "title": "Damascus University Faculty of Architecture: about the faculty",
+    "url": "https://web.archive.org/web/20240605154322/https://www.damascusuniversity.edu.sy/arch/index.php?lang=1&set=3&id=321",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2024-06-05. Faculty of Architecture lists its departments and certificates; first is 'الإجازة في الهندسة المعمارية'."
+  },
+  {
+    "id": "damascus-fmee-degrees-wayback-2025",
+    "title": "Damascus University Faculty of Mechanical and Electrical Engineering: degrees and study length",
+    "url": "https://web.archive.org/web/20250331022410/https://www.damascusuniversity.edu.sy/fmee/index.php?lang=1&set=3&id=404",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2025-03-31. University grants, on the faculty's proposal, 14 ijaza degrees (mechanical tracks, electrical tracks, biomedical, textile, media engineering); ijaza study length five years."
+  },
+  {
+    "id": "damascus-eco-certificates-wayback-2026",
+    "title": "Damascus University Faculty of Economics: certificates granted by the faculty",
+    "url": "https://web.archive.org/web/20260105083013/https://www.damascusuniversity.edu.sy/eco/index.php?id=417&lang=1&set=3",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2026-01-05. University grants 'إجازة في الاقتصاد' by specialisation (economics, accounting, business administration, applied statistics, banking and insurance)."
+  },
+  {
+    "id": "damascus-eco2-about-wayback-2025",
+    "title": "Damascus University Second Faculty of Economics (Daraa): about the faculty",
+    "url": "https://web.archive.org/web/20251008024722/https://www.damascusuniversity.edu.sy/eco2/?lang=1&set=3&id=321",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Snapshot 2025-10-08. Second Faculty of Economics founded 2005, four-year study; grants 'درجة الإجازة في الاقتصاد' in accounting and banking."
+  },
+  {
+    "id": "damascus-sci-regulation-wayback-2025",
+    "title": "Damascus University Faculty of Science: internal regulation (degrees and study length)",
+    "url": "https://web.archive.org/web/20251007113930/https://www.damascusuniversity.edu.sy/sci/?lang=1&set=3&id=324",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "campus",
+      "program name",
+      "qualification level",
+      "university affiliation"
+    ],
+    "notes": "Snapshot 2025-10-07. Article 5: university grants ijazas in chemistry, mathematics, biology, geology, mathematical statistics, physics and environmental sciences; article 6: four years."
+  },
+  {
+    "id": "damascus-edu-about-wayback-2022",
+    "title": "Damascus University Faculty of Education: about the faculty",
+    "url": "https://web.archive.org/web/20221104045759/http://damascusuniversity.edu.sy/edu/index.php?lang=1&set=3&id=321",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2022-11-04. Faculty has five ijaza-level specialisations: class teacher, kindergarten, special education, curricula (four years) and psychology, psychological counselling (five years); study-plan menu names each 'الإجازة في ...'."
+  },
+  {
+    "id": "damascus-law-degrees-wayback-2022",
+    "title": "Damascus University Faculty of Law: degrees granted by the faculty",
+    "url": "https://web.archive.org/web/20220812160730/http://damascusuniversity.edu.sy/law/index.php?lang=1&set=3&id=459",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2022-08-12. University grants 'الإجازة في الحقوق' and the open-learning legal-studies ijaza."
+  },
+  {
+    "id": "damascus-edu3-about-wayback-2025",
+    "title": "Damascus University Third Faculty of Education (Daraa): about the faculty",
+    "url": "https://web.archive.org/web/20251007115712/https://www.damascusuniversity.edu.sy/edu3/?lang=1&set=3&id=321",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Snapshot 2025-10-07. Third Faculty of Education in Daraa grants 'الإجازة بالتربية' in class teacher and psychological counselling."
+  },
+  {
+    "id": "damascus-med-degrees-wayback-2023",
+    "title": "Damascus University Faculty of Human Medicine: degrees granted by the faculty",
+    "url": "https://web.archive.org/web/20231209030954/https://www.damascusuniversity.edu.sy/med/?lang=1&set=3&id=731",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2023-12-09. Faculty site 'كلية الطب البشري - جامعة دمشق' page 'الدرجات العلمية التي تمنحها كلية الطب البشري' lists 'إجازة دكتور في الطب البشري'."
+  },
+  {
+    "id": "damascus-dent-degrees-wayback-2023",
+    "title": "Damascus University Faculty of Dentistry: degrees granted by the faculty",
+    "url": "https://web.archive.org/web/20230424065140/http://damascusuniversity.edu.sy/dent/index.php?lang=1&set=3&id=479",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2023-04-24. Faculty site 'كلية طب الأسنان - جامعة دمشق' page 'الدرجات العلمية التي تمنحها الكلية' lists اجازة, دبلوم, تأهيل, ماجستير, دكتوراه."
+  },
+  {
+    "id": "damascus-pharm-about-wayback-2025",
+    "title": "Damascus University Faculty of Pharmacy: about the faculty (degrees and study length)",
+    "url": "https://web.archive.org/web/20251208164605/https://www.damascusuniversity.edu.sy/pharm/index.php?lang=1&set=3&id=256",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2025-12-08. Faculty of Pharmacy grants 'الإجازة في الصيدلة والكيمياء الصيدلية' after five years of study."
   }
 ]
