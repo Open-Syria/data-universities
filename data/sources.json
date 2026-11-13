@@ -2598,5 +2598,146 @@
       "university affiliation"
     ],
     "notes": "Lists the technical diplomas (دبلوم تقاني) granted by the Homs University computer, Badia and desertification, dental, agricultural and engineering institutes."
+  },
+  {
+    "id": "latakia-medicine-faculty-page",
+    "title": "University of Latakia Faculty of Human Medicine page",
+    "url": "https://latakia-univ.edu.sy/ar/Faculty/Index/92",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation"],
+    "notes": "Faculty of Medicine of the University of Latakia, founded 1974."
+  },
+  {
+    "id": "latakia-medicine-internal-regulations",
+    "title": "Internal regulations of the Faculty of Medicine, Tishreen University (Latakia)",
+    "url": "https://latakia-univ.edu.sy/uploads/f4751d7e-375d-4bcd-9e62-aadad0b50f4a.pdf",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Art. 7: the university grants the degree of licence doctor of medicine (MD); study lasts six years; letterhead Tishreen University Faculty of Medicine, Syria - Latakia."
+  },
+  {
+    "id": "latakia-dentistry-faculty-page",
+    "title": "University of Latakia Faculty of Dentistry page",
+    "url": "https://latakia-univ.edu.sy/ar/Faculty/Index/98",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation"],
+    "notes": "Faculty of Dentistry of the University of Latakia; department list."
+  },
+  {
+    "id": "latakia-dentistry-undergraduate-plan",
+    "title": "Undergraduate study plan, licence programme in dentistry, University of Latakia",
+    "url": "https://latakia-univ.edu.sy/uploads/a9c48d83-7228-494b-a687-1d1d38c044b9.pdf",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Degree awarded by the university: licence in dentistry (bachelor); duration 5 years."
+  },
+  {
+    "id": "latakia-pharmacy-faculty-page",
+    "title": "University of Latakia Faculty of Pharmacy page",
+    "url": "https://latakia-univ.edu.sy/ar/Faculty/Index/1213",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Faculty of Pharmacy of the University of Latakia (founded 1991) offers a programme leading to the licence in pharmacy and pharmaceutical chemistry."
+  },
+  {
+    "id": "latakia-mech-elec-faculty-page",
+    "title": "University of Latakia Faculty of Mechanical and Electrical Engineering page",
+    "url": "https://latakia-univ.edu.sy/ar/Faculty/Index/81",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Faculty established by decree 2259 of 1980 at the University of Latakia; departments: marine, computers and automatic control, electrical power, mechatronics, biomedical, communications and electronics, mechanical power, design and production."
+  },
+  {
+    "id": "latakia-comms-eng-module-handbook",
+    "title": "Course Structure and Module Handbook, Bachelor Electronics and Communications Engineering (English)",
+    "url": "https://latakia-univ.edu.sy/uploads/c42b3596-d2b9-4fab-8c71-233e0b075091.pdf",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Handbook of the Electronics and Communications Engineering Dept., Faculty of Mechanical and Electrical Engineering, Tishreen University, for the Bachelor programme; plan runs 1st to 5th year."
+  },
+  {
+    "id": "latakia-science-faculty-page",
+    "title": "University of Latakia Faculty of Science page",
+    "url": "https://latakia-univ.edu.sy/ar/Faculty/Index/100",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Faculty of Science of the University of Latakia."
+  },
+  {
+    "id": "latakia-science-internal-regulations",
+    "title": "Internal regulations of the Faculty of Science, Tishreen University",
+    "url": "https://latakia-univ.edu.sy/uploads/339e217e-b53e-43a1-b62e-fee4c710ae69.pdf",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Art. 3: the university grants the licence in mathematics, physics, chemistry, biology, geology and mathematical statistics; Art. 4: licence takes four years."
+  },
+  {
+    "id": "latakia-nursing-faculty-page",
+    "title": "University of Latakia Faculty of Nursing page",
+    "url": "https://latakia-univ.edu.sy/ar/Faculty/Index/105",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Faculty of Nursing of the University of Latakia, established 1994."
+  },
+  {
+    "id": "latakia-nursing-guide",
+    "title": "Faculty of Nursing guide (departments), Tishreen University",
+    "url": "https://latakia-univ.edu.sy/uploads/e487d268-1b5b-48f4-b4c3-0155f78eaef2.pdf",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Tishreen University grants, on the proposal of the Faculty of Nursing, the licence in nursing."
+  },
+  {
+    "id": "latakia-arts-faculty-page",
+    "title": "University of Latakia Faculty of Arts and Humanities page",
+    "url": "https://latakia-univ.edu.sy/ar/Faculty/Index/104",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Faculty of Arts and Humanities is one of the faculties of the University of Latakia; department list."
+  },
+  {
+    "id": "latakia-sociology-programme-page",
+    "title": "University of Latakia sociology department programme description",
+    "url": "https://latakia-univ.edu.sy/ar/FacultyDepartments/Index/4234",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Sociology programme: four years; qualification: licence in arts and humanities - sociology."
+  },
+  {
+    "id": "latakia-library-programme-page",
+    "title": "University of Latakia library and information science department programme description",
+    "url": "https://latakia-univ.edu.sy/ar/FacultyDepartments/Index/4248",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Library and information programme: four years; qualification: licence in arts and humanities - libraries and information."
+  },
+  {
+    "id": "latakia-geography-programme-page",
+    "title": "University of Latakia geography department programme description",
+    "url": "https://latakia-univ.edu.sy/ar/FacultyDepartments/Index/4239",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Geography programme: 8 semesters over 4 years; qualification: licence in arts and humanities, geography department."
   }
 ]

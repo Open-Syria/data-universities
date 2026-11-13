@@ -6953,5 +6953,182 @@
       }
     ],
     "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-faculty-of-human-medicine",
+    "universityId": "sy-latakia-university",
+    "name": {
+      "en": "Faculty of Human Medicine",
+      "ar": "كلية الطب البشري"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["latakia-medicine-faculty-page", "latakia-medicine-internal-regulations"],
+    "sourceReferences": [
+      {
+        "sourceId": "latakia-medicine-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/92",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-medicine-internal-regulations",
+        "sourceRecordId": "https://latakia-univ.edu.sy/uploads/f4751d7e-375d-4bcd-9e62-aadad0b50f4a.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-faculty-of-dentistry",
+    "universityId": "sy-latakia-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["latakia-dentistry-faculty-page", "latakia-dentistry-undergraduate-plan"],
+    "sourceReferences": [
+      {
+        "sourceId": "latakia-dentistry-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/98",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-dentistry-undergraduate-plan",
+        "sourceRecordId": "https://latakia-univ.edu.sy/uploads/a9c48d83-7228-494b-a687-1d1d38c044b9.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-faculty-of-pharmacy",
+    "universityId": "sy-latakia-university",
+    "name": {
+      "en": "Faculty of Pharmacy",
+      "ar": "كلية الصيدلة"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["latakia-pharmacy-faculty-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "latakia-pharmacy-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/1213",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-faculty-of-mechanical-and-electrical-engineering",
+    "universityId": "sy-latakia-university",
+    "name": {
+      "en": "Faculty of Mechanical and Electrical Engineering",
+      "ar": "كلية الهندسة الميكانيكية والكهربائية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "latakia-mech-elec-faculty-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r17",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-mech-elec-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/81",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-faculty-of-science",
+    "universityId": "sy-latakia-university",
+    "name": {
+      "en": "Faculty of Science",
+      "ar": "كلية العلوم"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "latakia-science-faculty-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p4:r24",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-science-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/100",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-faculty-of-nursing",
+    "universityId": "sy-latakia-university",
+    "name": {
+      "en": "Faculty of Nursing",
+      "ar": "كلية التمريض"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "latakia-nursing-faculty-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p10:r32",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-nursing-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/105",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-faculty-of-arts-and-humanities",
+    "universityId": "sy-latakia-university",
+    "name": {
+      "en": "Faculty of Arts and Humanities",
+      "ar": "كلية الآداب والعلوم الإنسانية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "latakia-arts-faculty-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p12:r42",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-arts-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/104",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
   }
 ]

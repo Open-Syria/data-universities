@@ -19462,5 +19462,650 @@
       }
     ],
     "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-human-medicine",
+    "universityId": "sy-latakia-university",
+    "facultyId": "sy-latakia-university-faculty-of-human-medicine",
+    "disciplineId": "sy-medicine",
+    "campus": {
+      "locality": {
+        "en": "Latakia",
+        "ar": "اللاذقية"
+      },
+      "governorateSlug": "latakia"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Human Medicine",
+      "ar": "الطب البشري"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["latakia-medicine-faculty-page", "latakia-medicine-internal-regulations"],
+    "sourceReferences": [
+      {
+        "sourceId": "latakia-medicine-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/92",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-medicine-internal-regulations",
+        "sourceRecordId": "https://latakia-univ.edu.sy/uploads/f4751d7e-375d-4bcd-9e62-aadad0b50f4a.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-dentistry",
+    "universityId": "sy-latakia-university",
+    "facultyId": "sy-latakia-university-faculty-of-dentistry",
+    "disciplineId": "sy-dentistry",
+    "campus": {
+      "locality": {
+        "en": "Latakia",
+        "ar": "اللاذقية"
+      },
+      "governorateSlug": "latakia"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Dentistry",
+      "ar": "طب الأسنان"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["latakia-dentistry-faculty-page", "latakia-dentistry-undergraduate-plan"],
+    "sourceReferences": [
+      {
+        "sourceId": "latakia-dentistry-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/98",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-dentistry-undergraduate-plan",
+        "sourceRecordId": "https://latakia-univ.edu.sy/uploads/a9c48d83-7228-494b-a687-1d1d38c044b9.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-pharmacy",
+    "universityId": "sy-latakia-university",
+    "facultyId": "sy-latakia-university-faculty-of-pharmacy",
+    "disciplineId": "sy-pharmacy",
+    "campus": {
+      "locality": {
+        "en": "Latakia",
+        "ar": "اللاذقية"
+      },
+      "governorateSlug": "latakia"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Pharmacy",
+      "ar": "الصيدلة"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["latakia-pharmacy-faculty-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "latakia-pharmacy-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/1213",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-communications-and-electronics-engineering",
+    "universityId": "sy-latakia-university",
+    "facultyId": "sy-latakia-university-faculty-of-mechanical-and-electrical-engineering",
+    "disciplineId": "sy-communications-engineering",
+    "campus": {
+      "locality": {
+        "en": "Latakia",
+        "ar": "اللاذقية"
+      },
+      "governorateSlug": "latakia"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Communications and Electronics Engineering",
+      "ar": "هندسة الاتصالات والإلكترونيات"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "latakia-mech-elec-faculty-page",
+      "latakia-comms-eng-module-handbook"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r17",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-mech-elec-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/81",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-comms-eng-module-handbook",
+        "sourceRecordId": "https://latakia-univ.edu.sy/uploads/c42b3596-d2b9-4fab-8c71-233e0b075091.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-biology",
+    "universityId": "sy-latakia-university",
+    "facultyId": "sy-latakia-university-faculty-of-science",
+    "disciplineId": "sy-biology",
+    "campus": {
+      "locality": {
+        "en": "Latakia",
+        "ar": "اللاذقية"
+      },
+      "governorateSlug": "latakia"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Biology",
+      "ar": "علم الحياة"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "latakia-science-faculty-page",
+      "latakia-science-internal-regulations"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p4:r24",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-science-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/100",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-science-internal-regulations",
+        "sourceRecordId": "https://latakia-univ.edu.sy/uploads/339e217e-b53e-43a1-b62e-fee4c710ae69.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-geology",
+    "universityId": "sy-latakia-university",
+    "facultyId": "sy-latakia-university-faculty-of-science",
+    "disciplineId": "sy-geology",
+    "campus": {
+      "locality": {
+        "en": "Latakia",
+        "ar": "اللاذقية"
+      },
+      "governorateSlug": "latakia"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Geology",
+      "ar": "الجيولوجيا"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "latakia-science-faculty-page",
+      "latakia-science-internal-regulations"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p5:r13",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-science-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/100",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-science-internal-regulations",
+        "sourceRecordId": "https://latakia-univ.edu.sy/uploads/339e217e-b53e-43a1-b62e-fee4c710ae69.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-mathematics",
+    "universityId": "sy-latakia-university",
+    "facultyId": "sy-latakia-university-faculty-of-science",
+    "disciplineId": "sy-mathematics",
+    "campus": {
+      "locality": {
+        "en": "Latakia",
+        "ar": "اللاذقية"
+      },
+      "governorateSlug": "latakia"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Mathematics",
+      "ar": "الرياضيات"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "latakia-science-faculty-page",
+      "latakia-science-internal-regulations"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p6:r7",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-science-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/100",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-science-internal-regulations",
+        "sourceRecordId": "https://latakia-univ.edu.sy/uploads/339e217e-b53e-43a1-b62e-fee4c710ae69.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-physics",
+    "universityId": "sy-latakia-university",
+    "facultyId": "sy-latakia-university-faculty-of-science",
+    "disciplineId": "sy-physics",
+    "campus": {
+      "locality": {
+        "en": "Latakia",
+        "ar": "اللاذقية"
+      },
+      "governorateSlug": "latakia"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Physics",
+      "ar": "الفيزياء"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "latakia-science-faculty-page",
+      "latakia-science-internal-regulations"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p7:r21",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-science-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/100",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-science-internal-regulations",
+        "sourceRecordId": "https://latakia-univ.edu.sy/uploads/339e217e-b53e-43a1-b62e-fee4c710ae69.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-chemistry",
+    "universityId": "sy-latakia-university",
+    "facultyId": "sy-latakia-university-faculty-of-science",
+    "disciplineId": "sy-chemistry",
+    "campus": {
+      "locality": {
+        "en": "Latakia",
+        "ar": "اللاذقية"
+      },
+      "governorateSlug": "latakia"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Chemistry",
+      "ar": "الكيمياء"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "latakia-science-faculty-page",
+      "latakia-science-internal-regulations"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p9:r5",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-science-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/100",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-science-internal-regulations",
+        "sourceRecordId": "https://latakia-univ.edu.sy/uploads/339e217e-b53e-43a1-b62e-fee4c710ae69.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-mathematical-statistics",
+    "universityId": "sy-latakia-university",
+    "facultyId": "sy-latakia-university-faculty-of-science",
+    "disciplineId": "sy-statistics",
+    "campus": {
+      "locality": {
+        "en": "Latakia",
+        "ar": "اللاذقية"
+      },
+      "governorateSlug": "latakia"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Mathematical Statistics",
+      "ar": "الإحصاء الرياضي"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "latakia-science-faculty-page",
+      "latakia-science-internal-regulations"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p10:r9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-science-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/100",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-science-internal-regulations",
+        "sourceRecordId": "https://latakia-univ.edu.sy/uploads/339e217e-b53e-43a1-b62e-fee4c710ae69.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-nursing",
+    "universityId": "sy-latakia-university",
+    "facultyId": "sy-latakia-university-faculty-of-nursing",
+    "disciplineId": "sy-nursing",
+    "campus": {
+      "locality": {
+        "en": "Latakia",
+        "ar": "اللاذقية"
+      },
+      "governorateSlug": "latakia"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Nursing",
+      "ar": "التمريض"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "latakia-nursing-faculty-page",
+      "latakia-nursing-guide"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p10:r32",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-nursing-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/105",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-nursing-guide",
+        "sourceRecordId": "https://latakia-univ.edu.sy/uploads/e487d268-1b5b-48f4-b4c3-0155f78eaef2.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-sociology",
+    "universityId": "sy-latakia-university",
+    "facultyId": "sy-latakia-university-faculty-of-arts-and-humanities",
+    "disciplineId": "sy-sociology",
+    "campus": {
+      "locality": {
+        "en": "Latakia",
+        "ar": "اللاذقية"
+      },
+      "governorateSlug": "latakia"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Sociology",
+      "ar": "علم الاجتماع"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "latakia-arts-faculty-page",
+      "latakia-sociology-programme-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p12:r42",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-arts-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/104",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-sociology-programme-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/FacultyDepartments/Index/4234",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-library-and-information-science",
+    "universityId": "sy-latakia-university",
+    "facultyId": "sy-latakia-university-faculty-of-arts-and-humanities",
+    "disciplineId": "sy-library-and-information-science",
+    "campus": {
+      "locality": {
+        "en": "Latakia",
+        "ar": "اللاذقية"
+      },
+      "governorateSlug": "latakia"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Library and Information Science",
+      "ar": "المكتبات والمعلومات"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "latakia-arts-faculty-page",
+      "latakia-library-programme-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p13:r4",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-arts-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/104",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-library-programme-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/FacultyDepartments/Index/4248",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-geography",
+    "universityId": "sy-latakia-university",
+    "facultyId": "sy-latakia-university-faculty-of-arts-and-humanities",
+    "disciplineId": "sy-geography",
+    "campus": {
+      "locality": {
+        "en": "Latakia",
+        "ar": "اللاذقية"
+      },
+      "governorateSlug": "latakia"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Geography",
+      "ar": "الجغرافية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "latakia-arts-faculty-page",
+      "latakia-geography-programme-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p13:r12",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-arts-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/104",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-geography-programme-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/FacultyDepartments/Index/4239",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
   }
 ]
