@@ -1,8 +1,10 @@
 import path from 'node:path';
 import {
   assetRecordSchema,
+  disciplineRecordSchema,
   ensureAliasQuality,
   ensureAssetQuality,
+  ensureKnownDisciplines,
   ensureKnownFaculties,
   ensureKnownSources,
   ensureKnownUniversities,
@@ -54,6 +56,11 @@ async function loadData(dataDirectory) {
     await readJson(path.join(dataDirectory, 'assets.json')),
     'assets',
   );
+  const disciplines = parseJsonArray(
+    disciplineRecordSchema,
+    await readJson(path.join(dataDirectory, 'disciplines.json')),
+    'disciplines',
+  );
   const faculties = parseJsonArray(
     facultyRecordSchema,
     await readJson(path.join(dataDirectory, 'faculties.json')),
@@ -72,6 +79,7 @@ async function loadData(dataDirectory) {
 
   return {
     assets,
+    disciplines,
     faculties,
     programs,
     rankings,
@@ -83,12 +91,14 @@ async function loadData(dataDirectory) {
 function validateData(data) {
   ensurePublicationTextChecksPass(data, 'data');
   ensureUnique(data.assets, (record) => record.id, 'assets');
+  ensureUnique(data.disciplines, (record) => record.id, 'disciplines');
   ensureUnique(data.faculties, (record) => record.id, 'faculties');
   ensureUnique(data.programs, (record) => record.id, 'programs');
   ensureUnique(data.rankings, (record) => record.id, 'rankings');
   ensureUnique(data.sources, (source) => source.id, 'sources');
   ensureUnique(data.universities, (record) => record.id, 'universities');
   ensureKnownSources(data.assets, data.sources, 'asset');
+  ensureKnownSources(data.disciplines, data.sources, 'discipline');
   ensureKnownSources(data.faculties, data.sources, 'faculty');
   ensureKnownSources(data.programs, data.sources, 'program');
   ensureKnownSources(data.rankings, data.sources, 'ranking');
@@ -98,7 +108,9 @@ function validateData(data) {
   ensureKnownUniversities(data.programs, data.universities, 'program');
   ensureKnownUniversities(data.rankings, data.universities, 'ranking');
   ensureKnownFaculties(data.programs, data.faculties, 'program');
+  ensureKnownDisciplines(data.programs, data.disciplines);
   ensureAssetQuality(data.assets, 'asset');
+  ensureAliasQuality(data.disciplines, 'discipline');
   ensureAliasQuality(data.faculties, 'faculty');
   ensureAliasQuality(data.programs, 'program');
   ensureAliasQuality(data.universities, 'university');
@@ -116,6 +128,7 @@ console.log(
       dataDirectory: path.relative(root, dataDirectory).replaceAll('\\', '/'),
       counts: {
         assets: data.assets.length,
+        disciplines: data.disciplines.length,
         faculties: data.faculties.length,
         programs: data.programs.length,
         rankings: data.rankings.length,

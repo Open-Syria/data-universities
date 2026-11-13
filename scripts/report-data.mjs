@@ -1,6 +1,7 @@
 import path from 'node:path';
 import {
   assetRecordSchema,
+  disciplineRecordSchema,
   facultyRecordSchema,
   parseJsonArray,
   programRecordSchema,
@@ -56,6 +57,11 @@ async function loadData(dataDirectory) {
       assetRecordSchema,
       await readJson(path.join(dataDirectory, 'assets.json')),
       'assets',
+    ),
+    disciplines: parseJsonArray(
+      disciplineRecordSchema,
+      await readJson(path.join(dataDirectory, 'disciplines.json')),
+      'disciplines',
     ),
     faculties: parseJsonArray(
       facultyRecordSchema,
@@ -121,6 +127,9 @@ function summarizePrograms(programs) {
     byOperationalStatus: countBy(programs, (record) => record.operationalStatus),
     bySourceStatus: countBy(programs, (record) => record.sourceStatus),
     linkedToFaculty: programs.filter((record) => Boolean(record.facultyId)).length,
+    linkedToDiscipline: programs.filter((record) => Boolean(record.disciplineId)).length,
+    withCampus: programs.filter((record) => Boolean(record.campus)).length,
+    withAdmissions: programs.filter((record) => Boolean(record.admissions)).length,
     withWebsite: programs.filter((record) => Boolean(record.website)).length,
   };
 }
@@ -150,6 +159,10 @@ console.log(
         byLicense: countBy(data.sources, (source) => source.license),
       },
       assets: summarizeAssets(data.assets),
+      disciplines: {
+        count: data.disciplines.length,
+        byField: countBy(data.disciplines, (record) => record.field),
+      },
       faculties: summarizeFaculties(data.faculties),
       programs: summarizePrograms(data.programs),
       rankings: summarizeRankings(data.rankings),

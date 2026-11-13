@@ -10,7 +10,7 @@ Use `pnpm run report:data` and `pnpm run report:production` for current counts.
 - 57 records have `operationalStatus: "unknown"`.
 - 6 records have no official website.
 - 23 records have no Wikidata identifier.
-- 30 records have no source-backed centroid.
+- 31 records have no source-backed centroid.
 - 0 records have locality/governorate conflicts that need source review.
 - 16 records have reviewed comparison-conflict notes.
 
@@ -22,9 +22,17 @@ structured governorate/locality conflicts:
 
 | ID | Name | Reviewed governorate | Reviewed locality | Notes |
 | --- | --- | --- | --- | --- |
-| `sy-al-jazeera-private-university` | Al-Jazeera Private University | Daraa | Ghabagheb | Historical Deir ez-Zor seat and Damascus contact context are retained in notes pending future multi-campus or history modeling. |
+| `sy-al-jazeera-private-university` | Al-Jazeera Private University | Deir ez-Zor | Deir ez-Zor | Ministry announcement 7 places the 2026–2027 intake at the permanent campus. Earlier records describe temporary teaching in Ghabagheb and a Damascus contact office. |
 | `sy-al-sham-private-university` | Al-Sham Private University | Rif Dimashq | Al-Tall | Additional Damascus Al-Mazraa and Latakia locations are retained in notes pending future multi-campus modeling. |
 | `sy-arab-academy-for-e-businesses` | Arab Academy for E-Businesses | Aleppo | Aleppo | More precise campus or contact locations require future approved-source review. |
+
+See the [Al-Jazeera campus evidence](BULK_NAMED_PROGRAMS_2026_2027.md#sixth-local-batch).
+
+## Admissions Aliases
+
+The [2026–2027 admissions review](ADMISSIONS_2026_2027_REVIEW.md) adds Arabic
+aliases to 11 existing IDs. It records the British University in Damascus
+rename and keeps the two Al-Sham institutions separate.
 
 ## Missing Official Websites
 

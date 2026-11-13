@@ -26,6 +26,30 @@ OpenSyria explicitly broadens the dataset scope.
 
 Faculty, program, ranking, and logo rows need the same source approval as university identity records. Review-only or unclear-license data can guide review but must not be copied into canonical files.
 
+For the 2026–2027 admissions identity batch, Ministry announcement 7 is
+approved for Arabic institution names only. See the
+[admissions review](post-seed/ADMISSIONS_2026_2027_REVIEW.md) for source
+locators and the separate review required for faculty and program facts.
+
+The [program pilot](post-seed/PROGRAM_PILOT_2026_2027.md) records the separate
+review for factual offering details from the Ministry and corroborating sources.
+Discipline classification uses ISCED-F 2013 field codes from UNESCO UIS.
+The [named program review](post-seed/NAMED_PROGRAM_REVIEW_2026_2027.md)
+records the Ministry, university and institute references for the
+additional Al-Manara programs and Damascus diploma tracks.
+The [bulk named-program review](post-seed/BULK_NAMED_PROGRAMS_2026_2027.md)
+records program and award evidence across the named admissions review.
+The last pass uses announcements 5, 6, and 7 with campus-specific award
+lists, faculty profiles, and the Gazette. The
+[pending register](post-seed/PENDING_NAMED_PROGRAMS_2026_2027.md) links the
+remaining candidates to their Ministry rows and evidence gaps.
+The [city-grouped review](post-seed/PUBLIC_CITY_PROGRAMS_2026_2027.md) uses
+announcement 2 for intake facts. Gazette decisions and faculty qualification
+profiles establish first-degree awards. Decrees 99 and 100 establish the
+current Homs and Latakia university names.
+The Ministry's intake rows also corroborate Al-Jazeera's permanent campus
+announcement. [Al-Jazeera campus notice](https://t.me/STUDENTSJPU/1779)
+
 Logo rows should use official university website logo sources where possible,
 or official social-page logo sources when no website logo is available and the
 page identity is clear. Retain the exact source URL and trademark or reuse notes

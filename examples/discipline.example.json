@@ -1,0 +1,18 @@
+{
+  "id": "sy-medicine",
+  "name": {
+    "en": "Medicine",
+    "ar": "الطب البشري"
+  },
+  "aliases": [],
+  "field": "health",
+  "iscedF2013Code": "0912",
+  "sourceIds": ["approved-source-id"],
+  "sourceReferences": [
+    {
+      "sourceId": "approved-source-id",
+      "accessedAt": "2026-06-27T00:00:00.000Z"
+    }
+  ],
+  "sourceStatus": "released"
+}

@@ -10,6 +10,9 @@
       "id",
       "universityId",
       "facultyId",
+      "disciplineId",
+      "campus",
+      "admissions",
       "name",
       "aliases",
       "programType",
@@ -32,6 +35,71 @@
       "facultyId": {
         "type": ["string", "null"],
         "pattern": "^sy-[a-z0-9]+(?:-[a-z0-9]+)*$"
+      },
+      "disciplineId": {
+        "type": ["string", "null"],
+        "pattern": "^sy-[a-z0-9]+(?:-[a-z0-9]+)*$"
+      },
+      "campus": {
+        "type": ["object", "null"],
+        "additionalProperties": false,
+        "required": ["locality", "governorateSlug"],
+        "properties": {
+          "locality": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["en", "ar"],
+            "properties": {
+              "en": {
+                "type": "string",
+                "minLength": 1
+              },
+              "ar": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          },
+          "governorateSlug": {
+            "type": "string",
+            "enum": [
+              "damascus",
+              "rif-dimashq",
+              "aleppo",
+              "homs",
+              "hama",
+              "latakia",
+              "tartus",
+              "idlib",
+              "deir-ez-zor",
+              "raqqa",
+              "hasakah",
+              "daraa",
+              "sweida",
+              "quneitra"
+            ]
+          }
+        }
+      },
+      "admissions": {
+        "type": ["object", "null"],
+        "additionalProperties": false,
+        "required": ["academicYear", "routes"],
+        "properties": {
+          "academicYear": {
+            "type": "string",
+            "pattern": "^[1-9][0-9]{3}-[1-9][0-9]{3}$"
+          },
+          "routes": {
+            "type": "array",
+            "minItems": 1,
+            "uniqueItems": true,
+            "items": {
+              "type": "string",
+              "enum": ["general", "parallel", "private"]
+            }
+          }
+        }
       },
       "name": {
         "$ref": "#/$defs/localizedText"

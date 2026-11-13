@@ -156,13 +156,33 @@ other
 
 `website` is the public page for that faculty or `null` when not source-backed.
 
+## Discipline Fields
+
+`disciplines.json` contains fields of study shared by multiple universities
+and programs. Each discipline has a stable `id`, Arabic and English `name`,
+`aliases`, `field` from the admissions field catalogue, `iscedF2013Code`, and
+the usual source and release fields. `iscedF2013Code` is a four-digit string
+so leading zeroes survive every export. Multiple disciplines may share a
+classification code. Degree level belongs to the program offering.
+
 ## Program Fields
 
 `programs.json` stores academic programs, technical programs, specialties, and tracks.
 
 `universityId` references a record in `data/universities.json`.
 
-`facultyId` references a record in `data/faculties.json` or is `null` when no reviewed faculty parent is available.
+`facultyId` references a faculty or institute at the same university, or is
+`null` when the faculty is unknown.
+
+`disciplineId` references a reviewed discipline or is `null` if there is no
+unambiguous mapping. `campus` holds a bilingual `locality` and a
+`governorateSlug` from the admissions data. It may be `null` if unverified.
+
+`admissions` is `null` when routes are unverified. Otherwise it holds an
+`academicYear` such as `2026-2027` and a unique list of reviewed ordinary
+`routes` chosen from `general`, `parallel`, and `private`. The academic
+year spans two consecutive years. Minimum marks and applicant rules live
+in the admissions advisor.
 
 `programType` is one of:
 

@@ -16,6 +16,12 @@ dist/release/artifacts/assets.csv
 dist/release/artifacts/assets.sql
 dist/release/artifacts/assets.yaml
 dist/release/artifacts/assets.xml
+dist/release/artifacts/disciplines.json
+dist/release/artifacts/disciplines.ndjson
+dist/release/artifacts/disciplines.csv
+dist/release/artifacts/disciplines.sql
+dist/release/artifacts/disciplines.yaml
+dist/release/artifacts/disciplines.xml
 dist/release/artifacts/faculties.json
 dist/release/artifacts/faculties.ndjson
 dist/release/artifacts/faculties.csv
@@ -53,6 +59,10 @@ Schema-first batch files may have `recordCount: 0` until approved reusable sourc
 CSV and SQL artifacts include `source_references_json`,
 `latest_source_accessed_at`, and `latest_source_record_date` columns derived
 from each record's `sourceReferences`.
+
+Program JSON, NDJSON, YAML, and XML retain nested campus and admission
+data. Program CSV and SQL use separate columns for campus locality and
+governorate, academic year, and JSON-encoded routes.
 
 Coverage analysis is also generated locally:
 

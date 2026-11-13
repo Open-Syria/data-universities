@@ -3,8 +3,8 @@
 Faculty, program, specialty, and ranking data is intentionally excluded from `v0.1.0`.
 
 `v0.1.2` adds schema-first canonical files and release artifacts for the three
-batch types. Faculty and program arrays are intentionally empty until approved
-reusable sources are reviewed. Ranking snapshots are populated only where an
+batch types. That release left faculty and program arrays empty pending source
+review. Ranking snapshots are populated only where an
 approved source publishes explicit, source-backed ranks.
 
 The current local comparison artifact contains:
@@ -49,6 +49,14 @@ Approved ranking imports currently include:
 - UNIRANKS 2026 Syria page. It adds one listed-rank snapshot for Mari Private
   University with `rankScope: "other"` because the source row publishes country,
   region, and world ranks as `N/A`.
+
+## Admissions Identity Pass
+
+The [2026–2027 admissions review](ADMISSIONS_2026_2027_REVIEW.md) pins the
+website input, records the alias import and branch candidates, and gives a
+worked example of the source checks needed for public affiliations. The
+[program pilot](PROGRAM_PILOT_2026_2027.md) adds the first four canonical
+faculty or institute records, program offerings, and discipline mapping.
 
 ## Remaining Ranking Gaps
 

@@ -1,0 +1,47 @@
+{
+  "sourceId": "mohe-university-admissions-program-pilot-2026-2027",
+  "sourceTitle": "Syrian Ministry of Higher Education: 2026–2027 admissions program pilot",
+  "sourceUrl": "https://mohe.gov.sy/ar/media-center/details/651",
+  "license": "Public source; factual data only",
+  "accessedAt": "2026-11-12T00:00:00.000Z",
+  "status": "imported",
+  "rawFiles": [
+    {
+      "name": "news_pdf_20260930155934_651_0.pdf",
+      "sha256": "1812ac613d9e0d9b178f6829af2455add52c6bdf34e82e8c5289107a046faad9",
+      "notes": "Announcement 2, scientific choices."
+    },
+    {
+      "name": "news_pdf_20260930160315_651_0.pdf",
+      "sha256": "ab03dd05c06227039b9721011a15f15120f695df237e692ff753368e82374ed9",
+      "notes": "Announcement 6, vocational choices with named public institutions."
+    },
+    {
+      "name": "news_pdf_6abe5325b7e08.pdf",
+      "sha256": "3c77e01b253325f0bc77dc210b0c29982744db80d71a33ffac13375074f8c1ee",
+      "notes": "Announcement 7, private university choices."
+    }
+  ],
+  "importedFields": [
+    "program names",
+    "faculty or institute names",
+    "university affiliation",
+    "degree level",
+    "source references",
+    "campus locality and governorate",
+    "academic year and route identifiers",
+    "curated discipline"
+  ],
+  "targetFiles": [
+    "data/disciplines.json",
+    "data/faculties.json",
+    "data/programs.json",
+    "data/sources.json"
+  ],
+  "transforms": [
+    "Select the three pharmacy offerings at Ministry announcement 7 p12 r7, r8, and r11. Preserve separate Al-Sham faculty and program IDs for Al-Tall and Latakia.",
+    "Resolve the public technical institute in announcement 2 p16 r29 using the named Damascus University row at announcement 6 p12 r2 and SANA's reporting with institute officials.",
+    "Use the approved sources on each record to establish the faculty and degree level. Store the reviewed campus and academic year with the ordinary routes. Map pharmacy to one discipline using ISCED-F 0916."
+  ],
+  "reviewNotes": "Four faculties or institutes and four program offerings. The public diploma is an umbrella entry for the institute; individual specializations are not inferred from admission rows. Only factual values are retained."
+}

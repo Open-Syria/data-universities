@@ -1,0 +1,23 @@
+{
+  "sourceId": "mohe-public-city-programs-2026-2027",
+  "sourceTitle": "Syrian Ministry of Higher Education 2026–2027 scientific admissions minimums (announcement 2)",
+  "sourceUrl": "https://mohe.gov.sy/img/uploads1/news_pdf_20260930155934_651_0.pdf",
+  "license": "Public source; factual data only",
+  "accessedAt": "2026-11-12T00:00:00.000Z",
+  "status": "imported",
+  "rawFiles": [
+    {
+      "name": "news_pdf_20260930155934_651_0.pdf",
+      "sha256": "1812ac613d9e0d9b178f6829af2455add52c6bdf34e82e8c5289107a046faad9",
+      "notes": "Announcement 2, page 1, rows 6, 8, 13, 14, and 16–19 supply the verified offering labels, cities, and routes."
+    }
+  ],
+  "importedFields": ["program name", "campus", "admission route identifiers"],
+  "targetFiles": ["data/faculties.json", "data/programs.json", "data/sources.json"],
+  "transforms": [
+    "Match the selected city-grouped rows to faculties and first-degree awards using the Official Gazette and faculty qualification profiles.",
+    "Resolve Al-Baath University and Tishreen University to the current Homs and Latakia identities using decrees 99 and 100 of 2025.",
+    "Reuse the Civil Engineering and Informatics Engineering disciplines. Preserve the distinct named Homs tracks and keep the grouped Damascus and Latakia Informatics rows grouped."
+  ],
+  "reviewNotes": "Eight first-degree offerings are verified. The city-grouped review records 12 targeted rows pending award, teaching-site, or applicant-route evidence."
+}

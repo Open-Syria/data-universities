@@ -28,11 +28,16 @@ Generated artifacts include JSON, NDJSON, CSV, SQL, YAML, and XML files for:
 
 ```text
 assets
+disciplines
 faculties
 programs
 rankings
 universities
 ```
+
+The next minor release adds the `disciplines` artifact and extends
+`programs` with campus, discipline, and admission data. University identity
+consumers continue to use the same artifact and IDs.
 
 ## Release Gates
 

@@ -65,7 +65,18 @@ Faculty, program, and ranking data is not part of `v0.1.0`.
 
 `v0.1.2` adds empty canonical files, schemas, fixtures, and release artifacts for these batches so future approved imports have a stable target.
 
-Before adding these datasets:
+The [program pilot](post-seed/PROGRAM_PILOT_2026_2027.md) and
+[named program review](post-seed/NAMED_PROGRAM_REVIEW_2026_2027.md)
+cover the first ten offerings. The
+[bulk named-program review](post-seed/BULK_NAMED_PROGRAMS_2026_2027.md)
+adds 333 offerings after the initial ten. The
+[pending register](post-seed/PENDING_NAMED_PROGRAMS_2026_2027.md) records the
+135 admissions candidates that still need specific award or campus evidence,
+program confirmation, or support for professional degree labels.
+The [city-grouped public program review](post-seed/PUBLIC_CITY_PROGRAMS_2026_2027.md)
+tracks the broader public intake and records eight verified Civil Engineering and Informatics Engineering offerings and the remaining evidence gaps.
+
+For later batches:
 
 - confirm reusable sources,
 - decide whether rankings are in scope,

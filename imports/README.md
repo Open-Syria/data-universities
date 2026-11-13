@@ -30,6 +30,17 @@ An import manifest should record:
 - transformation steps,
 - maintainer review notes.
 
+See the [2026–2027 admissions review](../docs/post-seed/ADMISSIONS_2026_2027_REVIEW.md)
+for the pinned catalogue input and the scope of the name-only import.
+
+The [program pilot](../docs/post-seed/PROGRAM_PILOT_2026_2027.md) records
+selected offering facts and the evidence for each institution and campus.
+Its manifest also records the discipline and academic-year route mapping.
+The [public named-program manifest](manifests/mohe-public-university-named-programs-2026-2027-2026-11-12.json)
+records the first batch of named public offerings from announcement 6.
+The [city-grouped public manifest](manifests/mohe-public-city-programs-2026-2027-2026-11-12.json)
+pins the first reviewed announcement 2 rows.
+
 ## What Should Not Be Committed
 
 Do not commit:

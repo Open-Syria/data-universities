@@ -83,6 +83,7 @@
         "type": "string",
         "enum": [
           "data/assets.json",
+          "data/disciplines.json",
           "data/faculties.json",
           "data/programs.json",
           "data/rankings.json",

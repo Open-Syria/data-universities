@@ -33,9 +33,11 @@ pnpm run coverage:data
   uniRank 2026 Syrian University Ranking, independent Webometrics.org January
   2026, and UNIRANKS 2026 snapshots.
 
-Faculty and program data is not part of the current production profile release.
-The canonical files and release artifacts remain available for future approved
-source-backed batches.
+The preview contains 233 faculties or institutes and 351 offerings
+across 43 universities. Thirty disciplines have reviewed mappings.
+All 351 offerings carry a campus. Of these, 347 carry verified 2026–2027
+admission routes. [Bulk named-program review](post-seed/BULK_NAMED_PROGRAMS_2026_2027.md)
+· [City-grouped public program review](post-seed/PUBLIC_CITY_PROGRAMS_2026_2027.md)
 
 The production canonical boundary is the approved production scope plus
 approved public source confirmation. Public-source-only records are tracked in

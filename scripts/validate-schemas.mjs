@@ -8,6 +8,7 @@ const root = process.cwd();
 const schemasDirectory = path.join(root, 'schemas');
 const exampleNameBySchemaName = {
   assets: 'asset',
+  disciplines: 'discipline',
   faculties: 'faculty',
   programs: 'program',
   rankings: 'ranking',

@@ -37,6 +37,13 @@ dataset has complete reviewed logo coverage and approved ranking snapshots where
 public ranking providers list Syrian institutions. Public API exposure is
 approved through `publicApi.status: approved`.
 
+Faculty, program, and discipline coverage is partial after the
+[program pilot](post-seed/PROGRAM_PILOT_2026_2027.md) and
+[bulk named-program review](post-seed/BULK_NAMED_PROGRAMS_2026_2027.md).
+The [city-grouped review](post-seed/PUBLIC_CITY_PROGRAMS_2026_2027.md)
+adds verified affiliations to that partial coverage.
+It is separate from the university identity and profile readiness checks.
+
 ## Nullable Or Source-Backed Targets
 
 These fields should be improved, but must stay empty when no approved public
