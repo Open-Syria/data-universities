@@ -15,6 +15,9 @@ The [program pilot](post-seed/PROGRAM_PILOT_2026_2027.md) and
 the 2026–2027 cycle. Each route list carries its source year. Recheck routes
 against the next bulletin before describing an offering as open for a new cycle.
 The [city-grouped review](post-seed/PUBLIC_CITY_PROGRAMS_2026_2027.md) uses the 2026–2027 cycle too.
+Where a current university page names no award, it cites an archived copy
+of the university's own page; recheck those awards against current pages
+before each release.
 
 Cover photos can be older than the record they illustrate. Asset
 `sourceReferences[].sourceRecordDate` keeps the date recorded for each Commons

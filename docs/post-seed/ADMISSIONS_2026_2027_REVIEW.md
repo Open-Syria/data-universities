@@ -73,7 +73,9 @@ row coordinates from the extraction.
 ## Public affiliation and next import
 
 The [city-grouped public program review](PUBLIC_CITY_PROGRAMS_2026_2027.md)
-tracks the first reviewed rows and the evidence needed for further assignments.
+tracks the reviewed rows and the evidence needed for further assignments.
+Its [register](PENDING_PUBLIC_CITY_PROGRAMS_2026_2027.md) lists the leads
+still pending after batch 3.
 
 Assign a public offering only when a Ministry row or an official institution
 source names the parent for that program at that campus. Do not assign a

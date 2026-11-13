@@ -46,7 +46,11 @@ remaining candidates to their Ministry rows and evidence gaps.
 The [city-grouped review](post-seed/PUBLIC_CITY_PROGRAMS_2026_2027.md) uses
 announcement 2 for intake facts. Gazette decisions and faculty qualification
 profiles establish first-degree awards. Decrees 99 and 100 establish the
-current Homs and Latakia university names.
+current Homs and Latakia university names. Its third review uses only
+official sources: university faculty and institute pages, regulations and
+study plans, archived copies of those pages in the Internet Archive when the
+current page names no award, decrees, Council decisions, the Gazette and
+announcement 5, which names the ministry that runs each institute.
 The Ministry's intake rows also corroborate Al-Jazeera's permanent campus
 announcement. [Al-Jazeera campus notice](https://t.me/STUDENTSJPU/1779)
 
