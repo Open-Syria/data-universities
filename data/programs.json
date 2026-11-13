@@ -31037,5 +31037,1705 @@
       }
     ],
     "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-quran-and-hadith-studies",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-sharia",
+    "disciplineId": "sy-quran-and-hadith-studies",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Quran and Hadith Studies",
+      "ar": "القرآن والحديث"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p15:r13",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-civil-engineering",
+    "universityId": "sy-hama-university",
+    "facultyId": "sy-hama-university-faculty-of-civil-engineering",
+    "disciplineId": "sy-civil-engineering",
+    "campus": {
+      "locality": {
+        "en": "Hama",
+        "ar": "حماة"
+      },
+      "governorateSlug": "hama"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Civil Engineering",
+      "ar": "الهندسة المدنية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r20",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-agricultural-engineering-salamiyah",
+    "universityId": "sy-hama-university",
+    "facultyId": "sy-hama-university-faculty-of-agricultural-engineering-salamiyah",
+    "disciplineId": "sy-agricultural-engineering",
+    "campus": {
+      "locality": {
+        "en": "Salamiyah",
+        "ar": "السلمية"
+      },
+      "governorateSlug": "hama"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Agricultural Engineering",
+      "ar": "الهندسة الزراعية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "hama-agricultural-engineering-page",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r36",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-agricultural-engineering-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-finance-and-banking",
+    "universityId": "sy-hama-university",
+    "facultyId": "sy-hama-university-faculty-of-economics",
+    "disciplineId": "sy-financial-and-banking-management",
+    "campus": {
+      "locality": {
+        "en": "Hama",
+        "ar": "حماة"
+      },
+      "governorateSlug": "hama"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Finance and Banking",
+      "ar": "التمويل والمصارف"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r56",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-mathematics-masyaf",
+    "universityId": "sy-hama-university",
+    "facultyId": "sy-hama-university-faculty-of-science",
+    "disciplineId": "sy-mathematics",
+    "campus": {
+      "locality": {
+        "en": "Masyaf",
+        "ar": "مصياف"
+      },
+      "governorateSlug": "hama"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Mathematics",
+      "ar": "الرياضيات"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "hama-science-page",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p6:r11",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-science-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-nursing",
+    "universityId": "sy-hama-university",
+    "facultyId": "sy-hama-university-faculty-of-nursing",
+    "disciplineId": "sy-nursing",
+    "campus": {
+      "locality": {
+        "en": "Hama",
+        "ar": "حماة"
+      },
+      "governorateSlug": "hama"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Nursing",
+      "ar": "التمريض"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p10:r33",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-geography",
+    "universityId": "sy-hama-university",
+    "facultyId": "sy-hama-university-faculty-of-arts-and-humanities",
+    "disciplineId": "sy-geography",
+    "campus": {
+      "locality": {
+        "en": "Hama",
+        "ar": "حماة"
+      },
+      "governorateSlug": "hama"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Geography",
+      "ar": "الجغرافية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p13:r14",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-special-education",
+    "universityId": "sy-hama-university",
+    "facultyId": "sy-hama-university-faculty-of-education",
+    "disciplineId": "sy-special-education",
+    "campus": {
+      "locality": {
+        "en": "Hama",
+        "ar": "حماة"
+      },
+      "governorateSlug": "hama"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Special Education",
+      "ar": "التربية الخاصة"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p14:r9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-primary-education",
+    "universityId": "sy-hama-university",
+    "facultyId": "sy-hama-university-faculty-of-education",
+    "disciplineId": "sy-primary-education",
+    "campus": {
+      "locality": {
+        "en": "Hama",
+        "ar": "حماة"
+      },
+      "governorateSlug": "hama"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Primary Education",
+      "ar": "معلم الصف"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p14:r39",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-agricultural-sciences-technical-diploma-al-suqaylabiyah",
+    "universityId": "sy-hama-university",
+    "facultyId": "sy-hama-university-agricultural-technical-institute-al-suqaylabiyah",
+    "disciplineId": "sy-agricultural-technology",
+    "campus": {
+      "locality": {
+        "en": "Al-Suqaylabiyah",
+        "ar": "السقيلبية"
+      },
+      "governorateSlug": "hama"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Agricultural Sciences Technical Diploma",
+      "ar": "الدبلوم التقاني في العلوم الزراعية"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-public-university-named-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p17:r16",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-university-named-programs-2026-2027",
+        "sourceRecordId": "announcement-6:p23:r2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p4",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "university-institute-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-medical-technical-diploma-emergency-medicine",
+    "universityId": "sy-hama-university",
+    "facultyId": "sy-hama-university-medical-technical-institute",
+    "disciplineId": "sy-emergency-medical-services",
+    "campus": {
+      "locality": {
+        "en": "Hama",
+        "ar": "حماة"
+      },
+      "governorateSlug": "hama"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Medical Technical Diploma - Emergency Medicine",
+      "ar": "الدبلوم التقاني الطبي - طب الطوارئ"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p18:r8",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p5",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "university-institute-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-medical-technical-diploma-anesthesia",
+    "universityId": "sy-hama-university",
+    "facultyId": "sy-hama-university-medical-technical-institute",
+    "disciplineId": "sy-anesthesia",
+    "campus": {
+      "locality": {
+        "en": "Hama",
+        "ar": "حماة"
+      },
+      "governorateSlug": "hama"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Medical Technical Diploma - Anesthesia",
+      "ar": "الدبلوم التقاني الطبي - التخدير"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p18:r9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p5",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "university-institute-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-computing-technical-diploma",
+    "universityId": "sy-hama-university",
+    "facultyId": "sy-hama-university-technical-computer-institute",
+    "disciplineId": "sy-computer-technologies",
+    "campus": {
+      "locality": {
+        "en": "Hama",
+        "ar": "حماة"
+      },
+      "governorateSlug": "hama"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Computing Technical Diploma",
+      "ar": "الدبلوم التقاني في اختصاصات الحاسوب"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-public-university-named-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p18:r18",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-university-named-programs-2026-2027",
+        "sourceRecordId": "announcement-6:p15:r9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p5",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "university-institute-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-veterinary-technical-diploma",
+    "universityId": "sy-hama-university",
+    "facultyId": "sy-hama-university-veterinary-technical-institute",
+    "disciplineId": "sy-veterinary-technology",
+    "campus": {
+      "locality": {
+        "en": "Hama",
+        "ar": "حماة"
+      },
+      "governorateSlug": "hama"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Veterinary Technical Diploma",
+      "ar": "الدبلوم التقاني في الطب البيطري"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-public-university-named-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p18:r21",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-university-named-programs-2026-2027",
+        "sourceRecordId": "announcement-6:p24:r6",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p3",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "university-institute-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-architecture",
+    "universityId": "sy-university-of-tartus",
+    "facultyId": "sy-university-of-tartus-faculty-of-architecture",
+    "disciplineId": "sy-architecture",
+    "campus": {
+      "locality": {
+        "en": "Tartus",
+        "ar": "طرطوس"
+      },
+      "governorateSlug": "tartus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Architecture",
+      "ar": "الهندسة المعمارية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "tartus-university-units-list",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r32",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-information-and-communication-technology-engineering",
+    "universityId": "sy-university-of-tartus",
+    "facultyId": "sy-university-of-tartus-faculty-of-information-and-communication-technology-engineering",
+    "disciplineId": "sy-information-technology",
+    "campus": {
+      "locality": {
+        "en": "Tartus",
+        "ar": "طرطوس"
+      },
+      "governorateSlug": "tartus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Information and Communication Technology Engineering",
+      "ar": "هندسة تكنولوجيا المعلومات والاتصالات"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "tartus-university-units-list",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r3",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-agricultural-engineering",
+    "universityId": "sy-university-of-tartus",
+    "facultyId": "sy-university-of-tartus-faculty-of-agricultural-engineering",
+    "disciplineId": "sy-agricultural-engineering",
+    "campus": {
+      "locality": {
+        "en": "Tartus",
+        "ar": "طرطوس"
+      },
+      "governorateSlug": "tartus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Agricultural Engineering",
+      "ar": "الهندسة الزراعية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "tartus-agricultural-engineering-faculty-page",
+      "tartus-university-units-list",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r34",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-agricultural-engineering-faculty-page",
+        "sourceRecordId": "https://tartous-univ.edu.sy/faculties/kly-alhnds-alzraaay",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-economics",
+    "universityId": "sy-university-of-tartus",
+    "facultyId": "sy-university-of-tartus-faculty-of-economics",
+    "disciplineId": "sy-economics",
+    "campus": {
+      "locality": {
+        "en": "Tartus",
+        "ar": "طرطوس"
+      },
+      "governorateSlug": "tartus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Economics",
+      "ar": "الاقتصاد"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "tartus-university-units-list",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r55",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-biology",
+    "universityId": "sy-university-of-tartus",
+    "facultyId": "sy-university-of-tartus-faculty-of-science",
+    "disciplineId": "sy-biology",
+    "campus": {
+      "locality": {
+        "en": "Tartus",
+        "ar": "طرطوس"
+      },
+      "governorateSlug": "tartus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Biology",
+      "ar": "علم الحياة"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "tartus-university-units-list",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p4:r28",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-mathematics",
+    "universityId": "sy-university-of-tartus",
+    "facultyId": "sy-university-of-tartus-faculty-of-science",
+    "disciplineId": "sy-mathematics",
+    "campus": {
+      "locality": {
+        "en": "Tartus",
+        "ar": "طرطوس"
+      },
+      "governorateSlug": "tartus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Mathematics",
+      "ar": "الرياضيات"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "tartus-university-units-list",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p6:r13",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-physics",
+    "universityId": "sy-university-of-tartus",
+    "facultyId": "sy-university-of-tartus-faculty-of-science",
+    "disciplineId": "sy-physics",
+    "campus": {
+      "locality": {
+        "en": "Tartus",
+        "ar": "طرطوس"
+      },
+      "governorateSlug": "tartus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Physics",
+      "ar": "الفيزياء"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "tartus-university-units-list",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p8:r7",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-chemistry",
+    "universityId": "sy-university-of-tartus",
+    "facultyId": "sy-university-of-tartus-faculty-of-science",
+    "disciplineId": "sy-chemistry",
+    "campus": {
+      "locality": {
+        "en": "Tartus",
+        "ar": "طرطوس"
+      },
+      "governorateSlug": "tartus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Chemistry",
+      "ar": "الكيمياء"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "tartus-university-units-list",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p9:r9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-arabic-language-and-literature",
+    "universityId": "sy-university-of-tartus",
+    "facultyId": "sy-university-of-tartus-faculty-of-arts-and-humanities",
+    "disciplineId": "sy-arabic-language-and-literature",
+    "campus": {
+      "locality": {
+        "en": "Tartus",
+        "ar": "طرطوس"
+      },
+      "governorateSlug": "tartus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Arabic Language and Literature",
+      "ar": "اللغة العربية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "tartus-university-units-list",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p11:r19",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-english-language-and-literature",
+    "universityId": "sy-university-of-tartus",
+    "facultyId": "sy-university-of-tartus-faculty-of-arts-and-humanities",
+    "disciplineId": "sy-english-language-and-literature",
+    "campus": {
+      "locality": {
+        "en": "Tartus",
+        "ar": "طرطوس"
+      },
+      "governorateSlug": "tartus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "English Language and Literature",
+      "ar": "اللغة الإنكليزية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "tartus-university-units-list",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p11:r38",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-french-language-and-literature",
+    "universityId": "sy-university-of-tartus",
+    "facultyId": "sy-university-of-tartus-faculty-of-arts-and-humanities",
+    "disciplineId": "sy-french-language-and-literature",
+    "campus": {
+      "locality": {
+        "en": "Tartus",
+        "ar": "طرطوس"
+      },
+      "governorateSlug": "tartus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "French Language and Literature",
+      "ar": "اللغة الفرنسية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "tartus-university-units-list",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p12:r9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-geography",
+    "universityId": "sy-university-of-tartus",
+    "facultyId": "sy-university-of-tartus-faculty-of-arts-and-humanities",
+    "disciplineId": "sy-geography",
+    "campus": {
+      "locality": {
+        "en": "Tartus",
+        "ar": "طرطوس"
+      },
+      "governorateSlug": "tartus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Geography",
+      "ar": "الجغرافية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "tartus-university-units-list",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p13:r13",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-psychological-counseling",
+    "universityId": "sy-university-of-tartus",
+    "facultyId": "sy-university-of-tartus-faculty-of-education",
+    "disciplineId": "sy-psychological-counseling",
+    "campus": {
+      "locality": {
+        "en": "Tartus",
+        "ar": "طرطوس"
+      },
+      "governorateSlug": "tartus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Psychological Counseling",
+      "ar": "الإرشاد النفسي"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "tartus-university-units-list",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p14:r20",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-primary-education",
+    "universityId": "sy-university-of-tartus",
+    "facultyId": "sy-university-of-tartus-faculty-of-education",
+    "disciplineId": "sy-primary-education",
+    "campus": {
+      "locality": {
+        "en": "Tartus",
+        "ar": "طرطوس"
+      },
+      "governorateSlug": "tartus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Primary Education",
+      "ar": "معلم الصف"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "tartus-university-units-list",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p14:r40",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-tourism",
+    "universityId": "sy-university-of-tartus",
+    "facultyId": "sy-university-of-tartus-faculty-of-tourism",
+    "disciplineId": "sy-tourism-and-hospitality-management",
+    "campus": {
+      "locality": {
+        "en": "Tartus",
+        "ar": "طرطوس"
+      },
+      "governorateSlug": "tartus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Tourism",
+      "ar": "السياحة"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "tartus-university-units-list",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p15:r26",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-engineering-technical-diploma-general-construction",
+    "universityId": "sy-university-of-tartus",
+    "facultyId": "sy-university-of-tartus-technical-engineering-institute",
+    "disciplineId": "sy-building-construction-technology",
+    "campus": {
+      "locality": {
+        "en": "Tartus",
+        "ar": "طرطوس"
+      },
+      "governorateSlug": "tartus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Engineering Technical Diploma - General Construction",
+      "ar": "الدبلوم التقاني في الهندسة - الإنشاءات العامة"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "tartus-university-units-list",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r23",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "university-institute-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-engineering-technical-diploma-surveying",
+    "universityId": "sy-university-of-tartus",
+    "facultyId": "sy-university-of-tartus-technical-engineering-institute",
+    "disciplineId": "sy-surveying-and-geomatics",
+    "campus": {
+      "locality": {
+        "en": "Tartus",
+        "ar": "طرطوس"
+      },
+      "governorateSlug": "tartus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Engineering Technical Diploma - Surveying",
+      "ar": "الدبلوم التقاني في الهندسة - المساحة"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "tartus-university-units-list",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r24",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "university-institute-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-engineering-technical-diploma-sanitary-and-water-works",
+    "universityId": "sy-university-of-tartus",
+    "facultyId": "sy-university-of-tartus-technical-engineering-institute",
+    "disciplineId": "sy-water-and-sanitation-technology",
+    "campus": {
+      "locality": {
+        "en": "Tartus",
+        "ar": "طرطوس"
+      },
+      "governorateSlug": "tartus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Engineering Technical Diploma - Sanitary and Water Works",
+      "ar": "الدبلوم التقاني في الهندسة - الصحية والمائية"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "tartus-university-units-list",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r25",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "university-institute-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
   }
 ]

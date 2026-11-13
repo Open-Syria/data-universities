@@ -10796,5 +10796,639 @@
       }
     ],
     "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-faculty-of-sharia",
+    "universityId": "sy-homs-university",
+    "name": {
+      "en": "Faculty of Sharia",
+      "ar": "كلية الشريعة"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "homs-univ-faculties-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p15:r13",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-faculty-of-civil-engineering",
+    "universityId": "sy-hama-university",
+    "name": {
+      "en": "Faculty of Civil Engineering",
+      "ar": "كلية الهندسة المدنية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r20",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-faculty-of-agricultural-engineering-salamiyah",
+    "universityId": "sy-hama-university",
+    "name": {
+      "en": "Faculty of Agricultural Engineering",
+      "ar": "كلية الهندسة الزراعية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "hama-agricultural-engineering-page",
+      "public-university-affiliations-decree-250-2006"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r36",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-agricultural-engineering-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-faculty-of-economics",
+    "universityId": "sy-hama-university",
+    "name": {
+      "en": "Faculty of Economics",
+      "ar": "كلية الاقتصاد"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r56",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-faculty-of-science",
+    "universityId": "sy-hama-university",
+    "name": {
+      "en": "Faculty of Science",
+      "ar": "كلية العلوم"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "hama-science-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p6:r11",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-science-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-faculty-of-nursing",
+    "universityId": "sy-hama-university",
+    "name": {
+      "en": "Faculty of Nursing",
+      "ar": "كلية التمريض"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p10:r33",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-faculty-of-education",
+    "universityId": "sy-hama-university",
+    "name": {
+      "en": "Faculty of Education",
+      "ar": "كلية التربية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p14:r9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-agricultural-technical-institute-al-suqaylabiyah",
+    "universityId": "sy-hama-university",
+    "name": {
+      "en": "Agricultural Technical Institute, Al-Suqaylabiyah",
+      "ar": "المعهد التقاني الزراعي في السقيلبية"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p17:r16",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p4",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-medical-technical-institute",
+    "universityId": "sy-hama-university",
+    "name": {
+      "en": "Medical Technical Institute",
+      "ar": "المعهد التقاني الطبي"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p18:r8",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p5",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-technical-computer-institute",
+    "universityId": "sy-hama-university",
+    "name": {
+      "en": "Technical Computer Institute",
+      "ar": "المعهد التقاني للحاسوب"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p18:r18",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p5",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-veterinary-technical-institute",
+    "universityId": "sy-hama-university",
+    "name": {
+      "en": "Veterinary Technical Institute",
+      "ar": "المعهد التقاني للطب البيطري"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p18:r21",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p3",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-faculty-of-architecture",
+    "universityId": "sy-university-of-tartus",
+    "name": {
+      "en": "Faculty of Architecture",
+      "ar": "كلية الهندسة المعمارية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "tartus-university-units-list",
+      "public-university-affiliations-decree-250-2006"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r32",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-faculty-of-information-and-communication-technology-engineering",
+    "universityId": "sy-university-of-tartus",
+    "name": {
+      "en": "Faculty of Information and Communication Technology Engineering",
+      "ar": "كلية هندسة تكنولوجيا المعلومات والاتصالات"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "tartus-university-units-list",
+      "public-university-affiliations-decree-250-2006"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r3",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-faculty-of-agricultural-engineering",
+    "universityId": "sy-university-of-tartus",
+    "name": {
+      "en": "Faculty of Agricultural Engineering",
+      "ar": "كلية الهندسة الزراعية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "tartus-agricultural-engineering-faculty-page",
+      "tartus-university-units-list"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r34",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-agricultural-engineering-faculty-page",
+        "sourceRecordId": "https://tartous-univ.edu.sy/faculties/kly-alhnds-alzraaay",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-faculty-of-economics",
+    "universityId": "sy-university-of-tartus",
+    "name": {
+      "en": "Faculty of Economics",
+      "ar": "كلية الاقتصاد"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "tartus-university-units-list",
+      "public-university-affiliations-decree-250-2006"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r55",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-faculty-of-science",
+    "universityId": "sy-university-of-tartus",
+    "name": {
+      "en": "Faculty of Science",
+      "ar": "كلية العلوم"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "tartus-university-units-list",
+      "public-university-affiliations-decree-250-2006"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p4:r28",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-faculty-of-arts-and-humanities",
+    "universityId": "sy-university-of-tartus",
+    "name": {
+      "en": "Faculty of Arts and Humanities",
+      "ar": "كلية الآداب والعلوم الإنسانية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "tartus-university-units-list",
+      "public-university-affiliations-decree-250-2006"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p11:r19",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-faculty-of-education",
+    "universityId": "sy-university-of-tartus",
+    "name": {
+      "en": "Faculty of Education",
+      "ar": "كلية التربية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "tartus-university-units-list",
+      "public-university-affiliations-decree-250-2006"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p14:r20",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-faculty-of-tourism",
+    "universityId": "sy-university-of-tartus",
+    "name": {
+      "en": "Faculty of Tourism",
+      "ar": "كلية السياحة"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "tartus-university-units-list",
+      "public-university-affiliations-decree-250-2006"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p15:r26",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-technical-engineering-institute",
+    "universityId": "sy-university-of-tartus",
+    "name": {
+      "en": "Technical Engineering Institute",
+      "ar": "المعهد التقاني الهندسي"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "tartus-university-units-list"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r23",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
   }
 ]

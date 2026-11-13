@@ -3651,5 +3651,32 @@
     "status": "approved",
     "fields": ["qualification level"],
     "notes": "Owner decision of 13 November 2026. For a city-grouped 2026–2027 Ministry row whose university and teaching city an approved source already establishes, a row in the public faculty tables of announcements 2 and 4 (catalogue kind faculty) is a first university degree, recorded at the bachelor level, and a row in a technical institute table (kind institute) for an institute that the university runs is a technical institute diploma. sourceRecordId names the table type: faculty-table or university-institute-table. It does not cover labels for open learning, parallel, virtual or postgraduate study, diplomas listed in a faculty table, rows whose label names another city, institutes run by another ministry, or any row with two plausible faculties or universities."
+  },
+  {
+    "id": "hama-agricultural-engineering-page",
+    "title": "Hama University Faculty of Agricultural Engineering page",
+    "url": "https://hama-univ.edu.sy/%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Faculty of Agricultural Engineering on the Hama University site; says the Faculty of Agriculture was created in Salamiyah on 8/8/2011. Read 13 November 2026."
+  },
+  {
+    "id": "hama-science-page",
+    "title": "Hama University Faculty of Science page",
+    "url": "https://hama-univ.edu.sy/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Faculty of Science of Hama University (Decree 213 of 2014); its mathematics department opened in Masyaf in 2014–2015. Read 13 November 2026."
+  },
+  {
+    "id": "tartus-agricultural-engineering-faculty-page",
+    "title": "University of Tartus Faculty of Agricultural Engineering page",
+    "url": "https://tartous-univ.edu.sy/faculties/kly-alhnds-alzraaay",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Faculty of Agricultural Engineering of the University of Tartus; address Tartus, Al-Taliaa district; five study years. The page text is served by the site API at https://api.tartous-univ.edu.sy/api/website/pages/unit/17. Read 13 November 2026."
   }
 ]
