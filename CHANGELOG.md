@@ -4,6 +4,8 @@ All notable changes to this repository will be documented in this file.
 
 ## Unreleased
 
+## v0.3.0 - 2026-11-13
+
 ### Added
 
 - Add 118 fields of study, giving 148, so that every program label in the 2026–2027 Ministry admissions announcements maps to one field. Each field has an ISCED-F 2013 code, a Ministry row reference and Ministry spellings as aliases. Military and security college labels are left out.
@@ -18,7 +20,6 @@ All notable changes to this repository will be documented in this file.
 - Record 168 city-grouped public offerings whose award comes from the Ministry table type, under the owner decision of 13 November 2026: 124 bachelor's programs and 44 technical diplomas at Damascus (30), Aleppo (9), Latakia (40), Homs (1), Hama (13), Tartus (18), Al-Furat (39) and Idlib (18), with 84 new faculties or institutes. Decree 250 article 2, Decree 210, announcement 5 and the universities' own pages give the university and teaching city. Each offering cites the new `mohe-admissions-2026-2027-award-by-table-type` source.
 - Resolve 21 named announcement 6 institute and faculty rows that match those offerings, and leave 38 Award leads pending in the city-grouped register, which now lists 262 leads.
 - Add Hama University pages for Agricultural Engineering in Salamiyah and Science in Masyaf, the University of Tartus Agricultural Engineering page, and an import manifest for the table-type review.
-
 - Add Arabic Ministry admissions aliases to 11 existing universities, with page and row references.
 - Add four faculties or institutes and four reviewed program offerings across three universities.
 - Add two bachelor's programs at Al-Manara University and four technical diploma tracks at Damascus University.
