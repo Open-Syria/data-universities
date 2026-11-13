@@ -21597,8 +21597,8 @@
       "routes": ["general", "parallel"]
     },
     "name": {
-      "en": "General Mechanical Engineering",
-      "ar": "هندسة الميكانيك العام"
+      "en": "Mechanical Engineering (General Mechanics)",
+      "ar": "الهندسة الميكانيكية (الميكانيك العام)"
     },
     "aliases": [],
     "programType": "academic",
@@ -23050,6 +23050,104 @@
       {
         "sourceId": "yarmouk-jabab-campus",
         "sourceRecordId": "https://ypu.edu.sy/contactus",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-surveying-and-geomatics-engineering",
+    "universityId": "sy-latakia-university",
+    "facultyId": "sy-latakia-university-faculty-of-surveying-and-geomatics-engineering",
+    "disciplineId": "sy-surveying-and-geomatics",
+    "campus": {
+      "locality": {
+        "en": "Latakia",
+        "ar": "اللاذقية"
+      },
+      "governorateSlug": "latakia"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Surveying and Geomatics Engineering",
+      "ar": "الهندسة المساحية والجيوماتية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "latakia-surveying-faculty-page",
+      "latakia-surveying-and-geomatics-official-gazette-2023"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r26",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-surveying-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/5492",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-surveying-and-geomatics-official-gazette-2023",
+        "sourceRecordId": "https://odd.syria-report.com/wp-content/uploads/2021/03/2023-12-06-Issue48-Part1.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-agricultural-engineering",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-faculty-of-agricultural-engineering",
+    "disciplineId": "sy-agricultural-engineering",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Agricultural Engineering",
+      "ar": "الهندسة الزراعية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-agricultural-engineering-regulation"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r32",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-agricultural-engineering-regulation",
+        "sourceRecordId": "https://agri.idlib.edu.sy/",
         "accessedAt": "2026-11-13T00:00:00.000Z"
       }
     ],

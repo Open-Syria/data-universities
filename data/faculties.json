@@ -8587,5 +8587,66 @@
       }
     ],
     "sourceStatus": "released"
+  },
+  {
+    "id": "sy-latakia-university-faculty-of-surveying-and-geomatics-engineering",
+    "universityId": "sy-latakia-university",
+    "name": {
+      "en": "Faculty of Surveying and Geomatics Engineering",
+      "ar": "كلية الهندسة المساحية والجيوماتية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "latakia-surveying-faculty-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r26",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "latakia-surveying-faculty-page",
+        "sourceRecordId": "https://latakia-univ.edu.sy/ar/Faculty/Index/5492",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-faculty-of-agricultural-engineering",
+    "universityId": "sy-idlib-university",
+    "name": {
+      "en": "Faculty of Agricultural Engineering",
+      "ar": "كلية الهندسة الزراعية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-agricultural-engineering-regulation"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r32",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-agricultural-engineering-regulation",
+        "sourceRecordId": "https://agri.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
   }
 ]

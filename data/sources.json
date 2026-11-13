@@ -3321,5 +3321,32 @@
     "status": "approved",
     "fields": ["academic unit", "program name", "qualification level"],
     "notes": "Five-year programme (ten semesters) leading to the bachelor's degree in dental surgery, 188 credit hours."
+  },
+  {
+    "id": "latakia-surveying-faculty-page",
+    "title": "University of Latakia Faculty of Surveying and Geomatics Engineering page",
+    "url": "https://latakia-univ.edu.sy/ar/Faculty/Index/5492",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Lists the Faculty of Surveying and Geomatics Engineering and its departments on the university site."
+  },
+  {
+    "id": "latakia-surveying-and-geomatics-official-gazette-2023",
+    "title": "Official Gazette 2023 issue 48 part 1: internal regulation of the Faculty of Surveying and Geomatics Engineering, Tishreen University (decision 108 of 19/11/2023)",
+    "url": "https://odd.syria-report.com/wp-content/uploads/2021/03/2023-12-06-Issue48-Part1.pdf",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Art. 8: Tishreen University grants the licence in surveying and geomatics engineering on the faculty council's proposal; art. 9: five study years. PDF pp. 13-20; quotes read from the rendered PDF p. 16."
+  },
+  {
+    "id": "idlib-agricultural-engineering-regulation",
+    "title": "Idlib University Faculty of Agricultural Engineering internal regulation",
+    "url": "https://agri.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Chapter 4, art. 4: Idlib University grants, on the faculty council's proposal, the general licence in agricultural engineering (plus master's and doctorate); art. 5: five study years. Scanned PDF read visually (PDF p. 36, printed p. 35 of 37)."
   }
 ]
