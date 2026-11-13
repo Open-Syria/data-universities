@@ -2413,8 +2413,8 @@
     "url": "https://www.bunud.ai/sy/laws/university-organization-law-executive-regulations",
     "license": "Public source; factual data only",
     "status": "approved",
-    "fields": ["academic unit", "university affiliation"],
-    "notes": "Article 2 identifies the Informatics Engineering faculties at Damascus and Tishreen universities."
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Article 2 lists the faculties of Damascus, Aleppo, Tishreen (now Latakia), Al-Baath (now Homs), Al-Furat and Hama universities, as amended, including branch faculties and their cities. It identifies the Informatics Engineering faculties at Damascus and Tishreen universities."
   },
   {
     "id": "damascus-civil-engineering-first-degree",
@@ -2739,5 +2739,149 @@
     "status": "approved",
     "fields": ["academic unit", "program name", "qualification level"],
     "notes": "Geography programme: 8 semesters over 4 years; qualification: licence in arts and humanities, geography department."
+  },
+  {
+    "id": "hama-medicine-page",
+    "title": "Hama University Faculty of Human Medicine page",
+    "url": "https://hama-univ.edu.sy/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D8%A8-%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Faculty created by decree 241/2012; six-year programme ending with the unified exam for the licence of doctor in human medicine."
+  },
+  {
+    "id": "hama-pharmacy-page",
+    "title": "Hama University Faculty of Pharmacy page",
+    "url": "https://hama-univ.edu.sy/%D8%A7%D9%84%D8%B5%D9%8A%D8%AF%D9%84%D8%A9/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Faculty of Pharmacy seated in Hama, part of Hama University; university grants licence in pharmacy and pharmaceutical chemistry, five years."
+  },
+  {
+    "id": "hama-architecture-page",
+    "title": "Hama University Faculty of Architecture page",
+    "url": "https://hama-univ.edu.sy/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D9%85%D8%A7%D8%B1%D9%8A%D8%A9/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "program name", "qualification level"],
+    "notes": "Faculty of Architecture of Hama University grants the licence in architecture, five years."
+  },
+  {
+    "id": "hama-architecture-history",
+    "title": "Hama University Faculty of Architecture subsite, history page",
+    "url": "https://architecture.hama-univ.edu.sy/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A9/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus"],
+    "notes": "Faculty of Architecture created in Salamiyah by decree 481 of 23/12/2012."
+  },
+  {
+    "id": "hama-veterinary-page",
+    "title": "Hama University Faculty of Veterinary Medicine page",
+    "url": "https://hama-univ.edu.sy/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D8%A8-%D8%A7%D9%84%D8%A8%D9%8A%D8%B7%D8%B1%D9%8A/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Veterinary faculty seated in Hama; became a Hama University faculty under decree 19/2014."
+  },
+  {
+    "id": "hama-veterinary-about",
+    "title": "Hama University Faculty of Veterinary Medicine subsite, about page",
+    "url": "https://veterinary.hama-univ.edu.sy/%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A9/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Faculty grants the licence of doctor in veterinary medicine plus postgraduate degrees."
+  },
+  {
+    "id": "hama-arts-page",
+    "title": "Hama University Faculty of Arts and Humanities page",
+    "url": "https://hama-univ.edu.sy/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%AF%D8%A7%D8%A8-%D9%88-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%A7%D9%86%D9%8A%D8%A9/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Faculty in Hama, part of Hama University, grants licences in Arabic, English and French language departments."
+  },
+  {
+    "id": "hama-sport-page",
+    "title": "Hama University Faculty of Physical Education page",
+    "url": "https://hama-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Faculty in Hama (Al-Basel sports city) grants the licence in physical education, four years."
+  },
+  {
+    "id": "hama-institutes-list",
+    "title": "Hama University institutes list page",
+    "url": "https://hama-univ.edu.sy/%D9%85%D8%B9%D8%A7%D9%87%D8%AF-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation"],
+    "notes": "Lists the university's institutes: computer, dentistry, veterinary, medical, agricultural, engineering technical institutes and the higher institute of languages."
+  },
+  {
+    "id": "hama-engineering-institute-page",
+    "title": "Hama University Technical Engineering Institute page",
+    "url": "https://hama-univ.edu.sy/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D9%8A/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus"],
+    "notes": "Institute located in Hama, Al-Arbaeen district."
+  },
+  {
+    "id": "hama-engineering-institute-history",
+    "title": "Hama University Technical Engineering Institute subsite, history page",
+    "url": "https://inst-eng.hama-univ.edu.sy/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Institute awards the technical diploma in civil engineering."
+  },
+  {
+    "id": "hama-dental-institute-page",
+    "title": "Hama University Technical Institute of Dentistry page",
+    "url": "https://hama-univ.edu.sy/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D9%84%D8%B7%D8%A8-%D8%A7%D9%84%D8%A7%D8%B3%D9%86%D8%A7%D9%86/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Institute in Hama (Al-Sharia district) trains students of both specialties for the technical diploma in dentistry."
+  },
+  {
+    "id": "tartus-university-units-list",
+    "title": "University of Tartus faculties and institutes list (site API)",
+    "url": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation"],
+    "notes": "Lists the university's faculties (medicine, dentistry, pharmacy, architecture, ICT engineering, agricultural engineering, technical engineering, economics, science, arts, education, tourism) and institutes (agricultural, engineering, solar energy, maritime transport)."
+  },
+  {
+    "id": "tartus-agricultural-institute-page",
+    "title": "University of Tartus Technical Agricultural Institute page",
+    "url": "https://tartous-univ.edu.sy/faculties/almaahd-altkany-alzraaay",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The institute page says its graduates hold the agricultural technical diploma in protected agriculture (الدبلوم التقاني الزراعي باختصاص الزراعات المحمية), with a two-year study period. The page text is served by the site API at https://api.tartous-univ.edu.sy/api/website/pages/unit/45."
   }
 ]

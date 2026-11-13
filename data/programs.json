@@ -20107,5 +20107,616 @@
       }
     ],
     "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-human-medicine",
+    "universityId": "sy-hama-university",
+    "facultyId": "sy-hama-university-faculty-of-human-medicine",
+    "disciplineId": "sy-medicine",
+    "campus": {
+      "locality": {
+        "en": "Hama",
+        "ar": "حماة"
+      },
+      "governorateSlug": "hama"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Human Medicine",
+      "ar": "الطب البشري"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["public-university-affiliations-decree-250-2006", "hama-medicine-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-medicine-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D8%A8-%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-pharmacy",
+    "universityId": "sy-hama-university",
+    "facultyId": "sy-hama-university-faculty-of-pharmacy",
+    "disciplineId": "sy-pharmacy",
+    "campus": {
+      "locality": {
+        "en": "Hama",
+        "ar": "حماة"
+      },
+      "governorateSlug": "hama"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Pharmacy",
+      "ar": "الصيدلة"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["hama-pharmacy-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "hama-pharmacy-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D8%A7%D9%84%D8%B5%D9%8A%D8%AF%D9%84%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-architecture-salamiyah",
+    "universityId": "sy-hama-university",
+    "facultyId": "sy-hama-university-faculty-of-architecture-salamiyah",
+    "disciplineId": "sy-architecture",
+    "campus": {
+      "locality": {
+        "en": "Salamiyah",
+        "ar": "السلمية"
+      },
+      "governorateSlug": "hama"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Architecture",
+      "ar": "الهندسة المعمارية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "hama-architecture-page",
+      "hama-architecture-history"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r31",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-architecture-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D9%85%D8%A7%D8%B1%D9%8A%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-architecture-history",
+        "sourceRecordId": "https://architecture.hama-univ.edu.sy/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-veterinary-medicine",
+    "universityId": "sy-hama-university",
+    "facultyId": "sy-hama-university-faculty-of-veterinary-medicine",
+    "disciplineId": "sy-veterinary-medicine",
+    "campus": {
+      "locality": {
+        "en": "Hama",
+        "ar": "حماة"
+      },
+      "governorateSlug": "hama"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Veterinary Medicine",
+      "ar": "الطب البيطري"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "hama-veterinary-page",
+      "hama-veterinary-about"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r23",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-veterinary-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D8%A8-%D8%A7%D9%84%D8%A8%D9%8A%D8%B7%D8%B1%D9%8A/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-veterinary-about",
+        "sourceRecordId": "https://veterinary.hama-univ.edu.sy/%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-arabic-language-and-literature",
+    "universityId": "sy-hama-university",
+    "facultyId": "sy-hama-university-faculty-of-arts-and-humanities",
+    "disciplineId": "sy-arabic-language-and-literature",
+    "campus": {
+      "locality": {
+        "en": "Hama",
+        "ar": "حماة"
+      },
+      "governorateSlug": "hama"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Arabic Language and Literature",
+      "ar": "اللغة العربية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "hama-arts-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p11:r18",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-arts-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%AF%D8%A7%D8%A8-%D9%88-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%A7%D9%86%D9%8A%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-english-language-and-literature",
+    "universityId": "sy-hama-university",
+    "facultyId": "sy-hama-university-faculty-of-arts-and-humanities",
+    "disciplineId": "sy-english-language-and-literature",
+    "campus": {
+      "locality": {
+        "en": "Hama",
+        "ar": "حماة"
+      },
+      "governorateSlug": "hama"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "English Language and Literature",
+      "ar": "اللغة الإنكليزية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "hama-arts-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p11:r40",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-arts-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%AF%D8%A7%D8%A8-%D9%88-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%A7%D9%86%D9%8A%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-physical-education",
+    "universityId": "sy-hama-university",
+    "facultyId": "sy-hama-university-faculty-of-physical-education",
+    "disciplineId": "sy-physical-education",
+    "campus": {
+      "locality": {
+        "en": "Hama",
+        "ar": "حماة"
+      },
+      "governorateSlug": "hama"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Physical Education",
+      "ar": "التربية الرياضية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "hama-sport-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p15:r32",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-sport-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-civil-engineering-technical-diploma-surveying",
+    "universityId": "sy-hama-university",
+    "facultyId": "sy-hama-university-technical-engineering-institute",
+    "disciplineId": "sy-surveying-and-geomatics",
+    "campus": {
+      "locality": {
+        "en": "Hama",
+        "ar": "حماة"
+      },
+      "governorateSlug": "hama"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Civil Engineering Technical Diploma - Surveying",
+      "ar": "الدبلوم التقاني في الهندسة المدنية - المساحة"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "hama-institutes-list",
+      "hama-engineering-institute-page",
+      "hama-engineering-institute-history"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r20",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-institutes-list",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D9%85%D8%B9%D8%A7%D9%87%D8%AF-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-engineering-institute-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D9%8A/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-engineering-institute-history",
+        "sourceRecordId": "https://inst-eng.hama-univ.edu.sy/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-civil-engineering-technical-diploma-architecture",
+    "universityId": "sy-hama-university",
+    "facultyId": "sy-hama-university-technical-engineering-institute",
+    "disciplineId": "sy-architectural-drafting-technology",
+    "campus": {
+      "locality": {
+        "en": "Hama",
+        "ar": "حماة"
+      },
+      "governorateSlug": "hama"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Civil Engineering Technical Diploma - Architecture",
+      "ar": "الدبلوم التقاني في الهندسة المدنية - العمارة"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "hama-institutes-list",
+      "hama-engineering-institute-page",
+      "hama-engineering-institute-history"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r21",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-institutes-list",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D9%85%D8%B9%D8%A7%D9%87%D8%AF-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-engineering-institute-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D9%8A/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-engineering-institute-history",
+        "sourceRecordId": "https://inst-eng.hama-univ.edu.sy/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-civil-engineering-technical-diploma-general-construction",
+    "universityId": "sy-hama-university",
+    "facultyId": "sy-hama-university-technical-engineering-institute",
+    "disciplineId": "sy-building-construction-technology",
+    "campus": {
+      "locality": {
+        "en": "Hama",
+        "ar": "حماة"
+      },
+      "governorateSlug": "hama"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Civil Engineering Technical Diploma - General Construction",
+      "ar": "الدبلوم التقاني في الهندسة المدنية - الإنشاءات العامة"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "hama-institutes-list",
+      "hama-engineering-institute-page",
+      "hama-engineering-institute-history"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r22",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-institutes-list",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D9%85%D8%B9%D8%A7%D9%87%D8%AF-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-engineering-institute-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D9%8A/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-engineering-institute-history",
+        "sourceRecordId": "https://inst-eng.hama-univ.edu.sy/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-dental-technical-diploma-dental-prosthetics",
+    "universityId": "sy-hama-university",
+    "facultyId": "sy-hama-university-technical-institute-of-dentistry",
+    "disciplineId": "sy-dental-prosthetics",
+    "campus": {
+      "locality": {
+        "en": "Hama",
+        "ar": "حماة"
+      },
+      "governorateSlug": "hama"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Dental Technical Diploma - Dental Prosthetics",
+      "ar": "الدبلوم التقاني في طب الأسنان - تعويضات سنية"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "hama-institutes-list",
+      "hama-dental-institute-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r37",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-institutes-list",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D9%85%D8%B9%D8%A7%D9%87%D8%AF-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-dental-institute-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D9%84%D8%B7%D8%A8-%D8%A7%D9%84%D8%A7%D8%B3%D9%86%D8%A7%D9%86/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-dental-technical-diploma-dental-assistant",
+    "universityId": "sy-hama-university",
+    "facultyId": "sy-hama-university-technical-institute-of-dentistry",
+    "disciplineId": "sy-dental-assistance",
+    "campus": {
+      "locality": {
+        "en": "Hama",
+        "ar": "حماة"
+      },
+      "governorateSlug": "hama"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Dental Technical Diploma - Dental Assistant",
+      "ar": "الدبلوم التقاني في طب الأسنان - مساعد طبيب أسنان"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "hama-institutes-list",
+      "hama-dental-institute-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r42",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-institutes-list",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D9%85%D8%B9%D8%A7%D9%87%D8%AF-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-dental-institute-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D9%84%D8%B7%D8%A8-%D8%A7%D9%84%D8%A7%D8%B3%D9%86%D8%A7%D9%86/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-protected-agriculture-technical-diploma",
+    "universityId": "sy-university-of-tartus",
+    "facultyId": "sy-university-of-tartus-technical-agricultural-institute",
+    "disciplineId": "sy-agricultural-technology",
+    "campus": {
+      "locality": {
+        "en": "Tartus",
+        "ar": "طرطوس"
+      },
+      "governorateSlug": "tartus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Protected Agriculture Technical Diploma",
+      "ar": "الدبلوم التقاني الزراعي في الزراعات المحمية"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-public-university-named-programs-2026-2027",
+      "tartus-university-units-list",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "tartus-agricultural-institute-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p17:r17",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-university-named-programs-2026-2027",
+        "sourceRecordId": "announcement-6:p23:r3",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "https://mohe.gov.sy/img/uploads1/news_pdf_20260930160241_651_0.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-agricultural-institute-page",
+        "sourceRecordId": "https://tartous-univ.edu.sy/faculties/almaahd-altkany-alzraaay",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
   }
 ]

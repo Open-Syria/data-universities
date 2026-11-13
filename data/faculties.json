@@ -7130,5 +7130,265 @@
       }
     ],
     "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-faculty-of-human-medicine",
+    "universityId": "sy-hama-university",
+    "name": {
+      "en": "Faculty of Human Medicine",
+      "ar": "كلية الطب البشري"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["public-university-affiliations-decree-250-2006"],
+    "sourceReferences": [
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-faculty-of-pharmacy",
+    "universityId": "sy-hama-university",
+    "name": {
+      "en": "Faculty of Pharmacy",
+      "ar": "كلية الصيدلة"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["hama-pharmacy-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "hama-pharmacy-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D8%A7%D9%84%D8%B5%D9%8A%D8%AF%D9%84%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-faculty-of-architecture-salamiyah",
+    "universityId": "sy-hama-university",
+    "name": {
+      "en": "Faculty of Architecture",
+      "ar": "كلية الهندسة المعمارية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "hama-architecture-page",
+      "hama-architecture-history"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r31",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-architecture-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D9%85%D8%A7%D8%B1%D9%8A%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-architecture-history",
+        "sourceRecordId": "https://architecture.hama-univ.edu.sy/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-faculty-of-veterinary-medicine",
+    "universityId": "sy-hama-university",
+    "name": {
+      "en": "Faculty of Veterinary Medicine",
+      "ar": "كلية الطب البيطري"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "hama-veterinary-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r23",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-veterinary-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D8%A8-%D8%A7%D9%84%D8%A8%D9%8A%D8%B7%D8%B1%D9%8A/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-faculty-of-arts-and-humanities",
+    "universityId": "sy-hama-university",
+    "name": {
+      "en": "Faculty of Arts and Humanities",
+      "ar": "كلية الآداب والعلوم الإنسانية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "hama-arts-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p11:r18",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-arts-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%AF%D8%A7%D8%A8-%D9%88-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%A7%D9%86%D9%8A%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-faculty-of-physical-education",
+    "universityId": "sy-hama-university",
+    "name": {
+      "en": "Faculty of Physical Education",
+      "ar": "كلية التربية الرياضية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-public-city-programs-2026-2027", "hama-sport-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p15:r32",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-sport-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-technical-engineering-institute",
+    "universityId": "sy-hama-university",
+    "name": {
+      "en": "Technical Engineering Institute",
+      "ar": "المعهد التقاني الهندسي"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "hama-institutes-list",
+      "hama-engineering-institute-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r20",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-institutes-list",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D9%85%D8%B9%D8%A7%D9%87%D8%AF-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-engineering-institute-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D9%8A/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-hama-university-technical-institute-of-dentistry",
+    "universityId": "sy-hama-university",
+    "name": {
+      "en": "Technical Institute of Dentistry",
+      "ar": "المعهد التقاني لطب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "hama-institutes-list",
+      "hama-dental-institute-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r37",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-institutes-list",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D9%85%D8%B9%D8%A7%D9%87%D8%AF-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "hama-dental-institute-page",
+        "sourceRecordId": "https://hama-univ.edu.sy/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D9%84%D8%B7%D8%A8-%D8%A7%D9%84%D8%A7%D8%B3%D9%86%D8%A7%D9%86/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-technical-agricultural-institute",
+    "universityId": "sy-university-of-tartus",
+    "name": {
+      "en": "Technical Agricultural Institute",
+      "ar": "المعهد التقاني الزراعي"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "tartus-university-units-list",
+      "mohe-2026-2027-technical-education-announcement-5"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p17:r17",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "tartus-university-units-list",
+        "sourceRecordId": "https://api.tartous-univ.edu.sy/api/website/pages/units-dropdown",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "https://mohe.gov.sy/img/uploads1/news_pdf_20260930160241_651_0.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
   }
 ]
