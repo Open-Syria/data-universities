@@ -17182,5 +17182,2285 @@
       }
     ],
     "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-human-medicine",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-human-medicine",
+    "disciplineId": "sy-medicine",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Human Medicine",
+      "ar": "الطب البشري"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["homs-univ-faculties-page", "homs-med-degrees-page"],
+    "sourceReferences": [
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-med-degrees-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/med/%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d8%a7%d9%84%d8%aa%d9%8a-%d8%aa%d9%85%d9%86%d8%ad%d9%87%d8%a7-%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%b7%d8%a8",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-dentistry",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-dentistry",
+    "disciplineId": "sy-dentistry",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Dentistry",
+      "ar": "طب الأسنان"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["homs-univ-faculties-page", "homs-univ-news-medical-faculties-2026"],
+    "sourceReferences": [
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-medical-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%a9-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d8%aa%d9%83%d8%a7%d9%85%d9%84-2/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-pharmacy",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-pharmacy",
+    "disciplineId": "sy-pharmacy",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Pharmacy",
+      "ar": "الصيدلة"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["homs-pharmacy-program-spec"],
+    "sourceReferences": [
+      {
+        "sourceId": "homs-pharmacy-program-spec",
+        "sourceRecordId": "https://homs-univ.edu.sy/pharmacy/%d8%aa%d9%88%d8%b5%d9%8a%d9%81-%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d9%85%d8%ac-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-informatics-engineering-artificial-intelligence",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-informatics-engineering",
+    "disciplineId": "sy-artificial-intelligence-engineering",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Informatics Engineering (Artificial Intelligence)",
+      "ar": "الهندسة المعلوماتية (الذكاء الاصطناعي)"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-it-about-page",
+      "homs-univ-news-engineering-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r15",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-it-about-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/it/%d8%a7%d9%84%d8%b1%d8%a4%d9%8a%d8%a7-%d9%88%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d9%84%d8%a9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-engineering-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a%d8%a9-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d9%87%d9%86%d8%af-2/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-architecture",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-architecture",
+    "disciplineId": "sy-architecture",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Architecture",
+      "ar": "الهندسة المعمارية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-archi-about-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r30",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-archi-about-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/archi/%d8%a7%d9%84%d8%b1%d8%a4%d9%8a%d8%a7-%d9%88%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d9%84%d8%a9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-electronics-and-communications-engineering",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-mechanical-and-electrical-engineering",
+    "disciplineId": "sy-communications-engineering",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Electronics and Communications Engineering",
+      "ar": "هندسة الإلكترونيات والاتصالات"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-engineering-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r24",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-engineering-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a%d8%a9-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d9%87%d9%86%d8%af-2/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-automatic-control-and-computer-engineering",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-mechanical-and-electrical-engineering",
+    "disciplineId": "sy-control-and-automation-engineering",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Automatic Control and Computer Engineering",
+      "ar": "هندسة التحكم الآلي والحواسيب"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-engineering-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r25",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-engineering-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a%d8%a9-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d9%87%d9%86%d8%af-2/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-electrical-power-engineering",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-mechanical-and-electrical-engineering",
+    "disciplineId": "sy-electrical-engineering",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Electrical Power Engineering",
+      "ar": "هندسة الطاقة الكهربائية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-engineering-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r26",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-engineering-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a%d8%a9-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d9%87%d9%86%d8%af-2/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-mechanical-power-engineering",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-mechanical-and-electrical-engineering",
+    "disciplineId": "sy-mechanical-engineering",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Mechanical Power Engineering",
+      "ar": "هندسة القوى الميكانيكية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-engineering-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r27",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-engineering-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a%d8%a9-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d9%87%d9%86%d8%af-2/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-design-and-production-engineering",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-mechanical-and-electrical-engineering",
+    "disciplineId": "sy-mechanical-design-and-production-engineering",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Design and Production Engineering",
+      "ar": "هندسة التصميم والإنتاج"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-engineering-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r28",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-engineering-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a%d8%a9-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d9%87%d9%86%d8%af-2/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-mechatronics-engineering",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-mechanical-and-electrical-engineering",
+    "disciplineId": "sy-mechatronics-engineering",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Mechatronics Engineering",
+      "ar": "هندسة الميكاترونيك"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-engineering-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r29",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-engineering-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a%d8%a9-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d9%87%d9%86%d8%af-2/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-metallurgical-engineering",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-mechanical-and-electrical-engineering",
+    "disciplineId": "sy-materials-engineering",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Metallurgical Engineering",
+      "ar": "هندسة المعادن"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-engineering-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r30",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-engineering-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a%d8%a9-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d9%87%d9%86%d8%af-2/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-petroleum-engineering",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-chemical-and-petroleum-engineering",
+    "disciplineId": "sy-petroleum-engineering",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Petroleum Engineering",
+      "ar": "الهندسة البترولية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-engineering-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r43",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-engineering-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a%d8%a9-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d9%87%d9%86%d8%af-2/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-chemical-engineering",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-chemical-and-petroleum-engineering",
+    "disciplineId": "sy-chemical-engineering",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Chemical Engineering",
+      "ar": "الهندسة الكيميائية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-engineering-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r44",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-engineering-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a%d8%a9-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d9%87%d9%86%d8%af-2/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-food-engineering",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-chemical-and-petroleum-engineering",
+    "disciplineId": "sy-food-engineering",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Food Engineering",
+      "ar": "الهندسة الغذائية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-engineering-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r45",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-engineering-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a%d8%a9-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d9%87%d9%86%d8%af-2/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-spinning-and-weaving-engineering",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-chemical-and-petroleum-engineering",
+    "disciplineId": "sy-textile-engineering",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Spinning and Weaving Engineering",
+      "ar": "هندسة الغزل والنسيج"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-engineering-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r46",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-engineering-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a%d8%a9-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d9%87%d9%86%d8%af-2/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-agricultural-engineering",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-agricultural-engineering",
+    "disciplineId": "sy-agricultural-engineering",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Agricultural Engineering",
+      "ar": "الهندسة الزراعية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-engineering-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r35",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-engineering-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a%d8%a9-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d9%87%d9%86%d8%af-2/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-business-administration",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-economics",
+    "disciplineId": "sy-business-administration",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Business Administration",
+      "ar": "إدارة الأعمال"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-news-economics-sciences-faculties-2026",
+      "homs-univ-faculties-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r54",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-economics-sciences-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d9%85%d9%86%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a%d8%a9-%d9%88-%d8%a7%d9%84/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-biology",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-sciences",
+    "disciplineId": "sy-biology",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Biology",
+      "ar": "علم الحياة"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-economics-sciences-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p4:r26",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-economics-sciences-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d9%85%d9%86%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a%d8%a9-%d9%88-%d8%a7%d9%84/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-geology",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-sciences",
+    "disciplineId": "sy-geology",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Geology",
+      "ar": "الجيولوجيا"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-economics-sciences-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p5:r14",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-economics-sciences-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d9%85%d9%86%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a%d8%a9-%d9%88-%d8%a7%d9%84/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-mathematics",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-sciences",
+    "disciplineId": "sy-mathematics",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Mathematics",
+      "ar": "الرياضيات"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-economics-sciences-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p6:r9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-economics-sciences-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d9%85%d9%86%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a%d8%a9-%d9%88-%d8%a7%d9%84/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-physics",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-sciences",
+    "disciplineId": "sy-physics",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Physics",
+      "ar": "الفيزياء"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-economics-sciences-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p8:r3",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-economics-sciences-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d9%85%d9%86%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a%d8%a9-%d9%88-%d8%a7%d9%84/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-chemistry",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-sciences",
+    "disciplineId": "sy-chemistry",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Chemistry",
+      "ar": "الكيمياء"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-economics-sciences-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p9:r7",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-economics-sciences-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d9%85%d9%86%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a%d8%a9-%d9%88-%d8%a7%d9%84/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-mathematical-statistics",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-sciences",
+    "disciplineId": "sy-statistics",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Mathematical Statistics",
+      "ar": "الإحصاء الرياضي"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-economics-sciences-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p10:r11",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-economics-sciences-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d9%85%d9%86%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a%d8%a9-%d9%88-%d8%a7%d9%84/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-nutrition",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-health-sciences",
+    "disciplineId": "sy-nutrition-and-dietetics",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Nutrition",
+      "ar": "التغذية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-news-medical-faculties-2026",
+      "homs-univ-faculties-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p10:r21",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-medical-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%a9-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d8%aa%d9%83%d8%a7%d9%85%d9%84-2/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-laboratory-sciences",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-health-sciences",
+    "disciplineId": "sy-medical-laboratory-sciences",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Laboratory Sciences",
+      "ar": "علوم المخابر"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-news-medical-faculties-2026",
+      "homs-univ-faculties-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p10:r22",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-medical-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%a9-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d8%aa%d9%83%d8%a7%d9%85%d9%84-2/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-physiotherapy",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-health-sciences",
+    "disciplineId": "sy-physiotherapy",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Physiotherapy",
+      "ar": "المعالجة الفيزيائية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-news-medical-faculties-2026",
+      "homs-univ-faculties-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p10:r23",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-medical-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%a9-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d8%aa%d9%83%d8%a7%d9%85%d9%84-2/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-arabic-language-and-literature",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-arts-and-humanities",
+    "disciplineId": "sy-arabic-language-and-literature",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Arabic Language and Literature",
+      "ar": "اللغة العربية وآدابها"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-humanities-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p11:r17",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-humanities-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d8%a9-%d9%85%d9%86%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d9%83%d8%b1-%d9%88%d8%a8/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-english-language-and-literature",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-arts-and-humanities",
+    "disciplineId": "sy-english-language-and-literature",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "English Language and Literature",
+      "ar": "اللغة الإنكليزية وآدابها"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-humanities-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p11:r39",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-humanities-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d8%a9-%d9%85%d9%86%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d9%83%d8%b1-%d9%88%d8%a8/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-french-language-and-literature",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-arts-and-humanities",
+    "disciplineId": "sy-french-language-and-literature",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "French Language and Literature",
+      "ar": "اللغة الفرنسية وآدابها"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-humanities-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p12:r8",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-humanities-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d8%a9-%d9%85%d9%86%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d9%83%d8%b1-%d9%88%d8%a8/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-persian-language-and-literature",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-arts-and-humanities",
+    "disciplineId": "sy-persian-language",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Persian Language and Literature",
+      "ar": "اللغة الفارسية وآدابها"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-humanities-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p12:r19",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-humanities-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d8%a9-%d9%85%d9%86%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d9%83%d8%b1-%d9%88%d8%a8/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-philosophy",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-arts-and-humanities",
+    "disciplineId": "sy-philosophy",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Philosophy",
+      "ar": "الفلسفة"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-humanities-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p12:r31",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-humanities-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d8%a9-%d9%85%d9%86%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d9%83%d8%b1-%d9%88%d8%a8/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-history",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-arts-and-humanities",
+    "disciplineId": "sy-history",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "History",
+      "ar": "التاريخ"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-literary-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-humanities-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-literary-2026-2027",
+        "sourceRecordId": "announcement-4:p3:r35",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-humanities-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d8%a9-%d9%85%d9%86%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d9%83%d8%b1-%d9%88%d8%a8/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-law",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-law",
+    "disciplineId": "sy-law",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Law",
+      "ar": "الحقوق"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-humanities-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p13:r35",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-humanities-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d8%a9-%d9%85%d9%86%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d9%83%d8%b1-%d9%88%d8%a8/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-curriculum-and-instruction",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-education",
+    "disciplineId": "sy-curricula-and-teaching-methods",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Curriculum and Instruction",
+      "ar": "المناهج وطرائق التدريس"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-humanities-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p13:r46",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-humanities-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d8%a9-%d9%85%d9%86%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d9%83%d8%b1-%d9%88%d8%a8/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-psychology",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-education",
+    "disciplineId": "sy-psychology",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Psychology",
+      "ar": "علم النفس"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-humanities-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p14:r4",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-humanities-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d8%a9-%d9%85%d9%86%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d9%83%d8%b1-%d9%88%d8%a8/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-psychological-counseling",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-education",
+    "disciplineId": "sy-psychological-counseling",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Psychological Counseling",
+      "ar": "الإرشاد النفسي"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-humanities-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p14:r19",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-humanities-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d8%a9-%d9%85%d9%86%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d9%83%d8%b1-%d9%88%d8%a8/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-primary-education",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-education",
+    "disciplineId": "sy-primary-education",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Primary Education",
+      "ar": "معلم الصف"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-humanities-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p14:r38",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-humanities-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d8%a9-%d9%85%d9%86%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d9%83%d8%b1-%d9%88%d8%a8/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-early-childhood-education",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-education",
+    "disciplineId": "sy-early-childhood-education",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Early Childhood Education",
+      "ar": "رياض الأطفال"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-humanities-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p14:r54",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-humanities-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d8%a9-%d9%85%d9%86%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d9%83%d8%b1-%d9%88%d8%a8/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-tourism",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-faculty-of-tourism",
+    "disciplineId": "sy-tourism-and-hospitality-management",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Tourism",
+      "ar": "السياحة"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-faculties-page",
+      "homs-univ-news-humanities-faculties-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p15:r25",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-faculties-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-humanities-faculties-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d8%a9-%d9%85%d9%86%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d9%83%d8%b1-%d9%88%d8%a8/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-engineering-technical-diploma-general-construction",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-technical-engineering-institute",
+    "disciplineId": "sy-building-construction-technology",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Engineering Technical Diploma - General Construction",
+      "ar": "الدبلوم التقاني في الهندسة - الإنشاءات العامة"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-institutes-page",
+      "homs-univ-news-technical-institutes-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r11",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-institutes-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5/d8-a7-d9-84-d9-85-d8-b9-d8-a7-d9-87-d8-af/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-technical-institutes-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d8%ad%d8%a7%d8%b6%d9%86%d8%a9-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d9%87%d8%af-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%86%d9%8a%d8%a9-%d9%86%d8%ad%d9%88-%d9%85/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-engineering-technical-diploma-surveying",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-technical-engineering-institute",
+    "disciplineId": "sy-surveying-and-geomatics",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Engineering Technical Diploma - Surveying",
+      "ar": "الدبلوم التقاني في الهندسة - المساحة"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-institutes-page",
+      "homs-univ-news-technical-institutes-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r12",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-institutes-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5/d8-a7-d9-84-d9-85-d8-b9-d8-a7-d9-87-d8-af/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-technical-institutes-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d8%ad%d8%a7%d8%b6%d9%86%d8%a9-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d9%87%d8%af-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%86%d9%8a%d8%a9-%d9%86%d8%ad%d9%88-%d9%85/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-engineering-technical-diploma-sanitary-and-water-works",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-technical-engineering-institute",
+    "disciplineId": "sy-water-and-sanitation-technology",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Engineering Technical Diploma - Sanitary and Water Works",
+      "ar": "الدبلوم التقاني في الهندسة - الصحية والمائية"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-institutes-page",
+      "homs-univ-news-technical-institutes-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r13",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-institutes-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5/d8-a7-d9-84-d9-85-d8-b9-d8-a7-d9-87-d8-af/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-technical-institutes-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d8%ad%d8%a7%d8%b6%d9%86%d8%a9-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d9%87%d8%af-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%86%d9%8a%d8%a9-%d9%86%d8%ad%d9%88-%d9%85/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-engineering-technical-diploma-architecture",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-technical-engineering-institute",
+    "disciplineId": "sy-architectural-drafting-technology",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Engineering Technical Diploma - Architecture",
+      "ar": "الدبلوم التقاني في الهندسة - العمارة"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "homs-univ-institutes-page",
+      "homs-univ-news-technical-institutes-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r14",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-institutes-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5/d8-a7-d9-84-d9-85-d8-b9-d8-a7-d9-87-d8-af/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-technical-institutes-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d8%ad%d8%a7%d8%b6%d9%86%d8%a9-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d9%87%d8%af-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%86%d9%8a%d8%a9-%d9%86%d8%ad%d9%88-%d9%85/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-dental-technical-diploma-dental-assistant",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-technical-institute-of-dentistry",
+    "disciplineId": "sy-dental-assistance",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Dental Technical Diploma - Dental Assistant",
+      "ar": "الدبلوم التقاني في طب الأسنان - مساعد طبيب أسنان"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "homs-univ-news-technical-institutes-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r40",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "https://mohe.gov.sy/img/uploads1/news_pdf_20260930160241_651_0.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-technical-institutes-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d8%ad%d8%a7%d8%b6%d9%86%d8%a9-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d9%87%d8%af-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%86%d9%8a%d8%a9-%d9%86%d8%ad%d9%88-%d9%85/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-agricultural-sciences-technical-diploma-badia-affairs-and-desertification",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-technical-institute-of-badia-affairs-and-desertification",
+    "disciplineId": "sy-agricultural-technology",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Agricultural Sciences Technical Diploma - Badia Affairs and Desertification",
+      "ar": "الدبلوم التقاني في العلوم الزراعية - شؤون البادية والتصحر"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-public-university-named-programs-2026-2027",
+      "homs-univ-institutes-page",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "homs-univ-news-technical-institutes-2026"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p17:r25",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-university-named-programs-2026-2027",
+        "sourceRecordId": "announcement-6:p23:r10",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-institutes-page",
+        "sourceRecordId": "https://homs-univ.edu.sy/%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5/d8-a7-d9-84-d9-85-d8-b9-d8-a7-d9-87-d8-af/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "https://mohe.gov.sy/img/uploads1/news_pdf_20260930160241_651_0.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-technical-institutes-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d8%ad%d8%a7%d8%b6%d9%86%d8%a9-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d9%87%d8%af-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%86%d9%8a%d8%a9-%d9%86%d8%ad%d9%88-%d9%85/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-homs-university-computer-engineering-technical-diploma",
+    "universityId": "sy-homs-university",
+    "facultyId": "sy-homs-university-technical-institute-of-computing",
+    "disciplineId": "sy-computer-technologies",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Computer Engineering Technical Diploma",
+      "ar": "الدبلوم التقاني في هندسة الكمبيوتر"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-public-university-named-programs-2026-2027",
+      "homs-univ-news-technical-institutes-2026",
+      "mohe-2026-2027-technical-education-announcement-5"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p18:r17",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-university-named-programs-2026-2027",
+        "sourceRecordId": "announcement-6:p15:r8",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-univ-news-technical-institutes-2026",
+        "sourceRecordId": "https://homs-univ.edu.sy/2026/10/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d8%ad%d8%a7%d8%b6%d9%86%d8%a9-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d9%87%d8%af-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%86%d9%8a%d8%a9-%d9%86%d8%ad%d9%88-%d9%85/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "https://mohe.gov.sy/img/uploads1/news_pdf_20260930160241_651_0.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
   }
 ]

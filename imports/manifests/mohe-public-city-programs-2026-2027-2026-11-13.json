@@ -1,0 +1,54 @@
+{
+  "sourceId": "mohe-public-city-programs-2026-2027",
+  "sourceTitle": "Syrian Ministry of Higher Education 2026–2027 city-grouped public admissions tables",
+  "sourceUrl": "https://mohe.gov.sy/ar/media-center/details/651",
+  "license": "Public source; factual data only",
+  "accessedAt": "2026-11-13T00:00:00.000Z",
+  "status": "imported",
+  "rawFiles": [
+    {
+      "name": "news_pdf_20260930155756_651_0.pdf",
+      "sha256": "19cbf7ff60d37c9b73a87c6d1e011a4558b20bdad72279b2733aaf8ced452493",
+      "notes": "Announcement 1. Pages 4–6 describe the common medical preparatory year, the placement into medical faculties at its end, and Al-Furat's medical faculties."
+    },
+    {
+      "name": "news_pdf_20260930155934_651_0.pdf",
+      "sha256": "1812ac613d9e0d9b178f6829af2455add52c6bdf34e82e8c5289107a046faad9",
+      "notes": "Announcement 2. Each offering cites its first city-grouped row; the routes come from the same row."
+    },
+    {
+      "name": "news_pdf_20260930160200_651_0.pdf",
+      "sha256": "6c6211d1e6f0649c801fe8d12b6297685fbb6d9441344375d24f62edf51760e5",
+      "notes": "Announcement 4. Cited only for offerings whose first row is in the literary table."
+    },
+    {
+      "name": "news_pdf_20260930160241_651_0.pdf",
+      "sha256": "27f6ad5a9b40d99a6e7d6725d2432cded4769e37e33e13fe2f935eaac5c9d551",
+      "notes": "Announcement 5. Names the university or ministry that runs each applied college and technical institute, and its location."
+    },
+    {
+      "name": "news_pdf_20260930160315_651_0.pdf",
+      "sha256": "ab03dd05c06227039b9721011a15f15120f695df237e692ff753368e82374ed9",
+      "notes": "Announcement 6. Named public rows that match a city-grouped offering are cited as a second Ministry reference."
+    }
+  ],
+  "importedFields": [
+    "program name",
+    "campus",
+    "university affiliation",
+    "admission route identifiers",
+    "faculty or institute name",
+    "degree level",
+    "discipline classification",
+    "source references"
+  ],
+  "targetFiles": ["data/faculties.json", "data/programs.json", "data/sources.json"],
+  "transforms": [
+    "Collapse the 4,303 city-grouped choices into 1,031 candidates by city-group ID, campus, governorate, Arabic label and kind, then into offering leads per campus and field of study. Quota variants, the مجموع and تخصصي science variants and repeated applicant tables join one lead.",
+    "Assign a lead to a university only when an official source names that university for the faculty or institute at that city: the university's own faculty or institute page, an establishment decree, the University Organization Law's executive regulations (Decree 250 of 2006, article 2), a Higher Education Council decision, or announcement 5.",
+    "Record an offering only when the university's own page, regulation, study plan or guide, or the Official Gazette, names the award for that program. Faculty-level statements apply to the departments they list.",
+    "Record Human Medicine, Dentistry and Pharmacy at each public university from university sources with null admissions, because entry is through the common preparatory year (announcement 2, page 1, rows 4–5). Professional first degrees use the bachelor level, as the owner decided on 13 November 2026.",
+    "Leave every other lead pending in the city-grouped register with the evidence it still needs. Institutes that announcement 5 assigns to another ministry are not university offerings."
+  ],
+  "reviewNotes": "Batch 3 of the program plan. University pages and Gazette text were read on 2026-11-13; Internet Archive copies are cited by snapshot URL. Al-Baath and Tishreen sources are matched to Homs University and the University of Latakia by Decrees 99 and 100 of 2025."
+}

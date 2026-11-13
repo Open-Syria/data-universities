@@ -2478,5 +2478,125 @@
     "status": "approved",
     "fields": ["program name", "field of study"],
     "notes": "Program labels from the eleven 2026–2027 admissions announcements, as transcribed in the OpenSyria admissions catalogues. Used to name fields of study; offerings, faculties and awards need separate evidence."
+  },
+  {
+    "id": "mohe-public-city-programs-literary-2026-2027",
+    "title": "Syrian Ministry of Higher Education 2026–2027 literary admissions minimums (announcement 4)",
+    "url": "https://mohe.gov.sy/img/uploads1/news_pdf_20260930160200_651_0.pdf",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["program name", "campus", "admission route identifiers"],
+    "notes": "Uses the city-grouped offering labels and intake routes that appear only in the literary table. Faculty affiliation and award level require separate evidence."
+  },
+  {
+    "id": "homs-univ-faculties-page",
+    "title": "Homs University faculties overview (التعليم في جامعة حمص / الكليات)",
+    "url": "https://homs-univ.edu.sy/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%85%D8%B5/%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A7%D8%AA/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Describes each Homs University faculty, its founding decree and seat (Homs; second faculties of Education and Sciences in Palmyra; new Faculty of Sharia from 2026-2027)."
+  },
+  {
+    "id": "homs-med-degrees-page",
+    "title": "Homs University Faculty of Medicine: degrees granted",
+    "url": "https://homs-univ.edu.sy/med/%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d8%a7%d9%84%d8%aa%d9%8a-%d8%aa%d9%85%d9%86%d8%ad%d9%87%d8%a7-%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%b7%d8%a8",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The Faculty of Medicine grants إجازة دكتور في الطب البشري and postgraduate degrees."
+  },
+  {
+    "id": "homs-univ-news-medical-faculties-2026",
+    "title": "Homs University medical sciences faculties profile (4 Oct 2026)",
+    "url": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%a9-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d8%aa%d9%83%d8%a7%d9%85%d9%84-2/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level", "university affiliation"],
+    "notes": "Lists departments and degrees granted by the Faculties of Medicine, Dentistry, Pharmacy and Health Sciences of Homs University."
+  },
+  {
+    "id": "homs-pharmacy-program-spec",
+    "title": "Homs University Faculty of Pharmacy programme specification",
+    "url": "https://homs-univ.edu.sy/pharmacy/%d8%aa%d9%88%d8%b5%d9%8a%d9%81-%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d9%85%d8%ac-2",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Pharmacy programme (Al-Baath/Homs University): five years including the preparatory year; qualification إجازة في الصيدلة والكيمياء الصيدلية; delivered on the university campus."
+  },
+  {
+    "id": "homs-it-about-page",
+    "title": "Homs University Faculty of Informatics Engineering: vision, mission and degrees",
+    "url": "https://homs-univ.edu.sy/it/%d8%a7%d9%84%d8%b1%d8%a4%d9%8a%d8%a7-%d9%88%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d9%84%d8%a9",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Five-year programme leading to the إجازة in informatics engineering; departments software, networks and (then unopened) artificial intelligence; faculty belongs to Al-Baath (Homs) University."
+  },
+  {
+    "id": "homs-univ-news-engineering-faculties-2026",
+    "title": "Homs University engineering faculties profile (4 Oct 2026)",
+    "url": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d9%87%d9%86%d8%af%d8%b3%d9%8a%d8%a9-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d9%87%d9%86%d8%af-2/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Lists departments and the إجازة degrees of the Informatics, Civil, Architecture, Chemical and Petroleum, Mechanical and Electrical, Agricultural engineering faculties and the Applied College of Homs University."
+  },
+  {
+    "id": "homs-archi-about-page",
+    "title": "Homs University Faculty of Architecture: vision, mission and degrees",
+    "url": "https://homs-univ.edu.sy/archi/%d8%a7%d9%84%d8%b1%d8%a4%d9%8a%d8%a7-%d9%88%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d9%84%d8%a9",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "The architecture إجازة at Homs University takes five years and requires passing all courses and the graduation project."
+  },
+  {
+    "id": "homs-univ-news-economics-sciences-faculties-2026",
+    "title": "Homs University economics and basic sciences faculties profile (4 Oct 2026)",
+    "url": "https://homs-univ.edu.sy/2026/10/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d9%85%d9%86%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a%d8%a9-%d9%88-%d8%a7%d9%84/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "program name", "qualification level"],
+    "notes": "Lists departments and the إجازة degrees of the Faculty of Economics (business administration) and the Faculty of Sciences of Homs University."
+  },
+  {
+    "id": "homs-univ-news-humanities-faculties-2026",
+    "title": "Homs University humanities faculties profile (4 Oct 2026)",
+    "url": "https://homs-univ.edu.sy/2026/10/%d9%83%d9%84%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d8%a9-%d9%85%d9%86%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%81%d9%83%d8%b1-%d9%88%d8%a8/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Lists departments and the إجازة degrees of the Arts and Humanities, Law, Tourism, Education and Music Education faculties of Homs University."
+  },
+  {
+    "id": "homs-univ-institutes-page",
+    "title": "Homs University institutes overview (المعاهد)",
+    "url": "https://homs-univ.edu.sy/%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85-%d9%81%d9%8a-%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5/d8-a7-d9-84-d9-85-d8-b9-d8-a7-d9-87-d8-af/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Lists the university technical institutes (computer, engineering in Homs, agricultural, Badia and desertification) and states the agricultural institute diploma."
+  },
+  {
+    "id": "homs-univ-news-technical-institutes-2026",
+    "title": "Homs University technical institutes profile (4 Oct 2026)",
+    "url": "https://homs-univ.edu.sy/2026/10/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%ad%d9%85%d8%b5-%d8%ad%d8%a7%d8%b6%d9%86%d8%a9-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d9%87%d8%af-%d8%a7%d9%84%d8%aa%d9%82%d8%a7%d9%86%d9%8a%d8%a9-%d9%86%d8%ad%d9%88-%d9%85/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "program name",
+      "qualification level",
+      "campus",
+      "university affiliation"
+    ],
+    "notes": "Lists the technical diplomas (دبلوم تقاني) granted by the Homs University computer, Badia and desertification, dental, agricultural and engineering institutes."
   }
 ]
