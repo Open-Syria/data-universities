@@ -2,15 +2,15 @@
 
 The pinned OpenSyria admissions crosswalk contains 491 named candidates.
 The named review matched 356 of them to 343 catalogue offerings. Batch 3
-resolves 38 more (below), so 394 candidates now match catalogue offerings.
-This page records the other 97 candidates. Counts are admissions
-candidates, so spelling and applicant-route variants may point to the same
-offering. The Damascus business institute admission row supports four
-separately verified awards.
+resolves 38 more and the fourth city-grouped review 21 (below), so 415
+candidates now match catalogue offerings. This page records the other 76
+candidates. Counts are admissions candidates, so spelling and
+applicant-route variants may point to the same offering. The Damascus
+business institute admission row supports four separately verified awards.
 
 | Evidence needed | Candidates |
 | --- | ---: |
-| Award | 76 |
+| Award | 55 |
 | Campus | 15 |
 | Campus and award | 2 |
 | Program and award | 4 |
@@ -98,6 +98,39 @@ are matched to city-grouped offerings in the
 | `announcement-7:p10:r8` | Professional degree (Decision 31) | `sy-university-of-kalamoon-dentistry` |
 | `announcement-7:p10:r13` | Professional degree (Decision 31) | `sy-wadi-international-university-dentistry` |
 
+## Resolved in the fourth city-grouped review
+
+These announcement 6 rows name the university for the same faculty or
+institute and city as a city-grouped row recorded in the
+[fourth city-grouped review](PUBLIC_CITY_PROGRAMS_2026_2027.md#fourth-review-award-from-the-table-type).
+Each offering cites the row as its second Ministry reference. The award
+comes from the city-grouped table type, under the owner decision of
+13 November 2026.
+
+| Ministry locator | Evidence that was needed | Catalogue offering |
+| --- | --- | --- |
+| `announcement-6:p15:r11` | Award | `sy-al-furat-university-computing-technical-diploma-raqqa` |
+| `announcement-6:p19:r5` | Award | `sy-al-furat-university-agricultural-mechanization-technical-diploma-qamishli` |
+| `announcement-6:p20:r6` | Award | `sy-al-furat-university-financial-and-banking-sciences-technical-diploma` |
+| `announcement-6:p24:r2` | Award | `sy-al-furat-university-veterinary-technical-diploma` |
+| `announcement-6:p24:r4` | Award | `sy-al-furat-university-veterinary-technical-diploma-raqqa` |
+| `announcement-6:p15:r9` | Award | `sy-hama-university-computing-technical-diploma` |
+| `announcement-6:p23:r2` | Award | `sy-hama-university-agricultural-sciences-technical-diploma-al-suqaylabiyah` |
+| `announcement-6:p24:r6` | Award | `sy-hama-university-veterinary-technical-diploma` |
+| `announcement-6:p14:r6` | Award | `sy-idlib-university-communications-technical-diploma` |
+| `announcement-6:p15:r10` | Award | `sy-idlib-university-computing-technical-diploma` |
+| `announcement-6:p20:r13` | Award | `sy-idlib-university-financial-and-administrative-sciences-technical-diploma-salqin` |
+| `announcement-6:p23:r8` | Award | `sy-idlib-university-agricultural-sciences-technical-diploma-harem` |
+| `announcement-6:p24:r7` | Award | `sy-idlib-university-veterinary-technical-diploma-harem` |
+| `announcement-6:p11:r7` | Award | `sy-latakia-university-fine-arts` |
+| `announcement-6:p14:r2` | Award | `sy-latakia-university-mechanical-and-electrical-engineering-technical-diploma` |
+| `announcement-6:p15:r7` | Award | `sy-latakia-university-computing-technical-diploma` |
+| `announcement-6:p20:r5` | Award | `sy-latakia-university-financial-and-banking-sciences-technical-diploma` |
+| `announcement-6:p20:r10` | Award | `sy-latakia-university-business-administration-and-marketing-technical-diploma` |
+| `announcement-6:p20:r15` | Award | `sy-latakia-university-statistical-technical-diploma` |
+| `announcement-6:p23:r7` | Award | `sy-latakia-university-mediterranean-agriculture-technical-diploma` |
+| `announcement-6:p24:r5` | Award | `sy-latakia-university-veterinary-technical-diploma` |
+
 ## Remaining candidates
 
 The table uses the Ministry locality labels. When a complex is named in
@@ -110,13 +143,8 @@ uses its first Ministry locator in announcement, page, row order.
 | `sy-al-amanos-university` | عفرين | معهد التحليل المخبري | 7 / 31 / 2 | Award |
 | `sy-al-amanos-university` | عفرين | معهد البصريات | 7 / 31 / 3 | Award |
 | `sy-al-amanos-university` | عفرين | معهد التعويضات السنية | 7 / 31 / 10 | Award |
-| `sy-al-furat-university` | الرقة | المعهد التقاني للحاسوب | 6 / 15 / 11 | Award |
-| `sy-al-furat-university` | قامشلي | المعهد التقاني للمكننة الزراعية | 6 / 19 / 5 | Award |
-| `sy-al-furat-university` | دير الزور | المعهد التقاني للعلوم المالية و المصرفية | 6 / 20 / 6 | Award |
 | `sy-al-furat-university` | الرقة | المعهد التقاني الزراعي | 6 / 23 / 6 | Award |
 | `sy-al-furat-university` | الرقة | المعهد التقاني للري الحديث | 6 / 23 / 9 | Award |
-| `sy-al-furat-university` | دير الزور | المعهد التقاني للطب البيطري | 6 / 24 / 2 | Award |
-| `sy-al-furat-university` | الرقة | المعهد التقاني للطب البيطري | 6 / 24 / 4 | Award |
 | `sy-al-jazeera-private-university` | دير الزور | المعهد التقاني للتعويضات السنية | 7 / 31 / 4 | Award |
 | `sy-al-maali-university` | الباب | المعهد التقني الهندسي - علوم الحاسوب | 7 / 32 / 2 | Award |
 | `sy-al-maali-university` | الباب | المعهد التقني الهندسي - الكهرباء | 7 / 32 / 7 | Award |
@@ -169,22 +197,6 @@ uses its first Ministry locator in announcement, page, row order.
 | `sy-damascus-university` | السويداء | المعهد التقاني الزراعي | 6 / 22 / 10 | Award |
 | `sy-ebla-private-university` | سراقب | المعهد التقاني للعلوم الصحية - المخابر | 7 / 30 / 12 | Award |
 | `sy-ebla-private-university` | سراقب | المعهد التقاني للعلوم الصحية - الصيدلة | 7 / 31 / 12 | Award |
-| `sy-hama-university` | حماة | المعهد التقاني للحاسوب | 6 / 15 / 9 | Award |
-| `sy-hama-university` | حماة | المعهد التقاني الزراعي — السقيلبية | 6 / 23 / 2 | Award |
-| `sy-hama-university` | حماة | المعهد التقاني للطب البيطري | 6 / 24 / 6 | Award |
-| `sy-idlib-university` | إدلب | المعهد التقاني للاتصالات | 6 / 14 / 6 | Award |
-| `sy-idlib-university` | إدلب | المعهد التقاني للحاسوب | 6 / 15 / 10 | Award |
-| `sy-idlib-university` | سلقين | المعهد التقاني للعلوم المالية و الإدارية | 6 / 20 / 13 | Award |
-| `sy-idlib-university` | حارم | المعهد التقاني الزراعي | 6 / 23 / 8 | Award |
-| `sy-idlib-university` | حارم | المعهد التقاني للطب البيطري | 6 / 24 / 7 | Award |
-| `sy-latakia-university` | اللاذقية | كلية الفنون الجميلة | 6 / 11 / 7 | Award |
-| `sy-latakia-university` | اللاذقية | المعهد التقاني للهندسة الميكانيكية والكهربائية | 6 / 14 / 2 | Award |
-| `sy-latakia-university` | اللاذقية | المعهد التقاني للحاسوب | 6 / 15 / 7 | Award |
-| `sy-latakia-university` | اللاذقية | المعهد التقاني للعلوم المالية و المصرفية | 6 / 20 / 5 | Award |
-| `sy-latakia-university` | اللاذقية | المعهد التقاني لإدارة الأعمال والتسويق | 6 / 20 / 10 | Award |
-| `sy-latakia-university` | اللاذقية | المعهد التقاني الإحصائي | 6 / 20 / 15 | Award |
-| `sy-latakia-university` | اللاذقية | المعهد التقاني للزراعات المتوسطية | 6 / 23 / 7 | Award |
-| `sy-latakia-university` | اللاذقية | المعهد التقاني للطب البيطري | 6 / 24 / 5 | Award |
 | `sy-syrian-university-for-science-and-technology` | معرة النعمان | طب الأسنان | 7 / 11 / 10 | Campus |
 | `sy-syrian-university-for-science-and-technology` | معرة النعمان | العلوم الصحية - التجميل | 7 / 19 / 17 | Campus |
 | `sy-syrian-university-for-science-and-technology` | معرة النعمان | التغذية العلاجية | 7 / 20 / 5 | Campus |

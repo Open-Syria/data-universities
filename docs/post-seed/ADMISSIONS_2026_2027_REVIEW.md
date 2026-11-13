@@ -75,7 +75,7 @@ row coordinates from the extraction.
 The [city-grouped public program review](PUBLIC_CITY_PROGRAMS_2026_2027.md)
 tracks the reviewed rows and the evidence needed for further assignments.
 Its [register](PENDING_PUBLIC_CITY_PROGRAMS_2026_2027.md) lists the leads
-still pending after batch 3.
+still pending after the fourth review.
 
 Assign a public offering only when a Ministry row or an official institution
 source names the parent for that program at that campus. Do not assign a
@@ -97,7 +97,11 @@ Before the first canonical offering batch:
 2. Agree on the discipline and campus schema. Curate bilingual discipline
    names and ISCED-F codes, and distinguish degrees from institute diplomas.
    The admissions `kind` describes the institution or route; it does not
-   establish a faculty name or award level on its own.
+   establish a faculty name or award level on its own. The exception is the
+   owner decision of 13 November 2026: for city-grouped rows whose
+   university and teaching city an approved source already gives, the
+   table type gives the award level. See the
+   [source decisions](../SOURCE_DECISIONS.md).
 3. Deduplicate by stable university, campus, faculty when known, discipline,
    and degree level. Retain academic routes and source locators. A choice
    ID is specific to the admissions catalogue and should not become a

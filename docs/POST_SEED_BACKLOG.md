@@ -71,14 +71,16 @@ cover the first ten offerings. The
 [bulk named-program review](post-seed/BULK_NAMED_PROGRAMS_2026_2027.md)
 adds 333 offerings after the initial ten. The
 [pending register](post-seed/PENDING_NAMED_PROGRAMS_2026_2027.md) records the
-97 named admissions candidates that still need specific award or campus
-evidence or program confirmation; batch 3 resolved 38 of them.
+76 named admissions candidates that still need specific award or campus
+evidence or program confirmation; batch 3 resolved 38 of them and the
+fourth city-grouped review 21.
 The [city-grouped public program review](post-seed/PUBLIC_CITY_PROGRAMS_2026_2027.md)
-assigns 185 offerings to the eight public universities: the first eight
-Civil and Informatics Engineering offerings and 177 from batch 3, including
-Human Medicine, Dentistry and Pharmacy where the award is sourced. Its
+assigns 353 offerings to the eight public universities: the first eight
+Civil and Informatics Engineering offerings, 177 from batch 3, including
+Human Medicine, Dentistry and Pharmacy where the award is sourced, and 168
+from the fourth review, whose award comes from the Ministry table type. Its
 [register](post-seed/PENDING_PUBLIC_CITY_PROGRAMS_2026_2027.md) lists the
-430 leads still pending, 97 of which belong to other ministries.
+262 leads still pending, 97 of which belong to other ministries.
 
 For later batches:
 

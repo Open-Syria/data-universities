@@ -205,3 +205,25 @@ approved as the award evidence for these first degrees, combined with the
 accepted this basis on 13 November 2026. Decision 31 covers the award only;
 a row whose campus is unconfirmed stays pending.
 [Pending register](post-seed/PENDING_NAMED_PROGRAMS_2026_2027.md)
+
+The fourth city-grouped pass applies an owner decision of 13 November
+2026: for city-grouped 2026–2027 Ministry rows whose university and
+teaching city an approved source already establishes, the Ministry table
+type is the award evidence. A row in the public faculty tables
+(catalogue kind `faculty`) is a first university degree, recorded at the
+bachelor level; Human Medicine and Dentistry stay at that level as
+already decided. A row for a technical institute that announcement 5
+says the university runs is a technical institute diploma. For these
+rows only, the decision replaces the rule that affiliation and award need
+separate evidence and the note that a row's kind does not establish the
+award. The university and city must still come from article 2 of the
+Decree 250 executive regulations, as amended (including Decree 210 of
+2026), an establishment decree, announcement 5 or the university's own
+pages. The decision does not cover labels that suggest open learning,
+parallel, virtual or postgraduate study, a diploma listed in a faculty
+table, a row whose label names another city, an institute that another
+ministry runs, or a row where two faculties or universities are
+plausible. Offerings recorded this way cite
+`mohe-admissions-2026-2027-award-by-table-type` with the table type as
+the record ID, so the set can be audited by that source.
+[Fourth city-grouped review](post-seed/PUBLIC_CITY_PROGRAMS_2026_2027.md#fourth-review-award-from-the-table-type)

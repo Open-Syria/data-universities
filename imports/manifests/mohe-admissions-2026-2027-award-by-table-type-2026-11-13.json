@@ -1,0 +1,49 @@
+{
+  "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+  "sourceTitle": "Award level from the 2026–2027 Ministry admissions table type (owner decision)",
+  "sourceUrl": "https://mohe.gov.sy/ar/media-center/details/651",
+  "license": "Public source; factual data only",
+  "accessedAt": "2026-11-13T00:00:00.000Z",
+  "status": "imported",
+  "rawFiles": [
+    {
+      "name": "news_pdf_20260930155934_651_0.pdf",
+      "sha256": "1812ac613d9e0d9b178f6829af2455add52c6bdf34e82e8c5289107a046faad9",
+      "notes": "Announcement 2. Each offering cites its first city-grouped row and the routes of that row; the table the row sits in gives the award level."
+    },
+    {
+      "name": "news_pdf_20260930160200_651_0.pdf",
+      "sha256": "6c6211d1e6f0649c801fe8d12b6297685fbb6d9441344375d24f62edf51760e5",
+      "notes": "Announcement 4. Cited only for offerings whose first row is in the literary table."
+    },
+    {
+      "name": "news_pdf_20260930160241_651_0.pdf",
+      "sha256": "27f6ad5a9b40d99a6e7d6725d2432cded4769e37e33e13fe2f935eaac5c9d551",
+      "notes": "Announcement 5, pages 1 to 5. Names the university that runs each technical institute and its location."
+    },
+    {
+      "name": "news_pdf_20260930160315_651_0.pdf",
+      "sha256": "ab03dd05c06227039b9721011a15f15120f695df237e692ff753368e82374ed9",
+      "notes": "Announcement 6. Named rows for the same faculty or institute and city are a second Ministry reference."
+    }
+  ],
+  "importedFields": [
+    "program name",
+    "campus",
+    "university affiliation",
+    "admission route identifiers",
+    "faculty or institute name",
+    "degree level",
+    "discipline classification",
+    "source references"
+  ],
+  "targetFiles": ["data/faculties.json", "data/programs.json", "data/sources.json"],
+  "transforms": [
+    "Take the 206 Award leads of the city-grouped register, each a city group, campus and field of study with quota, science and repeated-table variants joined, and keep the first city-grouped row of each.",
+    "Record an offering only when an approved source gives the university and teaching city: article 2 of the Decree 250 executive regulations as amended, including Decree 210 of 2026; announcement 5 for a university-run institute; or the university's own faculty page.",
+    "Under the owner decision of 13 November 2026, record a faculty-table row as a first degree at the bachelor level and a university-run institute row as a technical diploma, and cite mohe-admissions-2026-2027-award-by-table-type with the table type as the record ID.",
+    "Name each offering from the Ministry label without the faculty prefix and the applicant-origin and quota suffixes; use the institute's award name for diplomas. Assign the field of study with scripts/curation/fields-of-study-rules.mjs.",
+    "Attach each offering to the faculty or institute the source names, creating the record when it is new. Leave pending the leads whose city no approved source gives, whose label names another city, or whose rows appear only in the non-Syrian applicant tables."
+  ],
+  "reviewNotes": "The fourth city-grouped review records 168 offerings (124 bachelor's programs and 44 technical diplomas) at the eight public universities, with 84 new faculty or institute records, and resolves 21 named announcement 6 rows. University pages and decrees were read on 2026-11-13. Thirty-eight Award leads stay pending: 14 in Ain al-Arab, one in Afrin and 18 in Qamishli lack an approved source for the city, one institute row names another city, and four appear only in the non-Syrian applicant tables. The city-grouped register now lists 262 leads."
+}

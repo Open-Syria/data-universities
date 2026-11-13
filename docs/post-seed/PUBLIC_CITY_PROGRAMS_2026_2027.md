@@ -63,13 +63,14 @@ Engineering field of study.
 | --- | --- | --- |
 | 7 | Aleppo | Pending. The current Gazette confirms the Informatics faculty. Confirm the first-degree award with a university or Ministry source. [Gazette decision 34 of 2026](https://gov.nawafith.net/ar/decrees/2026-43-34-2026) |
 | 9, 21 | Idlib | Verified: `sy-idlib-university-informatics-engineering` and `sy-idlib-university-civil-engineering` |
-| 10, 20 | Hama | Pending. Confirm the first-degree awards in Informatics and Civil Engineering. The decree and faculty reporting confirm the university affiliation. [Informatics decree](https://sana.sy/presidency/2629212/) · [Civil faculty](https://sana.sy/education/2599204/) |
+| 10 | Hama | Pending. Confirm the first-degree award in Informatics Engineering. The decree confirms the university affiliation. [Informatics decree](https://sana.sy/presidency/2629212/) |
+| 20 | Hama | Verified in the fourth review: `sy-hama-university-civil-engineering`, with the award from the table type. [Civil faculty](https://sana.sy/education/2599204/) |
 | 11–12 | Deir ez-Zor | Verified: `sy-al-furat-university-informatics-engineering`. Both quota rows share one offering. |
 | 15 | Homs | Verified: `sy-homs-university-informatics-engineering-artificial-intelligence` |
-| 22–23 | Hasakah | Pending. Confirm the Civil Engineering award at the Hasakah faculty. |
+| 22–23 | Hasakah | Verified in the fourth review: `sy-al-furat-university-civil-engineering-hasakah`, with the award from the table type. Both quota rows share one offering. |
 | 24–25 | Raqqa | Verified: `sy-al-furat-university-civil-engineering-raqqa`. Both quota rows share one offering. |
 
-Fifteen of the 20 targeted rows now map to verified offerings.
+Eighteen of the 20 targeted rows now map to verified offerings.
 
 ## Third review: university assignments
 
@@ -355,3 +356,108 @@ already cite a named announcement 6 row.
 | `announcement-2:p3:r8` | `sy-university-of-aleppo-heating-air-conditioning-and-refrigeration` |
 | `announcement-2:p3:r9` | `sy-latakia-university-communications-technologies` |
 | `announcement-2:p15:r29` | `sy-university-of-aleppo-fine-arts` |
+
+## Fourth review: award from the table type
+
+On 13 November 2026 the owner decided that, for city-grouped 2026–2027
+Ministry rows whose university and teaching city an approved source
+already establishes, the Ministry table type is the award evidence. A
+row in the public faculty tables (catalogue kind `faculty`) is a first
+university degree, recorded at the bachelor level, as Human Medicine and
+Dentistry already are. A row for a technical institute that announcement
+5 says the university runs is a technical institute diploma. For these
+rows the decision replaces the third review's separate award check; where
+a university section above says a program still needs an award
+statement, this review supersedes it for the leads it records.
+[Source decision](../SOURCE_DECISIONS.md)
+
+The review covers the register's 206 Award leads: 161 faculty rows and
+45 university-run institute rows. It records 168 offerings, 124
+bachelor's programs and 44 technical diplomas, and leaves 38 leads
+pending. Each offering cites three things:
+
+- its first city-grouped row and that row's routes, plus the named
+  announcement 6 row for the same faculty or institute and city when
+  there is one (21 offerings, which resolve 21 rows of the
+  [named register](PENDING_NAMED_PROGRAMS_2026_2027.md#resolved-in-the-fourth-city-grouped-review));
+- the source for the university and teaching city: article 2 of the
+  Decree 250 executive regulations as amended, including Decree 210 of
+  2026 for Idlib; announcement 5 for each institute; or the university's
+  own faculty page;
+- `mohe-admissions-2026-2027-award-by-table-type`, with `faculty-table`
+  or `university-institute-table` as the record ID, so the set can be
+  audited by that source.
+
+Arabic names follow the Ministry label without the faculty prefix and the
+applicant-origin and quota suffixes (لأبناء …, محافظات, مجموع, تخصصي and
+the ordinal of a branch faculty). Diplomas use the institute's award name,
+as batch 3 did. English names follow batch 3 and the field of study.
+Fields come from the curation rules: the 168 offerings use 70 fields,
+seven of them for the first time. Every offering has a faculty or
+institute: 27 attach to existing records and 141 to 84 new ones.
+
+| University | Teaching campuses (offerings) | Bachelor's | Technical diplomas | New faculty or institute records |
+| --- | --- | ---: | ---: | ---: |
+| Damascus University | Damascus (2), As-Suwayda (15), Daraa (6), Quneitra (7) | 30 | 0 | 15 |
+| University of Aleppo | Aleppo (8), Manbij (1) | 9 | 0 | 1 |
+| Homs University | Homs (1) | 1 | 0 | 1 |
+| University of Latakia | Latakia (40) | 21 | 19 | 17 |
+| Hama University | Hama (10), Salamiyah (1), Masyaf (1), Al-Suqaylabiyah (1) | 8 | 5 | 10 |
+| University of Tartus | Tartus (18) | 15 | 3 | 9 |
+| Al-Furat University | Deir ez-Zor (21), Hasakah (8), Raqqa (9), Qamishli (1) | 34 | 5 | 20 |
+| Idlib University | Idlib (10), Al-Dana (3), Salqin (3), Harem (2) | 6 | 12 | 11 |
+| **Total** | | **124** | **44** | **84** |
+
+The university and city come from these sources:
+
+- **Damascus University.** Decree 250 article 2 names the branch faculties
+  in As-Suwayda (arts, education, agriculture, sciences, mechanical and
+  electrical engineering, economics), Daraa (arts, law, veterinary
+  medicine) and Quneitra (arts, economics, law, education, agricultural
+  engineering), the Faculty of Tourism and the Faculty of Mechanical and
+  Electrical Engineering in Damascus, and the third education faculty in
+  Daraa that batch 3 recorded.
+- **University of Aleppo.** The archived faculty record lists the nuclear,
+  aeronautics, mechanical energy, materials, industrial and textile
+  departments of the Faculty of Mechanical Engineering. Decree 250 names
+  the Faculty of Arts and Humanities and the third arts faculty in
+  Manbij.
+- **University of Latakia.** The faculty pages list the mechanical and
+  electrical departments and the arts departments. Decree 250, under the
+  Tishreen name, names Architecture, Agriculture, Economics, Law,
+  Education, Fine Arts and Physical Education. Announcement 5 names the
+  university for ten institutes.
+- **Homs University.** The faculties page places the new Faculty of Sharia
+  (Decree 254 of 2026) at the university in Homs.
+- **Hama University.** Decree 250 names Civil Engineering, Economics,
+  Nursing, Education and Arts. The university's faculty pages place
+  Agricultural Engineering in Salamiyah and the mathematics department in
+  Masyaf. Announcement 5 names the four institutes, the agricultural one
+  in Al-Suqaylabiyah.
+- **University of Tartus.** The university's unit list names each faculty,
+  and Decree 250 places them in Tartus under Tishreen; the Agricultural
+  Engineering page gives its Tartus address. Announcement 5 names the
+  engineering institute.
+- **Al-Furat University.** Decree 250 article 2 and the about page place
+  the faculties in Deir ez-Zor, Hasakah and Raqqa; Architecture in Deir
+  ez-Zor rests on Decree 250 alone. Announcement 5 names the five
+  institutes, including agricultural mechanization in Qamishli.
+- **Idlib University.** Decree 210 names the electrical and mechanical
+  departments and the second faculties of arts and of economics and
+  administration in Al-Dana. Announcement 5 names the institutes in
+  Idlib, Salqin and Harem.
+
+The award level rests on the table type, not on a statement by the
+university. When a university page later names the award, cite it
+alongside. No Award lead had a label for open learning, parallel,
+virtual or postgraduate study, a diploma in a faculty table, or two
+plausible faculties or universities. The 38 leads left pending are in
+the [register](PENDING_PUBLIC_CITY_PROGRAMS_2026_2027.md):
+
+| Leads | Ministry locators | Reason |
+| --- | --- | --- |
+| 14 University of Aleppo leads in Ain al-Arab: four sciences, Arabic, English, Kurdish, Philosophy, Sociology, Jineology, Geography, History, Primary and Early Childhood Education | 2 / 4 / 20, 2 / 6 / 3, 2 / 7 / 17, 2 / 8 / 21, 2 / 11 / 13, 2 / 11 / 33, 2 / 12 / 22, 2 / 12 / 29, 2 / 12 / 41, 2 / 12 / 47, 2 / 13 / 10, 2 / 14 / 33, 2 / 14 / 55, 4 / 3 / 32 | No approved source places a faculty of the university in Ain al-Arab. Decree 250 names none there, and Council decisions 68, 70 and 71 of 18 October 2026 are not approved source records. |
+| University of Aleppo, Primary Education in Afrin | 2 / 14 / 34 | The same for Afrin. |
+| 18 Al-Furat University leads in Qamishli: Biology, Mathematics (two), Physics (two), Chemistry (two), Arabic (two), Kurdish, Translation, Philosophy, Sociology (two), Geography, Curriculum, History and Primary Education | 2 / 5 / 3, 2 / 7 / 5, 2 / 8 / 13, 2 / 9 / 15, 2 / 11 / 24, 2 / 12 / 20, 2 / 12 / 23, 2 / 12 / 32, 2 / 12 / 45, 2 / 13 / 17, 2 / 13 / 49, 4 / 1 / 25, 4 / 3 / 40, 8 / 18 / 17, 8 / 18 / 28, 8 / 21 / 18, 8 / 23 / 17, 9 / 15 / 12 | No approved source places an Al-Furat faculty in Qamishli. Decree 250 and the about page list Deir ez-Zor, Hasakah and Raqqa only, and Council decision 69 of 18 October 2026 is not an approved source record. Some fields repeat because the Ministry spells the campus two ways. |
+| University of Aleppo legal and administrative institute | 2 / 17 / 3 | The row has the Aleppo campus, but its label and announcement 5 place the institute in Ain al-Arab. |
+| Arabic and Primary Education in Manbij; the two Sharia specializations in Al-Dana | 9 / 30 / 11, 8 / 23 / 6, 8 / 24 / 6, 8 / 24 / 7 | The rows appear only in the non-Syrian and Arab and foreign applicant tables (announcements 8 and 9). The Syrian-applicant rows for the same programs give the Aleppo or Idlib campus and name the town in the label, which this decision excludes. Recording the town offering from these rows alone would leave it without its general route. |

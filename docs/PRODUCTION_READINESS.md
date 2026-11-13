@@ -41,7 +41,9 @@ Faculty, program, and discipline coverage is partial after the
 [program pilot](post-seed/PROGRAM_PILOT_2026_2027.md) and
 [bulk named-program review](post-seed/BULK_NAMED_PROGRAMS_2026_2027.md).
 The [city-grouped review](post-seed/PUBLIC_CITY_PROGRAMS_2026_2027.md)
-adds verified affiliations to that partial coverage. Its
+adds verified affiliations to that partial coverage. Its fourth review
+takes the award level of 168 offerings from the Ministry table type, by
+owner decision, and its
 [register](post-seed/PENDING_PUBLIC_CITY_PROGRAMS_2026_2027.md) lists the
 public rows that still need evidence.
 It is separate from the university identity and profile readiness checks.
