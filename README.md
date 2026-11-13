@@ -63,7 +63,7 @@ University records may include public facts such as:
 - dated `sourceReferences` aligned with each record's `sourceIds`.
 
 Faculty, program, and ranking files are separated from university identity records.
-The faculty and program preview covers 544 offerings at 44 universities.
+The faculty and program preview covers 558 offerings at 44 universities.
 See the [program pilot](docs/post-seed/PROGRAM_PILOT_2026_2027.md),
 [named program review](docs/post-seed/NAMED_PROGRAM_REVIEW_2026_2027.md),
 [bulk named-program review](docs/post-seed/BULK_NAMED_PROGRAMS_2026_2027.md),

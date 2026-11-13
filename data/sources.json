@@ -3633,5 +3633,14 @@
     "status": "approved",
     "fields": ["academic unit", "program name", "qualification level"],
     "notes": "Snapshot 2017-06-13. Faculty of Medicine at the University of Aleppo (established 1965); study for 'درجة إجازة دكتور في الطب' lasts six years."
+  },
+  {
+    "id": "mohe-higher-education-council-decision-31-private-universities",
+    "title": "Higher Education Council Decision 31, rules for the academic accreditation of private universities (Ministry of Higher Education, 2008)",
+    "url": "https://jude.edu.sy/storage/jpunews/October2024/hqkmQfOiKhFtxDy8D9Ex.pdf",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "qualification level"],
+    "notes": "Adopted by the Higher Education Council on 26 November 2007 and published by the Ministry in 2008; this copy is hosted on Al-Jazeera Private University’s site (SHA-256 502995b98e493903013ac25ff545715d4315dd566f04b0aeb5d74f719d9078d2). Article 49 caps enrolment for the first degree (درجة الإجازة) at nine years in faculties of medicine and eight in faculties of dentistry at private universities. Used with the 2026–2027 Ministry row that names the university and campus as award evidence for private Human Medicine and Dentistry first degrees."
   }
 ]

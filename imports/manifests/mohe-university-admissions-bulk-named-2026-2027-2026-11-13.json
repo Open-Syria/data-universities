@@ -10,6 +10,11 @@
       "name": "news_pdf_6abe5325b7e08.pdf",
       "sha256": "3c77e01b253325f0bc77dc210b0c29982744db80d71a33ffac13375074f8c1ee",
       "notes": "Announcement 7. Each resolved candidate keeps its page and row from the pending register."
+    },
+    {
+      "name": "hqkmQfOiKhFtxDy8D9Ex.pdf",
+      "sha256": "502995b98e493903013ac25ff545715d4315dd566f04b0aeb5d74f719d9078d2",
+      "notes": "Higher Education Council Decision 31 as published by the Ministry in 2008, hosted on jude.edu.sy. Article 49, page 14, names the first degree for medicine and dentistry faculties."
     }
   ],
   "importedFields": [
@@ -25,7 +30,7 @@
   "transforms": [
     "Resolve candidates from the pending named-program register when the university's own site names the award for that faculty or institute, or confirms the campus that the register still needed.",
     "Record Human Medicine and Dentistry as professional first degrees at the bachelor level with the names Human Medicine (الطب البشري) and Dentistry (طب الأسنان), as the owner decided on 13 November 2026.",
-    "Keep candidates pending when only Higher Education Council Decision 31 of 2008, article 49, which applies to every private university, names the first degree."
+    "When the university names no award, use Higher Education Council Decision 31, article 49, with the Ministry row that names the university and campus, as the owner accepted on 13 November 2026. Keep a candidate pending when its campus is unconfirmed."
   ],
-  "reviewNotes": "Batch 3 resolves 16 named candidates: 13 professional degrees, one campus confirmation and two medical technical diplomas. The pending register lists the rest with the evidence each still needs."
+  "reviewNotes": "Batch 3 resolves 30 named private candidates: 27 professional degrees (14 of them on Decision 31), one campus confirmation and two medical technical diplomas. The pending register lists the rest with the evidence each still needs."
 }

@@ -33,9 +33,9 @@ pnpm run coverage:data
   uniRank 2026 Syrian University Ranking, independent Webometrics.org January
   2026, and UNIRANKS 2026 snapshots.
 
-The preview contains 335 faculties or institutes and 544 offerings
+The preview contains 349 faculties or institutes and 558 offerings
 across 44 universities. Every offering has one of the 148 fields of study;
-121 fields are in use. All 544 offerings carry a campus. Of these, 524
+121 fields are in use. All 558 offerings carry a campus. Of these, 538
 carry verified 2026–2027 admission routes; public Human Medicine, Dentistry
 and Pharmacy have none because entry is through the preparatory year.
 The [city-grouped register](post-seed/PENDING_PUBLIC_CITY_PROGRAMS_2026_2027.md)

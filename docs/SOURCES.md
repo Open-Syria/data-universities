@@ -51,6 +51,9 @@ official sources: university faculty and institute pages, regulations and
 study plans, archived copies of those pages in the Internet Archive when the
 current page names no award, decrees, Council decisions, the Gazette and
 announcement 5, which names the ministry that runs each institute.
+Higher Education Council Decision 31, article 49, supports the first-degree
+award for private Human Medicine and Dentistry when the Ministry row names
+the university and campus.
 The Ministry's intake rows also corroborate Al-Jazeera's permanent campus
 announcement. [Al-Jazeera campus notice](https://t.me/STUDENTSJPU/1779)
 

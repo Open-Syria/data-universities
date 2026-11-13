@@ -26396,5 +26396,637 @@
       }
     ],
     "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-hawash-private-university-human-medicine",
+    "universityId": "sy-al-hawash-private-university",
+    "facultyId": "sy-al-hawash-private-university-faculty-of-human-medicine",
+    "disciplineId": "sy-medicine",
+    "campus": {
+      "locality": {
+        "en": "Al-Hawash",
+        "ar": "الحواش"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Human Medicine",
+      "ar": "الطب البشري"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "mohe-higher-education-council-decision-31-private-universities"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r5",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-higher-education-council-decision-31-private-universities",
+        "sourceRecordId": "article-49",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-hawash-private-university-dentistry",
+    "universityId": "sy-al-hawash-private-university",
+    "facultyId": "sy-al-hawash-private-university-faculty-of-dentistry",
+    "disciplineId": "sy-dentistry",
+    "campus": {
+      "locality": {
+        "en": "Al-Hawash",
+        "ar": "الحواش"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Dentistry",
+      "ar": "طب الأسنان"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "mohe-higher-education-council-decision-31-private-universities"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r15",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-higher-education-council-decision-31-private-universities",
+        "sourceRecordId": "article-49",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-jazeera-private-university-dentistry",
+    "universityId": "sy-al-jazeera-private-university",
+    "facultyId": "sy-al-jazeera-private-university-faculty-of-dentistry",
+    "disciplineId": "sy-dentistry",
+    "campus": {
+      "locality": {
+        "en": "Deir ez-Zor",
+        "ar": "دير الزور"
+      },
+      "governorateSlug": "deir-ez-zor"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Dentistry",
+      "ar": "طب الأسنان"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "mohe-higher-education-council-decision-31-private-universities"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r16",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-higher-education-council-decision-31-private-universities",
+        "sourceRecordId": "article-49",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-manara-university-dentistry",
+    "universityId": "sy-al-manara-university",
+    "facultyId": "sy-al-manara-university-faculty-of-dentistry",
+    "disciplineId": "sy-dentistry",
+    "campus": {
+      "locality": {
+        "en": "Latakia",
+        "ar": "اللاذقية"
+      },
+      "governorateSlug": "latakia"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Dentistry",
+      "ar": "طب الأسنان"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "mohe-higher-education-council-decision-31-private-universities"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p11:r7",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-higher-education-council-decision-31-private-universities",
+        "sourceRecordId": "article-49",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-rasheed-international-university-for-science-and-technology-dentistry",
+    "universityId": "sy-al-rasheed-international-university-for-science-and-technology",
+    "facultyId": "sy-al-rasheed-international-university-for-science-and-technology-faculty-of-dentistry",
+    "disciplineId": "sy-dentistry",
+    "campus": {
+      "locality": {
+        "en": "Ghabagheb",
+        "ar": "غباغب"
+      },
+      "governorateSlug": "daraa"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Dentistry",
+      "ar": "طب الأسنان"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "mohe-higher-education-council-decision-31-private-universities",
+      "british-university-in-damascus-ghabagheb-campus"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p11:r2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-higher-education-council-decision-31-private-universities",
+        "sourceRecordId": "article-49",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "british-university-in-damascus-ghabagheb-campus",
+        "sourceRecordId": "https://bud.edu.sy/contact",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-wataniya-private-university-dentistry",
+    "universityId": "sy-al-wataniya-private-university",
+    "facultyId": "sy-al-wataniya-private-university-faculty-of-dentistry",
+    "disciplineId": "sy-dentistry",
+    "campus": {
+      "locality": {
+        "en": "Ghawr al-Assi",
+        "ar": "غور العاصي"
+      },
+      "governorateSlug": "hama"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Dentistry",
+      "ar": "طب الأسنان"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "mohe-higher-education-council-decision-31-private-universities",
+      "al-wataniya-2026-program-list"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r20",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-higher-education-council-decision-31-private-universities",
+        "sourceRecordId": "article-49",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-wataniya-2026-program-list",
+        "sourceRecordId": "https://wpu.edu.sy/%D8%B1%D8%B3%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D9%8A%D8%A9-%D9%84%D9%84%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D9%8A-%D9%A2-2/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-arab-international-university-dentistry",
+    "universityId": "sy-arab-international-university",
+    "facultyId": "sy-arab-international-university-faculty-of-dentistry",
+    "disciplineId": "sy-dentistry",
+    "campus": {
+      "locality": {
+        "en": "Ghabagheb",
+        "ar": "غباغب"
+      },
+      "governorateSlug": "daraa"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Dentistry",
+      "ar": "طب الأسنان"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "mohe-higher-education-council-decision-31-private-universities",
+      "arab-international-university-ghabagheb-campus"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r10",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-higher-education-council-decision-31-private-universities",
+        "sourceRecordId": "article-49",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "arab-international-university-ghabagheb-campus",
+        "sourceRecordId": "https://www-wp.unipv.it/duniabeam/wp-content/uploads/2012/09/arab-international.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-arab-university-for-science-and-technology-dentistry",
+    "universityId": "sy-arab-university-for-science-and-technology",
+    "facultyId": "sy-arab-university-for-science-and-technology-faculty-of-dentistry",
+    "disciplineId": "sy-dentistry",
+    "campus": {
+      "locality": {
+        "en": "Tall Qartal",
+        "ar": "تل قرطل"
+      },
+      "governorateSlug": "hama"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Dentistry",
+      "ar": "طب الأسنان"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "mohe-higher-education-council-decision-31-private-universities"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r17",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-higher-education-council-decision-31-private-universities",
+        "sourceRecordId": "article-49",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-cordoba-private-university-dentistry-aleppo",
+    "universityId": "sy-cordoba-private-university",
+    "facultyId": "sy-cordoba-private-university-faculty-of-dentistry-aleppo",
+    "disciplineId": "sy-dentistry",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Dentistry",
+      "ar": "طب الأسنان"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "mohe-higher-education-council-decision-31-private-universities",
+      "cordoba-official-faculty-list"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-higher-education-council-decision-31-private-universities",
+        "sourceRecordId": "article-49",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "cordoba-official-faculty-list",
+        "sourceRecordId": "https://www.cpu.edu.sy/home",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-ebla-private-university-human-medicine",
+    "universityId": "sy-ebla-private-university",
+    "facultyId": "sy-ebla-private-university-faculty-of-human-medicine",
+    "disciplineId": "sy-medicine",
+    "campus": {
+      "locality": {
+        "en": "Saraqib",
+        "ar": "سراقب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Human Medicine",
+      "ar": "الطب البشري"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "mohe-higher-education-council-decision-31-private-universities"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r6",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-higher-education-council-decision-31-private-universities",
+        "sourceRecordId": "article-49",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-international-university-for-science-and-technology-dentistry",
+    "universityId": "sy-international-university-for-science-and-technology",
+    "facultyId": "sy-international-university-for-science-and-technology-faculty-of-dentistry",
+    "disciplineId": "sy-dentistry",
+    "campus": {
+      "locality": {
+        "en": "Ghabagheb",
+        "ar": "غباغب"
+      },
+      "governorateSlug": "daraa"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Dentistry",
+      "ar": "طب الأسنان"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "mohe-higher-education-council-decision-31-private-universities",
+      "iust-pharmacy-official-faculty"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r12",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-higher-education-council-decision-31-private-universities",
+        "sourceRecordId": "article-49",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "iust-pharmacy-official-faculty",
+        "sourceRecordId": "https://iust.edu.sy/pharmacy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-kalamoon-human-medicine",
+    "universityId": "sy-university-of-kalamoon",
+    "facultyId": "sy-university-of-kalamoon-faculty-of-human-medicine",
+    "disciplineId": "sy-medicine",
+    "campus": {
+      "locality": {
+        "en": "Deir Atiyah",
+        "ar": "دير عطية"
+      },
+      "governorateSlug": "rif-dimashq"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Human Medicine",
+      "ar": "الطب البشري"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "mohe-higher-education-council-decision-31-private-universities"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-higher-education-council-decision-31-private-universities",
+        "sourceRecordId": "article-49",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-kalamoon-dentistry",
+    "universityId": "sy-university-of-kalamoon",
+    "facultyId": "sy-university-of-kalamoon-faculty-of-dentistry",
+    "disciplineId": "sy-dentistry",
+    "campus": {
+      "locality": {
+        "en": "Deir Atiyah",
+        "ar": "دير عطية"
+      },
+      "governorateSlug": "rif-dimashq"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Dentistry",
+      "ar": "طب الأسنان"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "mohe-higher-education-council-decision-31-private-universities"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r8",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-higher-education-council-decision-31-private-universities",
+        "sourceRecordId": "article-49",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-wadi-international-university-dentistry",
+    "universityId": "sy-wadi-international-university",
+    "facultyId": "sy-wadi-international-university-faculty-of-dentistry",
+    "disciplineId": "sy-dentistry",
+    "campus": {
+      "locality": {
+        "en": "Wadi al-Nasara",
+        "ar": "وادي النضارة"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Dentistry",
+      "ar": "طب الأسنان"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "mohe-higher-education-council-decision-31-private-universities"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r13",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-higher-education-council-decision-31-private-universities",
+        "sourceRecordId": "article-49",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
   }
 ]

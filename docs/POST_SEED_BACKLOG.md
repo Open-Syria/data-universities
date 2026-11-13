@@ -71,8 +71,8 @@ cover the first ten offerings. The
 [bulk named-program review](post-seed/BULK_NAMED_PROGRAMS_2026_2027.md)
 adds 333 offerings after the initial ten. The
 [pending register](post-seed/PENDING_NAMED_PROGRAMS_2026_2027.md) records the
-111 named admissions candidates that still need specific award or campus
-evidence or program confirmation; batch 3 resolved 24 of them.
+97 named admissions candidates that still need specific award or campus
+evidence or program confirmation; batch 3 resolved 38 of them.
 The [city-grouped public program review](post-seed/PUBLIC_CITY_PROGRAMS_2026_2027.md)
 assigns 185 offerings to the eight public universities: the first eight
 Civil and Informatics Engineering offerings and 177 from batch 3, including

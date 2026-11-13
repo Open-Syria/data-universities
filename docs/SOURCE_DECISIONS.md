@@ -198,6 +198,10 @@ preparatory year. Directories and third-party profiles are not used.
 The same batch resolves named private candidates. Use the university's
 faculty or study-system page for the professional first degree in Human
 Medicine or Dentistry, which is recorded at the bachelor level by owner
-decision. Higher Education Council Decision 31 of 2008, article 49,
-applies to every private university and does not on its own verify one
-university's award. [Pending register](post-seed/PENDING_NAMED_PROGRAMS_2026_2027.md)
+decision. When the university names no award, Higher Education Council
+Decision 31 (adopted 26 November 2007, published 2008), article 49, is
+approved as the award evidence for these first degrees, combined with the
+2026–2027 Ministry row that names the university and campus. The owner
+accepted this basis on 13 November 2026. Decision 31 covers the award only;
+a row whose campus is unconfirmed stays pending.
+[Pending register](post-seed/PENDING_NAMED_PROGRAMS_2026_2027.md)

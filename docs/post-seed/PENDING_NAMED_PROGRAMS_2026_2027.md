@@ -2,8 +2,8 @@
 
 The pinned OpenSyria admissions crosswalk contains 491 named candidates.
 The named review matched 356 of them to 343 catalogue offerings. Batch 3
-resolves 24 more (below), so 380 candidates now match catalogue offerings.
-This page records the other 111 candidates. Counts are admissions
+resolves 38 more (below), so 394 candidates now match catalogue offerings.
+This page records the other 97 candidates. Counts are admissions
 candidates, so spelling and applicant-route variants may point to the same
 offering. The Damascus business institute admission row supports four
 separately verified awards.
@@ -13,7 +13,6 @@ separately verified awards.
 | Award | 76 |
 | Campus | 15 |
 | Campus and award | 2 |
-| Professional degree | 14 |
 | Program and award | 4 |
 
 - **Award** requires a program, institute, or qualification source for
@@ -33,16 +32,15 @@ separately verified awards.
   offering. Al-Shamal lists anesthesia and laboratory analysis as
   institutes on its program pages. The Ministry names faculty rows as
   well, so the two paths need independent confirmation.
-- **Professional degree** covers entry-to-practice Medicine and
-  Dentistry. On 13 November 2026 the owner decided to record these first
-  professional degrees at the bachelor level, with the names Human
-  Medicine (الطب البشري) and Dentistry (طب الأسنان). The remaining entries
-  need an award statement from the university for that faculty.
-  Higher Education Council Decision 31 of 2008, article 49, names the
-  first degree for medicine and dentistry at every private university;
-  it is not specific enough on its own. The pending Dentistry row at the
-  Syrian University for Science and Technology also needs campus
-  confirmation; its domain no longer resolves.
+- **Professional degrees** (entry-to-practice Medicine and Dentistry) are
+  no longer pending on the award. On 13 November 2026 the owner decided to
+  record them at the bachelor level as Human Medicine (الطب البشري) and
+  Dentistry (طب الأسنان), and accepted Higher Education Council Decision 31,
+  article 49, as award evidence when the Ministry row names the university
+  and campus. Decision 31 covers only the award: the Dentistry row at the
+  Syrian University for Science and Technology stays under **Campus**,
+  because its Maarrat al-Nu'man site is unconfirmed and its domain no
+  longer resolves.
 
 [Ministry admissions input](https://github.com/Open-Syria/website/tree/07545062e6a0f06fde4540a7f1dc460ae2f7932e/src/app/%5Blocale%5D/admissions/_data/2026-2027) ·
 [Review and source decisions](BULK_NAMED_PROGRAMS_2026_2027.md#completed-named-admissions-review) ·
@@ -53,7 +51,9 @@ separately verified awards.
 ## Resolved in batch 3
 
 The university's own faculty, study-system or institute page names the
-award, or confirms the campus that was missing. The public institute rows
+award, or confirms the campus that was missing. For the rows marked
+Decision 31, the award comes from Higher Education Council Decision 31,
+article 49, and the Ministry row supplies the university and campus. The public institute rows
 are matched to city-grouped offerings in the
 [third city-grouped review](PUBLIC_CITY_PROGRAMS_2026_2027.md#third-review-university-assignments).
 
@@ -83,6 +83,20 @@ are matched to city-grouped offerings in the
 | `announcement-6:p20:r4` | Award | `sy-university-of-aleppo-financial-and-banking-sciences-technical-diploma` |
 | `announcement-6:p23:r3` | Award | `sy-university-of-tartus-protected-agriculture-technical-diploma` |
 | `announcement-7:p10:r19` | Professional degree | `sy-yarmouk-private-university-dentistry` |
+| `announcement-7:p10:r5` | Professional degree (Decision 31) | `sy-al-hawash-private-university-human-medicine` |
+| `announcement-7:p10:r15` | Professional degree (Decision 31) | `sy-al-hawash-private-university-dentistry` |
+| `announcement-7:p10:r16` | Professional degree (Decision 31) | `sy-al-jazeera-private-university-dentistry` |
+| `announcement-7:p11:r7` | Professional degree (Decision 31) | `sy-al-manara-university-dentistry` |
+| `announcement-7:p11:r2` | Professional degree (Decision 31) | `sy-al-rasheed-international-university-for-science-and-technology-dentistry` |
+| `announcement-7:p10:r20` | Professional degree (Decision 31) | `sy-al-wataniya-private-university-dentistry` |
+| `announcement-7:p10:r10` | Professional degree (Decision 31) | `sy-arab-international-university-dentistry` |
+| `announcement-7:p10:r17` | Professional degree (Decision 31) | `sy-arab-university-for-science-and-technology-dentistry` |
+| `announcement-7:p10:r9` | Professional degree (Decision 31) | `sy-cordoba-private-university-dentistry-aleppo` |
+| `announcement-7:p10:r6` | Professional degree (Decision 31) | `sy-ebla-private-university-human-medicine` |
+| `announcement-7:p10:r12` | Professional degree (Decision 31) | `sy-international-university-for-science-and-technology-dentistry` |
+| `announcement-7:p10:r2` | Professional degree (Decision 31) | `sy-university-of-kalamoon-human-medicine` |
+| `announcement-7:p10:r8` | Professional degree (Decision 31) | `sy-university-of-kalamoon-dentistry` |
+| `announcement-7:p10:r13` | Professional degree (Decision 31) | `sy-wadi-international-university-dentistry` |
 
 ## Remaining candidates
 
@@ -103,17 +117,12 @@ uses its first Ministry locator in announcement, page, row order.
 | `sy-al-furat-university` | الرقة | المعهد التقاني للري الحديث | 6 / 23 / 9 | Award |
 | `sy-al-furat-university` | دير الزور | المعهد التقاني للطب البيطري | 6 / 24 / 2 | Award |
 | `sy-al-furat-university` | الرقة | المعهد التقاني للطب البيطري | 6 / 24 / 4 | Award |
-| `sy-al-hawash-private-university` | الحواش | الطب البشري | 7 / 10 / 5 | Professional degree |
-| `sy-al-hawash-private-university` | الحواش | طب الأسنان | 7 / 10 / 15 | Professional degree |
-| `sy-al-jazeera-private-university` | دير الزور | طب الأسنان | 7 / 10 / 16 | Professional degree |
 | `sy-al-jazeera-private-university` | دير الزور | المعهد التقاني للتعويضات السنية | 7 / 31 / 4 | Award |
 | `sy-al-maali-university` | الباب | المعهد التقني الهندسي - علوم الحاسوب | 7 / 32 / 2 | Award |
 | `sy-al-maali-university` | الباب | المعهد التقني الهندسي - الكهرباء | 7 / 32 / 7 | Award |
 | `sy-al-maali-university` | الباب | المعهد التقني الهندسي - العمارة | 7 / 32 / 10 | Award |
 | `sy-al-maali-university` | الباب | المعهد التقاني الهندسي - علوم الحاسوب | 7 / 42 / 26 | Award |
 | `sy-al-maali-university` | الباب | المعهد التقاني الهندسي - الكهرباء | 7 / 59 / 11 | Award |
-| `sy-al-manara-university` | اللاذقية | طب الأسنان | 7 / 11 / 7 | Professional degree |
-| `sy-al-rasheed-international-university-for-science-and-technology` | درعا | طب الأسنان | 7 / 11 / 2 | Professional degree |
 | `sy-al-ruwad-university-for-science-and-culture` | جرابلس | المعهد التقاني الهندسي - المدني والإنشاءات الخاصة | 7 / 32 / 8 | Award |
 | `sy-al-ruwad-university-for-science-and-culture` | جرابلس | المعهد التقاني الهندسي - المساحة | 7 / 32 / 9 | Award |
 | `sy-al-ruwad-university-for-science-and-culture` | جرابلس | المعهد التقاني الهندسي - العمارة والرسم الهندسي | 7 / 32 / 11 | Award |
@@ -127,16 +136,13 @@ uses its first Ministry locator in announcement, page, row order.
 | `sy-al-shamal-private-university` | سرمدا | العلوم الصحية - العلوم المخبرية | 7 / 20 / 16 | Program and award |
 | `sy-al-shamal-private-university` | سرمدا | معهد الصيدلة | 7 / 31 / 13 | Award |
 | `sy-al-shamal-private-university` | سرمدا | المعهد التقاني للحاسوب | 7 / 31 / 19 | Award |
-| `sy-al-wataniya-private-university` | حماة | طب الأسنان | 7 / 10 / 20 | Professional degree |
 | `sy-al-zahraa-university` | جرابلس | المعهد التقاني الهندسي - هندسة البرمجيات | 7 / 32 / 3 | Award |
 | `sy-al-zahraa-university` | جرابلس | المعهد التقاني الهندسي - تكنولوجيا الذكاء الاصطناعي | 7 / 32 / 4 | Award |
 | `sy-al-zahraa-university` | جرابلس | المعهد التقاني الهندسي - تكنولوجيا الاتصالات | 7 / 32 / 5 | Award |
 | `sy-al-zahraa-university` | جرابلس | المعهد التقاني الهندسي - تقنيات الهندسة الكهربائية والإلكترونية | 7 / 32 / 6 | Award |
 | `sy-al-zaytuna-university` | أعزاز | معهد التغذية وعلوم الغذاء | 7 / 31 / 15 | Award |
 | `sy-al-zaytuna-university` | أعزاز | معهد التصميم الجرافيكي | 7 / 32 / 22 | Award |
-| `sy-arab-international-university` | درعا | طب الأسنان | 7 / 10 / 10 | Professional degree |
 | `sy-arab-international-university` | درعا | الفنون - الفنون المسرحية والإخراج السينمائي | 7 / 30 / 7 | Program and award |
-| `sy-arab-university-for-science-and-technology` | تل قرطل | طب الأسنان | 7 / 10 / 17 | Professional degree |
 | `sy-aram-university-for-sciences` | عقربات | معهد التنمية الإدارية ونظم المعلومات | 7 / 32 / 12 | Award |
 | `sy-basaksehir-university` | الباب | المعهد التقاني الطبي - التخدير | 7 / 30 / 10 | Award |
 | `sy-basaksehir-university` | الباب | المعهد التقاني للتعويضات السنية | 7 / 31 / 9 | Award |
@@ -154,7 +160,6 @@ uses its first Ministry locator in announcement, page, row order.
 | `sy-bilad-al-sham-university-for-sharia-sciences` | دمشق — مجمع أحمد كفتارو | أصول الدين - علوم القرآن والحديث | 7 / 29 / 4 | Award |
 | `sy-bilad-al-sham-university-for-sharia-sciences` | دمشق — مجمع الفتح الإسلامي | أصول الدين - القراءات القرآنية | 7 / 29 / 5 | Award |
 | `sy-bilad-al-sham-university-for-sharia-sciences` | دمشق | الدراسات الإسلامية والعربية - الدعوة الإسلامية باللغة الإنكليزية | 7 / 29 / 11 | Campus and award |
-| `sy-cordoba-private-university` | حلب | طب الأسنان | 7 / 10 / 9 | Professional degree |
 | `sy-cordoba-private-university` | القامشلي | التربية - معلم صف | 7 / 26 / 8 | Campus |
 | `sy-cordoba-private-university` | القامشلي | التربية - الإرشاد النفسي | 7 / 26 / 9 | Campus |
 | `sy-damascus-university` | القنيطرة | المعهد التقاني للحاسوب | 6 / 15 / 3 | Award |
@@ -162,7 +167,6 @@ uses its first Ministry locator in announcement, page, row order.
 | `sy-damascus-university` | درعا | المعهد التقاني للعلوم المالية و المصرفية | 6 / 20 / 3 | Award |
 | `sy-damascus-university` | درعا | المعهد التقاني الزراعي | 6 / 22 / 9 | Award |
 | `sy-damascus-university` | السويداء | المعهد التقاني الزراعي | 6 / 22 / 10 | Award |
-| `sy-ebla-private-university` | سراقب | الطب البشري | 7 / 10 / 6 | Professional degree |
 | `sy-ebla-private-university` | سراقب | المعهد التقاني للعلوم الصحية - المخابر | 7 / 30 / 12 | Award |
 | `sy-ebla-private-university` | سراقب | المعهد التقاني للعلوم الصحية - الصيدلة | 7 / 31 / 12 | Award |
 | `sy-hama-university` | حماة | المعهد التقاني للحاسوب | 6 / 15 / 9 | Award |
@@ -173,7 +177,6 @@ uses its first Ministry locator in announcement, page, row order.
 | `sy-idlib-university` | سلقين | المعهد التقاني للعلوم المالية و الإدارية | 6 / 20 / 13 | Award |
 | `sy-idlib-university` | حارم | المعهد التقاني الزراعي | 6 / 23 / 8 | Award |
 | `sy-idlib-university` | حارم | المعهد التقاني للطب البيطري | 6 / 24 / 7 | Award |
-| `sy-international-university-for-science-and-technology` | درعا | طب الأسنان | 7 / 10 / 12 | Professional degree |
 | `sy-latakia-university` | اللاذقية | كلية الفنون الجميلة | 6 / 11 / 7 | Award |
 | `sy-latakia-university` | اللاذقية | المعهد التقاني للهندسة الميكانيكية والكهربائية | 6 / 14 / 2 | Award |
 | `sy-latakia-university` | اللاذقية | المعهد التقاني للحاسوب | 6 / 15 / 7 | Award |
@@ -197,9 +200,6 @@ uses its first Ministry locator in announcement, page, row order.
 | `sy-syrian-university-for-science-and-technology` | معرة النعمان | المعهد التقاني للتعويضات السنية | 7 / 31 / 8 | Campus |
 | `sy-university-of-aleppo` | جرابلس | المعهد التقاني للحاسوب | 6 / 15 / 6 | Award |
 | `sy-university-of-aleppo` | جرابلس | المعهد التقاني الزراعي | 6 / 22 / 13 | Award |
-| `sy-university-of-kalamoon` | دير عطية | الطب البشري | 7 / 10 / 2 | Professional degree |
-| `sy-university-of-kalamoon` | دير عطية | طب الأسنان | 7 / 10 / 8 | Professional degree |
 | `sy-university-of-tartus` | طرطوس | المعهد التقاني للطاقات المتجددة / الطاقة الشمسية | 6 / 14 / 9 | Award |
 | `sy-university-of-tartus` | طرطوس | المعهد التقاني للنقل البحري | 6 / 24 / 8 | Award |
-| `sy-wadi-international-university` | وادي النضارة | طب الأسنان | 7 / 10 / 13 | Professional degree |
 | `sy-wadi-international-university` | وادي النضارة | علوم التجميل | 7 / 19 / 16 | Award |

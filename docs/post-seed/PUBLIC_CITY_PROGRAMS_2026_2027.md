@@ -278,7 +278,11 @@ year (announcement 2, page 1, rows 4–5), so no row names a university.
 Each public offering comes from the university's faculty page or
 regulation, with null admissions. Professional first degrees use the
 bachelor level and the names Human Medicine (الطب البشري) and Dentistry
-(طب الأسنان), as the owner decided on 13 November 2026.
+(طب الأسنان), as the owner decided on 13 November 2026. Private
+universities' Human Medicine and Dentistry rows are named in
+announcement 7; the [named register](PENDING_NAMED_PROGRAMS_2026_2027.md#resolved-in-batch-3)
+records the 27 resolved in batch 3, 14 of them on the basis of Higher
+Education Council Decision 31, article 49.
 
 | University | Human Medicine | Dentistry | Pharmacy |
 | --- | --- | --- | --- |
