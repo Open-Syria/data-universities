@@ -2883,5 +2883,191 @@
     "status": "approved",
     "fields": ["academic unit", "program name", "qualification level"],
     "notes": "The institute page says its graduates hold the agricultural technical diploma in protected agriculture (الدبلوم التقاني الزراعي باختصاص الزراعات المحمية), with a two-year study period. The page text is served by the site API at https://api.tartous-univ.edu.sy/api/website/pages/unit/45."
+  },
+  {
+    "id": "al-furat-raqqa-pharmacy-faculty-page",
+    "title": "Al-Furat University Faculty of Pharmacy in Raqqa page",
+    "url": "https://alfuratuniv.edu.sy/college.php?id=30&lang=ar",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation"],
+    "notes": "Faculty of Pharmacy created at Al-Furat in Raqqa by Decree 301/2011; does not name the award."
+  },
+  {
+    "id": "al-furat-raqqa-pharmacy-archived-page",
+    "title": "Al-Furat University old site page, Faculty of Pharmacy - Raqqa (Wayback 2012)",
+    "url": "http://web.archive.org/web/20120128064630/http://www.alfuratuniv.edu.sy/uof_collages.php?collage_id=24",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Pharmacy faculty in Raqqa (Decree 301 of 8/8/2011); aims to prepare pharmacists holding درجة الإجازة في الصيدلة."
+  },
+  {
+    "id": "al-furat-informatics-engineering-faculty-page",
+    "title": "Al-Furat University Faculty of Informatics Engineering in Deir ez-Zor page",
+    "url": "https://alfuratuniv.edu.sy/college.php?id=31&lang=ar",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Faculty of Informatics Engineering in Deir ez-Zor; 5 years to obtain الإجازة في الهندسة المعلوماتية."
+  },
+  {
+    "id": "al-furat-raqqa-civil-engineering-faculty-page",
+    "title": "Al-Furat University Faculty of Civil Engineering in Raqqa page",
+    "url": "https://alfuratuniv.edu.sy/college.php?id=10&lang=ar",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Faculty in Raqqa; grants the licence (الإجازة) in general civil engineering; 5 years."
+  },
+  {
+    "id": "al-furat-petrochemical-engineering-faculty-page",
+    "title": "Al-Furat University Faculty of Petrochemical Engineering page",
+    "url": "https://alfuratuniv.edu.sy/college.php?id=12&lang=ar",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "program name", "qualification level"],
+    "notes": "Faculty created at Al-Furat by Decree 822/2005; grants الإجازة in petrochemical industries engineering and in petroleum engineering; 5 years."
+  },
+  {
+    "id": "al-furat-university-about-page",
+    "title": "Al-Furat University about page (faculties by governorate)",
+    "url": "https://alfuratuniv.edu.sy/about.php?lang=ar",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus"],
+    "notes": "University established by Law 33 of 2006; lists its faculties by city: Deir ez-Zor (11 incl. Human Medicine), Hasakah (8 incl. Dentistry), Raqqa (6 incl. Pharmacy)."
+  },
+  {
+    "id": "al-furat-agricultural-engineering-faculty-page",
+    "title": "Al-Furat University Faculty of Agricultural Engineering in Deir ez-Zor and Raqqa page",
+    "url": "https://alfuratuniv.edu.sy/college.php?id=13&lang=ar",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Faculty in Deir ez-Zor (and Raqqa) belonging to Al-Furat since 2006; 5 years to obtain الإجازة; lists its departments."
+  },
+  {
+    "id": "al-furat-hasakah-agricultural-engineering-faculty-page",
+    "title": "Al-Furat University Faculty of Agricultural Engineering in Hasakah page",
+    "url": "https://alfuratuniv.edu.sy/college.php?id=29&lang=ar",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation"],
+    "notes": "Faculty of Agricultural Engineering in Hasakah of Al-Furat University; department list, no first-degree award statement."
+  },
+  {
+    "id": "al-furat-hasakah-agricultural-engineering-archived-page",
+    "title": "Al-Furat University old site page, Faculty of Agricultural Engineering - Hasakah (Wayback 2010)",
+    "url": "http://web.archive.org/web/20101129041709/http://alfuratuniv.edu.sy:80/uof_collages.php?collage_id=14",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Agricultural Engineering faculty in Hasakah (Decree 284/2006); Al-Furat grants درجة الإجازة العامة في الهندسة الزراعية, 5 years."
+  },
+  {
+    "id": "al-furat-hasakah-law-faculty-page",
+    "title": "Al-Furat University Faculty of Law in Hasakah page",
+    "url": "https://alfuratuniv.edu.sy/college.php?id=19&lang=ar",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "program name", "qualification level"],
+    "notes": "Faculty of Law in Hasakah; programme leading to الإجازة في الحقوق (البكالوريوس)."
+  },
+  {
+    "id": "al-furat-hasakah-science-faculty-archived-page",
+    "title": "Al-Furat University old site page, Faculty of Science - Hasakah (third Faculty of Science) (Wayback 2010)",
+    "url": "http://web.archive.org/web/20101129041724/http://alfuratuniv.edu.sy:80/uof_collages.php?collage_id=17",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "program name", "qualification level"],
+    "notes": "Third Faculty of Science in Hasakah (Decree 336/2009) linked to Al-Furat; mathematics department grants الإجازة في الرياضيات."
+  },
+  {
+    "id": "al-furat-nursing-faculty-page",
+    "title": "Al-Furat University Faculty of Nursing in Deir ez-Zor page",
+    "url": "https://alfuratuniv.edu.sy/college.php?id=20&lang=ar",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "program name", "qualification level"],
+    "notes": "Faculty of Nursing in Deir ez-Zor; 4 years leading to إجازة في التمريض."
+  },
+  {
+    "id": "al-furat-raqqa-financial-institute-archived-page",
+    "title": "Al-Furat University old site page, Financial and Banking Technical Institute - Raqqa (Wayback 2012)",
+    "url": "http://web.archive.org/web/20120128140612/http://www.alfuratuniv.edu.sy/uof_collages.php?collage_id=34",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Financial and banking institute in Raqqa; two years; awards دبلوم تقاني."
+  },
+  {
+    "id": "al-furat-deir-ez-zor-agricultural-institute-archived-page",
+    "title": "Al-Furat University old site page, Agricultural Technical Institute - Deir ez-Zor (Wayback 2012)",
+    "url": "http://web.archive.org/web/20120128104521/http://www.alfuratuniv.edu.sy/uof_collages.php?collage_id=26",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Agricultural technical institute in Deir ez-Zor; two years; awards دبلوم تقاني."
+  },
+  {
+    "id": "al-furat-hasakah-agricultural-institute-archived-page",
+    "title": "Al-Furat University old site page, Agricultural Technical Institute - Hasakah (Wayback 2012)",
+    "url": "http://web.archive.org/web/20120128153751/http://www.alfuratuniv.edu.sy/uof_collages.php?collage_id=35",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Agricultural technical institute in Hasakah (al-Majarja); two years; awards دبلوم تقاني."
+  },
+  {
+    "id": "al-furat-hasakah-veterinary-institute-archived-page",
+    "title": "Al-Furat University old site page, Veterinary Technical Institute - Hasakah (Wayback 2012)",
+    "url": "http://web.archive.org/web/20120128051756/http://www.alfuratuniv.edu.sy/uof_collages.php?collage_id=36",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Veterinary technical institute in Hasakah; two years; awards دبلوم تقاني في الطب البيطري."
   }
 ]

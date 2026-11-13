@@ -20718,5 +20718,719 @@
       }
     ],
     "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-pharmacy-raqqa",
+    "universityId": "sy-al-furat-university",
+    "facultyId": "sy-al-furat-university-faculty-of-pharmacy-raqqa",
+    "disciplineId": "sy-pharmacy",
+    "campus": {
+      "locality": {
+        "en": "Raqqa",
+        "ar": "الرقة"
+      },
+      "governorateSlug": "raqqa"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Pharmacy",
+      "ar": "الصيدلة"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "al-furat-raqqa-pharmacy-faculty-page",
+      "public-university-affiliations-decree-250-2006",
+      "al-furat-raqqa-pharmacy-archived-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "al-furat-raqqa-pharmacy-faculty-page",
+        "sourceRecordId": "https://alfuratuniv.edu.sy/college.php?id=30&lang=ar",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-raqqa-pharmacy-archived-page",
+        "sourceRecordId": "http://web.archive.org/web/20120128064630/http://www.alfuratuniv.edu.sy/uof_collages.php?collage_id=24",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-informatics-engineering",
+    "universityId": "sy-al-furat-university",
+    "facultyId": "sy-al-furat-university-faculty-of-informatics-engineering",
+    "disciplineId": "sy-informatics-engineering",
+    "campus": {
+      "locality": {
+        "en": "Deir ez-Zor",
+        "ar": "دير الزور"
+      },
+      "governorateSlug": "deir-ez-zor"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Informatics Engineering",
+      "ar": "الهندسة المعلوماتية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "al-furat-informatics-engineering-faculty-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r11",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-informatics-engineering-faculty-page",
+        "sourceRecordId": "https://alfuratuniv.edu.sy/college.php?id=31&lang=ar",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-civil-engineering-raqqa",
+    "universityId": "sy-al-furat-university",
+    "facultyId": "sy-al-furat-university-faculty-of-civil-engineering-raqqa",
+    "disciplineId": "sy-civil-engineering",
+    "campus": {
+      "locality": {
+        "en": "Raqqa",
+        "ar": "الرقة"
+      },
+      "governorateSlug": "raqqa"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Civil Engineering",
+      "ar": "الهندسة المدنية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "al-furat-raqqa-civil-engineering-faculty-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r24",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-raqqa-civil-engineering-faculty-page",
+        "sourceRecordId": "https://alfuratuniv.edu.sy/college.php?id=10&lang=ar",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-petroleum-engineering",
+    "universityId": "sy-al-furat-university",
+    "facultyId": "sy-al-furat-university-faculty-of-petrochemical-engineering",
+    "disciplineId": "sy-petroleum-engineering",
+    "campus": {
+      "locality": {
+        "en": "Deir ez-Zor",
+        "ar": "دير الزور"
+      },
+      "governorateSlug": "deir-ez-zor"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Petroleum Engineering",
+      "ar": "الهندسة البترولية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "al-furat-petrochemical-engineering-faculty-page",
+      "al-furat-university-about-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r47",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-petrochemical-engineering-faculty-page",
+        "sourceRecordId": "https://alfuratuniv.edu.sy/college.php?id=12&lang=ar",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-university-about-page",
+        "sourceRecordId": "https://alfuratuniv.edu.sy/about.php?lang=ar",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-petrochemical-industries-engineering",
+    "universityId": "sy-al-furat-university",
+    "facultyId": "sy-al-furat-university-faculty-of-petrochemical-engineering",
+    "disciplineId": "sy-petrochemical-engineering",
+    "campus": {
+      "locality": {
+        "en": "Deir ez-Zor",
+        "ar": "دير الزور"
+      },
+      "governorateSlug": "deir-ez-zor"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Petrochemical Industries Engineering",
+      "ar": "هندسة الصناعات البتروكيميائية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "al-furat-petrochemical-engineering-faculty-page",
+      "al-furat-university-about-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r49",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-petrochemical-engineering-faculty-page",
+        "sourceRecordId": "https://alfuratuniv.edu.sy/college.php?id=12&lang=ar",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-university-about-page",
+        "sourceRecordId": "https://alfuratuniv.edu.sy/about.php?lang=ar",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-agricultural-engineering",
+    "universityId": "sy-al-furat-university",
+    "facultyId": "sy-al-furat-university-faculty-of-agricultural-engineering",
+    "disciplineId": "sy-agricultural-engineering",
+    "campus": {
+      "locality": {
+        "en": "Deir ez-Zor",
+        "ar": "دير الزور"
+      },
+      "governorateSlug": "deir-ez-zor"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Agricultural Engineering",
+      "ar": "الهندسة الزراعية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "al-furat-agricultural-engineering-faculty-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r37",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-agricultural-engineering-faculty-page",
+        "sourceRecordId": "https://alfuratuniv.edu.sy/college.php?id=13&lang=ar",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-agricultural-engineering-hasakah",
+    "universityId": "sy-al-furat-university",
+    "facultyId": "sy-al-furat-university-faculty-of-agricultural-engineering-hasakah",
+    "disciplineId": "sy-agricultural-engineering",
+    "campus": {
+      "locality": {
+        "en": "Hasakah",
+        "ar": "الحسكة"
+      },
+      "governorateSlug": "hasakah"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Agricultural Engineering",
+      "ar": "الهندسة الزراعية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "al-furat-hasakah-agricultural-engineering-faculty-page",
+      "al-furat-hasakah-agricultural-engineering-archived-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r39",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-hasakah-agricultural-engineering-faculty-page",
+        "sourceRecordId": "https://alfuratuniv.edu.sy/college.php?id=29&lang=ar",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-hasakah-agricultural-engineering-archived-page",
+        "sourceRecordId": "http://web.archive.org/web/20101129041709/http://alfuratuniv.edu.sy:80/uof_collages.php?collage_id=14",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-agricultural-engineering-raqqa",
+    "universityId": "sy-al-furat-university",
+    "facultyId": "sy-al-furat-university-faculty-of-agricultural-engineering-raqqa",
+    "disciplineId": "sy-agricultural-engineering",
+    "campus": {
+      "locality": {
+        "en": "Raqqa",
+        "ar": "الرقة"
+      },
+      "governorateSlug": "raqqa"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Agricultural Engineering",
+      "ar": "الهندسة الزراعية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "al-furat-agricultural-engineering-faculty-page",
+      "al-furat-university-about-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r41",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-agricultural-engineering-faculty-page",
+        "sourceRecordId": "https://alfuratuniv.edu.sy/college.php?id=13&lang=ar",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-university-about-page",
+        "sourceRecordId": "https://alfuratuniv.edu.sy/about.php?lang=ar",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-law-hasakah",
+    "universityId": "sy-al-furat-university",
+    "facultyId": "sy-al-furat-university-faculty-of-law-hasakah",
+    "disciplineId": "sy-law",
+    "campus": {
+      "locality": {
+        "en": "Hasakah",
+        "ar": "الحسكة"
+      },
+      "governorateSlug": "hasakah"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Law",
+      "ar": "الحقوق"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "al-furat-hasakah-law-faculty-page",
+      "public-university-affiliations-decree-250-2006"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p13:r38",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-hasakah-law-faculty-page",
+        "sourceRecordId": "https://alfuratuniv.edu.sy/college.php?id=19&lang=ar",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-mathematics-hasakah",
+    "universityId": "sy-al-furat-university",
+    "facultyId": "sy-al-furat-university-faculty-of-science-hasakah",
+    "disciplineId": "sy-mathematics",
+    "campus": {
+      "locality": {
+        "en": "Hasakah",
+        "ar": "الحسكة"
+      },
+      "governorateSlug": "hasakah"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Mathematics",
+      "ar": "الرياضيات"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "al-furat-hasakah-science-faculty-archived-page",
+      "public-university-affiliations-decree-250-2006"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p6:r19",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-hasakah-science-faculty-archived-page",
+        "sourceRecordId": "http://web.archive.org/web/20101129041724/http://alfuratuniv.edu.sy:80/uof_collages.php?collage_id=17",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-nursing",
+    "universityId": "sy-al-furat-university",
+    "facultyId": "sy-al-furat-university-faculty-of-nursing",
+    "disciplineId": "sy-nursing",
+    "campus": {
+      "locality": {
+        "en": "Deir ez-Zor",
+        "ar": "دير الزور"
+      },
+      "governorateSlug": "deir-ez-zor"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Nursing",
+      "ar": "التمريض"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "al-furat-nursing-faculty-page",
+      "public-university-affiliations-decree-250-2006"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p10:r34",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-nursing-faculty-page",
+        "sourceRecordId": "https://alfuratuniv.edu.sy/college.php?id=20&lang=ar",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-financial-and-banking-sciences-technical-diploma-raqqa",
+    "universityId": "sy-al-furat-university",
+    "facultyId": "sy-al-furat-university-technical-institute-of-financial-and-banking-sciences-raqqa",
+    "disciplineId": "sy-financial-and-banking-management",
+    "campus": {
+      "locality": {
+        "en": "Raqqa",
+        "ar": "الرقة"
+      },
+      "governorateSlug": "raqqa"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Financial and Banking Sciences Technical Diploma",
+      "ar": "الدبلوم التقاني في العلوم المالية والمصرفية"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-public-university-named-programs-2026-2027",
+      "al-furat-raqqa-financial-institute-archived-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r48",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-university-named-programs-2026-2027",
+        "sourceRecordId": "announcement-6:p20:r7",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-raqqa-financial-institute-archived-page",
+        "sourceRecordId": "http://web.archive.org/web/20120128140612/http://www.alfuratuniv.edu.sy/uof_collages.php?collage_id=34",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-agricultural-technical-diploma",
+    "universityId": "sy-al-furat-university",
+    "facultyId": "sy-al-furat-university-agricultural-technical-institute",
+    "disciplineId": "sy-agricultural-technology",
+    "campus": {
+      "locality": {
+        "en": "Deir ez-Zor",
+        "ar": "دير الزور"
+      },
+      "governorateSlug": "deir-ez-zor"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Agricultural Technical Diploma",
+      "ar": "الدبلوم التقاني الزراعي"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-public-university-named-programs-2026-2027",
+      "al-furat-deir-ez-zor-agricultural-institute-archived-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p17:r18",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-university-named-programs-2026-2027",
+        "sourceRecordId": "announcement-6:p23:r4",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-deir-ez-zor-agricultural-institute-archived-page",
+        "sourceRecordId": "http://web.archive.org/web/20120128104521/http://www.alfuratuniv.edu.sy/uof_collages.php?collage_id=26",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-agricultural-technical-diploma-hasakah",
+    "universityId": "sy-al-furat-university",
+    "facultyId": "sy-al-furat-university-agricultural-technical-institute-hasakah",
+    "disciplineId": "sy-agricultural-technology",
+    "campus": {
+      "locality": {
+        "en": "Hasakah",
+        "ar": "الحسكة"
+      },
+      "governorateSlug": "hasakah"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Agricultural Technical Diploma",
+      "ar": "الدبلوم التقاني الزراعي"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-public-university-named-programs-2026-2027",
+      "al-furat-hasakah-agricultural-institute-archived-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p17:r19",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-university-named-programs-2026-2027",
+        "sourceRecordId": "announcement-6:p23:r5",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-hasakah-agricultural-institute-archived-page",
+        "sourceRecordId": "http://web.archive.org/web/20120128153751/http://www.alfuratuniv.edu.sy/uof_collages.php?collage_id=35",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-veterinary-technical-diploma-hasakah",
+    "universityId": "sy-al-furat-university",
+    "facultyId": "sy-al-furat-university-veterinary-technical-institute-hasakah",
+    "disciplineId": "sy-veterinary-technology",
+    "campus": {
+      "locality": {
+        "en": "Hasakah",
+        "ar": "الحسكة"
+      },
+      "governorateSlug": "hasakah"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Veterinary Technical Diploma",
+      "ar": "الدبلوم التقاني في الطب البيطري"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-public-university-named-programs-2026-2027",
+      "al-furat-hasakah-veterinary-institute-archived-page"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p18:r23",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-university-named-programs-2026-2027",
+        "sourceRecordId": "announcement-6:p24:r3",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-furat-hasakah-veterinary-institute-archived-page",
+        "sourceRecordId": "http://web.archive.org/web/20120128051756/http://www.alfuratuniv.edu.sy/uof_collages.php?collage_id=36",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
   }
 ]
