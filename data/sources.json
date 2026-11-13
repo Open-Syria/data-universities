@@ -2378,7 +2378,7 @@
     "license": "Public source; factual data only",
     "status": "approved",
     "fields": ["program name", "campus", "admission route identifiers"],
-    "notes": "Uses the selected city-grouped offering labels and intake routes. Faculty affiliation and award level require separate evidence."
+    "notes": "Uses the selected city-grouped offering labels and intake routes. Faculty affiliation and award level require separate evidence. For rows covered by the owner decision of 13 November 2026, the table type gives the award level (mohe-admissions-2026-2027-award-by-table-type)."
   },
   {
     "id": "aleppo-homs-civil-engineering-official-gazette-2019",
@@ -2414,7 +2414,7 @@
     "license": "Public source; factual data only",
     "status": "approved",
     "fields": ["academic unit", "university affiliation", "campus"],
-    "notes": "Article 2 lists the faculties of Damascus, Aleppo, Tishreen (now Latakia), Al-Baath (now Homs), Al-Furat and Hama universities, as amended, including branch faculties and their cities. It identifies the Informatics Engineering faculties at Damascus and Tishreen universities."
+    "notes": "Article 2 lists the faculties of Damascus, Aleppo, Tishreen (now Latakia), Al-Baath (now Homs), Al-Furat and Hama universities, as amended, including branch faculties and their cities, and the Tartus faculties listed under Tishreen that now belong to the University of Tartus. It identifies the Informatics Engineering faculties at Damascus and Tishreen universities."
   },
   {
     "id": "damascus-civil-engineering-first-degree",
@@ -2486,7 +2486,7 @@
     "license": "Public source; factual data only",
     "status": "approved",
     "fields": ["program name", "campus", "admission route identifiers"],
-    "notes": "Uses the city-grouped offering labels and intake routes that appear only in the literary table. Faculty affiliation and award level require separate evidence."
+    "notes": "Uses the city-grouped offering labels and intake routes that appear only in the literary table. Faculty affiliation and award level require separate evidence. For rows covered by the owner decision of 13 November 2026, the table type gives the award level (mohe-admissions-2026-2027-award-by-table-type)."
   },
   {
     "id": "homs-univ-faculties-page",
@@ -3642,5 +3642,41 @@
     "status": "approved",
     "fields": ["academic unit", "qualification level"],
     "notes": "Adopted by the Higher Education Council on 26 November 2007 and published by the Ministry in 2008; this copy is hosted on Al-Jazeera Private University’s site (SHA-256 502995b98e493903013ac25ff545715d4315dd566f04b0aeb5d74f719d9078d2). Article 49 caps enrolment for the first degree (درجة الإجازة) at nine years in faculties of medicine and eight in faculties of dentistry at private universities. Used with the 2026–2027 Ministry row that names the university and campus as award evidence for private Human Medicine and Dentistry first degrees."
+  },
+  {
+    "id": "mohe-admissions-2026-2027-award-by-table-type",
+    "title": "Award level from the 2026–2027 Ministry admissions table type (owner decision)",
+    "url": "https://mohe.gov.sy/ar/media-center/details/651",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["qualification level"],
+    "notes": "Owner decision of 13 November 2026. For a city-grouped 2026–2027 Ministry row whose university and teaching city an approved source already establishes, a row in the public faculty tables of announcements 2 and 4 (catalogue kind faculty) is a first university degree, recorded at the bachelor level, and a row in a technical institute table (kind institute) for an institute that the university runs is a technical institute diploma. sourceRecordId names the table type: faculty-table or university-institute-table. It does not cover labels for open learning, parallel, virtual or postgraduate study, diplomas listed in a faculty table, rows whose label names another city, institutes run by another ministry, or any row with two plausible faculties or universities."
+  },
+  {
+    "id": "hama-agricultural-engineering-page",
+    "title": "Hama University Faculty of Agricultural Engineering page",
+    "url": "https://hama-univ.edu.sy/%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Faculty of Agricultural Engineering on the Hama University site; says the Faculty of Agriculture was created in Salamiyah on 8/8/2011. Read 13 November 2026."
+  },
+  {
+    "id": "hama-science-page",
+    "title": "Hama University Faculty of Science page",
+    "url": "https://hama-univ.edu.sy/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Faculty of Science of Hama University (Decree 213 of 2014); its mathematics department opened in Masyaf in 2014–2015. Read 13 November 2026."
+  },
+  {
+    "id": "tartus-agricultural-engineering-faculty-page",
+    "title": "University of Tartus Faculty of Agricultural Engineering page",
+    "url": "https://tartous-univ.edu.sy/faculties/kly-alhnds-alzraaay",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Faculty of Agricultural Engineering of the University of Tartus; address Tartus, Al-Taliaa district; five study years. The page text is served by the site API at https://api.tartous-univ.edu.sy/api/website/pages/unit/17. Read 13 November 2026."
   }
 ]

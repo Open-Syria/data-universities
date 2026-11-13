@@ -22,7 +22,11 @@ for examples of corroborating the awarding university and teaching site.
 Check announcement 5 before assigning an institute: health, tourism, Sharia
 and several technical institutes belong to other ministries. When an award
 comes from an archived copy of a university page, check the snapshot date
-and prefer a current page when one exists.
+and prefer a current page when one exists. When the award comes from the
+Ministry table type (`mohe-admissions-2026-2027-award-by-table-type`),
+check that an approved source gives the university and teaching city and
+that the row falls inside the limits in the
+[source decisions](SOURCE_DECISIONS.md).
 The [bulk named-program review](post-seed/BULK_NAMED_PROGRAMS_2026_2027.md)
 shows how to cross-reference institution and campus matches with award evidence.
 

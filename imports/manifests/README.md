@@ -34,6 +34,9 @@ pins announcement 2 for the Aleppo and Homs Civil Engineering offerings.
 The [batch 3 city-grouped manifest](mohe-public-city-programs-2026-2027-2026-11-13.json)
 pins announcements 1, 2, 4, 5 and 6 for the university assignments, and the
 [batch 3 named-program manifest](mohe-university-admissions-bulk-named-2026-2027-2026-11-13.json)
-pins announcement 7 for the resolved private candidates.
+pins announcement 7 for the resolved private candidates. The
+[table-type award manifest](mohe-admissions-2026-2027-award-by-table-type-2026-11-13.json)
+pins announcements 2, 4, 5 and 6 for the fourth city-grouped review, which
+takes the award level from the Ministry table type.
 
 Do not create manifests for sources that are not approved or under active maintainer review.

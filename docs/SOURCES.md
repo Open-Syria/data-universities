@@ -54,6 +54,13 @@ announcement 5, which names the ministry that runs each institute.
 Higher Education Council Decision 31, article 49, supports the first-degree
 award for private Human Medicine and Dentistry when the Ministry row names
 the university and campus.
+The fourth city-grouped review takes the award level from the Ministry
+table type, by owner decision of 13 November 2026, and cites it as
+`mohe-admissions-2026-2027-award-by-table-type`. The university and
+teaching city come from Decree 250 article 2 as amended, Decree 210 of
+2026, announcement 5 and the universities' own pages, including new Hama
+University pages for Agricultural Engineering in Salamiyah and Science in
+Masyaf and the University of Tartus Agricultural Engineering page.
 The Ministry's intake rows also corroborate Al-Jazeera's permanent campus
 announcement. [Al-Jazeera campus notice](https://t.me/STUDENTSJPU/1779)
 

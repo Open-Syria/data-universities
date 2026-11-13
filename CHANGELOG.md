@@ -15,6 +15,9 @@ All notable changes to this repository will be documented in this file.
 - Resolve 38 named candidates from the pending register: 27 private Human Medicine and Dentistry degrees, Cordoba's Civil Engineering at Qamishli, two IUSR medical technical diplomas, and eight public institute rows. Fourteen of the professional degrees rest on Higher Education Council Decision 31, article 49, with the Ministry row for the university and campus.
 - Add the city-grouped pending register, listing the 430 leads still pending with the evidence each needs, including the 97 institute rows that announcement 5 assigns to other ministries.
 - Add the announcement 4 Ministry source for rows that only the literary table lists, Higher Education Council Decision 31 as an approved award source for private professional degrees, and import manifests for both batch 3 imports.
+- Record 168 city-grouped public offerings whose award comes from the Ministry table type, under the owner decision of 13 November 2026: 124 bachelor's programs and 44 technical diplomas at Damascus (30), Aleppo (9), Latakia (40), Homs (1), Hama (13), Tartus (18), Al-Furat (39) and Idlib (18), with 84 new faculties or institutes. Decree 250 article 2, Decree 210, announcement 5 and the universities' own pages give the university and teaching city. Each offering cites the new `mohe-admissions-2026-2027-award-by-table-type` source.
+- Resolve 21 named announcement 6 institute and faculty rows that match those offerings, and leave 38 Award leads pending in the city-grouped register, which now lists 262 leads.
+- Add Hama University pages for Agricultural Engineering in Salamiyah and Science in Masyaf, the University of Tartus Agricultural Engineering page, and an import manifest for the table-type review.
 
 - Add Arabic Ministry admissions aliases to 11 existing universities, with page and row references.
 - Add four faculties or institutes and four reviewed program offerings across three universities.
@@ -43,6 +46,7 @@ All notable changes to this repository will be documented in this file.
 - Use Deir ez-Zor as Al-Jazeera Private University's permanent campus for the 2026–2027 intake.
 - Point the announcement 5 source at its own PDF instead of announcement 2's.
 - Widen the Decree 250 source to the faculty and branch lists it supports.
+- Point the city-grouped Ministry sources at the table-type award decision, and note the Tartus faculties that Decree 250 lists under Tishreen.
 
 ## v0.2.3 - 2026-11-11
 

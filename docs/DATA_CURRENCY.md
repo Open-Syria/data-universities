@@ -17,7 +17,9 @@ against the next bulletin before describing an offering as open for a new cycle.
 The [city-grouped review](post-seed/PUBLIC_CITY_PROGRAMS_2026_2027.md) uses the 2026–2027 cycle too.
 Where a current university page names no award, it cites an archived copy
 of the university's own page; recheck those awards against current pages
-before each release.
+before each release. Awards taken from the 2026–2027 Ministry table type
+apply to that intake; recheck the table type and teaching city against the
+next cycle's announcements.
 
 Cover photos can be older than the record they illustrate. Asset
 `sourceReferences[].sourceRecordDate` keeps the date recorded for each Commons
