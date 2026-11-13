@@ -27028,5 +27028,1475 @@
       }
     ],
     "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-general-mechanical-engineering",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-faculty-of-mechanical-and-electrical-engineering",
+    "disciplineId": "sy-mechanical-engineering",
+    "campus": {
+      "locality": {
+        "en": "Damascus",
+        "ar": "دمشق"
+      },
+      "governorateSlug": "damascus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "General Mechanical Engineering",
+      "ar": "هندسة الميكانيك العام"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r41",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-electrical-power-engineering-al-suwayda",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-second-faculty-of-mechanical-and-electrical-engineering-al-suwayda",
+    "disciplineId": "sy-electrical-engineering",
+    "campus": {
+      "locality": {
+        "en": "As-Suwayda",
+        "ar": "السويداء"
+      },
+      "governorateSlug": "sweida"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Electrical Power Engineering",
+      "ar": "هندسة الطاقة الكهربائية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r44",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-mechanical-power-engineering-al-suwayda",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-second-faculty-of-mechanical-and-electrical-engineering-al-suwayda",
+    "disciplineId": "sy-mechanical-engineering",
+    "campus": {
+      "locality": {
+        "en": "As-Suwayda",
+        "ar": "السويداء"
+      },
+      "governorateSlug": "sweida"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Mechanical Power Engineering",
+      "ar": "هندسة القوى الميكانيكية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r46",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-veterinary-medicine-daraa",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-faculty-of-veterinary-medicine-daraa",
+    "disciplineId": "sy-veterinary-medicine",
+    "campus": {
+      "locality": {
+        "en": "Daraa",
+        "ar": "درعا"
+      },
+      "governorateSlug": "daraa"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Veterinary Medicine",
+      "ar": "الطب البيطري"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r20",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-agricultural-engineering-al-suwayda",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-second-faculty-of-agricultural-engineering-al-suwayda",
+    "disciplineId": "sy-agricultural-engineering",
+    "campus": {
+      "locality": {
+        "en": "As-Suwayda",
+        "ar": "السويداء"
+      },
+      "governorateSlug": "sweida"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Agricultural Engineering",
+      "ar": "الهندسة الزراعية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r27",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-agricultural-engineering-quneitra",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-faculty-of-agricultural-engineering-quneitra",
+    "disciplineId": "sy-agricultural-engineering",
+    "campus": {
+      "locality": {
+        "en": "Quneitra",
+        "ar": "القنيطرة"
+      },
+      "governorateSlug": "quneitra"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Agricultural Engineering",
+      "ar": "الهندسة الزراعية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r29",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-economics-quneitra",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-third-faculty-of-economics-quneitra",
+    "disciplineId": "sy-economics",
+    "campus": {
+      "locality": {
+        "en": "Quneitra",
+        "ar": "القنيطرة"
+      },
+      "governorateSlug": "quneitra"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Economics",
+      "ar": "الاقتصاد"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r46",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-economics-al-suwayda",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-fourth-faculty-of-economics-al-suwayda",
+    "disciplineId": "sy-economics",
+    "campus": {
+      "locality": {
+        "en": "As-Suwayda",
+        "ar": "السويداء"
+      },
+      "governorateSlug": "sweida"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Economics",
+      "ar": "الاقتصاد"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r48",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-biology-al-suwayda",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-fourth-faculty-of-sciences-al-suwayda",
+    "disciplineId": "sy-biology",
+    "campus": {
+      "locality": {
+        "en": "As-Suwayda",
+        "ar": "السويداء"
+      },
+      "governorateSlug": "sweida"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Biology",
+      "ar": "علم الحياة"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p4:r14",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-arabic-language-and-literature-quneitra",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-fourth-faculty-of-arts-and-humanities-quneitra",
+    "disciplineId": "sy-arabic-language-and-literature",
+    "campus": {
+      "locality": {
+        "en": "Quneitra",
+        "ar": "القنيطرة"
+      },
+      "governorateSlug": "quneitra"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Arabic Language and Literature",
+      "ar": "اللغة العربية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p11:r4",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-arabic-language-and-literature-daraa",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-third-faculty-of-arts-and-humanities-daraa",
+    "disciplineId": "sy-arabic-language-and-literature",
+    "campus": {
+      "locality": {
+        "en": "Daraa",
+        "ar": "درعا"
+      },
+      "governorateSlug": "daraa"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Arabic Language and Literature",
+      "ar": "اللغة العربية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p11:r6",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-arabic-language-and-literature-al-suwayda",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-second-faculty-of-arts-and-humanities-al-suwayda",
+    "disciplineId": "sy-arabic-language-and-literature",
+    "campus": {
+      "locality": {
+        "en": "As-Suwayda",
+        "ar": "السويداء"
+      },
+      "governorateSlug": "sweida"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Arabic Language and Literature",
+      "ar": "اللغة العربية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p11:r8",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-english-language-and-literature-daraa",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-third-faculty-of-arts-and-humanities-daraa",
+    "disciplineId": "sy-english-language-and-literature",
+    "campus": {
+      "locality": {
+        "en": "Daraa",
+        "ar": "درعا"
+      },
+      "governorateSlug": "daraa"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "English Language and Literature",
+      "ar": "اللغة الإنكليزية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p11:r29",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-french-language-and-literature-al-suwayda",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-second-faculty-of-arts-and-humanities-al-suwayda",
+    "disciplineId": "sy-french-language-and-literature",
+    "campus": {
+      "locality": {
+        "en": "As-Suwayda",
+        "ar": "السويداء"
+      },
+      "governorateSlug": "sweida"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "French Language and Literature",
+      "ar": "اللغة الفرنسية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p12:r4",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-philosophy-al-suwayda",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-second-faculty-of-arts-and-humanities-al-suwayda",
+    "disciplineId": "sy-philosophy",
+    "campus": {
+      "locality": {
+        "en": "As-Suwayda",
+        "ar": "السويداء"
+      },
+      "governorateSlug": "sweida"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Philosophy",
+      "ar": "الفلسفة"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p12:r26",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-sociology-al-suwayda",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-second-faculty-of-arts-and-humanities-al-suwayda",
+    "disciplineId": "sy-sociology",
+    "campus": {
+      "locality": {
+        "en": "As-Suwayda",
+        "ar": "السويداء"
+      },
+      "governorateSlug": "sweida"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Sociology",
+      "ar": "علم الاجتماع"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p12:r35",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-sociology-daraa",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-third-faculty-of-arts-and-humanities-daraa",
+    "disciplineId": "sy-sociology",
+    "campus": {
+      "locality": {
+        "en": "Daraa",
+        "ar": "درعا"
+      },
+      "governorateSlug": "daraa"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Sociology",
+      "ar": "علم الاجتماع"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p12:r37",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-geography-al-suwayda",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-second-faculty-of-arts-and-humanities-al-suwayda",
+    "disciplineId": "sy-geography",
+    "campus": {
+      "locality": {
+        "en": "As-Suwayda",
+        "ar": "السويداء"
+      },
+      "governorateSlug": "sweida"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Geography",
+      "ar": "الجغرافية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p13:r6",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-archaeology-al-suwayda",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-second-faculty-of-arts-and-humanities-al-suwayda",
+    "disciplineId": "sy-archaeology",
+    "campus": {
+      "locality": {
+        "en": "As-Suwayda",
+        "ar": "السويداء"
+      },
+      "governorateSlug": "sweida"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Archaeology",
+      "ar": "الآثار"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p13:r20",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-law-daraa",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-second-faculty-of-law-daraa",
+    "disciplineId": "sy-law",
+    "campus": {
+      "locality": {
+        "en": "Daraa",
+        "ar": "درعا"
+      },
+      "governorateSlug": "daraa"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Law",
+      "ar": "الحقوق"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p13:r27",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-law-quneitra",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-third-faculty-of-law-quneitra",
+    "disciplineId": "sy-law",
+    "campus": {
+      "locality": {
+        "en": "Quneitra",
+        "ar": "القنيطرة"
+      },
+      "governorateSlug": "quneitra"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Law",
+      "ar": "الحقوق"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p13:r29",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-psychology-quneitra",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-fourth-faculty-of-education-quneitra",
+    "disciplineId": "sy-psychology",
+    "campus": {
+      "locality": {
+        "en": "Quneitra",
+        "ar": "القنيطرة"
+      },
+      "governorateSlug": "quneitra"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Psychology",
+      "ar": "علم النفس"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p13:r52",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-special-education-al-suwayda",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-second-faculty-of-education-al-suwayda",
+    "disciplineId": "sy-special-education",
+    "campus": {
+      "locality": {
+        "en": "As-Suwayda",
+        "ar": "السويداء"
+      },
+      "governorateSlug": "sweida"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Special Education",
+      "ar": "التربية الخاصة"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p14:r6",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-psychological-counseling-al-suwayda",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-second-faculty-of-education-al-suwayda",
+    "disciplineId": "sy-psychological-counseling",
+    "campus": {
+      "locality": {
+        "en": "As-Suwayda",
+        "ar": "السويداء"
+      },
+      "governorateSlug": "sweida"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Psychological Counseling",
+      "ar": "الإرشاد النفسي"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p14:r13",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-primary-education-quneitra",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-fourth-faculty-of-education-quneitra",
+    "disciplineId": "sy-primary-education",
+    "campus": {
+      "locality": {
+        "en": "Quneitra",
+        "ar": "القنيطرة"
+      },
+      "governorateSlug": "quneitra"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Primary Education",
+      "ar": "معلم الصف"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p14:r24",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-primary-education-al-suwayda",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-second-faculty-of-education-al-suwayda",
+    "disciplineId": "sy-primary-education",
+    "campus": {
+      "locality": {
+        "en": "As-Suwayda",
+        "ar": "السويداء"
+      },
+      "governorateSlug": "sweida"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Primary Education",
+      "ar": "معلم الصف"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p14:r28",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-early-childhood-education-daraa",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-third-faculty-of-education-daraa",
+    "disciplineId": "sy-early-childhood-education",
+    "campus": {
+      "locality": {
+        "en": "Daraa",
+        "ar": "درعا"
+      },
+      "governorateSlug": "daraa"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Early Childhood Education",
+      "ar": "رياض الأطفال"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p14:r50",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-early-childhood-education-quneitra",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-fourth-faculty-of-education-quneitra",
+    "disciplineId": "sy-early-childhood-education",
+    "campus": {
+      "locality": {
+        "en": "Quneitra",
+        "ar": "القنيطرة"
+      },
+      "governorateSlug": "quneitra"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Early Childhood Education",
+      "ar": "رياض الأطفال"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p14:r52",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-tourism",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-faculty-of-tourism",
+    "disciplineId": "sy-tourism-and-hospitality-management",
+    "campus": {
+      "locality": {
+        "en": "Damascus",
+        "ar": "دمشق"
+      },
+      "governorateSlug": "damascus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Tourism",
+      "ar": "السياحة"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p15:r24",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-history-al-suwayda",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-second-faculty-of-arts-and-humanities-al-suwayda",
+    "disciplineId": "sy-history",
+    "campus": {
+      "locality": {
+        "en": "As-Suwayda",
+        "ar": "السويداء"
+      },
+      "governorateSlug": "sweida"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "History",
+      "ar": "التاريخ"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-literary-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-literary-2026-2027",
+        "sourceRecordId": "announcement-4:p3:r28",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
   }
 ]
