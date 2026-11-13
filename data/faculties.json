@@ -9003,5 +9003,465 @@
       }
     ],
     "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-faculty-of-architecture",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Faculty of Architecture",
+      "ar": "كلية الهندسة المعمارية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-architecture-faculty-about-wayback-2011"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r28",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-architecture-faculty-about-wayback-2011",
+        "sourceRecordId": "https://web.archive.org/web/20110215004855/http://www.alepuniv.edu.sy/arch/index.jsp?inc=12&id=2&lang=ar&type=1",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-faculty-of-electrical-and-electronic-engineering",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Faculty of Electrical and Electronic Engineering",
+      "ar": "كلية الهندسة الكهربائية والإلكترونية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-electrical-faculty-api-wayback-2020"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r47",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-electrical-faculty-api-wayback-2020",
+        "sourceRecordId": "https://web.archive.org/web/20200724202219/https://alepuniv.edu.sy/api/faculties/faculty-of-electrical-and-electronic-engineering",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-faculty-of-mechanical-engineering",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Faculty of Mechanical Engineering",
+      "ar": "كلية الهندسة الميكانيكية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-mechanical-faculty-api-wayback-2022"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r5",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-mechanical-faculty-api-wayback-2022",
+        "sourceRecordId": "https://web.archive.org/web/20220312094428/https://alepuniv.edu.sy/api/faculties/faculty-of-mechanics",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-faculty-of-agricultural-engineering",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Faculty of Agricultural Engineering",
+      "ar": "كلية الهندسة الزراعية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-agriculture-faculty-print-wayback-2017"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r31",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-agriculture-faculty-print-wayback-2017",
+        "sourceRecordId": "https://web.archive.org/web/20170710124928/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-faculty-of-economics",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Faculty of Economics",
+      "ar": "كلية الاقتصاد"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-economics-faculty-print-wayback-2017"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r50",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-economics-faculty-print-wayback-2017",
+        "sourceRecordId": "https://web.archive.org/web/20170712020002/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-faculty-of-nursing",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Faculty of Nursing",
+      "ar": "كلية التمريض"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-nursing-faculty-degrees-wayback-2011"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p10:r31",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-nursing-faculty-degrees-wayback-2011",
+        "sourceRecordId": "https://web.archive.org/web/20111222043601/http://www.alepuniv.edu.sy/nuf/index.jsp?inc=12&id=1965&lang=ar&type=8",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-faculty-of-arts-and-humanities",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Faculty of Arts and Humanities",
+      "ar": "كلية الآداب والعلوم الإنسانية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-arts-faculty-print-wayback-2017"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p11:r10",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-arts-faculty-print-wayback-2017",
+        "sourceRecordId": "https://web.archive.org/web/20170712235059/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%A2%D8%AF%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86%D9%8A%D8%A9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-faculty-of-law",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Faculty of Law",
+      "ar": "كلية الحقوق"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-law-faculty-print-wayback-2017"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p13:r31",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-law-faculty-print-wayback-2017",
+        "sourceRecordId": "https://web.archive.org/web/20170617001510/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AD%D9%82%D9%88%D9%82",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-faculty-of-education",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Faculty of Education",
+      "ar": "كلية التربية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-education-faculty-print-wayback-2017"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p13:r44",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-education-faculty-print-wayback-2017",
+        "sourceRecordId": "https://web.archive.org/web/20170713131246/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-engineering-technical-institute",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Engineering Technical Institute",
+      "ar": "المعهد التقاني الهندسي"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "aleppo-engineering-technical-institute-wayback-2014"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r4",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-engineering-technical-institute-wayback-2014",
+        "sourceRecordId": "https://web.archive.org/web/20140816224452/http://www.alepuniv.edu.sy/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%85%D8%B9%D8%A7%D9%87%D8%AF-%D8%AA%D9%82%D8%A7%D9%86%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D9%8A",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-technical-institute-of-dentistry",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Technical Institute of Dentistry",
+      "ar": "المعهد التقاني لطب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "aleppo-dental-technical-institute-api-wayback-2024"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r35",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-dental-technical-institute-api-wayback-2024",
+        "sourceRecordId": "https://web.archive.org/web/20240828134434/https://alepuniv.edu.sy/api/faculties/technical-institute-of-dentistry",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-technical-institute-of-financial-and-banking-sciences",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Technical Institute of Financial and Banking Sciences",
+      "ar": "المعهد التقاني للعلوم المالية والمصرفية"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r45",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "https://mohe.gov.sy/img/uploads1/news_pdf_20260930160241_651_0.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-medical-technical-institute",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Medical Technical Institute",
+      "ar": "المعهد التقاني الطبي"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "aleppo-medical-technical-institute-api-wayback-2024"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p17:r36",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-medical-technical-institute-api-wayback-2024",
+        "sourceRecordId": "https://web.archive.org/web/20241210201213/https://alepuniv.edu.sy/api/faculties/medical-technology-institute",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-faculty-of-human-medicine",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Faculty of Human Medicine",
+      "ar": "كلية الطب البشري"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-medicine-faculty-api-wayback-2025"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-medicine-faculty-api-wayback-2025",
+        "sourceRecordId": "https://web.archive.org/web/20250709121908/https://alepuniv.edu.sy/api/faculties/college-of-human-medicine",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
   }
 ]

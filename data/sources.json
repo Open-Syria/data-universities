@@ -3453,5 +3453,185 @@
     "status": "approved",
     "fields": ["academic unit", "campus", "program name", "qualification level"],
     "notes": "Snapshot 2025-12-08. Faculty of Pharmacy grants 'الإجازة في الصيدلة والكيمياء الصيدلية' after five years of study."
+  },
+  {
+    "id": "aleppo-architecture-faculty-about-wayback-2011",
+    "title": "University of Aleppo Faculty of Architecture site: about the faculty",
+    "url": "https://web.archive.org/web/20110215004855/http://www.alepuniv.edu.sy/arch/index.jsp?inc=12&id=2&lang=ar&type=1",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2011-02-15. Faculty of Architecture (opened 1983) of the University of Aleppo; study for 'درجة الإجازة في الهندسة المعمارية' lasts five years."
+  },
+  {
+    "id": "aleppo-electrical-faculty-api-wayback-2020",
+    "title": "University of Aleppo Faculty of Electrical and Electronic Engineering record (official site API)",
+    "url": "https://web.archive.org/web/20200724202219/https://alepuniv.edu.sy/api/faculties/faculty-of-electrical-and-electronic-engineering",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus"],
+    "notes": "Snapshot 2020-07-24. Faculty record with departments incl. electronics, communications, computers, control and automation, mechatronics, power systems, electrical drives."
+  },
+  {
+    "id": "aleppo-electrical-faculty-degrees-wayback-2010",
+    "title": "University of Aleppo Faculty of Electrical and Electronic Engineering site: certificates granted",
+    "url": "https://web.archive.org/web/20100212020633/http://www.alepuniv.edu.sy:80/eef/index.jsp?inc=10&lang=ar&cid=1",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Snapshot 2010-02-12. Old faculty site (2010) lists the ijazas granted: electronic engineering (electronic systems, medical electronics, nuclear electronics, communications, computers, control and automation, mechatronics) and electrical engineering (power systems, electrical drives)."
+  },
+  {
+    "id": "aleppo-mechanical-faculty-api-wayback-2022",
+    "title": "University of Aleppo Faculty of Mechanical Engineering record (official site API)",
+    "url": "https://web.archive.org/web/20220312094428/https://alepuniv.edu.sy/api/faculties/faculty-of-mechanics",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus"],
+    "notes": "Snapshot 2022-03-12. Faculty record lists ten departments incl. textile, mechanical energy, agricultural machinery, materials, nuclear, production, aeronautics, industrial."
+  },
+  {
+    "id": "aleppo-mechanical-faculty-degrees-wayback-2011",
+    "title": "University of Aleppo Faculty of Mechanical Engineering site: degrees and study length",
+    "url": "https://web.archive.org/web/20111222083827/http://www.alepuniv.edu.sy/mef/index.jsp?inc=12&id=1136&lang=ar&type=8",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Snapshot 2011-12-22. Five-year study leading to 'درجة الإجازة في الهندسة الميكانيكية' in mechanical power, design and production, and agricultural machinery (list as of 2011)."
+  },
+  {
+    "id": "aleppo-technical-engineering-faculty-print-wayback-2017",
+    "title": "University of Aleppo Faculty of Technical Engineering page (print view)",
+    "url": "https://web.archive.org/web/20170708115348/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2017-07-08. Faculty of Technical Engineering (Decree 380 of 2002); 'درجة الإجازة في الهندسة التقنية' takes five years; environmental and food technology departments described."
+  },
+  {
+    "id": "aleppo-agriculture-faculty-print-wayback-2017",
+    "title": "University of Aleppo Faculty of Agriculture page (print view)",
+    "url": "https://web.archive.org/web/20170710124928/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2017-07-10. Faculty of Agriculture (est. 1960) grants 'الإجازة العامة في الهندسة الزراعية' in five years."
+  },
+  {
+    "id": "aleppo-economics-faculty-print-wayback-2017",
+    "title": "University of Aleppo Faculty of Economics page (print view)",
+    "url": "https://web.archive.org/web/20170712020002/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2017-07-12. University council grants 'الإجازة في الاقتصاد' in six specialisations; ijaza study length four years."
+  },
+  {
+    "id": "aleppo-nursing-faculty-degrees-wayback-2011",
+    "title": "University of Aleppo Faculty of Nursing site: degrees granted",
+    "url": "https://web.archive.org/web/20111222043601/http://www.alepuniv.edu.sy/nuf/index.jsp?inc=12&id=1965&lang=ar&type=8",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2011-12-22. Degrees granted by the Faculty of Nursing at the University of Aleppo: first 'درجة الإجازة في التمريض'."
+  },
+  {
+    "id": "aleppo-arts-faculty-print-wayback-2017",
+    "title": "University of Aleppo Faculty of Arts and Humanities page (print view)",
+    "url": "https://web.archive.org/web/20170712235059/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%A2%D8%AF%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86%D9%8A%D8%A9",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2017-07-12. Four-year study leading to 'درجة الإجازة في الآداب' in Arabic, English, French, Turkish, Persian, geography, history, archaeology and philosophical and social studies."
+  },
+  {
+    "id": "aleppo-law-faculty-print-wayback-2017",
+    "title": "University of Aleppo Faculty of Law page (print view)",
+    "url": "https://web.archive.org/web/20170617001510/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AD%D9%82%D9%88%D9%82",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2017-06-17. Faculty of Law grants 'إجازة في الحقوق' (regular) and the legal-studies programme ijaza."
+  },
+  {
+    "id": "aleppo-education-faculty-print-wayback-2017",
+    "title": "University of Aleppo Faculty of Education page (print view)",
+    "url": "https://web.archive.org/web/20170713131246/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Snapshot 2017-07-13. Faculty of Education (est. 1997) teaches the ijaza in class teacher, psychological counselling and education (curricula and educational technology; administration and planning)."
+  },
+  {
+    "id": "aleppo-engineering-technical-institute-wayback-2014",
+    "title": "University of Aleppo Engineering Technical Institute page",
+    "url": "https://web.archive.org/web/20140816224452/http://www.alepuniv.edu.sy/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%85%D8%B9%D8%A7%D9%87%D8%AF-%D8%AA%D9%82%D8%A7%D9%86%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D9%8A",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Snapshot 2014-08-16. Engineering institute in Aleppo (Decree 2603 of 1970), part of the University of Aleppo; certificate renamed 'دبلوم تقاني' from 2007-2008; specialisations: drafting, general construction, surveying, sanitary engineering and treatment plants."
+  },
+  {
+    "id": "aleppo-dental-technical-institute-api-wayback-2024",
+    "title": "University of Aleppo Technical Institute of Dentistry record (official site API)",
+    "url": "https://web.archive.org/web/20240828134434/https://alepuniv.edu.sy/api/faculties/technical-institute-of-dentistry",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Snapshot 2024-08-28. Dental institute in Aleppo (Ministry decision 1401 of 1987) grants 'دبلوم تقاني' in dentistry; departments: dental prosthetics, dental health assistance."
+  },
+  {
+    "id": "aleppo-financial-banking-institute-api-wayback-2024",
+    "title": "University of Aleppo Technical Institute of Financial and Banking Sciences record (official site API)",
+    "url": "https://web.archive.org/web/20241210201217/https://alepuniv.edu.sy/api/faculties/technical-institute-of-financial-and-banking-sciences",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Snapshot 2024-12-10. Institute grants 'دبلوم تقاني' in economics: accounting, administration, financial markets, insurance, banking."
+  },
+  {
+    "id": "aleppo-medical-technical-institute-api-wayback-2024",
+    "title": "University of Aleppo Medical Technical Institute record (official site API)",
+    "url": "https://web.archive.org/web/20241210201213/https://alepuniv.edu.sy/api/faculties/medical-technology-institute",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": [
+      "academic unit",
+      "university affiliation",
+      "campus",
+      "program name",
+      "qualification level"
+    ],
+    "notes": "Snapshot 2024-12-10. Medical institute of the University of Aleppo (Decree 697 of 1970), at least two years of study, grants 'دبلوم تقاني'; departments: laboratories, physiotherapy, anaesthesia, radiography, audiology and speech, emergency medicine, pharmacy, nursing."
+  },
+  {
+    "id": "aleppo-medicine-faculty-api-wayback-2025",
+    "title": "University of Aleppo Faculty of Human Medicine page data (Wayback snapshot of official site API, 2025-07-09)",
+    "url": "https://web.archive.org/web/20250709121908/https://alepuniv.edu.sy/api/faculties/college-of-human-medicine",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus"],
+    "notes": "Official faculty record 'كلية الطب البشري' with mission, objectives and 19 departments; names the faculty as 'كلية الطب – جامعة حلب'; no explicit first-degree award statement."
+  },
+  {
+    "id": "aleppo-medicine-faculty-print-wayback-2017",
+    "title": "University of Aleppo Faculty of Medicine page (print view)",
+    "url": "https://web.archive.org/web/20170613165421/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA-%D8%B7%D8%A8%D9%8A%D8%A9/%D8%A7%D9%84%D8%B7%D8%A8",
+    "license": "Official public website (Internet Archive copy); factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Snapshot 2017-06-13. Faculty of Medicine at the University of Aleppo (established 1965); study for 'درجة إجازة دكتور في الطب' lasts six years."
   }
 ]

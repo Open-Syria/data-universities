@@ -24537,5 +24537,1864 @@
       }
     ],
     "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-architecture",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-architecture",
+    "disciplineId": "sy-architecture",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Architecture",
+      "ar": "الهندسة المعمارية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-architecture-faculty-about-wayback-2011"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r28",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-architecture-faculty-about-wayback-2011",
+        "sourceRecordId": "https://web.archive.org/web/20110215004855/http://www.alepuniv.edu.sy/arch/index.jsp?inc=12&id=2&lang=ar&type=1",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-communications-engineering",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-electrical-and-electronic-engineering",
+    "disciplineId": "sy-communications-engineering",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Communications Engineering",
+      "ar": "هندسة الاتصالات"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-electrical-faculty-api-wayback-2020",
+      "aleppo-electrical-faculty-degrees-wayback-2010"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r47",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-electrical-faculty-api-wayback-2020",
+        "sourceRecordId": "https://web.archive.org/web/20200724202219/https://alepuniv.edu.sy/api/faculties/faculty-of-electrical-and-electronic-engineering",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-electrical-faculty-degrees-wayback-2010",
+        "sourceRecordId": "https://web.archive.org/web/20100212020633/http://www.alepuniv.edu.sy:80/eef/index.jsp?inc=10&lang=ar&cid=1",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-computer-engineering",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-electrical-and-electronic-engineering",
+    "disciplineId": "sy-computer-engineering",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Computer Engineering",
+      "ar": "هندسة الحواسيب"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-electrical-faculty-api-wayback-2020",
+      "aleppo-electrical-faculty-degrees-wayback-2010"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r48",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-electrical-faculty-api-wayback-2020",
+        "sourceRecordId": "https://web.archive.org/web/20200724202219/https://alepuniv.edu.sy/api/faculties/faculty-of-electrical-and-electronic-engineering",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-electrical-faculty-degrees-wayback-2010",
+        "sourceRecordId": "https://web.archive.org/web/20100212020633/http://www.alepuniv.edu.sy:80/eef/index.jsp?inc=10&lang=ar&cid=1",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-automatic-control-and-industrial-automation-engineering",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-electrical-and-electronic-engineering",
+    "disciplineId": "sy-control-and-automation-engineering",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Automatic Control and Industrial Automation Engineering",
+      "ar": "هندسة التحكم الآلي والأتمتة الصناعية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-electrical-faculty-api-wayback-2020",
+      "aleppo-electrical-faculty-degrees-wayback-2010"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r49",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-electrical-faculty-api-wayback-2020",
+        "sourceRecordId": "https://web.archive.org/web/20200724202219/https://alepuniv.edu.sy/api/faculties/faculty-of-electrical-and-electronic-engineering",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-electrical-faculty-degrees-wayback-2010",
+        "sourceRecordId": "https://web.archive.org/web/20100212020633/http://www.alepuniv.edu.sy:80/eef/index.jsp?inc=10&lang=ar&cid=1",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-electronic-engineering",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-electrical-and-electronic-engineering",
+    "disciplineId": "sy-electronics-engineering",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Electronic Engineering",
+      "ar": "الهندسة الإلكترونية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-electrical-faculty-api-wayback-2020",
+      "aleppo-electrical-faculty-degrees-wayback-2010"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r50",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-electrical-faculty-api-wayback-2020",
+        "sourceRecordId": "https://web.archive.org/web/20200724202219/https://alepuniv.edu.sy/api/faculties/faculty-of-electrical-and-electronic-engineering",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-electrical-faculty-degrees-wayback-2010",
+        "sourceRecordId": "https://web.archive.org/web/20100212020633/http://www.alepuniv.edu.sy:80/eef/index.jsp?inc=10&lang=ar&cid=1",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-electrical-power-systems-engineering",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-electrical-and-electronic-engineering",
+    "disciplineId": "sy-electrical-engineering",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Electrical Power Systems Engineering",
+      "ar": "هندسة نظم القدرة الكهربائية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-electrical-faculty-api-wayback-2020",
+      "aleppo-electrical-faculty-degrees-wayback-2010"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r51",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-electrical-faculty-api-wayback-2020",
+        "sourceRecordId": "https://web.archive.org/web/20200724202219/https://alepuniv.edu.sy/api/faculties/faculty-of-electrical-and-electronic-engineering",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-electrical-faculty-degrees-wayback-2010",
+        "sourceRecordId": "https://web.archive.org/web/20100212020633/http://www.alepuniv.edu.sy:80/eef/index.jsp?inc=10&lang=ar&cid=1",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-mechatronics-engineering",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-electrical-and-electronic-engineering",
+    "disciplineId": "sy-mechatronics-engineering",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Mechatronics Engineering",
+      "ar": "هندسة الميكاترونيك"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-electrical-faculty-api-wayback-2020",
+      "aleppo-electrical-faculty-degrees-wayback-2010"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r3",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-electrical-faculty-api-wayback-2020",
+        "sourceRecordId": "https://web.archive.org/web/20200724202219/https://alepuniv.edu.sy/api/faculties/faculty-of-electrical-and-electronic-engineering",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-electrical-faculty-degrees-wayback-2010",
+        "sourceRecordId": "https://web.archive.org/web/20100212020633/http://www.alepuniv.edu.sy:80/eef/index.jsp?inc=10&lang=ar&cid=1",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-production-engineering",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-mechanical-engineering",
+    "disciplineId": "sy-mechanical-design-and-production-engineering",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Production Engineering",
+      "ar": "هندسة الإنتاج"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-mechanical-faculty-api-wayback-2022",
+      "aleppo-mechanical-faculty-degrees-wayback-2011"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r5",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-mechanical-faculty-api-wayback-2022",
+        "sourceRecordId": "https://web.archive.org/web/20220312094428/https://alepuniv.edu.sy/api/faculties/faculty-of-mechanics",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-mechanical-faculty-degrees-wayback-2011",
+        "sourceRecordId": "https://web.archive.org/web/20111222083827/http://www.alepuniv.edu.sy/mef/index.jsp?inc=12&id=1136&lang=ar&type=8",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-agricultural-machinery-engineering",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-mechanical-engineering",
+    "disciplineId": "sy-agricultural-mechanization",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Agricultural Machinery Engineering",
+      "ar": "هندسة الآلات الزراعية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-mechanical-faculty-api-wayback-2022",
+      "aleppo-mechanical-faculty-degrees-wayback-2011"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-mechanical-faculty-api-wayback-2022",
+        "sourceRecordId": "https://web.archive.org/web/20220312094428/https://alepuniv.edu.sy/api/faculties/faculty-of-mechanics",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-mechanical-faculty-degrees-wayback-2011",
+        "sourceRecordId": "https://web.archive.org/web/20111222083827/http://www.alepuniv.edu.sy/mef/index.jsp?inc=12&id=1136&lang=ar&type=8",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-biotechnology-engineering-technologies",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-technical-engineering",
+    "disciplineId": "sy-biotechnology-engineering",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Biotechnology Engineering Technologies",
+      "ar": "تقانات الهندسة الحيوية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-technical-engineering-faculty-print-wayback-2017"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r37",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-technical-engineering-faculty-print-wayback-2017",
+        "sourceRecordId": "https://web.archive.org/web/20170708115348/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-agricultural-engineering",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-agricultural-engineering",
+    "disciplineId": "sy-agricultural-engineering",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Agricultural Engineering",
+      "ar": "الهندسة الزراعية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-agriculture-faculty-print-wayback-2017"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r31",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-agriculture-faculty-print-wayback-2017",
+        "sourceRecordId": "https://web.archive.org/web/20170710124928/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-economics",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-economics",
+    "disciplineId": "sy-economics",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Economics",
+      "ar": "الاقتصاد"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-economics-faculty-print-wayback-2017"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p3:r50",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-economics-faculty-print-wayback-2017",
+        "sourceRecordId": "https://web.archive.org/web/20170712020002/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-nursing",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-nursing",
+    "disciplineId": "sy-nursing",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Nursing",
+      "ar": "التمريض"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-nursing-faculty-degrees-wayback-2011"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p10:r31",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-nursing-faculty-degrees-wayback-2011",
+        "sourceRecordId": "https://web.archive.org/web/20111222043601/http://www.alepuniv.edu.sy/nuf/index.jsp?inc=12&id=1965&lang=ar&type=8",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-arabic-language-and-literature",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-arts-and-humanities",
+    "disciplineId": "sy-arabic-language-and-literature",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Arabic Language and Literature",
+      "ar": "اللغة العربية وآدابها"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-arts-faculty-print-wayback-2017"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p11:r10",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-arts-faculty-print-wayback-2017",
+        "sourceRecordId": "https://web.archive.org/web/20170712235059/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%A2%D8%AF%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86%D9%8A%D8%A9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-english-language-and-literature",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-arts-and-humanities",
+    "disciplineId": "sy-english-language-and-literature",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "English Language and Literature",
+      "ar": "اللغة الإنكليزية وآدابها"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-arts-faculty-print-wayback-2017"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p11:r31",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-arts-faculty-print-wayback-2017",
+        "sourceRecordId": "https://web.archive.org/web/20170712235059/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%A2%D8%AF%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86%D9%8A%D8%A9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-french-language-and-literature",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-arts-and-humanities",
+    "disciplineId": "sy-french-language-and-literature",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "French Language and Literature",
+      "ar": "اللغة الفرنسية وآدابها"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-arts-faculty-print-wayback-2017"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p12:r6",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-arts-faculty-print-wayback-2017",
+        "sourceRecordId": "https://web.archive.org/web/20170712235059/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%A2%D8%AF%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86%D9%8A%D8%A9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-turkish-language-and-literature",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-arts-and-humanities",
+    "disciplineId": "sy-turkish-language",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Turkish Language and Literature",
+      "ar": "اللغة التركية وآدابها"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-arts-faculty-print-wayback-2017"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p12:r15",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-arts-faculty-print-wayback-2017",
+        "sourceRecordId": "https://web.archive.org/web/20170712235059/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%A2%D8%AF%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86%D9%8A%D8%A9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-persian-language-and-literature",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-arts-and-humanities",
+    "disciplineId": "sy-persian-language",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Persian Language and Literature",
+      "ar": "اللغة الفارسية وآدابها"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-arts-faculty-print-wayback-2017"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p12:r18",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-arts-faculty-print-wayback-2017",
+        "sourceRecordId": "https://web.archive.org/web/20170712235059/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%A2%D8%AF%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86%D9%8A%D8%A9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-geography",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-arts-and-humanities",
+    "disciplineId": "sy-geography",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Geography",
+      "ar": "الجغرافية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-arts-faculty-print-wayback-2017"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p13:r8",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-arts-faculty-print-wayback-2017",
+        "sourceRecordId": "https://web.archive.org/web/20170712235059/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%A2%D8%AF%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86%D9%8A%D8%A9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-archaeology",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-arts-and-humanities",
+    "disciplineId": "sy-archaeology",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Archaeology",
+      "ar": "الآثار"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-arts-faculty-print-wayback-2017"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p13:r22",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-arts-faculty-print-wayback-2017",
+        "sourceRecordId": "https://web.archive.org/web/20170712235059/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%A2%D8%AF%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86%D9%8A%D8%A9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-law",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-law",
+    "disciplineId": "sy-law",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Law",
+      "ar": "الحقوق"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-law-faculty-print-wayback-2017"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p13:r31",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-law-faculty-print-wayback-2017",
+        "sourceRecordId": "https://web.archive.org/web/20170617001510/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AD%D9%82%D9%88%D9%82",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-curriculum-and-instruction",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-education",
+    "disciplineId": "sy-curricula-and-teaching-methods",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Curriculum and Instruction",
+      "ar": "المناهج وطرائق التدريس"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-education-faculty-print-wayback-2017"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p13:r44",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-education-faculty-print-wayback-2017",
+        "sourceRecordId": "https://web.archive.org/web/20170713131246/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-psychological-counseling",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-education",
+    "disciplineId": "sy-psychological-counseling",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Psychological Counseling",
+      "ar": "الإرشاد النفسي"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-education-faculty-print-wayback-2017"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p14:r15",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-education-faculty-print-wayback-2017",
+        "sourceRecordId": "https://web.archive.org/web/20170713131246/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-primary-education",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-education",
+    "disciplineId": "sy-primary-education",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Primary Education",
+      "ar": "معلم الصف"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-education-faculty-print-wayback-2017"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p14:r30",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-education-faculty-print-wayback-2017",
+        "sourceRecordId": "https://web.archive.org/web/20170713131246/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-engineering-technical-diploma-general-construction",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-engineering-technical-institute",
+    "disciplineId": "sy-building-construction-technology",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Engineering Technical Diploma - General Construction",
+      "ar": "الدبلوم التقاني في الهندسة - الإنشاءات العامة"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "aleppo-engineering-technical-institute-wayback-2014"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r4",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-engineering-technical-institute-wayback-2014",
+        "sourceRecordId": "https://web.archive.org/web/20140816224452/http://www.alepuniv.edu.sy/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%85%D8%B9%D8%A7%D9%87%D8%AF-%D8%AA%D9%82%D8%A7%D9%86%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D9%8A",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-engineering-technical-diploma-sanitary-and-water-works",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-engineering-technical-institute",
+    "disciplineId": "sy-water-and-sanitation-technology",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Engineering Technical Diploma - Sanitary and Water Works",
+      "ar": "الدبلوم التقاني في الهندسة - الصحية والمائية"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "aleppo-engineering-technical-institute-wayback-2014"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r5",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-engineering-technical-institute-wayback-2014",
+        "sourceRecordId": "https://web.archive.org/web/20140816224452/http://www.alepuniv.edu.sy/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%85%D8%B9%D8%A7%D9%87%D8%AF-%D8%AA%D9%82%D8%A7%D9%86%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D9%8A",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-dental-technical-diploma-dental-prosthetics",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-technical-institute-of-dentistry",
+    "disciplineId": "sy-dental-prosthetics",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Dental Technical Diploma - Dental Prosthetics",
+      "ar": "الدبلوم التقاني في طب الأسنان - التعويضات السنية"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "aleppo-dental-technical-institute-api-wayback-2024"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r35",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-dental-technical-institute-api-wayback-2024",
+        "sourceRecordId": "https://web.archive.org/web/20240828134434/https://alepuniv.edu.sy/api/faculties/technical-institute-of-dentistry",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-dental-technical-diploma-dental-assistant",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-technical-institute-of-dentistry",
+    "disciplineId": "sy-dental-assistance",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Dental Technical Diploma - Dental Assistant",
+      "ar": "الدبلوم التقاني في طب الأسنان - مساعد طبيب أسنان"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "aleppo-dental-technical-institute-api-wayback-2024"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r39",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-dental-technical-institute-api-wayback-2024",
+        "sourceRecordId": "https://web.archive.org/web/20240828134434/https://alepuniv.edu.sy/api/faculties/technical-institute-of-dentistry",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-financial-and-banking-sciences-technical-diploma",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-technical-institute-of-financial-and-banking-sciences",
+    "disciplineId": "sy-financial-and-banking-management",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Financial and Banking Sciences Technical Diploma",
+      "ar": "الدبلوم التقاني في العلوم المالية والمصرفية"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-public-university-named-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "aleppo-financial-banking-institute-api-wayback-2024"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r45",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-university-named-programs-2026-2027",
+        "sourceRecordId": "announcement-6:p20:r4",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "https://mohe.gov.sy/img/uploads1/news_pdf_20260930160241_651_0.pdf",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-financial-banking-institute-api-wayback-2024",
+        "sourceRecordId": "https://web.archive.org/web/20241210201217/https://alepuniv.edu.sy/api/faculties/technical-institute-of-financial-and-banking-sciences",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-medical-technical-diploma-laboratories",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-medical-technical-institute",
+    "disciplineId": "sy-medical-laboratory-sciences",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Medical Technical Diploma - Laboratories",
+      "ar": "الدبلوم التقاني الطبي - المخابر"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "aleppo-medical-technical-institute-api-wayback-2024"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p17:r36",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-medical-technical-institute-api-wayback-2024",
+        "sourceRecordId": "https://web.archive.org/web/20241210201213/https://alepuniv.edu.sy/api/faculties/medical-technology-institute",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-medical-technical-diploma-anesthesia",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-medical-technical-institute",
+    "disciplineId": "sy-anesthesia",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Medical Technical Diploma - Anesthesia",
+      "ar": "الدبلوم التقاني الطبي - التخدير"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "aleppo-medical-technical-institute-api-wayback-2024"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p17:r37",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-medical-technical-institute-api-wayback-2024",
+        "sourceRecordId": "https://web.archive.org/web/20241210201213/https://alepuniv.edu.sy/api/faculties/medical-technology-institute",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-medical-technical-diploma-radiology",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-medical-technical-institute",
+    "disciplineId": "sy-radiology",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Medical Technical Diploma - Radiology",
+      "ar": "الدبلوم التقاني الطبي - الأشعة"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "aleppo-medical-technical-institute-api-wayback-2024"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p17:r38",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-medical-technical-institute-api-wayback-2024",
+        "sourceRecordId": "https://web.archive.org/web/20241210201213/https://alepuniv.edu.sy/api/faculties/medical-technology-institute",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-medical-technical-diploma-physiotherapy",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-medical-technical-institute",
+    "disciplineId": "sy-physiotherapy",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Medical Technical Diploma - Physiotherapy",
+      "ar": "الدبلوم التقاني الطبي - المعالجة الفيزيائية"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "aleppo-medical-technical-institute-api-wayback-2024"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p17:r39",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-medical-technical-institute-api-wayback-2024",
+        "sourceRecordId": "https://web.archive.org/web/20241210201213/https://alepuniv.edu.sy/api/faculties/medical-technology-institute",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-medical-technical-diploma-emergency-medicine",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-medical-technical-institute",
+    "disciplineId": "sy-emergency-medical-services",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Medical Technical Diploma - Emergency Medicine",
+      "ar": "الدبلوم التقاني الطبي - طب الطوارئ"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "aleppo-medical-technical-institute-api-wayback-2024"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p17:r40",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-medical-technical-institute-api-wayback-2024",
+        "sourceRecordId": "https://web.archive.org/web/20241210201213/https://alepuniv.edu.sy/api/faculties/medical-technology-institute",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-medical-technical-diploma-pharmacy",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-medical-technical-institute",
+    "disciplineId": "sy-pharmacy-technology",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Medical Technical Diploma - Pharmacy",
+      "ar": "الدبلوم التقاني الطبي - الصيدلة"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "aleppo-medical-technical-institute-api-wayback-2024"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p17:r41",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-medical-technical-institute-api-wayback-2024",
+        "sourceRecordId": "https://web.archive.org/web/20241210201213/https://alepuniv.edu.sy/api/faculties/medical-technology-institute",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-history",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-arts-and-humanities",
+    "disciplineId": "sy-history",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "History",
+      "ar": "التاريخ"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-literary-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-arts-faculty-print-wayback-2017"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-literary-2026-2027",
+        "sourceRecordId": "announcement-4:p3:r30",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-arts-faculty-print-wayback-2017",
+        "sourceRecordId": "https://web.archive.org/web/20170712235059/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA/%D8%A7%D9%84%D8%A2%D8%AF%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86%D9%8A%D8%A9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-human-medicine",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-human-medicine",
+    "disciplineId": "sy-medicine",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Human Medicine",
+      "ar": "الطب البشري"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-medicine-faculty-api-wayback-2025",
+      "aleppo-medicine-faculty-print-wayback-2017"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-medicine-faculty-api-wayback-2025",
+        "sourceRecordId": "https://web.archive.org/web/20250709121908/https://alepuniv.edu.sy/api/faculties/college-of-human-medicine",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-medicine-faculty-print-wayback-2017",
+        "sourceRecordId": "https://web.archive.org/web/20170613165421/http://alepuniv.edu.sy/print/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%84%D8%A8/%D9%83%D9%84%D9%8A%D8%A7%D8%AA-%D8%B7%D8%A8%D9%8A%D8%A9/%D8%A7%D9%84%D8%B7%D8%A8",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-electrical-drive-engineering",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-electrical-and-electronic-engineering",
+    "disciplineId": "sy-electrical-engineering",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Electrical Drive Engineering",
+      "ar": "هندسة القيادة الكهربائية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-electrical-faculty-api-wayback-2020",
+      "aleppo-electrical-faculty-degrees-wayback-2010"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r52",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-electrical-faculty-api-wayback-2020",
+        "sourceRecordId": "https://web.archive.org/web/20200724202219/https://alepuniv.edu.sy/api/faculties/faculty-of-electrical-and-electronic-engineering",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-electrical-faculty-degrees-wayback-2010",
+        "sourceRecordId": "https://web.archive.org/web/20100212020633/http://www.alepuniv.edu.sy:80/eef/index.jsp?inc=10&lang=ar&cid=1",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
   }
 ]
