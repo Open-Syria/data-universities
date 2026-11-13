@@ -34876,5 +34876,917 @@
       }
     ],
     "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-mechanical-engineering-mechatronics",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-faculty-of-electrical-and-mechanical-engineering",
+    "disciplineId": "sy-mechatronics-engineering",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Mechanical Engineering (Mechatronics)",
+      "ar": "الهندسة الميكانيكية (الميكاترونيكس)"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r12",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-electrical-engineering-communications-and-electronics",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-faculty-of-electrical-and-mechanical-engineering",
+    "disciplineId": "sy-communications-engineering",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Electrical Engineering (Communications and Electronics)",
+      "ar": "الهندسة الكهربائية (الاتصالات والإلكترون)"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r14",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-electrical-engineering-electrical-power",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-faculty-of-electrical-and-mechanical-engineering",
+    "disciplineId": "sy-electrical-engineering",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Electrical Engineering (Electrical Power)",
+      "ar": "الهندسة الكهربائية (القدرة الكهربائية)"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r15",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-economics-and-administration-al-dana",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-second-faculty-of-economics-and-administration-al-dana",
+    "disciplineId": "sy-economics",
+    "campus": {
+      "locality": {
+        "en": "Al-Dana",
+        "ar": "الدانا"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Economics and Administration",
+      "ar": "الاقتصاد والإدارة"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p4:r7",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-arabic-language-and-literature-al-dana",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-second-faculty-of-arts-al-dana",
+    "disciplineId": "sy-arabic-language-and-literature",
+    "campus": {
+      "locality": {
+        "en": "Al-Dana",
+        "ar": "الدانا"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Arabic Language and Literature",
+      "ar": "اللغة العربية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p11:r15",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-english-language-and-literature-al-dana",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-second-faculty-of-arts-al-dana",
+    "disciplineId": "sy-english-language-and-literature",
+    "campus": {
+      "locality": {
+        "en": "Al-Dana",
+        "ar": "الدانا"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "English Language and Literature",
+      "ar": "اللغة الإنكليزية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p11:r36",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-engineering-technical-diploma-general-construction",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-technical-engineering-institute",
+    "disciplineId": "sy-building-construction-technology",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Engineering Technical Diploma - General Construction",
+      "ar": "الدبلوم التقاني في الهندسة - الإنشاءات العامة"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r26",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "university-institute-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-engineering-technical-diploma-surveying",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-technical-engineering-institute",
+    "disciplineId": "sy-surveying-and-geomatics",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Engineering Technical Diploma - Surveying",
+      "ar": "الدبلوم التقاني في الهندسة - المساحة"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r27",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "university-institute-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-engineering-technical-diploma-architecture",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-technical-engineering-institute",
+    "disciplineId": "sy-architectural-drafting-technology",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Engineering Technical Diploma - Architecture",
+      "ar": "الدبلوم التقاني في الهندسة - العمارة"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r28",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "university-institute-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-communications-technical-diploma",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-technical-institute-of-communications",
+    "disciplineId": "sy-communications-technology",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Communications Technical Diploma",
+      "ar": "الدبلوم التقاني في الاتصالات"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-public-university-named-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r32",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-university-named-programs-2026-2027",
+        "sourceRecordId": "announcement-6:p14:r6",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p3",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "university-institute-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-financial-and-administrative-sciences-technical-diploma-salqin",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-technical-institute-of-financial-and-administrative-sciences-salqin",
+    "disciplineId": "sy-financial-and-administrative-sciences",
+    "campus": {
+      "locality": {
+        "en": "Salqin",
+        "ar": "سلقين"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Financial and Administrative Sciences Technical Diploma",
+      "ar": "الدبلوم التقاني في العلوم المالية والإدارية"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-public-university-named-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p16:r51",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-university-named-programs-2026-2027",
+        "sourceRecordId": "announcement-6:p20:r13",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "university-institute-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-digital-administration-and-information-systems-technical-diploma-salqin",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-technical-institute-of-digital-administration-and-information-systems-salqin",
+    "disciplineId": "sy-management-information-systems",
+    "campus": {
+      "locality": {
+        "en": "Salqin",
+        "ar": "سلقين"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Digital Administration and Information Systems Technical Diploma",
+      "ar": "الدبلوم التقاني في الإدارة الرقمية ونظم المعلومات"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p17:r4",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "university-institute-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-agricultural-sciences-technical-diploma-harem",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-agricultural-technical-institute-harem",
+    "disciplineId": "sy-agricultural-technology",
+    "campus": {
+      "locality": {
+        "en": "Harem",
+        "ar": "حارم"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Agricultural Sciences Technical Diploma",
+      "ar": "الدبلوم التقاني في العلوم الزراعية"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-public-university-named-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p17:r21",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-university-named-programs-2026-2027",
+        "sourceRecordId": "announcement-6:p23:r8",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p4",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "university-institute-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-computing-technical-diploma",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-technical-computer-institute",
+    "disciplineId": "sy-computer-technologies",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Computing Technical Diploma",
+      "ar": "الدبلوم التقاني في اختصاصات الحاسوب"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-public-university-named-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p18:r15",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-university-named-programs-2026-2027",
+        "sourceRecordId": "announcement-6:p15:r10",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p5",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "university-institute-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-veterinary-technical-diploma-harem",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-veterinary-technical-institute-harem",
+    "disciplineId": "sy-veterinary-technology",
+    "campus": {
+      "locality": {
+        "en": "Harem",
+        "ar": "حارم"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Veterinary Technical Diploma",
+      "ar": "الدبلوم التقاني في الطب البيطري"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-public-university-named-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p18:r25",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-university-named-programs-2026-2027",
+        "sourceRecordId": "announcement-6:p24:r7",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p3",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "university-institute-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-applied-translation-technical-diploma-salqin",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-technical-institute-of-applied-translation-salqin",
+    "disciplineId": "sy-translation",
+    "campus": {
+      "locality": {
+        "en": "Salqin",
+        "ar": "سلقين"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Applied Translation Technical Diploma",
+      "ar": "الدبلوم التقاني في الترجمة التطبيقية"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p19:r44",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p5",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "university-institute-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-media-technical-diploma-radio-and-television-presentation",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-technical-institute-of-media",
+    "disciplineId": "sy-radio-and-television-production",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Media Technical Diploma - Radio and Television Presentation",
+      "ar": "الدبلوم التقاني في الإعلام - تقديم البرامج الإذاعية والتلفزيونية"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p20:r13",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p3",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "university-institute-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-media-technical-diploma-design-and-marketing",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-technical-institute-of-media",
+    "disciplineId": "sy-media-and-printing-technology",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Media Technical Diploma - Design and Marketing",
+      "ar": "الدبلوم التقاني في الإعلام - التصميم والتسويق"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p20:r14",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p3",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "university-institute-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
   }
 ]
