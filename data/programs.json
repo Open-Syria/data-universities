@@ -22348,5 +22348,711 @@
       }
     ],
     "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-andalus-university-for-medical-sciences-human-medicine",
+    "universityId": "sy-al-andalus-university-for-medical-sciences",
+    "facultyId": "sy-al-andalus-university-for-medical-sciences-faculty-of-human-medicine",
+    "disciplineId": "sy-medicine",
+    "campus": {
+      "locality": {
+        "en": "Al-Qadmus",
+        "ar": "القدموس"
+      },
+      "governorateSlug": "tartus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Human Medicine",
+      "ar": "الطب البشري"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "al-andalus-human-medicine-award"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r4",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-andalus-human-medicine-award",
+        "sourceRecordId": "https://au.edu.sy/faculty/1-%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D8%A8-%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-andalus-university-for-medical-sciences-dentistry",
+    "universityId": "sy-al-andalus-university-for-medical-sciences",
+    "facultyId": "sy-al-andalus-university-for-medical-sciences-faculty-of-dentistry",
+    "disciplineId": "sy-dentistry",
+    "campus": {
+      "locality": {
+        "en": "Al-Qadmus",
+        "ar": "القدموس"
+      },
+      "governorateSlug": "tartus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Dentistry",
+      "ar": "طب الأسنان"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027", "al-andalus-dentistry-award"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r14",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-andalus-dentistry-award",
+        "sourceRecordId": "https://au.edu.sy/faculty/2-%D9%83%D9%84%D9%8A%D8%A9-%D8%B7%D8%A8-%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-shahba-university-dentistry",
+    "universityId": "sy-al-shahba-university",
+    "facultyId": "sy-al-shahba-university-faculty-of-dentistry",
+    "disciplineId": "sy-dentistry",
+    "campus": {
+      "locality": {
+        "en": "Tall Hadiya",
+        "ar": "تلحدية"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Dentistry",
+      "ar": "طب الأسنان"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027", "al-shahba-study-system"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r18",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-shahba-study-system",
+        "sourceRecordId": "https://www.su.edu.sy/stu3",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-sham-private-university-human-medicine-al-tall",
+    "universityId": "sy-al-sham-private-university",
+    "facultyId": "sy-al-sham-private-university-faculty-of-human-medicine-al-tall",
+    "disciplineId": "sy-medicine",
+    "campus": {
+      "locality": {
+        "en": "Al-Tall",
+        "ar": "التل"
+      },
+      "governorateSlug": "rif-dimashq"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Human Medicine",
+      "ar": "الطب البشري"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "al-sham-private-university-faculty-menu",
+      "al-sham-private-university-study-system"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r7",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-sham-private-university-faculty-menu",
+        "sourceRecordId": "https://aspu.edu.sy/site/arabic/index.php",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-sham-private-university-study-system",
+        "sourceRecordId": "https://aspu.edu.sy/site/arabic/index.php?node=55173&cat=14972&",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-sham-private-university-dentistry-al-mazraa",
+    "universityId": "sy-al-sham-private-university",
+    "facultyId": "sy-al-sham-private-university-faculty-of-dentistry-al-mazraa",
+    "disciplineId": "sy-dentistry",
+    "campus": {
+      "locality": {
+        "en": "Al-Mazraa",
+        "ar": "المزرعة"
+      },
+      "governorateSlug": "damascus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Dentistry",
+      "ar": "طب الأسنان"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "al-sham-private-university-faculty-menu",
+      "al-sham-private-university-study-system"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p11:r4",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-sham-private-university-faculty-menu",
+        "sourceRecordId": "https://aspu.edu.sy/site/arabic/index.php",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-sham-private-university-study-system",
+        "sourceRecordId": "https://aspu.edu.sy/site/arabic/index.php?node=55173&cat=14972&",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-sham-private-university-dentistry-latakia",
+    "universityId": "sy-al-sham-private-university",
+    "facultyId": "sy-al-sham-private-university-faculty-of-dentistry-latakia",
+    "disciplineId": "sy-dentistry",
+    "campus": {
+      "locality": {
+        "en": "Latakia",
+        "ar": "اللاذقية"
+      },
+      "governorateSlug": "latakia"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Dentistry",
+      "ar": "طب الأسنان"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "al-sham-private-university-faculty-menu",
+      "al-sham-private-university-study-system"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p11:r5",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-sham-private-university-faculty-menu",
+        "sourceRecordId": "https://aspu.edu.sy/site/arabic/index.php",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-sham-private-university-study-system",
+        "sourceRecordId": "https://aspu.edu.sy/site/arabic/index.php?node=55173&cat=14972&",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-antioch-syrian-university-dentistry",
+    "universityId": "sy-antioch-syrian-university",
+    "facultyId": "sy-antioch-syrian-university-faculty-of-dentistry",
+    "disciplineId": "sy-dentistry",
+    "campus": {
+      "locality": {
+        "en": "Maarat Saidnaya",
+        "ar": "معرة صيدنايا"
+      },
+      "governorateSlug": "rif-dimashq"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Dentistry",
+      "ar": "طب الأسنان"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "antioch-dentistry-first-degree"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p11:r8",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "antioch-dentistry-first-degree",
+        "sourceRecordId": "https://asu.edu.sy/ar/dentistry",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-cordoba-private-university-civil-engineering-qamishli",
+    "universityId": "sy-cordoba-private-university",
+    "facultyId": "sy-cordoba-private-university-faculty-of-civil-engineering-qamishli",
+    "disciplineId": "sy-civil-engineering",
+    "campus": {
+      "locality": {
+        "en": "Qamishli",
+        "ar": "القامشلي"
+      },
+      "governorateSlug": "hasakah"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Civil Engineering",
+      "ar": "الهندسة المدنية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "cordoba-official-faculty-list",
+      "cordoba-first-degree-qualification-profile"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p15:r15",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "cordoba-official-faculty-list",
+        "sourceRecordId": "https://www.cpu.edu.sy/home",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "cordoba-first-degree-qualification-profile",
+        "sourceRecordId": "https://uni.sy/Syria/University/cpu.edu.sy",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-international-university-for-science-and-renaissance-dentistry",
+    "universityId": "sy-international-university-for-science-and-renaissance",
+    "facultyId": "sy-international-university-for-science-and-renaissance-faculty-of-dentistry",
+    "disciplineId": "sy-dentistry",
+    "campus": {
+      "locality": {
+        "en": "Azaz",
+        "ar": "أعزاز"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Dentistry",
+      "ar": "طب الأسنان"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027", "iusr-dentistry-award"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p11:r9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "iusr-dentistry-award",
+        "sourceRecordId": "https://iusr.edu.sy/%d9%83%d9%84%d9%8a%d8%a9-%d8%b7%d8%a8-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86/%d8%b4%d8%b1%d9%88%d8%b7-%d8%a7%d9%84%d9%86%d8%ac%d8%a7%d8%ad-%d9%88%d8%a7%d9%84%d8%aa%d8%ae%d8%b1%d8%ac/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-international-university-for-science-and-renaissance-medical-laboratory-technical-diploma",
+    "universityId": "sy-international-university-for-science-and-renaissance",
+    "facultyId": "sy-international-university-for-science-and-renaissance-medical-technical-institute",
+    "disciplineId": "sy-medical-laboratory-sciences",
+    "campus": {
+      "locality": {
+        "en": "Azaz",
+        "ar": "أعزاز"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Medical Laboratory Technical Diploma",
+      "ar": "الدبلوم التقاني الطبي في المخابر"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "iusr-medical-laboratory-institute-award"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p30:r13",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "iusr-medical-laboratory-institute-award",
+        "sourceRecordId": "https://iusr.edu.sy/%d8%a7%d9%84%d9%85%d8%b9%d9%87%d8%af-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a-%d9%85%d8%ae%d8%a8%d8%b1%d9%8a/%d8%b4%d8%b1%d9%88%d8%b7-%d8%a7%d9%84%d9%86%d8%ac%d8%a7%d8%ad-%d9%88%d8%a7%d9%84%d8%aa%d8%ae%d8%b1%d8%ac/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-international-university-for-science-and-renaissance-nursing-technical-diploma",
+    "universityId": "sy-international-university-for-science-and-renaissance",
+    "facultyId": "sy-international-university-for-science-and-renaissance-medical-technical-institute",
+    "disciplineId": "sy-nursing",
+    "campus": {
+      "locality": {
+        "en": "Azaz",
+        "ar": "أعزاز"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Nursing Technical Diploma",
+      "ar": "الدبلوم التقاني الطبي في التمريض"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "iusr-nursing-institute-award"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p31:r17",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "iusr-nursing-institute-award",
+        "sourceRecordId": "https://iusr.edu.sy/%d8%a7%d9%84%d9%85%d8%b9%d9%87%d8%af-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a-%d8%aa%d9%85%d8%b1%d9%8a%d8%b6/%d8%b4%d8%b1%d9%88%d8%b7-%d8%a7%d9%84%d9%86%d8%ac%d8%a7%d8%ad-%d9%88%d8%a7%d9%84%d8%aa%d8%ae%d8%b1%d8%ac/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-mari-private-university-dentistry",
+    "universityId": "sy-mari-private-university",
+    "facultyId": "sy-mari-private-university-faculty-of-dentistry",
+    "disciplineId": "sy-dentistry",
+    "campus": {
+      "locality": {
+        "en": "Hizano",
+        "ar": "حزانو"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Dentistry",
+      "ar": "طب الأسنان"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027", "mari-dentistry-award"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p11:r6",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mari-dentistry-award",
+        "sourceRecordId": "https://mari.edu.sy/faculties/faculty-of-dentistry",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-qasyoun-private-university-dentistry",
+    "universityId": "sy-qasyoun-private-university",
+    "facultyId": "sy-qasyoun-private-university-faculty-of-dentistry",
+    "disciplineId": "sy-dentistry",
+    "campus": {
+      "locality": {
+        "en": "Jabab",
+        "ar": "جباب"
+      },
+      "governorateSlug": "daraa"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Dentistry",
+      "ar": "طب الأسنان"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "qasyoun-dentistry-award",
+      "qasyoun-first-degree-and-campus-profile"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p11:r3",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "qasyoun-dentistry-award",
+        "sourceRecordId": "https://qpu.edu.sy/faculties/dentistry",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "qasyoun-first-degree-and-campus-profile",
+        "sourceRecordId": "https://www.uni.sy/Syria/University/qpu.edu.sy",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-syrian-private-university-human-medicine",
+    "universityId": "sy-syrian-private-university",
+    "facultyId": "sy-syrian-private-university-faculty-of-human-medicine",
+    "disciplineId": "sy-medicine",
+    "campus": {
+      "locality": {
+        "en": "Al-Kiswah",
+        "ar": "الكسوة"
+      },
+      "governorateSlug": "rif-dimashq"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Human Medicine",
+      "ar": "الطب البشري"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027", "spu-study-system"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r3",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "spu-study-system",
+        "sourceRecordId": "http://www.spu.edu.sy/index.php?page=show&ex=2&dir=items&lang=1&ser=1&cat_id=45&act=45&",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-syrian-private-university-dentistry",
+    "universityId": "sy-syrian-private-university",
+    "facultyId": "sy-syrian-private-university-faculty-of-dentistry",
+    "disciplineId": "sy-dentistry",
+    "campus": {
+      "locality": {
+        "en": "Al-Kiswah",
+        "ar": "الكسوة"
+      },
+      "governorateSlug": "rif-dimashq"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Dentistry",
+      "ar": "طب الأسنان"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027", "spu-study-system"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r11",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "spu-study-system",
+        "sourceRecordId": "http://www.spu.edu.sy/index.php?page=show&ex=2&dir=items&lang=1&ser=1&cat_id=45&act=45&",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-yarmouk-private-university-dentistry",
+    "universityId": "sy-yarmouk-private-university",
+    "facultyId": "sy-yarmouk-private-university-faculty-of-dentistry",
+    "disciplineId": "sy-dentistry",
+    "campus": {
+      "locality": {
+        "en": "Jabab",
+        "ar": "جباب"
+      },
+      "governorateSlug": "daraa"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Dentistry",
+      "ar": "طب الأسنان"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "yarmouk-dentistry-award",
+      "yarmouk-jabab-campus"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r19",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "yarmouk-dentistry-award",
+        "sourceRecordId": "https://ypu.edu.sy/ar_SY/faculty-of-dentistry",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "yarmouk-jabab-campus",
+        "sourceRecordId": "https://ypu.edu.sy/contactus",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
   }
 ]

@@ -8219,5 +8219,373 @@
       }
     ],
     "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-andalus-university-for-medical-sciences-faculty-of-human-medicine",
+    "universityId": "sy-al-andalus-university-for-medical-sciences",
+    "name": {
+      "en": "Faculty of Human Medicine",
+      "ar": "كلية الطب البشري"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r4",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-andalus-university-for-medical-sciences-faculty-of-dentistry",
+    "universityId": "sy-al-andalus-university-for-medical-sciences",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r14",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-shahba-university-faculty-of-dentistry",
+    "universityId": "sy-al-shahba-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r18",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-sham-private-university-faculty-of-human-medicine-al-tall",
+    "universityId": "sy-al-sham-private-university",
+    "name": {
+      "en": "Faculty of Human Medicine",
+      "ar": "كلية الطب البشري"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "al-sham-private-university-faculty-menu"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r7",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-sham-private-university-faculty-menu",
+        "sourceRecordId": "https://aspu.edu.sy/site/arabic/index.php",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-sham-private-university-faculty-of-dentistry-al-mazraa",
+    "universityId": "sy-al-sham-private-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "al-sham-private-university-faculty-menu"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p11:r4",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-sham-private-university-faculty-menu",
+        "sourceRecordId": "https://aspu.edu.sy/site/arabic/index.php",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-sham-private-university-faculty-of-dentistry-latakia",
+    "universityId": "sy-al-sham-private-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "al-sham-private-university-faculty-menu"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p11:r5",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-sham-private-university-faculty-menu",
+        "sourceRecordId": "https://aspu.edu.sy/site/arabic/index.php",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-antioch-syrian-university-faculty-of-dentistry",
+    "universityId": "sy-antioch-syrian-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "antioch-dentistry-first-degree"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p11:r8",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "antioch-dentistry-first-degree",
+        "sourceRecordId": "https://asu.edu.sy/ar/dentistry",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-cordoba-private-university-faculty-of-civil-engineering-qamishli",
+    "universityId": "sy-cordoba-private-university",
+    "name": {
+      "en": "Faculty of Civil Engineering",
+      "ar": "كلية الهندسة المدنية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "cordoba-official-faculty-list"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p15:r15",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "cordoba-official-faculty-list",
+        "sourceRecordId": "https://www.cpu.edu.sy/home",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-international-university-for-science-and-renaissance-faculty-of-dentistry",
+    "universityId": "sy-international-university-for-science-and-renaissance",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p11:r9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-international-university-for-science-and-renaissance-medical-technical-institute",
+    "universityId": "sy-international-university-for-science-and-renaissance",
+    "name": {
+      "en": "Medical Technical Institute",
+      "ar": "المعهد التقاني الطبي"
+    },
+    "aliases": [],
+    "facultyType": "institute",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p30:r13",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-mari-private-university-faculty-of-dentistry",
+    "universityId": "sy-mari-private-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p11:r6",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-qasyoun-private-university-faculty-of-dentistry",
+    "universityId": "sy-qasyoun-private-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "qasyoun-first-degree-and-campus-profile"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p11:r3",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "qasyoun-first-degree-and-campus-profile",
+        "sourceRecordId": "https://www.uni.sy/Syria/University/qpu.edu.sy",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-syrian-private-university-faculty-of-human-medicine",
+    "universityId": "sy-syrian-private-university",
+    "name": {
+      "en": "Faculty of Human Medicine",
+      "ar": "كلية الطب البشري"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r3",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-syrian-private-university-faculty-of-dentistry",
+    "universityId": "sy-syrian-private-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r11",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-yarmouk-private-university-faculty-of-dentistry",
+    "universityId": "sy-yarmouk-private-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027", "yarmouk-jabab-campus"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p10:r19",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "yarmouk-jabab-campus",
+        "sourceRecordId": "https://ypu.edu.sy/contactus",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
   }
 ]

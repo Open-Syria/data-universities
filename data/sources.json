@@ -3195,5 +3195,131 @@
     "status": "approved",
     "fields": ["academic unit", "campus", "program name", "qualification level"],
     "notes": "Art. 6: Idlib University grants 'الإجازة في الصيدلة'; art. 7: five study years. Page content served by https://api.idlib.edu.sy (get_page_elements_component_by_page_id p_page_id 289)."
+  },
+  {
+    "id": "al-andalus-human-medicine-award",
+    "title": "Al-Andalus University for Medical Sciences, Faculty of Human Medicine page",
+    "url": "https://au.edu.sy/faculty/1-%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D8%A8-%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The Faculty of Human Medicine (opened 2011-2012) grants the Ijaza in Human Medicine; six years."
+  },
+  {
+    "id": "al-andalus-dentistry-award",
+    "title": "Al-Andalus University for Medical Sciences, Faculty of Dentistry page",
+    "url": "https://au.edu.sy/faculty/2-%D9%83%D9%84%D9%8A%D8%A9-%D8%B7%D8%A8-%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The Faculty of Dentistry (opened 2007-2008) grants the Ijaza in Dentistry; five years."
+  },
+  {
+    "id": "al-shahba-study-system",
+    "title": "Al-Shahba Private University study system page",
+    "url": "https://www.su.edu.sy/stu3",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Faculty study plans lead to the Ijaza; duration to obtain the Ijaza in five-year medical faculties is ten semesters."
+  },
+  {
+    "id": "al-sham-private-university-faculty-menu",
+    "title": "Al-Sham Private University site menu, faculties by campus",
+    "url": "https://aspu.edu.sy/site/arabic/index.php",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus"],
+    "notes": "Faculties menu by campus: Damascus-Al-Tall (Human Medicine, Pharmacy, Informatics Eng., IR, Law, Admin.), Damascus-Al-Mazraa (Dentistry), Latakia-Al-Sulaybah (Dentistry, Pharmacy, Law, Admin.); no tourism faculty listed."
+  },
+  {
+    "id": "al-sham-private-university-study-system",
+    "title": "Al-Sham Private University study system page",
+    "url": "https://aspu.edu.sy/site/arabic/index.php?node=55173&cat=14972&",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The graduation degree is called the Ijaza (bachelor's); the Ijaza takes six years in the Faculty of Human Medicine and five in Dentistry."
+  },
+  {
+    "id": "antioch-dentistry-first-degree",
+    "title": "Antioch Syrian Private University, Faculty of Dentistry page",
+    "url": "https://asu.edu.sy/ar/dentistry",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Faculty table: Dentistry, opened 2025, degree awarded bachelor's, 5 years; address Maarat Saidnaya."
+  },
+  {
+    "id": "cordoba-official-faculty-list",
+    "title": "Cordoba Private University homepage, faculties by branch",
+    "url": "https://www.cpu.edu.sy/home",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus"],
+    "notes": "Faculties by branch: Engineering (Qamishli, Aleppo), Admin. and Financial Sciences (Qamishli, Aleppo), Languages and Humanities (Aleppo), Dentistry (Aleppo), Architecture (Aleppo), Civil Engineering (Qamishli). No education faculty listed."
+  },
+  {
+    "id": "iusr-dentistry-award",
+    "title": "International University for Science and Renaissance, Faculty of Dentistry pass and graduation conditions",
+    "url": "https://iusr.edu.sy/%d9%83%d9%84%d9%8a%d8%a9-%d8%b7%d8%a8-%d8%a7%d9%84%d8%a3%d8%b3%d9%86%d8%a7%d9%86/%d8%b4%d8%b1%d9%88%d8%b7-%d8%a7%d9%84%d9%86%d8%ac%d8%a7%d8%ad-%d9%88%d8%a7%d9%84%d8%aa%d8%ae%d8%b1%d8%ac/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "The Ijaza certificate in Dentistry is granted on completing the study plan."
+  },
+  {
+    "id": "iusr-medical-laboratory-institute-award",
+    "title": "IUSR Medical Technical Institute (laboratory) pass and graduation conditions",
+    "url": "https://iusr.edu.sy/%d8%a7%d9%84%d9%85%d8%b9%d9%87%d8%af-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a-%d9%85%d8%ae%d8%a8%d8%b1%d9%8a/%d8%b4%d8%b1%d9%88%d8%b7-%d8%a7%d9%84%d9%86%d8%ac%d8%a7%d8%ad-%d9%88%d8%a7%d9%84%d8%aa%d8%ae%d8%b1%d8%ac/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Grants the medical technical diploma, laboratory specialisation."
+  },
+  {
+    "id": "iusr-nursing-institute-award",
+    "title": "IUSR Medical Technical Institute (nursing) pass and graduation conditions",
+    "url": "https://iusr.edu.sy/%d8%a7%d9%84%d9%85%d8%b9%d9%87%d8%af-%d8%a7%d9%84%d8%b7%d8%a8%d9%8a-%d8%aa%d9%85%d8%b1%d9%8a%d8%b6/%d8%b4%d8%b1%d9%88%d8%b7-%d8%a7%d9%84%d9%86%d8%ac%d8%a7%d8%ad-%d9%88%d8%a7%d9%84%d8%aa%d8%ae%d8%b1%d8%ac/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Grants the medical technical diploma, nursing specialisation."
+  },
+  {
+    "id": "mari-dentistry-award",
+    "title": "Mari Private University, Faculty of Dentistry page",
+    "url": "https://mari.edu.sy/faculties/faculty-of-dentistry",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Degree awarded: Bachelor of Dental Medicine and Surgery, 193 credit hours."
+  },
+  {
+    "id": "qasyoun-dentistry-award",
+    "title": "Qasyoun Private University, Faculty of Dentistry page",
+    "url": "https://qpu.edu.sy/faculties/dentistry",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Certificate awarded: Ijaza in Dentistry (Doctor of Dental Surgery - DDS)."
+  },
+  {
+    "id": "spu-study-system",
+    "title": "Syrian Private University study system page",
+    "url": "http://www.spu.edu.sy/index.php?page=show&ex=2&dir=items&lang=1&ser=1&cat_id=45&act=45&",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Maximum enrolment to obtain the Ijaza: nine years in the Faculty of Medicine (six-year programme), eight in Dentistry, Pharmacy and Engineering (five-year)."
+  },
+  {
+    "id": "yarmouk-dentistry-award",
+    "title": "Yarmouk Private University, Faculty of Dentistry page (Arabic)",
+    "url": "https://ypu.edu.sy/ar_SY/faculty-of-dentistry",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Five-year programme (ten semesters) leading to the bachelor's degree in dental surgery, 188 credit hours."
   }
 ]
