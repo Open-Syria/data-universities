@@ -3069,5 +3069,131 @@
       "qualification level"
     ],
     "notes": "Veterinary technical institute in Hasakah; two years; awards دبلوم تقاني في الطب البيطري."
+  },
+  {
+    "id": "sana-decree-210-2026-idlib-university-faculties",
+    "title": "SANA: text of Decree 210 of 2026 deeming Idlib University faculties established",
+    "url": "https://sana.sy/presidency/2629196/",
+    "license": "Public source; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "university affiliation", "campus"],
+    "notes": "Decree 210/2026 adds paragraph (و) to art. 2 of the University Organization Law executive regulations listing Idlib University's faculties and their departments, including the second faculties in Al-Dana."
+  },
+  {
+    "id": "idlib-cs-regulation",
+    "title": "Idlib University Faculty of Informatics Engineering internal regulation",
+    "url": "https://cs.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Art. 3: Idlib University grants 'درجة الإجازة في الهندسة المعلوماتية'; one department (systems and software engineering). Scanned PDF read visually (PDF p. 5)."
+  },
+  {
+    "id": "idlib-ce-regulation",
+    "title": "Idlib University Faculty of Civil Engineering internal regulation",
+    "url": "https://ce.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Chapter 4, art. 5: Idlib University grants 'إجازة في الهندسة المدنية'; art. 6: five study years. Scanned PDF read visually (PDF p. 12)."
+  },
+  {
+    "id": "idlib-arch-regulation",
+    "title": "Idlib University Faculty of Architecture internal regulation",
+    "url": "https://arch.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Art. 6: Idlib University grants 'الإجازة في الهندسة المعمارية'; art. 7: five study years (ten semesters)."
+  },
+  {
+    "id": "idlib-mee-main",
+    "title": "Idlib University Faculty of Mechanical and Electrical Engineering home page",
+    "url": "https://mee.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Mechanical engineering faculty founded 2015, seated in Idlib city, five years, graduates receive a bachelor's in mechanical engineering; departments tab lists general mechanics, mechatronics, power, communications/electronics."
+  },
+  {
+    "id": "idlib-sci-regulation",
+    "title": "Idlib University Faculty of Science internal regulation",
+    "url": "https://sci.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Art. 5: Idlib University council grants the licences in mathematics (pure/applied/tracks), physics, physics and chemistry, pure and applied chemistry, biology tracks; art. 6: four years."
+  },
+  {
+    "id": "idlib-hs-goals",
+    "title": "Idlib University Faculty of Health Sciences page",
+    "url": "https://hs.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Idlib University grants 'درجة الإجازة في العلوم الصحية' in nursing, emergency, laboratory sciences and anaesthesia; four years. Page content served by https://api.idlib.edu.sy (get_page_elements_component_by_page_id p_page_id 489)."
+  },
+  {
+    "id": "idlib-ed-site",
+    "title": "Idlib University Faculty of Education official site",
+    "url": "https://ed.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus"],
+    "notes": "Official site of the (first) Faculty of Education at Idlib University, main campus; lists class teacher, kindergarten and psychological counselling departments at licence stage."
+  },
+  {
+    "id": "idlib-ed-regulation",
+    "title": "Idlib University Faculty of Education internal regulation, posted on the Second Faculty of Education site",
+    "url": "https://ed2.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "'اللائحة الداخلية لكلية التربية في جامعة إدلب', art. 8: licences in education (class teacher, kindergarten, psychological counselling); art. 9: four years."
+  },
+  {
+    "id": "idlib-ps-regulation",
+    "title": "Idlib University Faculty of Political Science internal regulation",
+    "url": "https://ps.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Art. 5: Idlib University grants 'إجازة في العلوم السياسية'; art. 6: four years."
+  },
+  {
+    "id": "idlib-med-site",
+    "title": "Idlib University Faculty of Human Medicine official site (about and news pages)",
+    "url": "https://med.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus"],
+    "notes": "Official faculty site of Idlib University's Faculty of Human Medicine; says the faculty opened in Idlib city in 2016."
+  },
+  {
+    "id": "idlib-med-regulation",
+    "title": "Idlib University Faculty of Human Medicine internal regulation",
+    "url": "https://med.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Art. 4: the university grants 'إجازة دكتور في الطب البشري'; art. 5: study lasts six years. Scanned PDF read visually (PDF pp. 9). Page content served by https://api.idlib.edu.sy (get_page_elements_component_by_page_id p_page_id 478; file via get_file_url)."
+  },
+  {
+    "id": "idlib-dent-about",
+    "title": "Idlib University Faculty of Dentistry overview page",
+    "url": "https://dent.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Faculty located in Idlib city; degree 'إجازة في طب وجراحة الفم والأسنان'; 3 theoretical/lab years plus 2 clinical years. Page content served by https://api.idlib.edu.sy (get_page_elements_component_by_page_id p_page_id 227)."
+  },
+  {
+    "id": "idlib-pharm-degrees",
+    "title": "Idlib University Faculty of Pharmacy page",
+    "url": "https://pharm.idlib.edu.sy/",
+    "license": "Official public website; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "campus", "program name", "qualification level"],
+    "notes": "Art. 6: Idlib University grants 'الإجازة في الصيدلة'; art. 7: five study years. Page content served by https://api.idlib.edu.sy (get_page_elements_component_by_page_id p_page_id 289)."
   }
 ]

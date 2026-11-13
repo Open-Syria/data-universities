@@ -21432,5 +21432,921 @@
       }
     ],
     "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-informatics-engineering",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-faculty-of-informatics-engineering",
+    "disciplineId": "sy-informatics-engineering",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Informatics Engineering",
+      "ar": "الهندسة المعلوماتية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-cs-regulation"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-cs-regulation",
+        "sourceRecordId": "https://cs.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-civil-engineering",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-faculty-of-civil-engineering",
+    "disciplineId": "sy-civil-engineering",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Civil Engineering",
+      "ar": "الهندسة المدنية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-ce-regulation"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r21",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-ce-regulation",
+        "sourceRecordId": "https://ce.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-architecture",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-faculty-of-architecture",
+    "disciplineId": "sy-architecture",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Architecture",
+      "ar": "الهندسة المعمارية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-arch-regulation"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r33",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-arch-regulation",
+        "sourceRecordId": "https://arch.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-general-mechanical-engineering",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-faculty-of-electrical-and-mechanical-engineering",
+    "disciplineId": "sy-mechanical-engineering",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "General Mechanical Engineering",
+      "ar": "هندسة الميكانيك العام"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-mee-main"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r13",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-mee-main",
+        "sourceRecordId": "https://mee.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-biology",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-faculty-of-science",
+    "disciplineId": "sy-biology",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Biology",
+      "ar": "علم الحياة"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-sci-regulation"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p4:r22",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-sci-regulation",
+        "sourceRecordId": "https://sci.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-mathematics",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-faculty-of-science",
+    "disciplineId": "sy-mathematics",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Mathematics",
+      "ar": "الرياضيات"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-sci-regulation"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p6:r5",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-sci-regulation",
+        "sourceRecordId": "https://sci.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-physics",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-faculty-of-science",
+    "disciplineId": "sy-physics",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Physics",
+      "ar": "الفيزياء"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-sci-regulation"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p7:r19",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-sci-regulation",
+        "sourceRecordId": "https://sci.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-chemistry",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-faculty-of-science",
+    "disciplineId": "sy-chemistry",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Chemistry",
+      "ar": "الكيمياء"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-sci-regulation"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p9:r3",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-sci-regulation",
+        "sourceRecordId": "https://sci.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-anesthesia",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-faculty-of-health-sciences",
+    "disciplineId": "sy-anesthesia",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Anesthesia",
+      "ar": "التخدير"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-hs-goals"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p10:r24",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-hs-goals",
+        "sourceRecordId": "https://hs.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-medical-laboratory-sciences",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-faculty-of-health-sciences",
+    "disciplineId": "sy-medical-laboratory-sciences",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Medical Laboratory Sciences",
+      "ar": "التحليل المخبري"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-hs-goals"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p10:r25",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-hs-goals",
+        "sourceRecordId": "https://hs.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-emergency-medicine",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-faculty-of-health-sciences",
+    "disciplineId": "sy-emergency-medical-services",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Emergency Medicine",
+      "ar": "الطوارئ"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-hs-goals"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p10:r26",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-hs-goals",
+        "sourceRecordId": "https://hs.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-nursing",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-faculty-of-health-sciences",
+    "disciplineId": "sy-nursing",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Nursing",
+      "ar": "التمريض"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-hs-goals"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p10:r27",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-hs-goals",
+        "sourceRecordId": "https://hs.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-psychological-counseling",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-faculty-of-education",
+    "disciplineId": "sy-psychological-counseling",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Psychological Counseling",
+      "ar": "الإرشاد النفسي"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-ed-site",
+      "idlib-ed-regulation"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p14:r17",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-ed-site",
+        "sourceRecordId": "https://ed.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-ed-regulation",
+        "sourceRecordId": "https://ed2.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-primary-education",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-faculty-of-education",
+    "disciplineId": "sy-primary-education",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Primary Education",
+      "ar": "معلم الصف"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-ed-site",
+      "idlib-ed-regulation"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p14:r35",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-ed-site",
+        "sourceRecordId": "https://ed.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-ed-regulation",
+        "sourceRecordId": "https://ed2.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-primary-education-al-dana",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-second-faculty-of-education-al-dana",
+    "disciplineId": "sy-primary-education",
+    "campus": {
+      "locality": {
+        "en": "Al-Dana",
+        "ar": "الدانا"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Primary Education",
+      "ar": "معلم الصف"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-ed-regulation"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p14:r36",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-ed-regulation",
+        "sourceRecordId": "https://ed2.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-political-science",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-faculty-of-political-science",
+    "disciplineId": "sy-political-science",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Political Science",
+      "ar": "العلوم السياسية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-ps-regulation"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p15:r23",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-ps-regulation",
+        "sourceRecordId": "https://ps.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-human-medicine",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-faculty-of-human-medicine",
+    "disciplineId": "sy-medicine",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Human Medicine",
+      "ar": "الطب البشري"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-med-site",
+      "idlib-med-regulation"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-med-site",
+        "sourceRecordId": "https://med.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-med-regulation",
+        "sourceRecordId": "https://med.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-dentistry",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-faculty-of-dentistry",
+    "disciplineId": "sy-dentistry",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Dentistry",
+      "ar": "طب الأسنان"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["sana-decree-210-2026-idlib-university-faculties", "idlib-dent-about"],
+    "sourceReferences": [
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-dent-about",
+        "sourceRecordId": "https://dent.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-pharmacy",
+    "universityId": "sy-idlib-university",
+    "facultyId": "sy-idlib-university-faculty-of-pharmacy",
+    "disciplineId": "sy-pharmacy",
+    "campus": {
+      "locality": {
+        "en": "Idlib",
+        "ar": "إدلب"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Pharmacy",
+      "ar": "الصيدلة"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["sana-decree-210-2026-idlib-university-faculties", "idlib-pharm-degrees"],
+    "sourceReferences": [
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-pharm-degrees",
+        "sourceRecordId": "https://pharm.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
   }
 ]

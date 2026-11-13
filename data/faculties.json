@@ -7832,5 +7832,392 @@
       }
     ],
     "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-faculty-of-informatics-engineering",
+    "universityId": "sy-idlib-university",
+    "name": {
+      "en": "Faculty of Informatics Engineering",
+      "ar": "كلية الهندسة المعلوماتية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-cs-regulation"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r9",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-cs-regulation",
+        "sourceRecordId": "https://cs.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-faculty-of-civil-engineering",
+    "universityId": "sy-idlib-university",
+    "name": {
+      "en": "Faculty of Civil Engineering",
+      "ar": "كلية الهندسة المدنية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-ce-regulation"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r21",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-ce-regulation",
+        "sourceRecordId": "https://ce.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-faculty-of-architecture",
+    "universityId": "sy-idlib-university",
+    "name": {
+      "en": "Faculty of Architecture",
+      "ar": "كلية الهندسة المعمارية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-arch-regulation"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p1:r33",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-arch-regulation",
+        "sourceRecordId": "https://arch.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-faculty-of-electrical-and-mechanical-engineering",
+    "universityId": "sy-idlib-university",
+    "name": {
+      "en": "Faculty of Electrical and Mechanical Engineering",
+      "ar": "كلية الهندسة الكهربائية والميكانيكية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-mee-main"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r13",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-mee-main",
+        "sourceRecordId": "https://mee.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-faculty-of-science",
+    "universityId": "sy-idlib-university",
+    "name": {
+      "en": "Faculty of Science",
+      "ar": "كلية العلوم"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-sci-regulation"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p4:r22",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-sci-regulation",
+        "sourceRecordId": "https://sci.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-faculty-of-health-sciences",
+    "universityId": "sy-idlib-university",
+    "name": {
+      "en": "Faculty of Health Sciences",
+      "ar": "كلية العلوم الصحية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-hs-goals"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p10:r24",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-hs-goals",
+        "sourceRecordId": "https://hs.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-faculty-of-education",
+    "universityId": "sy-idlib-university",
+    "name": {
+      "en": "Faculty of Education",
+      "ar": "كلية التربية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-ed-site"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p14:r17",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-ed-site",
+        "sourceRecordId": "https://ed.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-second-faculty-of-education-al-dana",
+    "universityId": "sy-idlib-university",
+    "name": {
+      "en": "Second Faculty of Education",
+      "ar": "كلية التربية الثانية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p14:r36",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-faculty-of-political-science",
+    "universityId": "sy-idlib-university",
+    "name": {
+      "en": "Faculty of Political Science",
+      "ar": "كلية العلوم السياسية"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "sana-decree-210-2026-idlib-university-faculties",
+      "idlib-ps-regulation"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p15:r23",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-ps-regulation",
+        "sourceRecordId": "https://ps.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-faculty-of-human-medicine",
+    "universityId": "sy-idlib-university",
+    "name": {
+      "en": "Faculty of Human Medicine",
+      "ar": "كلية الطب البشري"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["sana-decree-210-2026-idlib-university-faculties", "idlib-med-site"],
+    "sourceReferences": [
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-med-site",
+        "sourceRecordId": "https://med.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-faculty-of-dentistry",
+    "universityId": "sy-idlib-university",
+    "name": {
+      "en": "Faculty of Dentistry",
+      "ar": "كلية طب الأسنان"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["sana-decree-210-2026-idlib-university-faculties", "idlib-dent-about"],
+    "sourceReferences": [
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-dent-about",
+        "sourceRecordId": "https://dent.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-idlib-university-faculty-of-pharmacy",
+    "universityId": "sy-idlib-university",
+    "name": {
+      "en": "Faculty of Pharmacy",
+      "ar": "كلية الصيدلة"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": ["sana-decree-210-2026-idlib-university-faculties", "idlib-pharm-degrees"],
+    "sourceReferences": [
+      {
+        "sourceId": "sana-decree-210-2026-idlib-university-faculties",
+        "sourceRecordId": "https://sana.sy/presidency/2629196/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "idlib-pharm-degrees",
+        "sourceRecordId": "https://pharm.idlib.edu.sy/",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
   }
 ]
