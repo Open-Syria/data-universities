@@ -28498,5 +28498,482 @@
       }
     ],
     "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-nuclear-engineering",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-mechanical-engineering",
+    "disciplineId": "sy-nuclear-engineering",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Nuclear Engineering",
+      "ar": "الهندسة النووية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-mechanical-faculty-api-wayback-2022",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r4",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-mechanical-faculty-api-wayback-2022",
+        "sourceRecordId": "https://web.archive.org/web/20220312094428/https://alepuniv.edu.sy/api/faculties/faculty-of-mechanics",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-aeronautical-engineering",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-mechanical-engineering",
+    "disciplineId": "sy-aeronautical-engineering",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Aeronautical Engineering",
+      "ar": "هندسة الطيران"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-mechanical-faculty-api-wayback-2022",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r6",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-mechanical-faculty-api-wayback-2022",
+        "sourceRecordId": "https://web.archive.org/web/20220312094428/https://alepuniv.edu.sy/api/faculties/faculty-of-mechanics",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-mechanical-energy-engineering",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-mechanical-engineering",
+    "disciplineId": "sy-mechanical-engineering",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Mechanical Energy Engineering",
+      "ar": "هندسة الطاقة الميكانيكية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-mechanical-faculty-api-wayback-2022",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r7",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-mechanical-faculty-api-wayback-2022",
+        "sourceRecordId": "https://web.archive.org/web/20220312094428/https://alepuniv.edu.sy/api/faculties/faculty-of-mechanics",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-materials-science-engineering",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-mechanical-engineering",
+    "disciplineId": "sy-materials-engineering",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Materials Science Engineering",
+      "ar": "هندسة علم المواد الهندسية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-mechanical-faculty-api-wayback-2022",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r8",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-mechanical-faculty-api-wayback-2022",
+        "sourceRecordId": "https://web.archive.org/web/20220312094428/https://alepuniv.edu.sy/api/faculties/faculty-of-mechanics",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-industrial-engineering",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-mechanical-engineering",
+    "disciplineId": "sy-industrial-engineering",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Industrial Engineering",
+      "ar": "الهندسة الصناعية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-mechanical-faculty-api-wayback-2022",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r10",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-mechanical-faculty-api-wayback-2022",
+        "sourceRecordId": "https://web.archive.org/web/20220312094428/https://alepuniv.edu.sy/api/faculties/faculty-of-mechanics",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-spinning-and-weaving-mechanical-engineering",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-mechanical-engineering",
+    "disciplineId": "sy-textile-engineering",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Spinning and Weaving Mechanical Engineering",
+      "ar": "هندسة ميكانيك الغزل والنسيج"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "aleppo-mechanical-faculty-api-wayback-2022",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p2:r11",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-mechanical-faculty-api-wayback-2022",
+        "sourceRecordId": "https://web.archive.org/web/20220312094428/https://alepuniv.edu.sy/api/faculties/faculty-of-mechanics",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-english-language-and-literature-manbij",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-third-faculty-of-arts-and-humanities-manbij",
+    "disciplineId": "sy-english-language-and-literature",
+    "campus": {
+      "locality": {
+        "en": "Manbij",
+        "ar": "منبج"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "English Language and Literature",
+      "ar": "اللغة الإنكليزية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p11:r32",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-philosophy",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-arts-and-humanities",
+    "disciplineId": "sy-philosophy",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Philosophy",
+      "ar": "الفلسفة"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p12:r28",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-sociology",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-arts-and-humanities",
+    "disciplineId": "sy-sociology",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Sociology",
+      "ar": "علم الاجتماع"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p12:r39",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
   }
 ]

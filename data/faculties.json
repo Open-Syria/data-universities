@@ -10232,5 +10232,34 @@
       }
     ],
     "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-third-faculty-of-arts-and-humanities-manbij",
+    "universityId": "sy-university-of-aleppo",
+    "name": {
+      "en": "Third Faculty of Arts and Humanities",
+      "ar": "كلية الآداب والعلوم الإنسانية الثالثة"
+    },
+    "aliases": [],
+    "facultyType": "faculty",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "public-university-affiliations-decree-250-2006"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p11:r32",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      },
+      {
+        "sourceId": "public-university-affiliations-decree-250-2006",
+        "sourceRecordId": "article-2",
+        "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
   }
 ]
