@@ -4,6 +4,13 @@ All notable changes to this repository will be documented in this file.
 
 ## Unreleased
 
+## v0.3.1 - 2026-11-16
+
+### Fixed
+
+- Use Hayat University for Medical Sciences as the English name and retain the stable university ID and Arabic name.
+- Clear the Higher Institute of Business Administration website after verifying that its former domain serves unrelated gambling content. No replacement official website has been verified.
+
 ## v0.3.0 - 2026-11-13
 
 ### Added

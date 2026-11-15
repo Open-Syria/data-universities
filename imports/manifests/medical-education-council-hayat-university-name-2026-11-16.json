@@ -1,0 +1,16 @@
+{
+  "sourceId": "medical-education-council-hayat-university-name",
+  "sourceTitle": "Medical Education Council: Hayat University for Medical Sciences",
+  "sourceUrl": "https://www.meduc.net/mec/en/colleges",
+  "license": "Public source; factual institution name only",
+  "accessedAt": "2026-11-16T00:00:00.000Z",
+  "status": "reviewed",
+  "rawFiles": [],
+  "importedFields": ["name.en", "sourceIds", "sourceReferences"],
+  "targetFiles": ["data/universities.json", "data/sources.json"],
+  "transforms": [
+    "Confirmed the English name against the Medical Education Council department directory.",
+    "Updated the English name while retaining the stable university ID and Arabic name."
+  ],
+  "reviewNotes": "The English name is the only university fact taken from this source."
+}

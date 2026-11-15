@@ -18,6 +18,11 @@ Record source approval decisions here as real university sources are reviewed.
 | `sy-...-official-logo` | approved | Per-university official website and official social-page logo sources for the reviewed logo batch. | Approved narrowly for public logo identification assets. Exact source URLs, trademark notes, and CDN variants are retained in `data/assets.json`. |
 | `sy-...-commons-cover` | approved | Per-file Wikimedia Commons photos used as optional cover images for 10 universities (2026-11-11 batch). | Approved because each file carries a free licence (CC BY 2.0, CC BY-SA 3.0, CC BY-SA 4.0, or public domain) checked through Commons metadata, and the creator, licence, and file page are kept in `data/assets.json` so credit is shown. CDN copies are resized WebP/AVIF only; BY-SA derivatives keep the same licence. |
 
+University identity review, 2026-11-16:
+
+- The Medical Education Council department directory verifies Hayat University for Medical Sciences’s English name. The university ID and Arabic name stay the same.
+- The Higher Institute of Business Administration’s former website now serves unrelated gambling content. Both website fields are empty until a replacement official website is verified.
+
 Cover photo review notes for the 2026-11-11 batch:
 
 - Only free-licence Commons files were considered; university website and social

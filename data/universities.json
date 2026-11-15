@@ -176,7 +176,7 @@
   {
     "id": "sy-al-hayat-university-for-applied-sciences",
     "name": {
-      "en": "Al-Hayat University for Applied Sciences",
+      "en": "Hayat University for Medical Sciences",
       "ar": "جامعة الحياة للعلوم الطبية"
     },
     "aliases": [],
@@ -196,8 +196,15 @@
     "externalIds": {
       "website": "https://www.meduc.net/mec"
     },
-    "sourceIds": ["wikipedia-list-universities-syria"],
+    "sourceIds": [
+      "wikipedia-list-universities-syria",
+      "medical-education-council-hayat-university-name"
+    ],
     "sourceReferences": [
+      {
+        "sourceId": "medical-education-council-hayat-university-name",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
       {
         "sourceId": "wikipedia-list-universities-syria",
         "accessedAt": "2026-06-29T00:00:00.000Z"
@@ -1427,7 +1434,7 @@
     "institutionType": "technical",
     "operationalStatus": "unknown",
     "foundedYear": 2001,
-    "website": "https://www.hiba.edu.sy/",
+    "website": null,
     "location": {
       "governorate": {
         "en": "Damascus",
@@ -1442,8 +1449,7 @@
       }
     },
     "externalIds": {
-      "wikidata": "Q12193458",
-      "website": "https://www.hiba.edu.sy/"
+      "wikidata": "Q12193458"
     },
     "sourceIds": ["wikidata", "wikipedia-list-universities-syria"],
     "sourceReferences": [
@@ -1457,7 +1463,8 @@
         "accessedAt": "2026-06-29T00:00:00.000Z"
       }
     ],
-    "sourceStatus": "released"
+    "sourceStatus": "released",
+    "notes": "Former website removed after the 2026-11-16 review found unrelated gambling content. No replacement official website was verified."
   },
   {
     "id": "sy-higher-institute-of-cinematic-arts",

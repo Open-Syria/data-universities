@@ -13,6 +13,9 @@ Every source used by canonical records must appear in `data/sources.json` with `
 Every public record must also carry a matching dated `sourceReferences` entry
 for each source ID it lists.
 
+The Medical Education Council department directory is approved for Hayat
+University for Medical Sciences’s English name. See the [identity review](../imports/manifests/medical-education-council-hayat-university-name-2026-11-16.json).
+
 The approved production scope is not a reusable canonical source.
 Review-only material can
 guide identity review and scope decisions, but canonical records must cite

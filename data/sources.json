@@ -1,5 +1,14 @@
 [
   {
+    "id": "medical-education-council-hayat-university-name",
+    "title": "Medical Education Council: Hayat University for Medical Sciences",
+    "url": "https://www.meduc.net/mec/en/colleges",
+    "license": "Public source; factual institution name only",
+    "status": "approved",
+    "fields": ["English institution name"],
+    "notes": "Used for the English institutional name shown in the department directory. No text or images are reused."
+  },
+  {
     "id": "al-jazeera-private-university-official-website",
     "title": "Al-Jazeera Private University official website",
     "url": "https://jude.edu.sy/",
@@ -123,7 +132,7 @@
   },
   {
     "id": "sy-al-hayat-university-for-applied-sciences-official-logo",
-    "title": "Al-Hayat University for Applied Sciences official logo source",
+    "title": "Hayat University for Medical Sciences official logo source",
     "url": "https://www.meduc.net/mec/sites/all/themes/meduc/logo.png?rand=4180",
     "license": "Official institutional logo; trademark rights may apply",
     "status": "approved",
