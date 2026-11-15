@@ -39,4 +39,6 @@ pins announcement 7 for the resolved private candidates. The
 pins announcements 2, 4, 5 and 6 for the fourth city-grouped review, which
 takes the award level from the Ministry table type.
 
+The [Hayat identity manifest](medical-education-council-hayat-university-name-2026-11-16.json) records the review of the university’s English name.
+
 Do not create manifests for sources that are not approved or under active maintainer review.

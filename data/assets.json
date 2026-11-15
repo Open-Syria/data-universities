@@ -329,7 +329,7 @@
     "assetType": "image",
     "assetRole": "logo",
     "title": {
-      "en": "Al-Hayat University for Applied Sciences logo",
+      "en": "Hayat University for Medical Sciences logo",
       "ar": "شعار جامعة الحياة للعلوم الطبية"
     },
     "variants": [
@@ -396,9 +396,9 @@
     ],
     "attribution": {
       "sourceProvider": "Official university website",
-      "sourceTitle": "Al-Hayat University for Applied Sciences official logo",
+      "sourceTitle": "Hayat University for Medical Sciences official logo",
       "sourceUrl": "https://www.meduc.net/mec/sites/all/themes/meduc/logo.png?rand=4180",
-      "creator": "Al-Hayat University for Applied Sciences",
+      "creator": "Hayat University for Medical Sciences",
       "license": "Official institutional logo; trademark rights may apply",
       "licenseUrl": "https://www.meduc.net/mec/sites/all/themes/meduc/logo.png?rand=4180",
       "attributionRequired": false
