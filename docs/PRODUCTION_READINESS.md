@@ -46,7 +46,7 @@ takes the award level of 168 offerings from the Ministry table type, by
 owner decision, and its
 [register](post-seed/PENDING_PUBLIC_CITY_PROGRAMS_2026_2027.md) lists the
 public rows that still need evidence.
-It is separate from the university identity and profile readiness checks.
+The [November field review](post-seed/FIELD_OFFERINGS_2026_2027.md) adds 14 offerings and documents nine gaps. These programme reviews are separate from the university identity and profile readiness checks.
 
 ## Nullable Or Source-Backed Targets
 

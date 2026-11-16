@@ -36,7 +36,7 @@ Known cleanup gaps:
 - 13 records are not listed by the approved ranking providers imported so far,
 - 0 records have locality/governorate conflicts that require source review,
 - 16 records retain reviewed comparison-conflict notes,
-- faculty and program coverage is partial. The preview contains 726
+- faculty and program coverage is partial. The preview contains 740
   source-backed offerings. The [bulk named-program review](post-seed/BULK_NAMED_PROGRAMS_2026_2027.md)
   documents the remaining award and affiliation checks.
   The [city-grouped review](post-seed/PUBLIC_CITY_PROGRAMS_2026_2027.md)
@@ -44,10 +44,10 @@ Known cleanup gaps:
   [register](post-seed/PENDING_PUBLIC_CITY_PROGRAMS_2026_2027.md) lists the
   262 leads still pending. Some public awards rest on archived copies of a
   university's own pages that are up to 15 years old; each source records
-  its snapshot date. For 168 public offerings the award level comes from
+  its snapshot date. For 177 public offerings the award level comes from
   the Ministry table type rather than a university statement, under the
   owner decision of 13 November 2026; they cite
-  `mohe-admissions-2026-2027-award-by-table-type`.
+  `mohe-admissions-2026-2027-award-by-table-type`. The [November field review](post-seed/FIELD_OFFERINGS_2026_2027.md) covers new offerings and superseding decisions.
 
 Track identity cleanup in
 [Identity Cleanup Batch](post-seed/IDENTITY_CLEANUP_BATCH.md).
