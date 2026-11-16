@@ -21,22 +21,22 @@ pnpm run report:production
 ## Current Production Snapshot
 
 As of the current working dataset after `v0.2.2`, the canonical identity dataset
-contains 57 records anchored to the approved production scope, approved public
+contains 68 records anchored to the approved production scope, approved public
 source IDs, and dated `sourceReferences`.
 
 Known cleanup gaps:
 
-- all 57 records currently keep `operationalStatus: "unknown"`,
+- the original 57 records keep `operationalStatus: "unknown"`,
 - 6 records are missing official websites,
 - 23 records are missing Wikidata identifiers,
 - 30 records are missing source-backed centroids,
-- 0 records do not yet have approved CDN logo assets,
-- 47 records have no optional cover photo yet (10 of 57 are covered; covers are
+- the 57 original institutions have approved CDN logo assets, with text-only profiles for the 11 standalone institutes,
+- 58 records have no optional cover photo yet (10 of 68 are covered; covers are
   not a release gate),
 - 13 records are not listed by the approved ranking providers imported so far,
 - 0 records have locality/governorate conflicts that require source review,
 - 16 records retain reviewed comparison-conflict notes,
-- faculty and program coverage is partial. The preview contains 740
+- faculty and program coverage is partial. The preview contains 763
   source-backed offerings. The [bulk named-program review](post-seed/BULK_NAMED_PROGRAMS_2026_2027.md)
   documents the remaining award and affiliation checks.
   The [city-grouped review](post-seed/PUBLIC_CITY_PROGRAMS_2026_2027.md)

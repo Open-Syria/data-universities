@@ -59,3 +59,5 @@ data/
 ```
 
 Import manifests explain provenance. They are not canonical data.
+
+The [standalone technical institute manifest](manifests/mohe-standalone-institutes-2026-2027-2026-11-16.json) records the reviewed ministry providers and their technical diploma tracks.

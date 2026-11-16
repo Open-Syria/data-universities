@@ -9,9 +9,9 @@ import {
   sourceRecordSchema,
   universityRecordSchema,
 } from './lib/data-schemas.mjs';
+import { productionInstitutionScope } from './lib/production-institution-scope.mjs';
 
 const root = process.cwd();
-const expectedCanonicalUniversityCount = 57;
 
 function getDataDirectory() {
   const dataDirArg = process.argv.find((arg) => arg.startsWith('--data-dir='));
@@ -166,6 +166,7 @@ function findLocationWarnings(universities) {
 
 const dataDirectory = getDataDirectory();
 const data = await loadData(dataDirectory);
+const scope = productionInstitutionScope(data.universities);
 
 const logoAssetUniversityIds = new Set(
   data.assets.filter((asset) => asset.assetRole === 'logo').map((asset) => asset.universityId),
@@ -179,8 +180,8 @@ const requiredChecks = [
   {
     id: 'canonicalUniversityCount',
     label: 'Canonical university count matches the approved production boundary.',
-    ok: data.universities.length === expectedCanonicalUniversityCount,
-    expected: expectedCanonicalUniversityCount,
+    ok: scope.matches,
+    expected: scope.expectedCount,
     actual: data.universities.length,
   },
   requiredFieldCheck(
@@ -224,13 +225,13 @@ const unknownOperationalStatusRecords = data.universities.filter(
   (university) => university.operationalStatus === 'unknown',
 );
 const locationWarnings = findLocationWarnings(data.universities);
-const logoAssetCoverage = coverageSummary(data.universities, logoAssetUniversityIds);
+const logoAssetCoverage = coverageSummary(scope.logoRequired, logoAssetUniversityIds);
 const rankingCoverage = coverageSummary(data.universities, rankingUniversityIds);
 const releaseGateChecks = [
   ...requiredChecks,
   {
     id: 'approvedLogoAssets',
-    label: 'Every university has an approved logo asset.',
+    label: 'Every institution in the original catalogue has an approved logo asset.',
     ok: logoAssetCoverage.missingCount === 0,
     ...logoAssetCoverage,
   },

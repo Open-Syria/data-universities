@@ -3807,5 +3807,149 @@
     "status": "approved",
     "fields": ["campus"],
     "notes": "The university's official contact page lists its permanent campus at Ghabagheb in Daraa."
+  },
+  {
+    "id": "sana-damascus-social-work-institute",
+    "title": "Ministry of Social Affairs and Labour: Damascus Technical Institute of Social Work",
+    "url": "https://sana.sy/governorates/damascus/2191867/",
+    "license": "Public reference; factual data only",
+    "status": "approved",
+    "fields": ["qualification", "provider or programme facts"],
+    "notes": "Ministerial visit corroborates the institution and teaching city."
+  },
+  {
+    "id": "social-work-institute-qualification",
+    "title": "Technical Institute of Social Work: qualification profile",
+    "url": "https://al-raaei.com/node/877",
+    "license": "Public reference; factual data only",
+    "status": "approved",
+    "fields": ["qualification", "provider or programme facts"],
+    "notes": "Corroborates the two-year Technical Diploma in Social Work. Current intake and identity are established by the Higher Council notices."
+  },
+  {
+    "id": "applied-arts-institute-qualification",
+    "title": "Atassi Foundation: history of Applied Arts education in Damascus",
+    "url": "https://www.atassifoundation.com/ar/features/t-lym-lfn-fy-swry-ltsys-wlmsrt-llhq",
+    "license": "Public reference; factual data only",
+    "status": "approved",
+    "fields": ["qualification", "provider or programme facts"],
+    "notes": "Source-backed account of the Ministry of Culture institute and its two-year study. Current tracks come from Higher Council notice 5."
+  },
+  {
+    "id": "sana-damascus-chemical-industries-technical-institute",
+    "title": "Damascus Technical Institute of Chemical Industries: institute director",
+    "url": "https://sana.sy/governorates/damascus/2200094/",
+    "license": "Public reference; factual data only",
+    "status": "approved",
+    "fields": ["qualification", "provider or programme facts"],
+    "notes": "Institute director distinguishes Chemical Industries Technology from Chemical Laboratories in year two."
+  },
+  {
+    "id": "chemical-industries-institute-qualification",
+    "title": "Damascus Technical Institute of Chemical Industries: qualification profile",
+    "url": "https://www.al-raaei.com/content/%EF%B8%8E%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D9%84%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9",
+    "license": "Public reference; factual data only",
+    "status": "approved",
+    "fields": ["qualification", "provider or programme facts"],
+    "notes": "Corroborates the two-year Technical Diploma in Chemical Industries. Current tracks come from Higher Council notice 5."
+  },
+  {
+    "id": "sana-aleppo-railways-technical-institute",
+    "title": "Syrian Railways Technical Institute: institute and railway authority directors",
+    "url": "https://sana.sy/governorates/aleppo/2501659/",
+    "license": "Public reference; factual data only",
+    "status": "approved",
+    "fields": ["qualification", "provider or programme facts"],
+    "notes": "Confirms the Aleppo campus, Ministry of Transport affiliation, active operation, five tracks, two-year technical diplomas and foundation in 1974."
+  },
+  {
+    "id": "sana-deir-ez-zor-oil-and-gas-technical-institute",
+    "title": "Ministry of Energy: reopening of the Deir ez-Zor Oil and Gas Technical Institute",
+    "url": "https://sana.sy/education/2612390/",
+    "license": "Public reference; factual data only",
+    "status": "approved",
+    "fields": ["qualification", "provider or programme facts"],
+    "notes": "Ministry and institute director confirm the October 2026 return to the Al-Taym Oil Field campus and continuation of first- and second-year classes."
+  },
+  {
+    "id": "sana-homs-applied-industries-technical-institute",
+    "title": "Homs Technical Institute of Applied Industries: institute director",
+    "url": "https://sana.sy/governorates/homs/2200244/",
+    "license": "Public reference; factual data only",
+    "status": "approved",
+    "fields": ["qualification", "provider or programme facts"],
+    "notes": "Institute director confirms the provider, Homs location, and production and machinery department."
+  },
+  {
+    "id": "sana-damascus-applied-industries-technical-institute",
+    "title": "Damascus Technical Institute of Applied Industries: institute staff",
+    "url": "https://sana.sy/education/2342139/",
+    "license": "Public reference; factual data only",
+    "status": "approved",
+    "fields": ["qualification", "provider or programme facts"],
+    "notes": "Corroborates the Damascus institution, programme areas and Ministry of Economy and Industry affiliation."
+  },
+  {
+    "id": "homs-applied-industries-qualification",
+    "title": "Homs Technical Institute of Applied Industries: qualification profile",
+    "url": "https://www.al-raaei.com/content/%EF%B8%8E%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A-%D9%84%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%8A%D8%A9-%D8%A8%D8%AD%D9%85%D8%B5",
+    "license": "Public reference; factual data only",
+    "status": "approved",
+    "fields": ["qualification", "provider or programme facts"],
+    "notes": "Corroborates the institute's programme structure and technical diploma. The current programme title is taken from the Higher Council notice and institute director."
+  },
+  {
+    "id": "damascus-applied-industries-qualification",
+    "title": "Damascus Technical Institute of Applied Industries: programme and qualification profile",
+    "url": "https://al-raaei.com/node/889",
+    "license": "Public reference; factual data only",
+    "status": "approved",
+    "fields": ["qualification", "provider or programme facts"],
+    "notes": "Corroborates the Production Mechanics curriculum and technical diploma; current intake and identity come from the Higher Council."
+  },
+  {
+    "id": "aleppo-applied-industries-qualification",
+    "title": "Aleppo Technical Institute of Applied Industries: programme and qualification profile",
+    "url": "https://www.al-raaei.com/content/%EF%B8%8E%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D9%84%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%8A%D8%A9-%D8%A8%D8%AD%D9%84%D8%A8",
+    "license": "Public reference; factual data only",
+    "status": "approved",
+    "fields": ["qualification", "provider or programme facts"],
+    "notes": "Corroborates the Production Mechanics curriculum and technical diploma; current intake and identity come from the Higher Council."
+  },
+  {
+    "id": "baniyas-oil-and-gas-qualification",
+    "title": "Baniyas Oil and Gas Technical Institute: qualification profile",
+    "url": "https://www.al-raaei.com/en/node/905",
+    "license": "Public reference; factual data only",
+    "status": "approved",
+    "fields": ["qualification", "provider or programme facts"],
+    "notes": "Corroborates the two-year technical diploma and the refining and transportation and storage tracks."
+  },
+  {
+    "id": "homs-oil-and-gas-qualification",
+    "title": "Homs Oil and Gas Technical Institute: qualification profile",
+    "url": "https://www.al-raaei.com/en/node/902",
+    "license": "Public reference; factual data only",
+    "status": "approved",
+    "fields": ["qualification", "provider or programme facts"],
+    "notes": "Corroborates the two-year technical diploma and the institute location. Track names come from the current Higher Council notice."
+  },
+  {
+    "id": "deir-ez-zor-oil-and-gas-qualification",
+    "title": "Deir ez-Zor Oil and Gas Technical Institute: qualification profile",
+    "url": "https://www.al-raaei.com/content/%EF%B8%8E%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D9%84%D9%84%D9%86%D9%81%D8%B7-%D9%88%D8%A7%D9%84%D8%BA%D8%A7%D8%B2-%D9%81%D9%8A-%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1",
+    "license": "Public reference; factual data only",
+    "status": "approved",
+    "fields": ["qualification", "provider or programme facts"],
+    "notes": "Corroborates the technical diploma; the current Ministry reopening supersedes historical site details."
+  },
+  {
+    "id": "sana-rmelan-oil-and-gas-technical-diploma",
+    "title": "Syrian official governor profile: Rmelan oil institute qualification",
+    "url": "https://sana.sy/government/2471416/",
+    "license": "Public reference; factual data only",
+    "status": "approved",
+    "fields": ["qualification", "provider or programme facts"],
+    "notes": "Corroborates issuance of a technical diploma by the oil institute in Rmelan; the current Higher Council notice confirms programme titles."
   }
 ]

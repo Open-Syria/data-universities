@@ -19,7 +19,7 @@ pnpm run coverage:data
 
 The current university identity release must have:
 
-- 57 canonical university and higher-institute records,
+- 68 canonical institution records, including the 11 named standalone technical institutes,
 - English and Arabic canonical names for every record,
 - governorate and locality for every record,
 - at least one approved public source ID for every record.
@@ -32,9 +32,7 @@ status if any blocker is present.
 Release artifacts include machine-readable readiness metadata in
 `release-manifest.json`.
 
-The current release level is `profile_ready`: the canonical 57-record identity
-dataset has complete reviewed logo coverage and approved ranking snapshots where
-public ranking providers list Syrian institutions. Public API exposure is
+The current release level is `profile_ready`. The original 57 institutions have reviewed logos, and approved ranking snapshots are available where providers list Syrian institutions. The 11 institutes added in the [standalone technical institute review](post-seed/STANDALONE_TECHNICAL_INSTITUTES_2026_2027.md) can publish text-only profiles. Public API exposure is
 approved through `publicApi.status: approved`.
 
 Faculty, program, and discipline coverage is partial after the
@@ -63,7 +61,7 @@ Logo assets are the production profile target. Campus, building, and other
 non-logo images are optional and do not satisfy the public profile asset gate.
 Logos must still have an approved public source, trademark/reuse review, CDN
 upload, and attribution or rights notes before they enter `data/assets.json`.
-The current reviewed logo batch covers all 57 canonical universities. Future
+The current reviewed logo batch covers the original 57 institutions. Future
 logo changes should still wait for a clean official logo source, trademark or
 reuse review, and CDN upload.
 Optional Wikimedia Commons cover photos currently cover 10 of 57 universities;

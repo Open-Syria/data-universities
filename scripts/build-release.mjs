@@ -14,6 +14,7 @@ import {
   sourceRecordSchema,
   universityRecordSchema,
 } from './lib/data-schemas.mjs';
+import { productionInstitutionScope } from './lib/production-institution-scope.mjs';
 
 const root = process.cwd();
 const dataDirectory = path.resolve(root, getCliOption('--data-dir') ?? 'data');
@@ -802,6 +803,9 @@ function buildReleaseReadiness() {
   const programs = datasetRecordsByName.get('programs') ?? [];
   const rankings = datasetRecordsByName.get('rankings') ?? [];
   const universityCount = universities.length;
+  const scope = productionInstitutionScope(universities);
+  const logoIds = new Set(logoAssets.map(({ universityId }) => universityId));
+  const requiredLogoCount = scope.logoRequired.filter(({ id }) => logoIds.has(id)).length;
   const englishNameCount = universities.filter((record) => record.name.en).length;
   const arabicNameCount = universities.filter((record) => record.name.ar).length;
   const locationCount = universities.filter(
@@ -811,12 +815,12 @@ function buildReleaseReadiness() {
   const websiteCount = universities.filter((record) => record.website).length;
   const centroidCount = universities.filter((record) => record.location?.centroid).length;
   const hardRequirementsPassed =
-    universityCount === 57 &&
+    scope.matches &&
     englishNameCount === universityCount &&
     arabicNameCount === universityCount &&
     locationCount === universityCount &&
     sourcedCount === universityCount;
-  const logoCoveragePassed = logoAssets.length === universityCount;
+  const logoCoveragePassed = requiredLogoCount === scope.logoRequired.length;
   const rankingSnapshotsAvailable = rankings.length > 0;
   const profileReady = hardRequirementsPassed && logoCoveragePassed && rankingSnapshotsAvailable;
 
@@ -831,13 +835,13 @@ function buildReleaseReadiness() {
       minimumLevel: 'profile_ready',
       reason: profileReady
         ? 'Approved for public university profile endpoints. Nullable website, centroid, faculty, and program gaps remain source-backed enrichment work.'
-        : 'Public university profile endpoints require canonical identity data, complete logo coverage, and approved ranking snapshots.',
+        : 'Public university profile endpoints require canonical identity data, reviewed logos for the original catalogue institutions, and approved ranking snapshots.',
     },
     checks: [
       {
         name: 'canonical_university_count',
-        status: universityCount === 57 ? 'passed' : 'blocked',
-        expected: 57,
+        status: scope.matches ? 'passed' : 'blocked',
+        expected: scope.expectedCount,
         actual: universityCount,
       },
       {
@@ -867,8 +871,9 @@ function buildReleaseReadiness() {
       {
         name: 'approved_logo_assets',
         status: logoCoveragePassed ? 'passed' : 'blocked',
-        expected: universityCount,
-        actual: logoAssets.length,
+        expected: scope.logoRequired.length,
+        actual: requiredLogoCount,
+        notes: 'Logos for the approved standalone technical institutes are optional.',
       },
       {
         name: 'approved_ranking_snapshots',
@@ -903,15 +908,10 @@ function buildReleaseReadiness() {
       },
       {
         name: 'assets',
-        status:
-          logoAssets.length === universities.length
-            ? 'ready'
-            : logoAssets.length > 0
-              ? 'partial'
-              : 'empty',
+        status: logoCoveragePassed ? 'ready' : logoAssets.length > 0 ? 'partial' : 'empty',
         recordCount: logoAssets.length,
         notes:
-          'Logo coverage is the public profile asset target. Non-logo image assets are optional and do not satisfy this gate.',
+          'Reviewed logos are required for the original catalogue institutions. The standalone technical institutes can use text-only profiles.',
       },
       {
         name: 'disciplines',
