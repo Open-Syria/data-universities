@@ -2,7 +2,7 @@
 
 This guide explains how to contribute data changes to `data-universities`.
 
-The goal is to make contributions easy to review without letting the dataset schema drift. Contributors can improve approved data. Maintainers control schemas, dataset subjects, release artifacts, production scope, and source policy.
+The goal is to make contributions easy to review without letting the dataset schema drift. Contributors can improve approved data. Maintainers control schemas, dataset subjects, release artifacts, production scope, and source policy. Check the [standalone technical institute review](../docs/post-seed/STANDALONE_TECHNICAL_INSTITUTES_2026_2027.md) for the 11 approved ministry-operated providers.
 
 ## Table of Contents
 

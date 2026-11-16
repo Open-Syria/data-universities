@@ -42,11 +42,11 @@ Public profile logo assets are not part of `v0.1.0`. Campus, building, and
 other non-logo images are optional and do not satisfy the profile logo coverage
 gate.
 
-The current reviewed logo batch covers all 57 canonical universities. Future
+The current reviewed logo batch covers the original 57 institutions. Future
 logo replacements should wait until a clean official logo source is reviewed
 and uploaded.
 
-Optional Wikimedia Commons cover photos cover 10 of 57 canonical universities
+Optional Wikimedia Commons cover photos cover 10 institutions
 after the 2026-11-11 batch. The other 47 need a free-licence Commons photo that
 passes review before a cover is added.
 
@@ -88,3 +88,5 @@ For later batches:
 - decide whether rankings are in scope,
 - avoid copying unclear-license prose or lists directly into canonical data,
 - keep university records independent from volatile ranking snapshots.
+
+Three fields remain unresolved after the [standalone technical institute review](post-seed/STANDALONE_TECHNICAL_INSTITUTES_2026_2027.md). Follow the post-decision intake and affiliations for Jarabulus and the current status of Jineology.

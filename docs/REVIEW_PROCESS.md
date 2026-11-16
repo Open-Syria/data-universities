@@ -38,3 +38,5 @@ For post-seed additions, also confirm that candidates are present in the interna
 approved production scope, in dataset scope, and not duplicates or aliases of
 existing records. Candidates found only in public secondary sources should stay
 in the post-seed backlog until there is an explicit scope decision.
+
+The [standalone technical institute review](post-seed/STANDALONE_TECHNICAL_INSTITUTES_2026_2027.md) records the approved extension for standalone technical institutes. Add each approved provider under its own stable ID and preserve the original award issuer.

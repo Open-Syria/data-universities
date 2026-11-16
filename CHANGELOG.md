@@ -4,6 +4,13 @@ All notable changes to this repository will be documented in this file.
 
 ## Unreleased
 
+## v0.3.3 - 2026-11-16
+
+### Added
+
+- Add 11 standalone technical institutes and 23 named technical diploma tracks across six fields of study.
+- Extend the reviewed identity scope to the new institutes. Review logos for these institutes individually when official sources are available.
+
 ## v0.3.2 - 2026-11-16
 
 ### Added

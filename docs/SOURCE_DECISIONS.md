@@ -239,3 +239,5 @@ evidence for the other new programmes. The signed October integration
 decisions govern affiliation and 2026–2027 admission where they supersede
 the earlier Ministry tables. Programme references point to the exact row,
 decision article or university programme page.
+
+For the [standalone technical institute review](post-seed/STANDALONE_TECHNICAL_INSTITUTES_2026_2027.md), Notice 5 establishes the authority, site and track. The companion technical admissions tables establish current institute-level intake. Record the technical diploma when the qualification profile, two-year award structure or institute officials substantiate it. The earlier public university table-type approval does not apply to ministry-run institutes.

@@ -36465,5 +36465,1126 @@
       }
     ],
     "sourceStatus": "released"
+  },
+  {
+    "id": "sy-technical-institute-of-applied-arts-damascus-photography-and-television-imaging",
+    "universityId": "sy-technical-institute-of-applied-arts-damascus",
+    "facultyId": null,
+    "disciplineId": "sy-applied-arts",
+    "campus": {
+      "locality": {
+        "en": "Damascus",
+        "ar": "دمشق"
+      },
+      "governorateSlug": "damascus"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Technical Diploma in Photography and Television Imaging",
+      "ar": "الدبلوم التقاني في التصوير الضوئي والتلفزيوني"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-public-city-programs-2026-2027",
+      "mohe-public-city-programs-literary-2026-2027",
+      "applied-arts-institute-qualification"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p6:المعهد التقاني للفنون التطبيقية بدمشق",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p19:المعهد التقاني للفنون التطبيقية بدمشق",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-literary-2026-2027",
+        "sourceRecordId": "announcement-4:p6:المعهد التقاني للفنون التطبيقية بدمشق",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "applied-arts-institute-qualification",
+        "sourceRecordId": "https://www.atassifoundation.com/ar/features/t-lym-lfn-fy-swry-ltsys-wlmsrt-llhq",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-technical-institute-of-applied-arts-damascus-ceramics",
+    "universityId": "sy-technical-institute-of-applied-arts-damascus",
+    "facultyId": null,
+    "disciplineId": "sy-applied-arts",
+    "campus": {
+      "locality": {
+        "en": "Damascus",
+        "ar": "دمشق"
+      },
+      "governorateSlug": "damascus"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Technical Diploma in Ceramics",
+      "ar": "الدبلوم التقاني في الخزف"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-public-city-programs-2026-2027",
+      "mohe-public-city-programs-literary-2026-2027",
+      "applied-arts-institute-qualification"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p6:المعهد التقاني للفنون التطبيقية بدمشق",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p19:المعهد التقاني للفنون التطبيقية بدمشق",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-literary-2026-2027",
+        "sourceRecordId": "announcement-4:p6:المعهد التقاني للفنون التطبيقية بدمشق",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "applied-arts-institute-qualification",
+        "sourceRecordId": "https://www.atassifoundation.com/ar/features/t-lym-lfn-fy-swry-ltsys-wlmsrt-llhq",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-technical-institute-of-applied-arts-damascus-arabic-calligraphy-and-ornamentation",
+    "universityId": "sy-technical-institute-of-applied-arts-damascus",
+    "facultyId": null,
+    "disciplineId": "sy-applied-arts",
+    "campus": {
+      "locality": {
+        "en": "Damascus",
+        "ar": "دمشق"
+      },
+      "governorateSlug": "damascus"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Technical Diploma in Arabic Calligraphy and Ornamentation",
+      "ar": "الدبلوم التقاني في الخط العربي والزخرفة"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-public-city-programs-2026-2027",
+      "mohe-public-city-programs-literary-2026-2027",
+      "applied-arts-institute-qualification"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p6:المعهد التقاني للفنون التطبيقية بدمشق",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p19:المعهد التقاني للفنون التطبيقية بدمشق",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-literary-2026-2027",
+        "sourceRecordId": "announcement-4:p6:المعهد التقاني للفنون التطبيقية بدمشق",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "applied-arts-institute-qualification",
+        "sourceRecordId": "https://www.atassifoundation.com/ar/features/t-lym-lfn-fy-swry-ltsys-wlmsrt-llhq",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-technical-institute-of-applied-arts-damascus-sculpture",
+    "universityId": "sy-technical-institute-of-applied-arts-damascus",
+    "facultyId": null,
+    "disciplineId": "sy-applied-arts",
+    "campus": {
+      "locality": {
+        "en": "Damascus",
+        "ar": "دمشق"
+      },
+      "governorateSlug": "damascus"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Technical Diploma in Sculpture",
+      "ar": "الدبلوم التقاني في النحت"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-public-city-programs-2026-2027",
+      "mohe-public-city-programs-literary-2026-2027",
+      "applied-arts-institute-qualification"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p6:المعهد التقاني للفنون التطبيقية بدمشق",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p19:المعهد التقاني للفنون التطبيقية بدمشق",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-literary-2026-2027",
+        "sourceRecordId": "announcement-4:p6:المعهد التقاني للفنون التطبيقية بدمشق",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "applied-arts-institute-qualification",
+        "sourceRecordId": "https://www.atassifoundation.com/ar/features/t-lym-lfn-fy-swry-ltsys-wlmsrt-llhq",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-technical-institute-of-social-work-damascus-social-work",
+    "universityId": "sy-technical-institute-of-social-work-damascus",
+    "facultyId": null,
+    "disciplineId": "sy-social-work",
+    "campus": {
+      "locality": {
+        "en": "Damascus",
+        "ar": "دمشق"
+      },
+      "governorateSlug": "damascus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Technical Diploma in Social Work",
+      "ar": "الدبلوم التقاني في الخدمة الاجتماعية"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-public-city-programs-literary-2026-2027",
+      "sana-damascus-social-work-institute",
+      "social-work-institute-qualification"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p6:المعهد التقاني للخدمة الاجتماعية بدمشق",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-literary-2026-2027",
+        "sourceRecordId": "announcement-4:p6:المعهد التقاني للخدمة الاجتماعية بدمشق",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-damascus-social-work-institute",
+        "sourceRecordId": "https://sana.sy/governorates/damascus/2191867/",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "social-work-institute-qualification",
+        "sourceRecordId": "https://al-raaei.com/node/877",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-technical-institute-of-chemical-industries-damascus-chemical-industries-technology",
+    "universityId": "sy-technical-institute-of-chemical-industries-damascus",
+    "facultyId": null,
+    "disciplineId": "sy-chemical-industries-technology",
+    "campus": {
+      "locality": {
+        "en": "Damascus",
+        "ar": "دمشق"
+      },
+      "governorateSlug": "damascus"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Technical Diploma in Chemical Industries Technology",
+      "ar": "الدبلوم التقاني في تكنولوجيا الصناعات الكيميائية"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-public-city-programs-2026-2027",
+      "sana-damascus-chemical-industries-technical-institute",
+      "chemical-industries-institute-qualification"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p7:المعهد التقاني للصناعات الكيميائية بدمشق",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p18:المعهد التقاني للصناعات الكيميائية بدمشق",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-damascus-chemical-industries-technical-institute",
+        "sourceRecordId": "https://sana.sy/governorates/damascus/2200094/",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "chemical-industries-institute-qualification",
+        "sourceRecordId": "https://www.al-raaei.com/content/%EF%B8%8E%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D9%84%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-syrian-railways-technical-institute-aleppo-traction-and-rolling-stock",
+    "universityId": "sy-syrian-railways-technical-institute-aleppo",
+    "facultyId": null,
+    "disciplineId": "sy-railway-technology",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Technical Diploma in Traction and Rolling Stock",
+      "ar": "الدبلوم التقاني في الأدوات المحركة والمتحركة"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-public-city-programs-2026-2027",
+      "sana-aleppo-railways-technical-institute"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p6:المعهد التقاني للخطوط الحديدية السورية بحلب",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p19:المعهد التقاني للخطوط الحديدية السورية بحلب",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-aleppo-railways-technical-institute",
+        "sourceRecordId": "https://sana.sy/governorates/aleppo/2501659/",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-syrian-railways-technical-institute-aleppo-civil-works",
+    "universityId": "sy-syrian-railways-technical-institute-aleppo",
+    "facultyId": null,
+    "disciplineId": "sy-railway-technology",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Technical Diploma in Railway Civil Works",
+      "ar": "الدبلوم التقاني في الأعمال المدنية"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-public-city-programs-2026-2027",
+      "sana-aleppo-railways-technical-institute"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p6:المعهد التقاني للخطوط الحديدية السورية بحلب",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p19:المعهد التقاني للخطوط الحديدية السورية بحلب",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-aleppo-railways-technical-institute",
+        "sourceRecordId": "https://sana.sy/governorates/aleppo/2501659/",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-syrian-railways-technical-institute-aleppo-traffic-and-transport-management",
+    "universityId": "sy-syrian-railways-technical-institute-aleppo",
+    "facultyId": null,
+    "disciplineId": "sy-railway-technology",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Technical Diploma in Railway Traffic and Transport Management",
+      "ar": "الدبلوم التقاني في إدارة الحركة والنقل"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-public-city-programs-2026-2027",
+      "sana-aleppo-railways-technical-institute"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p6:المعهد التقاني للخطوط الحديدية السورية بحلب",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p19:المعهد التقاني للخطوط الحديدية السورية بحلب",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-aleppo-railways-technical-institute",
+        "sourceRecordId": "https://sana.sy/governorates/aleppo/2501659/",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-syrian-railways-technical-institute-aleppo-marketing-and-business",
+    "universityId": "sy-syrian-railways-technical-institute-aleppo",
+    "facultyId": null,
+    "disciplineId": "sy-railway-technology",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Technical Diploma in Railway Marketing and Business",
+      "ar": "الدبلوم التقاني في التسويق والأعمال"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-public-city-programs-2026-2027",
+      "sana-aleppo-railways-technical-institute"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p6:المعهد التقاني للخطوط الحديدية السورية بحلب",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p19:المعهد التقاني للخطوط الحديدية السورية بحلب",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-aleppo-railways-technical-institute",
+        "sourceRecordId": "https://sana.sy/governorates/aleppo/2501659/",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-syrian-railways-technical-institute-aleppo-signalling-and-communications",
+    "universityId": "sy-syrian-railways-technical-institute-aleppo",
+    "facultyId": null,
+    "disciplineId": "sy-railway-technology",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Technical Diploma in Railway Signalling and Communications",
+      "ar": "الدبلوم التقاني في الإشارات والاتصالات"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-public-city-programs-2026-2027",
+      "sana-aleppo-railways-technical-institute"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p6:المعهد التقاني للخطوط الحديدية السورية بحلب",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p19:المعهد التقاني للخطوط الحديدية السورية بحلب",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-aleppo-railways-technical-institute",
+        "sourceRecordId": "https://sana.sy/governorates/aleppo/2501659/",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-oil-and-gas-technical-institute-homs-refining",
+    "universityId": "sy-oil-and-gas-technical-institute-homs",
+    "facultyId": null,
+    "disciplineId": "sy-oil-and-gas-technology",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Technical Diploma in Oil and Gas Refining",
+      "ar": "الدبلوم التقاني في تكرير النفط والغاز"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-public-city-programs-2026-2027",
+      "homs-oil-and-gas-qualification"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p8:المعهد التقاني للنفط والغاز بحمص",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p19:المعهد التقاني للنفط والغاز بحمص",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-oil-and-gas-qualification",
+        "sourceRecordId": "https://www.al-raaei.com/en/node/902",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-oil-and-gas-technical-institute-homs-transportation-and-storage",
+    "universityId": "sy-oil-and-gas-technical-institute-homs",
+    "facultyId": null,
+    "disciplineId": "sy-oil-and-gas-technology",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Technical Diploma in Oil and Gas Transportation and Storage",
+      "ar": "الدبلوم التقاني في عمليات نقل وتخزين النفط والغاز"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-public-city-programs-2026-2027",
+      "homs-oil-and-gas-qualification"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p8:المعهد التقاني للنفط والغاز بحمص",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p19:المعهد التقاني للنفط والغاز بحمص",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-oil-and-gas-qualification",
+        "sourceRecordId": "https://www.al-raaei.com/en/node/902",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-oil-and-gas-technical-institute-homs-drilling-and-production",
+    "universityId": "sy-oil-and-gas-technical-institute-homs",
+    "facultyId": null,
+    "disciplineId": "sy-oil-and-gas-technology",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Technical Diploma in Oil and Gas Drilling and Production",
+      "ar": "الدبلوم التقاني في حفر وإنتاج النفط والغاز"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-public-city-programs-2026-2027",
+      "homs-oil-and-gas-qualification"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p8:المعهد التقاني للنفط والغاز بحمص",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p19:المعهد التقاني للنفط والغاز بحمص",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-oil-and-gas-qualification",
+        "sourceRecordId": "https://www.al-raaei.com/en/node/902",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-oil-and-gas-technical-institute-baniyas-refining",
+    "universityId": "sy-oil-and-gas-technical-institute-baniyas",
+    "facultyId": null,
+    "disciplineId": "sy-oil-and-gas-technology",
+    "campus": {
+      "locality": {
+        "en": "Baniyas",
+        "ar": "بانياس"
+      },
+      "governorateSlug": "tartus"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Technical Diploma in Oil and Gas Refining",
+      "ar": "الدبلوم التقاني في تكرير النفط والغاز"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-public-city-programs-2026-2027",
+      "baniyas-oil-and-gas-qualification"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p8:المعهد التقاني للنفط والغاز في بانياس",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p19:المعهد التقاني للنفط والغاز في بانياس",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "baniyas-oil-and-gas-qualification",
+        "sourceRecordId": "https://www.al-raaei.com/en/node/905",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-oil-and-gas-technical-institute-baniyas-transportation-and-storage",
+    "universityId": "sy-oil-and-gas-technical-institute-baniyas",
+    "facultyId": null,
+    "disciplineId": "sy-oil-and-gas-technology",
+    "campus": {
+      "locality": {
+        "en": "Baniyas",
+        "ar": "بانياس"
+      },
+      "governorateSlug": "tartus"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Technical Diploma in Oil and Gas Transportation and Storage",
+      "ar": "الدبلوم التقاني في عمليات نقل وتخزين النفط والغاز"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-public-city-programs-2026-2027",
+      "baniyas-oil-and-gas-qualification"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p8:المعهد التقاني للنفط والغاز في بانياس",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p19:المعهد التقاني للنفط والغاز في بانياس",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "baniyas-oil-and-gas-qualification",
+        "sourceRecordId": "https://www.al-raaei.com/en/node/905",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-oil-and-gas-technical-institute-rmelan-oil-well-drilling",
+    "universityId": "sy-oil-and-gas-technical-institute-rmelan",
+    "facultyId": null,
+    "disciplineId": "sy-oil-and-gas-technology",
+    "campus": {
+      "locality": {
+        "en": "Rmelan",
+        "ar": "الرميلان"
+      },
+      "governorateSlug": "hasakah"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Technical Diploma in Oil Well Drilling",
+      "ar": "الدبلوم التقاني في حفر الآبار النفطية"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-public-city-programs-2026-2027",
+      "sana-rmelan-oil-and-gas-technical-diploma"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p8:المعهد التقاني للنفط والغاز في الرميلان",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p19:المعهد التقاني للنفط والغاز في الرميلان",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-rmelan-oil-and-gas-technical-diploma",
+        "sourceRecordId": "https://sana.sy/government/2471416/",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-oil-and-gas-technical-institute-rmelan-production",
+    "universityId": "sy-oil-and-gas-technical-institute-rmelan",
+    "facultyId": null,
+    "disciplineId": "sy-oil-and-gas-technology",
+    "campus": {
+      "locality": {
+        "en": "Rmelan",
+        "ar": "الرميلان"
+      },
+      "governorateSlug": "hasakah"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Technical Diploma in Oil and Gas Production",
+      "ar": "الدبلوم التقاني في إنتاج النفط والغاز"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-public-city-programs-2026-2027",
+      "sana-rmelan-oil-and-gas-technical-diploma"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p8:المعهد التقاني للنفط والغاز في الرميلان",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p19:المعهد التقاني للنفط والغاز في الرميلان",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-rmelan-oil-and-gas-technical-diploma",
+        "sourceRecordId": "https://sana.sy/government/2471416/",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-oil-and-gas-technical-institute-deir-ez-zor-mechanics-and-rotating-machinery",
+    "universityId": "sy-oil-and-gas-technical-institute-deir-ez-zor",
+    "facultyId": null,
+    "disciplineId": "sy-oil-and-gas-technology",
+    "campus": {
+      "locality": {
+        "en": "Al-Taym Oil Field",
+        "ar": "حقل التيم النفطي"
+      },
+      "governorateSlug": "deir-ez-zor"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Technical Diploma in Mechanics and Rotating Machinery",
+      "ar": "الدبلوم التقاني في الميكانيك والآلات الدوارة"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-public-city-programs-2026-2027",
+      "sana-deir-ez-zor-oil-and-gas-technical-institute",
+      "deir-ez-zor-oil-and-gas-qualification"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p8:المعهد التقاني للنفط والغاز بدير الزور",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p19:المعهد التقاني للنفط والغاز بدير الزور",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-deir-ez-zor-oil-and-gas-technical-institute",
+        "sourceRecordId": "https://sana.sy/education/2612390/",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "deir-ez-zor-oil-and-gas-qualification",
+        "sourceRecordId": "https://www.al-raaei.com/content/%EF%B8%8E%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D9%84%D9%84%D9%86%D9%81%D8%B7-%D9%88%D8%A7%D9%84%D8%BA%D8%A7%D8%B2-%D9%81%D9%8A-%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-oil-and-gas-technical-institute-deir-ez-zor-instrumentation-and-control",
+    "universityId": "sy-oil-and-gas-technical-institute-deir-ez-zor",
+    "facultyId": null,
+    "disciplineId": "sy-oil-and-gas-technology",
+    "campus": {
+      "locality": {
+        "en": "Al-Taym Oil Field",
+        "ar": "حقل التيم النفطي"
+      },
+      "governorateSlug": "deir-ez-zor"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Technical Diploma in Instrumentation and Control",
+      "ar": "الدبلوم التقاني في الأجهزة الدقيقة والتحكم"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-public-city-programs-2026-2027",
+      "sana-deir-ez-zor-oil-and-gas-technical-institute",
+      "deir-ez-zor-oil-and-gas-qualification"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p8:المعهد التقاني للنفط والغاز بدير الزور",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p19:المعهد التقاني للنفط والغاز بدير الزور",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-deir-ez-zor-oil-and-gas-technical-institute",
+        "sourceRecordId": "https://sana.sy/education/2612390/",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "deir-ez-zor-oil-and-gas-qualification",
+        "sourceRecordId": "https://www.al-raaei.com/content/%EF%B8%8E%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D9%84%D9%84%D9%86%D9%81%D8%B7-%D9%88%D8%A7%D9%84%D8%BA%D8%A7%D8%B2-%D9%81%D9%8A-%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-technical-institute-of-applied-industries-damascus-production-mechanics",
+    "universityId": "sy-technical-institute-of-applied-industries-damascus",
+    "facultyId": null,
+    "disciplineId": "sy-applied-industries-technology",
+    "campus": {
+      "locality": {
+        "en": "Damascus",
+        "ar": "دمشق"
+      },
+      "governorateSlug": "damascus"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Technical Diploma in Production Mechanics",
+      "ar": "الدبلوم التقاني في ميكانيك الإنتاج"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-public-city-programs-2026-2027",
+      "sana-damascus-applied-industries-technical-institute",
+      "damascus-applied-industries-qualification"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p7:المعهد التقاني للصناعات التطبيقية بدمشق",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p18:المعهد التقاني للصناعات التطبيقية بدمشق",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-damascus-applied-industries-technical-institute",
+        "sourceRecordId": "https://sana.sy/education/2342139/",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "damascus-applied-industries-qualification",
+        "sourceRecordId": "https://al-raaei.com/node/889",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-technical-institute-of-applied-industries-aleppo-production-mechanics",
+    "universityId": "sy-technical-institute-of-applied-industries-aleppo",
+    "facultyId": null,
+    "disciplineId": "sy-applied-industries-technology",
+    "campus": {
+      "locality": {
+        "en": "Aleppo",
+        "ar": "حلب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Technical Diploma in Production Mechanics",
+      "ar": "الدبلوم التقاني في ميكانيك الإنتاج"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-public-city-programs-2026-2027",
+      "aleppo-applied-industries-qualification"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p7:المعهد التقاني للصناعات التطبيقية بحلب",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p18:المعهد التقاني للصناعات التطبيقية بحلب",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "aleppo-applied-industries-qualification",
+        "sourceRecordId": "https://www.al-raaei.com/content/%EF%B8%8E%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D9%86%D9%8A-%D9%84%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%8A%D8%A9-%D8%A8%D8%AD%D9%84%D8%A8",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-technical-institute-of-applied-industries-homs-production-mechanics",
+    "universityId": "sy-technical-institute-of-applied-industries-homs",
+    "facultyId": null,
+    "disciplineId": "sy-applied-industries-technology",
+    "campus": {
+      "locality": {
+        "en": "Homs",
+        "ar": "حمص"
+      },
+      "governorateSlug": "homs"
+    },
+    "admissions": null,
+    "name": {
+      "en": "Technical Diploma in Production Mechanics",
+      "ar": "الدبلوم التقاني في ميكانيك الإنتاج"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-public-city-programs-2026-2027",
+      "sana-homs-applied-industries-technical-institute",
+      "homs-applied-industries-qualification"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p7:المعهد التقاني للصناعات التطبيقية بحمص",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p18:المعهد التقاني للصناعات التطبيقية بحمص",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sana-homs-applied-industries-technical-institute",
+        "sourceRecordId": "https://sana.sy/governorates/homs/2200244/",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "homs-applied-industries-qualification",
+        "sourceRecordId": "https://www.al-raaei.com/content/%EF%B8%8E%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A-%D9%84%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%8A%D8%A9-%D8%A8%D8%AD%D9%85%D8%B5",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
   }
 ]

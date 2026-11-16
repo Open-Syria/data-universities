@@ -1,0 +1,27 @@
+{
+  "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+  "sourceTitle": "Higher Council for Technical Education: 2026–2027 standalone institute intake review",
+  "sourceUrl": "https://mohe.gov.sy/img/uploads1/news_pdf_20260930160241_651_0.pdf",
+  "license": "Public official and corroborating sources; factual data only",
+  "accessedAt": "2026-11-16T00:00:00.000Z",
+  "status": "reviewed",
+  "rawFiles": [],
+  "importedFields": [
+    "name",
+    "institutionType",
+    "operationalStatus",
+    "location",
+    "degreeLevel",
+    "disciplineId",
+    "campus",
+    "admissions",
+    "sourceIds",
+    "sourceReferences"
+  ],
+  "targetFiles": ["data/universities.json", "data/programs.json", "data/sources.json"],
+  "transforms": [
+    "Create stable provider IDs for eleven Ministry-run institutions.",
+    "Match named technical diploma tracks to the appropriate field of study. Record intake route only when there is a programme-level admissions row."
+  ],
+  "reviewNotes": "The standalone technical institute review names the exact Ministry table pages and supplementary evidence. The three unresolved fields have not been added."
+}

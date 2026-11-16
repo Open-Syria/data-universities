@@ -26,3 +26,5 @@ Cover photos can be older than the record they illustrate. Asset
 file; for example, the Latakia University cover was photographed in 2002, when
 the institution was Tishreen University. Replace a cover when a newer
 free-licence photo passes review.
+
+The [standalone technical institute review](post-seed/STANDALONE_TECHNICAL_INSTITUTES_2026_2027.md) cites 2026–2027 admissions for identities and teaching sites. Earlier programme profiles supplement award evidence and do not supply current intake dates.

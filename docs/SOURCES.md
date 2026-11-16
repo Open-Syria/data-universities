@@ -87,3 +87,5 @@ image appears.
 Do not import private directories, leaked data, student records, staff records, account data, or content whose license does not permit reuse.
 
 For source partnerships or unusual source proposals, contact `data@opensyria.org` before importing or transforming data.
+
+The [standalone technical institute review](post-seed/STANDALONE_TECHNICAL_INSTITUTES_2026_2027.md) approves the named institute and track facts in the 2026–2027 technical education notices. Institute interviews, documented curricula and public qualification profiles corroborate award and provider facts within that scope.
