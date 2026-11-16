@@ -1,0 +1,30 @@
+{
+  "sourceId": "mohe-public-city-programs-2026-2027",
+  "sourceTitle": "Ministry of Higher Education 2026–2027 admissions: November review of uncovered fields",
+  "sourceUrl": "https://mohe.gov.sy/ar/media-center/details/651",
+  "license": "Public government and university sources; factual programme data only",
+  "accessedAt": "2026-11-16T00:00:00.000Z",
+  "status": "reviewed",
+  "rawFiles": [],
+  "importedFields": [
+    "name",
+    "universityId",
+    "facultyId",
+    "disciplineId",
+    "degreeLevel",
+    "campus",
+    "admissions",
+    "operationalStatus",
+    "website",
+    "sourceIds",
+    "sourceReferences"
+  ],
+  "targetFiles": ["data/programs.json", "data/faculties.json", "data/sources.json"],
+  "transforms": [
+    "Confirm the exact affiliation and teaching site against signed decisions or university sources, then attach the corresponding Ministry rows.",
+    "Use the approved public table type for the award level where applicable. Use programme-specific evidence elsewhere.",
+    "Keep a single Arab International University award for both study tracks. Map the existing Bilad al-Sham offering to its specialist field.",
+    "Store the online Syrian Virtual University programme without a physical campus or a Ministry undergraduate admissions route."
+  ],
+  "reviewNotes": "The November field review records the sources and the decisions for all 20 fields. September Jarabulus affiliations and Jineology routes are superseded by signed October decisions."
+}

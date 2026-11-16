@@ -232,3 +232,10 @@ plausible. Offerings recorded this way cite
 `mohe-admissions-2026-2027-award-by-table-type` with the table type as
 the record ID, so the set can be audited by that source.
 [Fourth city-grouped review](post-seed/PUBLIC_CITY_PROGRAMS_2026_2027.md#fourth-review-award-from-the-table-type)
+
+The [November field review](post-seed/FIELD_OFFERINGS_2026_2027.md) applies these
+award rules to nine additional rows and uses university or Gazette award
+evidence for the other new programmes. The signed October integration
+decisions govern affiliation and 2026–2027 admission where they supersede
+the earlier Ministry tables. Programme references point to the exact row,
+decision article or university programme page.

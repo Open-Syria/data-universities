@@ -5093,7 +5093,7 @@
     "id": "sy-bilad-al-sham-university-for-sharia-sciences-islamic-economics-and-banking-ahmad-kuftaro",
     "universityId": "sy-bilad-al-sham-university-for-sharia-sciences",
     "facultyId": "sy-bilad-al-sham-university-for-sharia-sciences-faculty-of-sharia-and-law-ahmad-kuftaro",
-    "disciplineId": "sy-sharia",
+    "disciplineId": "sy-islamic-economics-and-banking",
     "campus": {
       "locality": {
         "en": "Ahmad Kuftaro Complex",
@@ -35785,6 +35785,683 @@
         "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
         "sourceRecordId": "university-institute-table",
         "accessedAt": "2026-11-13T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-optics-technical-diploma",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-technical-medical-institute",
+    "disciplineId": "sy-optics",
+    "campus": {
+      "locality": {
+        "en": "Damascus",
+        "ar": "دمشق"
+      },
+      "governorateSlug": "damascus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Optics Technical Diploma",
+      "ar": "الدبلوم التقاني في البصريات"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p17:r29",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p5:Damascus University / Medical Technical Institute / Optics",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "university-institute-table",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-maritime-transport-technical-diploma-maritime-navigation",
+    "universityId": "sy-university-of-tartus",
+    "facultyId": "sy-university-of-tartus-technical-institute-of-maritime-transport",
+    "disciplineId": "sy-maritime-transport",
+    "campus": {
+      "locality": {
+        "en": "Tartus",
+        "ar": "طرطوس"
+      },
+      "governorateSlug": "tartus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Maritime Transport Technical Diploma - Maritime Navigation",
+      "ar": "الدبلوم التقاني في النقل البحري - الملاحة البحرية"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-university-named-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-university-named-programs-2026-2027",
+        "sourceRecordId": "announcement-6:p24:r8",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p5:University of Tartus / Maritime Navigation",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "university-institute-table",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-tartus-maritime-transport-technical-diploma-marine-mechanics",
+    "universityId": "sy-university-of-tartus",
+    "facultyId": "sy-university-of-tartus-technical-institute-of-maritime-transport",
+    "disciplineId": "sy-maritime-transport",
+    "campus": {
+      "locality": {
+        "en": "Tartus",
+        "ar": "طرطوس"
+      },
+      "governorateSlug": "tartus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Maritime Transport Technical Diploma - Marine Mechanics",
+      "ar": "الدبلوم التقاني في النقل البحري - الميكانيك البحري"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-university-named-programs-2026-2027",
+      "mohe-2026-2027-technical-education-announcement-5",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-university-named-programs-2026-2027",
+        "sourceRecordId": "announcement-6:p24:r9",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-2026-2027-technical-education-announcement-5",
+        "sourceRecordId": "announcement-5:p5:University of Tartus / Marine Mechanics",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "university-institute-table",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-syrian-university-for-science-and-technology-optics-maarrat-al-numan",
+    "universityId": "sy-syrian-university-for-science-and-technology",
+    "facultyId": "sy-syrian-university-for-science-and-technology-faculty-of-health-sciences",
+    "disciplineId": "sy-optics",
+    "campus": {
+      "locality": {
+        "en": "Maarrat al-Numan",
+        "ar": "معرة النعمان"
+      },
+      "governorateSlug": "idlib"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Optics",
+      "ar": "البصريات"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": "https://sust.edu.sy/colleges/health-sciences/programs/bkaloryos-albsryat",
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027", "sust-optics-official"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p21:r4",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "sust-optics-official",
+        "sourceRecordId": "https://sust.edu.sy/colleges/health-sciences/programs/bkaloryos-albsryat",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-amanos-university-optics-technical-diploma-afrin",
+    "universityId": "sy-al-amanos-university",
+    "facultyId": "sy-al-amanos-university-optics-institute",
+    "disciplineId": "sy-optics",
+    "campus": {
+      "locality": {
+        "en": "Afrin",
+        "ar": "عفرين"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Optics Technical Diploma",
+      "ar": "الدبلوم التقاني في البصريات"
+    },
+    "aliases": [],
+    "programType": "technical",
+    "degreeLevel": "diploma",
+    "operationalStatus": "operating",
+    "website": "https://amanusuniversity.com/institute-optics/",
+    "sourceIds": ["mohe-university-admissions-bulk-named-2026-2027", "al-amanos-optics-study-plan"],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p31:r3",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "al-amanos-optics-study-plan",
+        "sourceRecordId": "https://amanusuniversity.com/institute-optics/",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-audiology",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-faculty-of-health-sciences",
+    "disciplineId": "sy-audiology",
+    "campus": {
+      "locality": {
+        "en": "Damascus",
+        "ar": "دمشق"
+      },
+      "governorateSlug": "damascus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Audiology",
+      "ar": "علوم السمعيات"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": "https://damascusuniversity.online/lms/course/index.php?categoryid=72",
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "damascus-university-health-sciences-curriculum",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p10:r14",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "damascus-university-health-sciences-curriculum",
+        "sourceRecordId": "categoryid=72",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-health-information-management",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-faculty-of-health-sciences",
+    "disciplineId": "sy-health-information-management",
+    "campus": {
+      "locality": {
+        "en": "Damascus",
+        "ar": "دمشق"
+      },
+      "governorateSlug": "damascus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Health Information Management",
+      "ar": "إدارة المعلومات الصحية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": "https://damascusuniversity.online/lms/course/index.php?categoryid=77",
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "damascus-university-health-sciences-curriculum",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p10:r19",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "damascus-university-health-sciences-curriculum",
+        "sourceRecordId": "categoryid=77",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-speech-and-language-therapy",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-faculty-of-health-sciences",
+    "disciplineId": "sy-speech-and-language-therapy",
+    "campus": {
+      "locality": {
+        "en": "Damascus",
+        "ar": "دمشق"
+      },
+      "governorateSlug": "damascus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Speech and Language Therapy",
+      "ar": "تقويم الكلام واللغة"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": "https://damascusuniversity.online/lms/course/index.php?categoryid=70",
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "damascus-university-health-sciences-curriculum",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p10:r13",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "damascus-university-health-sciences-curriculum",
+        "sourceRecordId": "categoryid=70",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-media",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-faculty-of-media",
+    "disciplineId": "sy-media-and-journalism",
+    "campus": {
+      "locality": {
+        "en": "Damascus",
+        "ar": "دمشق"
+      },
+      "governorateSlug": "damascus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Media",
+      "ar": "الإعلام"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-public-city-programs-literary-2026-2027",
+      "damascus-university-media-faculty-intake",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p13:r25",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-literary-2026-2027",
+        "sourceRecordId": "announcement-4:p4:r3",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "damascus-university-media-faculty-intake",
+        "sourceRecordId": "3465",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-damascus-university-russian-language-and-literature",
+    "universityId": "sy-damascus-university",
+    "facultyId": "sy-damascus-university-faculty-of-arts-and-humanities",
+    "disciplineId": "sy-russian-language",
+    "campus": {
+      "locality": {
+        "en": "Damascus",
+        "ar": "دمشق"
+      },
+      "governorateSlug": "damascus"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Russian Language and Literature",
+      "ar": "اللغة الروسية وآدابها"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-public-city-programs-2026-2027",
+      "mohe-public-city-programs-literary-2026-2027",
+      "official-gazette-damascus-russian-decision-26"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p12:r16",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-literary-2026-2027",
+        "sourceRecordId": "announcement-4:p2:r18",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "official-gazette-damascus-russian-decision-26",
+        "sourceRecordId": "issue-14:printed-p306:decision-26",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-al-furat-university-kurdish-language-qamishli",
+    "universityId": "sy-al-furat-university",
+    "facultyId": "sy-al-furat-university-faculty-of-arts-and-humanities-qamishli",
+    "disciplineId": "sy-kurdish-language",
+    "campus": {
+      "locality": {
+        "en": "Qamishli",
+        "ar": "القامشلي"
+      },
+      "governorateSlug": "hasakah"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Kurdish Language",
+      "ar": "اللغة الكردية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-decision-69-kurdish-qamishli-2026",
+      "mohe-public-city-programs-2026-2027",
+      "mohe-public-city-programs-literary-2026-2027",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-decision-69-kurdish-qamishli-2026",
+        "sourceRecordId": "decision-69:article-2",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p12:r20-r21",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-literary-2026-2027",
+        "sourceRecordId": "announcement-4:p2:r24-r25",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-university-of-aleppo-kurdish-language-ayn-al-arab",
+    "universityId": "sy-university-of-aleppo",
+    "facultyId": "sy-university-of-aleppo-faculty-of-arts-and-humanities-ayn-al-arab",
+    "disciplineId": "sy-kurdish-language",
+    "campus": {
+      "locality": {
+        "en": "Ayn al-Arab",
+        "ar": "عين العرب"
+      },
+      "governorateSlug": "aleppo"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["general", "parallel"]
+    },
+    "name": {
+      "en": "Kurdish Language",
+      "ar": "اللغة الكردية"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": null,
+    "sourceIds": [
+      "mohe-decision-71-kurdish-ayn-al-arab-2026",
+      "mohe-public-city-programs-2026-2027",
+      "mohe-public-city-programs-literary-2026-2027",
+      "mohe-admissions-2026-2027-award-by-table-type"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-decision-71-kurdish-ayn-al-arab-2026",
+        "sourceRecordId": "decision-71:article-2",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-2026-2027",
+        "sourceRecordId": "announcement-2:p12:r22",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-public-city-programs-literary-2026-2027",
+        "sourceRecordId": "announcement-4:p2:r26",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-admissions-2026-2027-award-by-table-type",
+        "sourceRecordId": "faculty-table",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-arab-international-university-theatre-arts-and-film-directing",
+    "universityId": "sy-arab-international-university",
+    "facultyId": "sy-arab-international-university-faculty-of-arts",
+    "disciplineId": "sy-theatre-and-film-directing",
+    "campus": {
+      "locality": {
+        "en": "Ghabagheb",
+        "ar": "غباغب"
+      },
+      "governorateSlug": "daraa"
+    },
+    "admissions": {
+      "academicYear": "2026-2027",
+      "routes": ["private"]
+    },
+    "name": {
+      "en": "Theatre Arts and Film Directing",
+      "ar": "الفنون المسرحية والإخراج السينمائي"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "bachelor",
+    "operationalStatus": "operating",
+    "website": "https://www.aiu.edu.sy/ar/arts/arts-study-plan",
+    "sourceIds": [
+      "mohe-university-admissions-bulk-named-2026-2027",
+      "arab-international-university-theatre-film-study-plan",
+      "arab-international-university-official-ghabagheb-address"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "mohe-university-admissions-bulk-named-2026-2027",
+        "sourceRecordId": "announcement-7:p30:r7; p40:r3",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "arab-international-university-theatre-film-study-plan",
+        "sourceRecordId": "article-10",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "arab-international-university-official-ghabagheb-address",
+        "sourceRecordId": "https://www.aiu.edu.sy/ar/contact-us",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      }
+    ],
+    "sourceStatus": "released"
+  },
+  {
+    "id": "sy-syrian-virtual-university-master-in-computer-science",
+    "universityId": "sy-syrian-virtual-university",
+    "facultyId": "sy-syrian-virtual-university-faculty-of-information-technology-and-communications",
+    "disciplineId": "sy-computer-science",
+    "campus": null,
+    "admissions": null,
+    "name": {
+      "en": "Master in Computer Science (MCS)",
+      "ar": "ماجستير التأهيل والتخصص في علوم الحاسوب"
+    },
+    "aliases": [],
+    "programType": "academic",
+    "degreeLevel": "master",
+    "operationalStatus": "operating",
+    "website": "https://www.svuonline.org/ar/program/mcs",
+    "sourceIds": [
+      "syrian-virtual-university-computer-science-masters",
+      "syrian-virtual-university-computer-science-2026-admissions",
+      "mohe-computer-science-masters-decision-38-2022"
+    ],
+    "sourceReferences": [
+      {
+        "sourceId": "syrian-virtual-university-computer-science-masters",
+        "sourceRecordId": "https://www.svuonline.org/ar/program/mcs",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "syrian-virtual-university-computer-science-2026-admissions",
+        "sourceRecordId": "https://www.svuonline.org/ar/news/8344",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "sourceId": "mohe-computer-science-masters-decision-38-2022",
+        "sourceRecordId": "https://www.svuonline.org/sites/default/files/sites/default/files/%D9%86%D8%B8%D8%A7%D9%85%20%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC%20%D9%85%D8%A7%D8%AC%D8%B3%D8%AA%D9%8A%D8%B1%20%D8%A7%D9%84%D8%AA%D8%A3%D9%87%D9%8A%D9%84%20%D9%88%D8%A7%D9%84%D8%AA%D8%AE%D8%B5%D8%B5%20%D9%81%D9%8A%20%D8%B9%D9%84%D9%88%D9%85%20%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D9%88%D8%A8.pdf#page=1",
+        "accessedAt": "2026-11-16T00:00:00.000Z"
       }
     ],
     "sourceStatus": "released"

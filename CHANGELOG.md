@@ -4,6 +4,16 @@ All notable changes to this repository will be documented in this file.
 
 ## Unreleased
 
+## v0.3.2 - 2026-11-16
+
+### Added
+
+- Add 14 source-backed university offerings. Eleven previously uncovered fields now have an offering, including Kurdish Language in Qamishli and Ayn al-Arab and the Syrian Virtual University master's degree in Computer Science.
+
+### Fixed
+
+- Assign the existing Bilad al-Sham Islamic Economics and Banking degree to its specialist field and retain its original offering ID.
+
 ## v0.3.1 - 2026-11-16
 
 ### Fixed

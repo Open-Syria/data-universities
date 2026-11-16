@@ -3687,5 +3687,125 @@
     "status": "approved",
     "fields": ["academic unit", "university affiliation", "campus"],
     "notes": "Faculty of Agricultural Engineering of the University of Tartus; address Tartus, Al-Taliaa district; five study years. The page text is served by the site API at https://api.tartous-univ.edu.sy/api/website/pages/unit/17. Read 13 November 2026."
+  },
+  {
+    "id": "sust-optics-official",
+    "title": "Syrian University for Science and Technology: Optics degree",
+    "url": "https://sust.edu.sy/colleges/health-sciences/programs/bkaloryos-albsryat",
+    "license": "Official public university page; factual data only",
+    "status": "approved",
+    "fields": ["program name", "academic unit", "qualification level"],
+    "notes": "Confirms the four-year bachelor's degree in Optics and its Faculty of Health Sciences. The current ministry admissions announcement supplies the teaching city."
+  },
+  {
+    "id": "al-amanos-optics-study-plan",
+    "title": "Al-Amanos University: Optics Institute and study plan",
+    "url": "https://amanusuniversity.com/institute-optics/",
+    "license": "Official public university page; factual data only",
+    "status": "approved",
+    "fields": ["academic unit", "program name", "qualification level"],
+    "notes": "Confirms the two-year Optics Institute award track. The current ministry admissions announcement corroborates teaching in Afrin."
+  },
+  {
+    "id": "damascus-university-health-sciences-curriculum",
+    "title": "Damascus University: Faculty of Health Sciences curriculum",
+    "url": "https://damascusuniversity.online/lms/course/index.php?categoryid=69",
+    "license": "Public official source; factual data only",
+    "status": "approved",
+    "fields": ["program name", "academic unit"],
+    "notes": "The faculty's learning platform lists Audiology, Speech and Language Therapy, and Health Information Management as distinct programs."
+  },
+  {
+    "id": "damascus-university-media-faculty-intake",
+    "title": "Damascus University: Faculty of Media first-year students",
+    "url": "https://t.me/damascus122021/3465",
+    "license": "Public official source; factual data only",
+    "status": "approved",
+    "fields": ["program name", "academic unit", "university affiliation"],
+    "notes": "The university confirms its Faculty of Media and reports teaching the first-year cohort in Damascus."
+  },
+  {
+    "id": "official-gazette-damascus-russian-decision-26",
+    "title": "Syrian Official Gazette: Damascus University Russian Language and Literature, Decision 26 (2020)",
+    "url": "https://odd.syria-report.com/wp-content/uploads/2021/03/2020-04-08-Issue14-Part1.pdf#page=45",
+    "license": "Public official source; factual data only",
+    "status": "approved",
+    "fields": ["program name", "academic unit", "qualification level"],
+    "notes": "Issue 14, printed page 306, names the Faculty of Arts and Humanities and the first degree in Russian Language and Literature."
+  },
+  {
+    "id": "mohe-decision-69-kurdish-qamishli-2026",
+    "title": "Ministry of Higher Education: Decision 69, Al-Furat University integration",
+    "url": "https://t.me/SyMOHEASR/13755?single",
+    "license": "Public official source; factual data only",
+    "status": "approved",
+    "fields": [
+      "program name",
+      "university affiliation",
+      "academic unit",
+      "campus",
+      "admissions year"
+    ],
+    "notes": "Signed 18 October 2026. Article 2 authorizes Kurdish Language intake in Qamishli under Al-Furat University for 2026–2027."
+  },
+  {
+    "id": "mohe-decision-71-kurdish-ayn-al-arab-2026",
+    "title": "Ministry of Higher Education: Decision 71, University of Aleppo integration",
+    "url": "https://t.me/SyMOHEASR/13759?single",
+    "license": "Public official source; factual data only",
+    "status": "approved",
+    "fields": [
+      "program name",
+      "university affiliation",
+      "academic unit",
+      "campus",
+      "admissions year"
+    ],
+    "notes": "Signed 18 October 2026. Article 2 authorizes Kurdish Language intake in Ayn al-Arab under the University of Aleppo for 2026–2027."
+  },
+  {
+    "id": "arab-international-university-theatre-film-study-plan",
+    "title": "Arab International University: Faculty of Arts study plan",
+    "url": "https://www.aiu.edu.sy/ar/arts/arts-study-plan",
+    "license": "Public official source; factual data only",
+    "status": "approved",
+    "fields": ["program name", "academic unit", "qualification level"],
+    "notes": "Article 10 identifies one first-degree programme, Theatre Arts and Film Directing, with separate Acting and Film Directing tracks."
+  },
+  {
+    "id": "syrian-virtual-university-computer-science-masters",
+    "title": "Syrian Virtual University: Master in Computer Science",
+    "url": "https://www.svuonline.org/ar/program/mcs",
+    "license": "Public university source; factual data only",
+    "status": "approved",
+    "fields": ["program name", "university affiliation", "qualification level"],
+    "notes": "The bilingual programme pages name the professional Master in Computer Science. The programme is delivered virtually; there is no single teaching campus."
+  },
+  {
+    "id": "syrian-virtual-university-computer-science-2026-admissions",
+    "title": "Syrian Virtual University: Computer Science master's admissions",
+    "url": "https://www.svuonline.org/ar/news/8344",
+    "license": "Public university source; factual data only",
+    "status": "approved",
+    "fields": ["program name", "operational status"],
+    "notes": "An official 2026 programme-specific entrance examination notice verifies current operations. Syrian Virtual University's admissions use its own intake calendar and routes."
+  },
+  {
+    "id": "mohe-computer-science-masters-decision-38-2022",
+    "title": "Ministry of Higher Education: Decision 38/W of 14 June 2022",
+    "url": "https://www.svuonline.org/sites/default/files/sites/default/files/%D9%86%D8%B8%D8%A7%D9%85%20%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC%20%D9%85%D8%A7%D8%AC%D8%B3%D8%AA%D9%8A%D8%B1%20%D8%A7%D9%84%D8%AA%D8%A3%D9%87%D9%8A%D9%84%20%D9%88%D8%A7%D9%84%D8%AA%D8%AE%D8%B5%D8%B5%20%D9%81%D9%8A%20%D8%B9%D9%84%D9%88%D9%85%20%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D9%88%D8%A8.pdf#page=1",
+    "license": "Public government source; factual data only",
+    "status": "approved",
+    "fields": ["program name", "academic unit", "qualification level"],
+    "notes": "Signed Decision 38/W adopts the Syrian Virtual University Master in Computer Science regulations. The definitions on PDF page 3 identify the Faculty of Information Technology and Communications and online delivery."
+  },
+  {
+    "id": "arab-international-university-official-ghabagheb-address",
+    "title": "Arab International University: Ghabagheb campus address",
+    "url": "https://www.aiu.edu.sy/ar/contact-us",
+    "license": "Public university source; factual data only",
+    "status": "approved",
+    "fields": ["campus"],
+    "notes": "The university's official contact page lists its permanent campus at Ghabagheb in Daraa."
   }
 ]
